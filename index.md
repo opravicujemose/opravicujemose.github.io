@@ -1,4 +1,4 @@
-# Opravicujemo se
+# Opravicujemo.se
 
 Tu bo stran našega podkasta.
 
@@ -6,6 +6,7 @@ Noro bo.
 
 Vmes pa oddeskajte na [hvalazavseribe.si](http://hvalazavseribe.si)!
 
+Hvala! 🙏
 
 ## 000: Uvod, v katerem smo našli ime
 
@@ -13,4 +14,4 @@ V ničti epizodi novega podkasta o knjigi, ki je najbrž bolj popularna kot Ency
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/000-Uvod--v-katerem-smo-nali-ime-eedfno" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Še [povezava do nje](https://anchor.fm/opravicujemose/episodes/000-Uvod--v-katerem-smo-nali-ime-eedfno)!
+Še [povezava do nje](https://anchor.fm/opravicujemose/episodes/000-Uvod--v-katerem-smo-nali-ime-eedfno) (za tistek ki ne vidite iFrameov)!
