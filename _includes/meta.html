@@ -1,0 +1,7 @@
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="author" content="@davorinpavlica">
+	{% if page.meta %}<meta name="description" content="{{ page.meta }}" />{% else %}<meta name="description" content="{{ site.description }}" />{% endif %}
+	<meta property="og:url" content="{{ site.url }}">
+	<meta property="og:title" content="{{ page.title }}">
+	{% if page.meta %}<meta property="og:description" content="{{ page.meta }}" />{% else %}<meta property="og:description" content="{{ site.description }}" />{% endif %}

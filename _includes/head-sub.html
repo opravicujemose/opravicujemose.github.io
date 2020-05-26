@@ -1,0 +1,13 @@
+<!-- ŠE NE DELA -->
+
+<head>
+  {% include meta.html %}
+  <title>{% if page.title == "Home" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ site.title }} - {{ page.title }}{% endif %}</title>
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+</head>
+
+<body>
+
+<h3><a href="{{ site.baseurl }}/">Felina Films</a>{{ page.url }} ...</h3>
+<hr />

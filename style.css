@@ -1,0 +1,49 @@
+body {
+    font-family: 'Lora', serif;
+	background: #fff;
+	color: rgba(0,0,0, 0.85);
+	font-size: 1.2em;
+	line-height: 1.4em;
+	max-width: 48em;
+	margin: auto; 
+	padding: 0 5%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-transform: none;
+    color: rgba(0,0,0, 0.80);
+    /*color: #092049;*/ 
+}
+
+h1 {
+	font-size: 2em;
+	text-transform: uppercase;
+	border-bottom: 1px solid #ccc;
+	padding: 0.2em 0 0.8em 0;
+}
+
+a {
+    color: #092049; 
+}
+
+p, iframe {
+	padding: 0 0 0 1em;
+}
+
+ul, ol {
+	padding: 0 0 0 3em;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+	margin: .75em auto;
+}
+
+small, small a, small a:hover, small a:focus {
+	color: rgba(0,0,0, 1);
+	text-decoration: none;
+	border-bottom: none;
+	box-shadow: none;
+	outline: none;
+}

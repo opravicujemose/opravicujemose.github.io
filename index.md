@@ -1,10 +1,13 @@
-# Opravicujemo.se
+---
+layout: default
+title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Štoparski vodnik po Galaksiji, ki jo je napisal Douglas Adams-
+---
 
-Tu je spletna stran našega podkasta [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose).
+# Opravičujemo se za vse nevšečnosti 🐋
 
-Če bi se radi na podkast naročili, nas podprli ali ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
+Tu je spletna stran našega podkasta [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose). Če bi se radi na podkast naročili, nas podprli ali ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
 
-# Epizode
+### Epizode
 
 ## 000: Uvod, v katerem smo našli ime
 
@@ -14,9 +17,12 @@ V ničti epizodi novega podkasta o knjigi, ki je najbrž bolj popularna kot Ency
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/000-Uvod--v-katerem-smo-nali-ime-eedfno) (za tistek ki ne vidite iFrameov)!
 
-## Ustvarjalci
+### Naročite se na podkast
+
+Smo na sledečih platformah: [Apple Podcasts](https://podcasts.apple.com/si/podcast/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti/id1514750013), [Anchor](https://anchor.fm/opravicujemose), [Breaker](https://www.breaker.audio/opravicujemo-se-za-vse-nevsecnosti), [Castbox](https://castbox.fm/channel/id2911541), [Overcast](https://overcast.fm/p1800312-cfXucP), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmI1YTUwMC9wb2RjYXN0L3Jzcw), [Pocket Casts](https://pca.st/zqlh1e4s) in [Spotify](https://open.spotify.com/show/6bYBLlFmu4lXZMuyzk9LOK?si=AZb30K9XQlO6QhsroUELFw).
+
+Lahko nam pošlješ tudi e-pošto, bomo še bolj veseli! Ali pa vsaj toliko. Najbolje na e-poštni naslov **hvalazavseribe afna zvpl pika com**. Res hvala. 🙏
+
+### Ustvarjalci
 
 Podkast ustvarjamo [Aljo](https://twitter.com/kozli42), [Peli](https://twitter.com/DavorinPavlica) & [Zi](https://twitter.com/gregorzalaznik).
-
-&copy; 2020 - opravicujemo.se <br />
-<small>Site design inspired by [motherfuckingwebsite.com](http://motherfuckingwebsite.com)</small>
