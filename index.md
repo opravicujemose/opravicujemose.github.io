@@ -1,4 +1,4 @@
-# opravicujemo.se
+# Opravicujemo.se
 
 Tu je spletna stran našega podkasta [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose).
 
@@ -16,7 +16,7 @@ V ničti epizodi novega podkasta o knjigi, ki je najbrž bolj popularna kot Ency
 
 ## Ustvarjalci
 
-Podkast ustvarjamo Aljo, Peli & Zi.
+Podkast ustvarjamo [Aljo](https://twitter.com/kozli42), [Peli](https://twitter.com/DavorinPavlica) & [Zi](https://twitter.com/gregorzalaznik).
 
 &copy; 2020 - opravicujemo.se <br />
 <small>Site design inspired by [motherfuckingwebsite.com](http://motherfuckingwebsite.com)</small>
