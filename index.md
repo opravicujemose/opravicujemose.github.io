@@ -9,7 +9,7 @@ Spletna stran našega podkasta [Opravičujemo se za vse nevšečnosti](https://a
 
 ### Epizode
 
-## 000: Uvod, v katerem smo našli ime
+## 001: Yugo Koral
 
 V prvi epizodi podkasta o knjigi, ki govori o knjigi _Štoparski vodnik po galaksiji_ obdelamo prvo poglavje. O mačku, obvoznici ([Hamo](https://twitter.com/hamudu/) iz [Hamo & Tribute 2 Love](http://tribute2love.si/) prebere citat), Arturju Dentu, buldožerjih, Ford Prefect = Yugo Koral, gospodu Prosserju in sploh vsem, kar se zgodi v prvem poglavju.
 
