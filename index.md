@@ -13,9 +13,9 @@ Spletna stran našega podkasta [Opravičujemo se za vse nevšečnosti](https://a
 
 V prvi epizodi podkasta o knjigi, ki govori o knjigi _Štoparski vodnik po galaksiji_ obdelamo prvo poglavje. O mačku, obvoznici ([Hamo](https://twitter.com/hamudu/) iz [Hamo & Tribute 2 Love](http://tribute2love.si/) prebere citat), Arturju Dentu, buldožerjih, Ford Prefect = Yugo Koral, gospodu Prosserju in sploh vsem, kar se zgodi v prvem poglavju.
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/001-Yugo-Koral-eeqrrc) (za tiste ki ne vidie iFrameov)!
-
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/001-Yugo-Koral-eeqrrc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/001-Yugo-Koral-eeqrrc) (za tiste ki ne vidie iFrameov)!
 
 ## 000: Uvod, v katerem smo našli ime
 
