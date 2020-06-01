@@ -5,9 +5,17 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 # Opravičujemo se za vse nevšečnosti 🐋
 
-Tu je spletna stran našega podkasta [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose). Če bi se radi na podkast naročili, nas podprli ali ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
+Spletna stran našega podkasta [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose). Če bi se radi na podkast naročili, nas podprli ali ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
 
 ### Epizode
+
+## 000: Uvod, v katerem smo našli ime
+
+V prvi epizodi podkasta o knjigi, ki govori o knjigi _Štoparski vodnik po galaksiji_ obdelamo prvo poglavje. O mačku, obvoznici ([Hamo](https://twitter.com/hamudu/) iz [Hamo & Tribute 2 Love](http://tribute2love.si/) prebere citat), Arturju Dentu, buldožerjih, Ford Prefect = Yugo Koral, gospodu Prosserju in sploh vsem, kar se zgodi v prvem poglavju.
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/001-Yugo-Koral-eeqrrc) (za tiste ki ne vidie iFrameov)!
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/001-Yugo-Koral-eeqrrc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 ## 000: Uvod, v katerem smo našli ime
 
