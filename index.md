@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Štoparski vodnik po Galaksiji, ki jo je napisal Douglas Adams-
+title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Štoparski vodnik po Galaksiji, ki jo je napisal Douglas Adams.
 ---
 
 # Opravičujemo se za vse nevšečnosti 🐋
 
-Spletna stran našega podkasta [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose). Če bi se radi na podkast naročili, nas podprli ali ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
+[Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) je podkast o knjigi _Štoparski vodnik po Galaksiji_, ki so jo, preden je **Douglas Adams** o njej napisali radijsko igro, knjigo (oz. 5 knjig), poznali le redki prebivalci tega nepomembnega modro-zelenega planeta. Z brisačo bo poslušanje lažje.
+
+Če bi se radi podkast podprli ali ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
 
 ### Epizode
 
