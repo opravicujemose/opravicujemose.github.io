@@ -15,11 +15,11 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 V drugi epizodi pogledamo alkoholu globoko v oči in v definicijo, ugotovimo zakaj so trije vrčki piva prava mera, [Tara Zupančič](https://www.instagram.com/varishana) prebere definicijo alkohola in recept za pangalaktični grlorez, povabimo vas, da nam pošljete svoje recepte in čakamo konec sveta, ki se je zgodil na tisti nesrečni četrtek, ...
 
-  <iframe src="https://anchor.fm/opravicujemose/embed/episodes/002-Al-Kohol-ef3n2c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/002-Al-Kohol-ef3n2c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/002-Al-Kohol-ef3n2c) (za tiste ki ne vidie iFrameov)!
 
-Zapiski:
+  Zapiski:
 
 - [Pangalaktični grlorez po ŽVPL-ovsko](http://www.zvpl.com/42/clanki/dan-brisace/)
 - [Pangalaktični grlorez po h2g2.com](https://h2g2.com/entry/A518762)
