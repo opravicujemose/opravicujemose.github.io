@@ -11,6 +11,19 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 002: Al Kohol
+
+V drugi epizodi pogledamo alkoholu globoko v oči in v definicijo, ugotovimo zakaj so trije vrčki piva prava mera, [Tara Zupančič](https://www.instagram.com/varishana) prebere definicijo alkohola in recept za pangalaktični grlorez, povabimo vas, da nam pošljete svoje recepte in čakamo konec sveta, ki se je zgodil na tisti nesrečni četrtek, ...
+
+  Zapiski:
+
+- [Pangalaktični grlorez po ŽVPL-ovsko](http://www.zvpl.com/42/clanki/dan-brisace/)
+- [Pangalaktični grlorez po h2g2.com](https://h2g2.com/entry/A518762)
+
+<iframe src="anchor.link.replace" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](anchor.link.replace) (za tiste ki ne vidie iFrameov)!
+
 ## 001: Yugo Koral
 
 V prvi epizodi podkasta o knjigi, ki govori o knjigi _Štoparski vodnik po galaksiji_ obdelamo prvo poglavje. O mačku, obvoznici ([Hamo](https://twitter.com/hamudu/) iz [Hamo & Tribute 2 Love](http://tribute2love.si/) prebere citat), Arturju Dentu, buldožerjih, Ford Prefect = Yugo Koral, gospodu Prosserju in sploh vsem, kar se zgodi v prvem poglavju.

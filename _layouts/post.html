@@ -1,0 +1,55 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {% assign m = page.date | date: "%-m" %}
+      {{ page.date | date: "%-d." }}
+      {% case m %}
+        {% when '1' %}januar
+        {% when '2' %}februar
+        {% when '3' %}marec
+        {% when '4' %}april
+        {% when '5' %}maj
+        {% when '6' %}junij
+        {% when '7' %}julij
+        {% when '8' %}avgust
+        {% when '9' %}september
+        {% when '10' %}oktober
+        {% when '11' %}november
+        {% when '12' %}december
+      {% endcase %}
+      {{ page.date | date: "%Y" }}
+      </time>
+      </p>
+
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <div class="prev-next-post">
+    <div class="prev-next-post-wrapper">
+      {% if page.previous.url %}
+        <div class="prev-next-post-col prev-next-post-col-1">
+          <h4 class="page-heading">Prejšnji zapis</h4>
+          <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+        </div>
+      {% endif %}
+      {% if page.next.url %}
+        <div class="prev-next-post-col prev-next-post-col-2">
+          <h1 class="page-heading">Naslednji zapis</h1>
+          <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+        </div>        
+      {% endif %}
+    </div>
+  </div>
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+</article>
