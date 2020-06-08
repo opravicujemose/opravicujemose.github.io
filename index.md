@@ -20,9 +20,9 @@ V drugi epizodi pogledamo alkoholu globoko v oči in v definicijo, ugotovimo zak
 - [Pangalaktični grlorez po ŽVPL-ovsko](http://www.zvpl.com/42/clanki/dan-brisace/)
 - [Pangalaktični grlorez po h2g2.com](https://h2g2.com/entry/A518762)
 
-<iframe src="anchor.link.replace" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/opravicujemose/episodes/002-Al-Kohol-ef3n2c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Še [povezava do epizode](anchor.link.replace) (za tiste ki ne vidie iFrameov)!
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/002-Al-Kohol-ef3n2c) (za tiste ki ne vidie iFrameov)!
 
 ## 001: Yugo Koral
 
