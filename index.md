@@ -11,6 +11,18 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 003: Vključite rušilni žarek
+
+V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige Štoparski vodnik po Galaksiji, definicijo brisače, ki jo prebere hupi frud (in fizik) **Matjaž Ličer**, končno smo priča koncu sveta, ki ga zakuhajo Vogoni, čustvenček za brisačo ne obstaja, ... in povabimo Boruta Pahorja da prebere definicijo predsednika Galaksije.
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/003-Vkljuite-ruilni-arek-efco4m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/003-Vkljuite-ruilni-arek-efco4m) (za tiste ki ne vidie iFrameov)!
+
+Zapiski: 
+- [Cene piva v Zruženem kraljestvu skozi čas]( http://norfolkpubs.co.uk/utility/pob.htm)
+- [Kako dodati čustvenček (za brisačo)]( https://unicode.org/emoji/proposals.html)
+
 ## 002: Al Kohol
 
 V drugi epizodi pogledamo alkoholu globoko v oči in v definicijo, ugotovimo zakaj so trije vrčki piva prava mera, [Tara Zupančič](https://www.instagram.com/varishana) prebere definicijo alkohola in recept za pangalaktični grlorez, povabimo vas, da nam pošljete svoje recepte in čakamo konec sveta, ki se je zgodil na tisti nesrečni četrtek, ...
