@@ -11,9 +11,17 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 004: Gospod predsednik
+
+Zdravo. V četrti epizodi govorimo o predsedniku galaksije. 🌍 Kvarnik. To je Zaphod Beeblebrox. Definicijo predsednika prebere Borut Pahor. In o vesoljski ladjo Zlato srce. Tudi o huuluvujih in Pink Floydih teče beseda. In o Jezusu Kristusu. 🙏 
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/004-Gospod-predsednik-efo2mm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/004-Gospod-predsednik-efo2mm) (za tiste ki ne vidie iFrameov)!
+
 ## 003: Vključite rušilni žarek
 
-V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige Štoparski vodnik po Galaksiji, definicijo brisače, ki jo prebere hupi frud (in fizik) **Matjaž Ličer**, končno smo priča koncu sveta, ki ga zakuhajo Vogoni, čustvenček za brisačo ne obstaja, ... in povabimo Boruta Pahorja da prebere definicijo predsednika Galaksije.
+V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige Štoparski vodnik po Galaksiji, definicijo brisače, ki jo prebere hupi frud (in fizik) **dr. Matjaž Ličer**, končno smo priča koncu sveta, ki ga zakuhajo Vogoni, čustvenček za brisačo ne obstaja, ... in povabimo Boruta Pahorja da prebere definicijo predsednika Galaksije.
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/003-Vkljuite-ruilni-arek-efco4m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
