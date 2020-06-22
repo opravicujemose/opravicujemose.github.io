@@ -19,6 +19,10 @@ Zdravo. V četrti epizodi govorimo o predsedniku galaksije. 🌍 Kvarnik. To je 
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/004-Gospod-predsednik-efo2mm) (za tiste ki ne vidie iFrameov)!
 
+Zapiski:
+- [Douglas Adams na 42 rojstni dan kot gost Pink Floydov ](https://www.youtube.com/watch?v=ZdOoJmDCV64)
+- [Glas Margaret Thacher](https://www.youtube.com/watch?v=gRQwLrpX61M)
+
 ## 003: Vključite rušilni žarek
 
 V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige Štoparski vodnik po Galaksiji, definicijo brisače, ki jo prebere hupi frud (in fizik) **dr. Matjaž Ličer**, končno smo priča koncu sveta, ki ga zakuhajo Vogoni, čustvenček za brisačo ne obstaja, ... in povabimo Boruta Pahorja da prebere definicijo predsednika Galaksije.
