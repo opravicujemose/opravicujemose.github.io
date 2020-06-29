@@ -11,6 +11,17 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 005: Vogonsko gradbeno ladjevje
+
+Zdravo. V peti epizodi govorimo o Vogonih, Dentrassijih, križišču pri Barnardovi zvezdi, **Simon Ručigaj** prebere definicijo Vogonskega gradbenega ladjevja in o valutah.   Če zapiski so, smo jih pozabili! ;)  
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/005-Vogonsko-gradbeno-ladjevje-eg2444/a-a2j1dsi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/005-Vogonsko-gradbeno-ladjevje-eg2444/a-a2j1dsi) (za tiste ki ne vidie iFrameov)!
+
+Zapiski:
+- [Barnardova zvezda](https://sl.wikipedia.org/wiki/Barnardova_zvezda)
+
 ## 004: Gospod predsednik
 
 Zdravo. V četrti epizodi govorimo o predsedniku galaksije. 🌍 Kvarnik. To je Zaphod Beeblebrox. Definicijo predsednika prebere Borut Pahor. In o vesoljski ladjo Zlato srce. Tudi o huuluvujih in Pink Floydih teče beseda. In o Jezusu Kristusu. 🙏 
