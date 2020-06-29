@@ -13,11 +13,11 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ## 005: Vogonsko gradbeno ladjevje
 
-Zdravo. V peti epizodi govorimo o Vogonih, Dentrassijih, križišču pri Barnardovi zvezdi, **Simon Ručigaj** prebere definicijo Vogonskega gradbenega ladjevja in o valutah.   Če zapiski so, smo jih pozabili! ;)  
+Zdravo. V peti epizodi govorimo o Vogonih, Dentrassijih, križišču pri Barnardovi zvezdi, [Simon Ručigaj](https://twitter.com/symru/) prebere definicijo Vogonskega gradbenega ladjevja in o valutah.  
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/005-Vogonsko-gradbeno-ladjevje-eg2444/a-a2j1dsi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/005-Vogonsko-gradbeno-ladjevje-eg2444/a-a2j1dsi) (za tiste ki ne vidie iFrameov)!
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/005-Vogonsko-gradbeno-ladjevje-eg2444/a-a2j1dsi) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 - [Barnardova zvezda](https://sl.wikipedia.org/wiki/Barnardova_zvezda)
@@ -28,7 +28,7 @@ Zdravo. V četrti epizodi govorimo o predsedniku galaksije. 🌍 Kvarnik. To je 
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/004-Gospod-predsednik-efo2mm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/004-Gospod-predsednik-efo2mm) (za tiste ki ne vidie iFrameov)!
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/004-Gospod-predsednik-efo2mm) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 - [Douglas Adams na 42 rojstni dan kot gost Pink Floydov ](https://www.youtube.com/watch?v=ZdOoJmDCV64)
@@ -40,7 +40,7 @@ V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige �
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/003-Vkljuite-ruilni-arek-efco4m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/003-Vkljuite-ruilni-arek-efco4m) (za tiste ki ne vidie iFrameov)!
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/003-Vkljuite-ruilni-arek-efco4m) (za tiste ki ne vidite iFrameov)!
 
 Zapiski: 
 - [Cene piva v Zruženem kraljestvu skozi čas]( http://norfolkpubs.co.uk/utility/pob.htm)
@@ -52,7 +52,7 @@ V drugi epizodi pogledamo alkoholu globoko v oči in v definicijo, ugotovimo zak
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/002-Al-Kohol-ef3n2c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/002-Al-Kohol-ef3n2c) (za tiste ki ne vidie iFrameov)!
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/002-Al-Kohol-ef3n2c) (za tiste ki ne vidite iFrameov)!
 
   Zapiski:
 
@@ -65,7 +65,7 @@ V prvi epizodi podkasta o knjigi, ki govori o knjigi _Štoparski vodnik po galak
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/001-Yugo-Koral-eeqrrc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/001-Yugo-Koral-eeqrrc) (za tiste ki ne vidie iFrameov)!
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/001-Yugo-Koral-eeqrrc) (za tiste ki ne vidite iFrameov)!
 
 ## 000: Uvod, v katerem smo našli ime
 
