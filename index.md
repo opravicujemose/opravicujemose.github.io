@@ -19,8 +19,8 @@ V šesti epizodi govorimo o šefih, o velikem šefu, Damjan Cilenšek - Vini pre
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/006-Riba-babilonka-egbknv) (za tiste ki ne vidite iFrameov)!
 
-  Zapiski:
- - [Malcom Gladwell in McDonaldsov krompirček ](http://revisionisthistory.com/episodes/19-mcdonalds-broke-my-heart)
+Zapiski:
+- [Malcom Gladwell in McDonaldsov krompirček ](http://revisionisthistory.com/episodes/19-mcdonalds-broke-my-heart) 
 
 ## 005: Vogonsko gradbeno ladjevje
 
