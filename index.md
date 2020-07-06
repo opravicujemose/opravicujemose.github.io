@@ -11,6 +11,17 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 006: Riba babilonka
+
+V šesti epizodi govorimo o šefih, o velikem šefu, Damjan Cilenšek - Vini prebere citat o ribi babilonki, govorimo tudi tapravem o McDonalds krompirčku, o tem, kam greste za bone in še malo o bogu. Dobrodošli v Ozare! ;) 
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/006-Riba-babilonka-egbknv" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/006-Riba-babilonka-egbknv) (za tiste ki ne vidite iFrameov)!
+
+  Zapiski:
+ - [Malcom Gladwell in McDonaldsov krompirček ](http://revisionisthistory.com/episodes/19-mcdonalds-broke-my-heart)
+
 ## 005: Vogonsko gradbeno ladjevje
 
 Zdravo. V peti epizodi govorimo o Vogonih, Dentrassijih, križišču pri Barnardovi zvezdi, [Simon Ručigaj](https://twitter.com/symru/) prebere definicijo Vogonskega gradbenega ladjevja in o valutah.  
