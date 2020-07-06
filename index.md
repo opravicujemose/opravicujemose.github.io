@@ -21,6 +21,7 @@ V šesti epizodi govorimo o šefih, o velikem šefu, Damjan Cilenšek - Vini pre
 
 Zapiski:
 - [Malcom Gladwell in McDonaldsov krompirček ](http://revisionisthistory.com/episodes/19-mcdonalds-broke-my-heart) 
+- [Robidišče Outdoor Home](https://sl.arbischa.si/)
 
 ## 005: Vogonsko gradbeno ladjevje
 
