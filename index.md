@@ -7,13 +7,13 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 [Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) je podkast o knjigi _Štoparski vodnik po Galaksiji_, ki so jo, preden je **Douglas Adams** o njej napisali radijsko igro, knjigo (oz. 5 knjig), poznali le redki prebivalci tega nepomembnega modro-zelenega planeta. Z brisačo bo poslušanje lažje.
 
-Če bi se radi podkast podprli ali ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
+Če bi radi podkast podprli, se nanj naročili ali ga ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
 
 ### Epizode
 
 ## 006: Riba babilonka
 
-V šesti epizodi govorimo o šefih, o velikem šefu, Damjan Cilenšek - Vini prebere citat o ribi babilonki, govorimo tudi tapravem o McDonalds krompirčku, o tem, kam greste za bone in še malo o bogu. Dobrodošli v Ozare! ;) 
+V šesti epizodi govorimo o šefih, o velikem šefu, [Damjan Cilenšek - Vini](https://twitter.com/loudandwicked) prebere citat o ribi babilonki, govorimo tudi tapravem o McDonalds krompirčku, o tem, kam greste za bone in še malo o bogu. Dobrodošli v Ozare! ;) 
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/006-Riba-babilonka-egbknv" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
@@ -36,7 +36,7 @@ Zapiski:
 
 ## 004: Gospod predsednik
 
-Zdravo. V četrti epizodi govorimo o predsedniku galaksije. 🌍 Kvarnik. To je Zaphod Beeblebrox. Definicijo predsednika prebere Borut Pahor. In o vesoljski ladjo Zlato srce. Tudi o huuluvujih in Pink Floydih teče beseda. In o Jezusu Kristusu. 🙏 
+Zdravo. V četrti epizodi govorimo o predsedniku galaksije. 🌍 Kvarnik. To je Zaphod Beeblebrox. Definicijo predsednika prebere **Borut Pahor**. In o vesoljski ladjo Zlato srce. Tudi o huuluvujih in Pink Floydih teče beseda. In o Jezusu Kristusu. 🙏 
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/004-Gospod-predsednik-efo2mm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
