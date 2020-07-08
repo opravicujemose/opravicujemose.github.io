@@ -5,7 +5,7 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 # Opravičujemo se za vse nevšečnosti 🐋
 
-[Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) je podkast o knjigi _Štoparski vodnik po Galaksiji_, ki so jo, preden je **Douglas Adams** o njej napisali radijsko igro, knjigo (oz. 5 knjig), poznali le redki prebivalci tega nepomembnega modro-zelenega planeta. Z brisačo bo poslušanje lažje.
+[Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) je podkast o knjigi _Štoparski vodnik po Galaksiji_, ki so jo, preden je **Douglas Adams** o njej napisali radijsko igro, knjigo  (oz. 5 knjig), TV serijo, poznali le redki prebivalci tega nepomembnega modro-zelenega planeta. Z brisačo bo poslušanje lažje.
 
 Če bi radi podkast podprli, se nanj naročili ali ga ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
 
