@@ -24,13 +24,6 @@ Zapiski:
  - [Babelfish iz leta 2000 ](http://web.archive.org/web/20000510062604/http://www.babelfish.altavista.com/ )
 - [Babelfish iz leta 2020](https://www.babelfish.com/) 
 
-Aljaž Pengov Bitenc:
-- [Sleeping with Pengovsky blog](http://www.pengovsky.com/)
-- [Evropska četrt](https://metinalista.si/category/evropska_cetrt/) 
-- [LD;GD](https://metinalista.si/category/ldgd/)
-- [Luxventures ](http://www.luxventures.eu/)
-- [Metin čaj](https://metinalista.si/category/metin_caj/)
-
 ## 006: Riba babilonka
 
 V šesti epizodi govorimo o šefih, o velikem šefu, [Damjan Cilenšek - Vini](https://twitter.com/loudandwicked) prebere citat o ribi babilonki, govorimo tudi tapravem o McDonalds krompirčku, o tem, kam greste za bone in še malo o bogu. Dobrodošli v Ozare! ;) 
