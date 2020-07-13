@@ -19,10 +19,11 @@ Zdravo. V sedmi epizodi se posvetimo izključno vogonski poeziji. [Aljaž Pengov
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/007-Fredlene-grumblajde-egl445) (za tiste ki ne vidite iFrameov)!
 
-Zapiski: 
+Zapiski:
 - [Veliki test (nekaj) nizkocenovnih piv](http://www.zvpl.com/42/clanki/veliki-test-nekaj-nizko-cenovnih-piv-prvi-del/)
- - [Babelfish iz leta 2000 ](http://web.archive.org/web/20000510062604/http://www.babelfish.altavista.com/ )
-- [Babelfish iz leta 2020](https://www.babelfish.com/) 
+- [Babelfish iz leta 2000](http://web.archive.org/web/20000510062604/http://www.babelfish.altavista.com/)
+- [Babelfish iz leta 2020](https://www.babelfish.com/)
+- [Casio digitalne ure (kupi na Amazon.co.uk in nas tako podpri)](https://amzn.to/2ATJcr3)
 
 ## 006: Riba babilonka
 
