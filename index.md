@@ -11,6 +11,26 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 007: Fredlene grumblajde
+
+Zdravo. V sedmi epizodi se posvetimo izključno vogonski poeziji. [Aljaž Pengov Bitenc](https://twitter.com/pengovsky/) (znan tudi kot Pengovsky) recitira vogonsko poezijo. Tudi o tem da Arturja boli glava. In da je še vedno četrtek. In da je nekaj cvrčalo.
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/007-Fredlene-grumblajde-egl445" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/007-Fredlene-grumblajde-egl445) (za tiste ki ne vidite iFrameov)!
+
+Zapiski: 
+- [Veliki test (nekaj) nizkocenovnih piv](http://www.zvpl.com/42/clanki/veliki-test-nekaj-nizko-cenovnih-piv-prvi-del/)
+ - [Babelfish iz leta 2000 ](http://web.archive.org/web/20000510062604/http://www.babelfish.altavista.com/ )
+- [Babelfish iz leta 2020](https://www.babelfish.com/) 
+
+Aljaž Pengov Bitenc:
+- [Sleeping with Pengovsky blog](http://www.pengovsky.com/)
+- [Evropska četrt](https://metinalista.si/category/evropska_cetrt/) 
+- [LD;GD](https://metinalista.si/category/ldgd/)
+- [Luxventures ](http://www.luxventures.eu/)
+- [Metin čaj](https://metinalista.si/category/metin_caj/)
+
 ## 006: Riba babilonka
 
 V šesti epizodi govorimo o šefih, o velikem šefu, [Damjan Cilenšek - Vini](https://twitter.com/loudandwicked) prebere citat o ribi babilonki, govorimo tudi tapravem o McDonalds krompirčku, o tem, kam greste za bone in še malo o bogu. Dobrodošli v Ozare! ;) 
