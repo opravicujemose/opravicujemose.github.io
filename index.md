@@ -105,8 +105,13 @@ V ničti epizodi novega podkasta o knjigi, ki je najbrž bolj popularna kot Ency
 
 Podkast ustvarjamo [Aljo](https://twitter.com/kozli42), [Peli](https://twitter.com/DavorinPavlica) & [Zi](https://twitter.com/gregorzalaznik).
 
-### Naročite se na podkast
+### Naroči se na podkast
 
-Smo na sledečih platformah: [Apple Podcasts](https://podcasts.apple.com/si/podcast/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti/id1514750013), [Anchor](https://anchor.fm/opravicujemose), [Breaker](https://www.breaker.audio/opravicujemo-se-za-vse-nevsecnosti), [Castbox](https://castbox.fm/channel/id2911541), [Overcast](https://overcast.fm/p1800312-cfXucP), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmI1YTUwMC9wb2RjYXN0L3Jzcw), [Pocket Casts](https://pca.st/zqlh1e4s) in [Spotify](https://open.spotify.com/show/6bYBLlFmu4lXZMuyzk9LOK?si=AZb30K9XQlO6QhsroUELFw).
+Smo na sledečih platformah:
+- [Apple Podcasts](https://podcasts.apple.com/si/podcast/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti/id1514750013),
+- [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmI1YTUwMC9wb2RjYXN0L3Jzcw), 
+- [Overcast](https://overcast.fm/p1800312-cfXucP), 
+- [Pocket Casts](https://pca.st/zqlh1e4s),
+- seznam vseh platform pa najdete na [hvalazavseribe.si](http://hvalazavseribe.si).
 
 Lahko nam pošlješ tudi e-pošto, bomo še bolj veseli! Ali pa vsaj toliko. Najbolje na e-poštni naslov **hvalazavseribe afna zvpl pika com**. Res hvala. 🙏
