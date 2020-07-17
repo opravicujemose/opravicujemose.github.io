@@ -34,6 +34,7 @@ V šesti epizodi govorimo o šefih, o velikem šefu, [Damjan Cilenšek - Vini](h
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/006-Riba-babilonka-egbknv) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
+
 - [Malcom Gladwell in McDonaldsov krompirček ](http://revisionisthistory.com/episodes/19-mcdonalds-broke-my-heart) 
 - [Robidišče Outdoor Home](https://sl.arbischa.si/)
 
@@ -46,6 +47,7 @@ Zdravo. V peti epizodi govorimo o Vogonih, Dentrassijih, križišču pri Barnard
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/005-Vogonsko-gradbeno-ladjevje-eg2444/a-a2j1dsi) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
+
 - [Barnardova zvezda](https://sl.wikipedia.org/wiki/Barnardova_zvezda)
 
 ## 004: Gospod predsednik
@@ -57,6 +59,7 @@ Zdravo. V četrti epizodi govorimo o predsedniku galaksije. 🌍 Kvarnik. To je 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/004-Gospod-predsednik-efo2mm) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
+
 - [Douglas Adams na 42 rojstni dan kot gost Pink Floydov ](https://www.youtube.com/watch?v=ZdOoJmDCV64)
 - [Glas Margaret Thacher](https://www.youtube.com/watch?v=gRQwLrpX61M)
 
@@ -69,8 +72,9 @@ V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige �
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/003-Vkljuite-ruilni-arek-efco4m) (za tiste ki ne vidite iFrameov)!
 
 Zapiski: 
-- [Cene piva v Zruženem kraljestvu skozi čas]( http://norfolkpubs.co.uk/utility/pob.htm)
-- [Kako dodati čustvenček (za brisačo)]( https://unicode.org/emoji/proposals.html)
+
+- [Cene piva v Zruženem kraljestvu skozi čas](http://norfolkpubs.co.uk/utility/pob.htm)
+- [Kako dodati čustvenček (za brisačo)](https://unicode.org/emoji/proposals.html)
 
 ## 002: Al Kohol
 
