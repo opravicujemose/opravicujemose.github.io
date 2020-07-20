@@ -11,6 +11,14 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 008: Odojek z Venere
+
+V osmi epizodi govorimo tudi o osmem poglavju. O digitalnih uah, vesolju, bogu, o tem kako speči odojka na Veneri, mrtvih rock zvezdnikih, o Enciklopediji Slovenije in še čem. V bistvu ne. No, mogoče. ;)
+
+Zapiski:
+- [Dead Rock Stars](https://overcast.fm/itunes1386155203/dead-rock-stars)
+- [27 Club](https://overcast.fm/itunes1492134933/27-club)
+
 ## 007: Fredlene grumblajde
 
 Zdravo. V sedmi epizodi se posvetimo izključno vogonski poeziji. [Aljaž Pengov Bitenc](https://twitter.com/pengovsky/) (znan tudi kot Pengovsky) recitira vogonsko poezijo. Tudi o tem da Arturja boli glava. In da je še vedno četrtek. In da je nekaj cvrčalo.
