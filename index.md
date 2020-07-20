@@ -15,6 +15,11 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 V osmi epizodi govorimo tudi o osmem poglavju. O digitalnih uah, vesolju, bogu, o tem kako speči odojka na Veneri, mrtvih rock zvezdnikih, o Enciklopediji Slovenije in še čem. V bistvu ne. No, mogoče. ;)
 
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/008-Odojek-na-Veneri-egva19" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/008-Odojek-na-Veneri-egva19) (za tiste ki ne vidite iFrameov)!
+
+
 Zapiski:
 - [Dead Rock Stars](https://overcast.fm/itunes1386155203/dead-rock-stars)
 - [27 Club](https://overcast.fm/itunes1492134933/27-club)
