@@ -11,6 +11,20 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 009: Southend
+
+Ta teden o Southendu, psihadelikih, stranskih učinkih neverjetnostnega štopanja, o neverjetnostnem pogonu in bežno o pingvinih. Ter kitu. In o telefonski tajnici! Psihadelični citat prebere [Uroš Primožic - Spretan](https://twitter.com/spretan/). 
+
+Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/009-Southend-eh997r" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/009-Southend-eh997r) (za tiste ki ne vidite iFrameov)!
+
+Zapiskov ni. Počitnice so. Tudi v Southendu.
+
 ## 008: Odojek z Venere
 
 V osmi epizodi govorimo tudi o osmem poglavju. O digitalnih uah, vesolju, bogu, o tem kako speči odojka na Veneri, mrtvih rock zvezdnikih, o Enciklopediji Slovenije in še čem. V bistvu ne. No, mogoče. ;)
