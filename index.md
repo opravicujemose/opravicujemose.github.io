@@ -5,19 +5,31 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 # Opravičujemo se za vse nevšečnosti 🐋
 
-[Opravičujemo se za vse nevšečnosti](https://anchor.fm/opravicujemose) je podkast o knjigi _Štoparski vodnik po Galaksiji_, ki so jo, preden je **Douglas Adams** o njej napisali radijsko igro, knjigo  (oz. 5 knjig), TV serijo, poznali le redki prebivalci tega nepomembnega modro-zelenega planeta. Z brisačo bo poslušanje lažje.
+[Opravičujemo se za vse nevšečnosti](https://apple.co/38zBEWW) je podkast o knjigi _Štoparski vodnik po Galaksiji_, ki so jo, preden je **Douglas Adams** o njej napisali radijsko igro, knjigo (oz. 5 knjig), TV serijo, poznali le redki prebivalci tega nepomembnega modro-zelenega planeta. Z brisačo bo poslušanje lažje.
 
 Če bi radi podkast podprli, se nanj naročili ali ga ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
 
 ### Epizode
 
+## 010: Orbanov tunel
+
+V enajsti epizodi smo hvaležni za vaše posluške, obdelamo paralelna vesolja, ne jemo več Ogrske, obiščemo Orbanov tunel, govorimo o (ne)imperialističnih narodih, ritmu človeštva, fizikih na zabavah in ... obdelamo tudi deseto poglavje Štoparca. Začuda.
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/010-Orbanov-tunel-ehjc1h" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/010-Orbanov-tunel-ehjc1h) (za tiste ki ne vidite iFrameov)!
+
+Zapiski: 
+- [The Man in the High Castle](https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle)
+- [Noah Yuval Harari: Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) 
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 009: Southend
 
 Ta teden o Southendu, psihadelikih, stranskih učinkih neverjetnostnega štopanja, o neverjetnostnem pogonu in bežno o pingvinih. Ter kitu. In o telefonski tajnici! Psihadelični citat prebere [Uroš Primožic - Spretan](https://twitter.com/spretan/). 
-
-Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/009-Southend-eh997r" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
@@ -32,7 +44,6 @@ V osmi epizodi govorimo tudi o osmem poglavju. O digitalnih uah, vesolju, bogu, 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/008-Odojek-na-Veneri-egva19" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/008-Odojek-na-Veneri-egva19) (za tiste ki ne vidite iFrameov)!
-
 
 Zapiski:
 - [Dead Rock Stars](https://overcast.fm/itunes1386155203/dead-rock-stars)
