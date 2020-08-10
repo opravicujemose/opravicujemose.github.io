@@ -11,6 +11,22 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 011: Marvin
+
+V še eni enajsti epizodi spoznamo Marvina. Spet govorimo o zabavah. [Rok Štebe](https://www.lk-sentvid.com/) prebere citat, tudi o rdečem gumbu, še malo o Marvinu in o depresiji. Na koncu je pečinaobešalnik.
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/011-Marvin-ehtoq4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/011-Marvin-ehtoq4) (za tiste ki ne vidite iFrameov)!
+
+Zapiskov ni. [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+Poletje je. ☀️   Hvala, ker nas poslušate!
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 010: Orbanov tunel
 
 V enajsti epizodi smo hvaležni za vaše posluške, obdelamo paralelna vesolja, ne jemo več Ogrske, obiščemo Orbanov tunel, govorimo o (ne)imperialističnih narodih, ritmu človeštva, fizikih na zabavah in ... obdelamo tudi deseto poglavje Štoparca. Začuda.
@@ -22,10 +38,6 @@ V enajsti epizodi smo hvaležni za vaše posluške, obdelamo paralelna vesolja, 
 Zapiski: 
 - [The Man in the High Castle](https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle)
 - [Noah Yuval Harari: Sapiens](https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind) 
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 009: Southend
 
