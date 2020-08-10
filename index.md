@@ -13,7 +13,7 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ## 011: Marvin
 
-V še eni enajsti epizodi spoznamo Marvina. Spet govorimo o zabavah. [Rok Štebe](https://www.lk-sentvid.com/) prebere citat, tudi o rdečem gumbu, še malo o Marvinu in o depresiji. Na koncu je pečinaobešalnik.
+V še eni enajsti epizodi spoznamo Marvina. Spet govorimo o zabavah. [Rok Štebe](https://www.lk-sentvid.com/) prebere citat, govorimo tudi o rdečem gumbu, še malo o Marvinu in o depresiji. Pa o Zaphodovih dveh glavah tudi. Na koncu je pečinaobešalnik.
 
 <iframe src="https://anchor.fm/opravicujemose/embed/episodes/011-Marvin-ehtoq4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 
