@@ -11,6 +11,20 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 012: ZZ9 Plural Z Alfa
+
+Dvanajsta epizoda prinaša debato o 2 litrskih steklenicah piva, o čipu v glavi, o dveh kamnih, citat prebere Matic Slapšak, o sektorju ZZ9 Plural Z Alfa, o trgovcih in sekundnem lepilu, o Zaphodovih možganih in še čem.   
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/012-ZZ9-Plural-Z-Alfa-ei7u8g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/012-ZZ9-Plural-Z-Alfa-ei7u8g) (za tiste ki ne vidite iFrameov)!
+
+Poletja še ni konec. Zapiskov tudi ni. [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+ 
 ## 011: Marvin
 
 V še eni enajsti epizodi spoznamo Marvina. Spet govorimo o zabavah. [Rok Štebe](https://www.lk-sentvid.com/) prebere citat, govorimo tudi o rdečem gumbu, še malo o Marvinu in o depresiji. Pa o Zaphodovih dveh glavah tudi. Na koncu je pečinaobešalnik.
@@ -22,10 +36,6 @@ V še eni enajsti epizodi spoznamo Marvina. Spet govorimo o zabavah. [Rok Štebe
 Zapiskov ni. [hvalazavseribe.si](https://hvalazavseribe.si/)
 
 Poletje je. ☀️   Hvala, ker nas poslušate!
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 010: Orbanov tunel
 
