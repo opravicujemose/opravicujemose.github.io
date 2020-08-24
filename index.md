@@ -11,6 +11,26 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 013: Zabava v Islingtonu
+
+V trinajsti epizodi o trinajstem poglavju, kjer obdelamo zabavo v Islingtonu in vse okoli nje. In še malo za počez. Citata ne prebere Miran ampak Milan Ališič.
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/013-Zabava-v-Islingtonu-eiihjm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/013-Zabava-v-Islingtonu-eiihjm) (za tiste ki ne vidite iFrameov)!
+
+Poletja še ni konec. 
+
+Zapiskov tudi ni, pa bi mogli biti. Ah, to poletje. 
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
+  
+
 ## 012: ZZ9 Plural Z Alfa
 
 Dvanajsta epizoda prinaša debato o 2 litrskih steklenicah piva, o čipu v glavi, o dveh kamnih, citat prebere Matic Slapšak, o sektorju ZZ9 Plural Z Alfa, o trgovcih in sekundnem lepilu, o Zaphodovih možganih in še čem.   
@@ -19,11 +39,7 @@ Dvanajsta epizoda prinaša debato o 2 litrskih steklenicah piva, o čipu v glavi
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/012-ZZ9-Plural-Z-Alfa-ei7u8g) (za tiste ki ne vidite iFrameov)!
 
-Poletja še ni konec. Zapiskov tudi ni. [hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+Poletja še ni konec. Zapiskov tudi ni.
  
 ## 011: Marvin
 
