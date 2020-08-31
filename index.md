@@ -11,6 +11,26 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 014: Rufen sie an
+
+Zdravo. Petnajsta epizoda prinaša debato o dizlu, nemških markah, enem planetu, o tem kdo spi in kdo ne in da je končno konec tega dolgega četrtka. In o roombi s PČO. Rufen sie an. 
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/014-Rufen-sie-an-eisqhi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/014-Rufen-sie-an-eisqhi) (za tiste ki ne vidite iFrameov)!
+
+ Zapiskov spet ni. 
+
+Karantensko poletje, pač. 
+
+  Hvala, ker nas poslušate in podpirate!
+
+[hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 013: Zabava v Islingtonu
 
 V trinajsti epizodi o trinajstem poglavju, kjer obdelamo zabavo v Islingtonu in vse okoli nje. In še malo za počez. Citata ne prebere Miran ampak Milan Ališič.
@@ -23,13 +43,7 @@ Poletja še ni konec.
 
 Zapiskov tudi ni, pa bi mogli biti. Ah, to poletje. 
 
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
-
-  
+Hvala, ker nas poslušate in podpirate! 
 
 ## 012: ZZ9 Plural Z Alfa
 
