@@ -11,6 +11,25 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
+## 015: Magrateja
+
+Zdravo. Prava petnajsta epizoda (pod zap. št. 16) je v celoti posvečena bajeslovnemu planetu Magrateja. Nekaj besed namenimo tudi glasbi na pogrebih, Patreonu, imperijih, računovodjah, potrošništvu in salonitkam.
+
+<iframe src="https://anchor.fm/opravicujemose/embed/episodes/015-Magrateja-ej7mmg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/015-Magrateja-ej7mmg) (za tiste ki ne vidite iFrameov)! 
+
+Zapiski:
+- [Nenavadni primer zvezde Betelgeze](http://portalvvesolje.si/index.php?option=com_content&view=article&id=1971:space-scoop-nenavadni-primer-zvezde-betelgeze&catid=13:space-scoop&Itemid=34)
+  
+Hvala, ker nas poslušate in podpirate!
+
+[hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 014: Rufen sie an
 
 Zdravo. Petnajsta epizoda prinaša debato o dizlu, nemških markah, enem planetu, o tem kdo spi in kdo ne in da je končno konec tega dolgega četrtka. In o roombi s PČO. Rufen sie an. 
@@ -24,12 +43,6 @@ Zdravo. Petnajsta epizoda prinaša debato o dizlu, nemških markah, enem planetu
 Karantensko poletje, pač. 
 
   Hvala, ker nas poslušate in podpirate!
-
-[hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 013: Zabava v Islingtonu
 
