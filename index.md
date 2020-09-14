@@ -11,17 +11,19 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ### Epizode
 
-## 015: Magrateja
+## 016: Soulianis in Rahm
 
-Zdravo. Prava petnajsta epizoda (pod zap. št. 16) je v celoti posvečena bajeslovnemu planetu Magrateja. Nekaj besed namenimo tudi glasbi na pogrebih, Patreonu, imperijih, računovodjah, potrošništvu in salonitkam.
-
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/015-Magrateja-ej7mmg" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+Zdravo! V šestnajstem poglavju smo priča dvojnemu vzhodu sonc Soulianis in Rahm, govorimo o vesoljskih bajkah, znanosti in influencerjih ... in še čem. 🍒
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/015-Magrateja-ej7mmg) (za tiste ki ne vidite iFrameov)! 
 
 Zapiski:
-- [Nenavadni primer zvezde Betelgeze](http://portalvvesolje.si/index.php?option=com_content&view=article&id=1971:space-scoop-nenavadni-primer-zvezde-betelgeze&catid=13:space-scoop&Itemid=34)
-  
+- [Death Star PR na Twitterju]( https://twitter.com/DeathStarPR)
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5YDGhVitoMhjQZyk4vwmgZ" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/016-Soulianis-in-Rahm-ejiqv2) (za tiste ki ne vidite iFrameov)!
+
 Hvala, ker nas poslušate in podpirate!
 
 [hvalazavseribe.si](https://hvalazavseribe.si/)
@@ -30,11 +32,22 @@ Hvala, ker nas poslušate in podpirate!
 
 S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
+## 015: Magrateja
+
+Zdravo. Prava petnajsta epizoda (pod zap. št. 16) je v celoti posvečena bajeslovnemu planetu Magrateja. Nekaj besed namenimo tudi glasbi na pogrebih, Patreonu, imperijih, računovodjah, potrošništvu in salonitkam.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/1v9BAhF02orpIoYd59U4gX" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/015-Magrateja-ej7mmg) (za tiste ki ne vidite iFrameov)! 
+
+Zapiski:
+- [Nenavadni primer zvezde Betelgeze](http://portalvvesolje.si/index.php?option=com_content&view=article&id=1971:space-scoop-nenavadni-primer-zvezde-betelgeze&catid=13:space-scoop&Itemid=34)
+  
 ## 014: Rufen sie an
 
 Zdravo. Petnajsta epizoda prinaša debato o dizlu, nemških markah, enem planetu, o tem kdo spi in kdo ne in da je končno konec tega dolgega četrtka. In o roombi s PČO. Rufen sie an. 
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/014-Rufen-sie-an-eisqhi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/4Dd0dLcclG6mZMexaD3sdp" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/014-Rufen-sie-an-eisqhi) (za tiste ki ne vidite iFrameov)!
 
@@ -42,13 +55,11 @@ Zdravo. Petnajsta epizoda prinaša debato o dizlu, nemških markah, enem planetu
 
 Karantensko poletje, pač. 
 
-  Hvala, ker nas poslušate in podpirate!
-
 ## 013: Zabava v Islingtonu
 
 V trinajsti epizodi o trinajstem poglavju, kjer obdelamo zabavo v Islingtonu in vse okoli nje. In še malo za počez. Citata ne prebere Miran ampak Milan Ališič.
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/013-Zabava-v-Islingtonu-eiihjm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/2tcpYahhDJDuRMO6TAT52F" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/013-Zabava-v-Islingtonu-eiihjm) (za tiste ki ne vidite iFrameov)!
 
@@ -56,13 +67,11 @@ Poletja še ni konec.
 
 Zapiskov tudi ni, pa bi mogli biti. Ah, to poletje. 
 
-Hvala, ker nas poslušate in podpirate! 
-
 ## 012: ZZ9 Plural Z Alfa
 
 Dvanajsta epizoda prinaša debato o 2 litrskih steklenicah piva, o čipu v glavi, o dveh kamnih, citat prebere Matic Slapšak, o sektorju ZZ9 Plural Z Alfa, o trgovcih in sekundnem lepilu, o Zaphodovih možganih in še čem.   
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/012-ZZ9-Plural-Z-Alfa-ei7u8g" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/1nJqJBXAI02PemjNk5UMWM" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/012-ZZ9-Plural-Z-Alfa-ei7u8g) (za tiste ki ne vidite iFrameov)!
 
@@ -72,13 +81,13 @@ Poletja še ni konec. Zapiskov tudi ni.
 
 V še eni enajsti epizodi spoznamo Marvina. Spet govorimo o zabavah. [Rok Štebe](https://www.lk-sentvid.com/) prebere citat, govorimo tudi o rdečem gumbu, še malo o Marvinu in o depresiji. Pa o Zaphodovih dveh glavah tudi. Na koncu je pečinaobešalnik.
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/011-Marvin-ehtoq4" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/2k7LAsmFd9MboL2w4gBCdG" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/011-Marvin-ehtoq4) (za tiste ki ne vidite iFrameov)!
 
 Zapiskov ni. [hvalazavseribe.si](https://hvalazavseribe.si/)
 
-Poletje je. ☀️   Hvala, ker nas poslušate!
+Poletje je. ☀️
 
 ## 010: Orbanov tunel
 
