@@ -15,14 +15,12 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 Zdravo! V šestnajstem poglavju smo priča dvojnemu vzhodu sonc Soulianis in Rahm, govorimo o vesoljskih bajkah, znanosti in influencerjih ... in še čem. 🍒
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/015-Magrateja-ej7mmg) (za tiste ki ne vidite iFrameov)! 
+<iframe src="https://open.spotify.com/embed-podcast/episode/5YDGhVitoMhjQZyk4vwmgZ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/016-Soulianis-in-Rahm-ejiqv2) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 - [Death Star PR na Twitterju]( https://twitter.com/DeathStarPR)
-
-<iframe src="https://open.spotify.com/embed-podcast/episode/5YDGhVitoMhjQZyk4vwmgZ" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/016-Soulianis-in-Rahm-ejiqv2) (za tiste ki ne vidite iFrameov)!
 
 Hvala, ker nas poslušate in podpirate!
 
@@ -36,7 +34,7 @@ S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več in
 
 Zdravo. Prava petnajsta epizoda (pod zap. št. 16) je v celoti posvečena bajeslovnemu planetu Magrateja. Nekaj besed namenimo tudi glasbi na pogrebih, Patreonu, imperijih, računovodjah, potrošništvu in salonitkam.
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/1v9BAhF02orpIoYd59U4gX" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/1v9BAhF02orpIoYd59U4gX" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/015-Magrateja-ej7mmg) (za tiste ki ne vidite iFrameov)! 
 
@@ -47,7 +45,7 @@ Zapiski:
 
 Zdravo. Petnajsta epizoda prinaša debato o dizlu, nemških markah, enem planetu, o tem kdo spi in kdo ne in da je končno konec tega dolgega četrtka. In o roombi s PČO. Rufen sie an. 
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/4Dd0dLcclG6mZMexaD3sdp" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/4Dd0dLcclG6mZMexaD3sdp" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/014-Rufen-sie-an-eisqhi) (za tiste ki ne vidite iFrameov)!
 
@@ -59,7 +57,7 @@ Karantensko poletje, pač.
 
 V trinajsti epizodi o trinajstem poglavju, kjer obdelamo zabavo v Islingtonu in vse okoli nje. In še malo za počez. Citata ne prebere Miran ampak Milan Ališič.
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/2tcpYahhDJDuRMO6TAT52F" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/2tcpYahhDJDuRMO6TAT52F" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/013-Zabava-v-Islingtonu-eiihjm) (za tiste ki ne vidite iFrameov)!
 
@@ -71,7 +69,7 @@ Zapiskov tudi ni, pa bi mogli biti. Ah, to poletje.
 
 Dvanajsta epizoda prinaša debato o 2 litrskih steklenicah piva, o čipu v glavi, o dveh kamnih, citat prebere Matic Slapšak, o sektorju ZZ9 Plural Z Alfa, o trgovcih in sekundnem lepilu, o Zaphodovih možganih in še čem.   
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/1nJqJBXAI02PemjNk5UMWM" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/1nJqJBXAI02PemjNk5UMWM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/012-ZZ9-Plural-Z-Alfa-ei7u8g) (za tiste ki ne vidite iFrameov)!
 
@@ -81,7 +79,7 @@ Poletja še ni konec. Zapiskov tudi ni.
 
 V še eni enajsti epizodi spoznamo Marvina. Spet govorimo o zabavah. [Rok Štebe](https://www.lk-sentvid.com/) prebere citat, govorimo tudi o rdečem gumbu, še malo o Marvinu in o depresiji. Pa o Zaphodovih dveh glavah tudi. Na koncu je pečinaobešalnik.
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/2k7LAsmFd9MboL2w4gBCdG" width="500" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/2k7LAsmFd9MboL2w4gBCdG" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/011-Marvin-ehtoq4) (za tiste ki ne vidite iFrameov)!
 
@@ -93,7 +91,7 @@ Poletje je. ☀️
 
 V enajsti epizodi smo hvaležni za vaše posluške, obdelamo paralelna vesolja, ne jemo več Ogrske, obiščemo Orbanov tunel, govorimo o (ne)imperialističnih narodih, ritmu človeštva, fizikih na zabavah in ... obdelamo tudi deseto poglavje Štoparca. Začuda.
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/010-Orbanov-tunel-ehjc1h" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/7mn0nNXGCxXqJL4sSnLznI" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/010-Orbanov-tunel-ehjc1h) (za tiste ki ne vidite iFrameov)!
 
@@ -103,9 +101,9 @@ Zapiski:
 
 ## 009: Southend
 
-Ta teden o Southendu, psihadelikih, stranskih učinkih neverjetnostnega štopanja, o neverjetnostnem pogonu in bežno o pingvinih. Ter kitu. In o telefonski tajnici! Psihadelični citat prebere [Uroš Primožic - Spretan](https://twitter.com/spretan/). 
+Ta teden o Southendu, psihadelikih, stranskih učinkih neverjetnostnega štopanja, o neverjetnostnem pogonu in bežno o pingvinih. Ter kitu. In o telefonski tajnici! Psihadelični citat prebere [Uroš Primožič - Spretan](https://twitter.com/spretan/). 
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/009-Southend-eh997r" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/4b2ujXU2EVeVkGCmNQOXiq" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/009-Southend-eh997r) (za tiste ki ne vidite iFrameov)!
 
@@ -115,7 +113,7 @@ Zapiskov ni. Počitnice so. Tudi v Southendu.
 
 V osmi epizodi govorimo tudi o osmem poglavju. O digitalnih uah, vesolju, bogu, o tem kako speči odojka na Veneri, mrtvih rock zvezdnikih, o Enciklopediji Slovenije in še čem. V bistvu ne. No, mogoče. ;)
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/008-Odojek-na-Veneri-egva19" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/7EiKrguL8ayAj69XREOn4M" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/008-Odojek-na-Veneri-egva19) (za tiste ki ne vidite iFrameov)!
 
@@ -127,7 +125,7 @@ Zapiski:
 
 Zdravo. V sedmi epizodi se posvetimo izključno vogonski poeziji. [Aljaž Pengov Bitenc](https://twitter.com/pengovsky/) (znan tudi kot Pengovsky) recitira vogonsko poezijo. Tudi o tem da Arturja boli glava. In da je še vedno četrtek. In da je nekaj cvrčalo.
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/007-Fredlene-grumblajde-egl445" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/3xg35UR7gqMmGgtgYq4hzq" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/007-Fredlene-grumblajde-egl445) (za tiste ki ne vidite iFrameov)!
 
@@ -141,7 +139,7 @@ Zapiski:
 
 V šesti epizodi govorimo o šefih, o velikem šefu, [Damjan Cilenšek - Vini](https://twitter.com/loudandwicked) prebere citat o ribi babilonki, govorimo tudi tapravem o McDonalds krompirčku, o tem, kam greste za bone in še malo o bogu. Dobrodošli v Ozare! ;) 
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/006-Riba-babilonka-egbknv" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/6Exj1OgPQ2KXeixtuYVGML" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/006-Riba-babilonka-egbknv) (za tiste ki ne vidite iFrameov)!
 
@@ -154,7 +152,7 @@ Zapiski:
 
 Zdravo. V peti epizodi govorimo o Vogonih, Dentrassijih, križišču pri Barnardovi zvezdi, [Simon Ručigaj](https://twitter.com/symru/) prebere definicijo Vogonskega gradbenega ladjevja in o valutah.  
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/005-Vogonsko-gradbeno-ladjevje-eg2444/a-a2j1dsi" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/6CL5pqrjCH3NHc82eFYf0N" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/005-Vogonsko-gradbeno-ladjevje-eg2444/a-a2j1dsi) (za tiste ki ne vidite iFrameov)!
 
@@ -166,7 +164,7 @@ Zapiski:
 
 Zdravo. V četrti epizodi govorimo o predsedniku galaksije. 🌍 Kvarnik. To je Zaphod Beeblebrox. Definicijo predsednika prebere **Borut Pahor**. In o vesoljski ladjo Zlato srce. Tudi o huuluvujih in Pink Floydih teče beseda. In o Jezusu Kristusu. 🙏 
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/004-Gospod-predsednik-efo2mm" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/5XlqmRQ6AVZggzHihNfxBX" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/004-Gospod-predsednik-efo2mm) (za tiste ki ne vidite iFrameov)!
 
@@ -179,7 +177,7 @@ Zapiski:
 
 V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige Štoparski vodnik po Galaksiji, definicijo brisače, ki jo prebere hupi frud (in fizik) **dr. Matjaž Ličer**, končno smo priča koncu sveta, ki ga zakuhajo Vogoni, čustvenček za brisačo ne obstaja, ... in povabimo Boruta Pahorja da prebere definicijo predsednika Galaksije.
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/003-Vkljuite-ruilni-arek-efco4m" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/6MHVxWADPTXYoh9moPncCM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/003-Vkljuite-ruilni-arek-efco4m) (za tiste ki ne vidite iFrameov)!
 
@@ -192,7 +190,7 @@ Zapiski:
 
 V drugi epizodi pogledamo alkoholu globoko v oči in v definicijo, ugotovimo zakaj so trije vrčki piva prava mera, [Tara Zupančič](https://www.instagram.com/varishana) prebere definicijo alkohola in recept za pangalaktični grlorez, povabimo vas, da nam pošljete svoje recepte in čakamo konec sveta, ki se je zgodil na tisti nesrečni četrtek, ...
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/002-Al-Kohol-ef3n2c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/6oW4u7cneO7NfwAv94EDH7" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/002-Al-Kohol-ef3n2c) (za tiste ki ne vidite iFrameov)!
 
@@ -205,7 +203,7 @@ V drugi epizodi pogledamo alkoholu globoko v oči in v definicijo, ugotovimo zak
 
 V prvi epizodi podkasta o knjigi, ki govori o knjigi _Štoparski vodnik po galaksiji_ obdelamo prvo poglavje. O mačku, obvoznici ([Hamo](https://twitter.com/hamudu/) iz [Hamo & Tribute 2 Love](http://tribute2love.si/) prebere citat), Arturju Dentu, buldožerjih, Ford Prefect = Yugo Koral, gospodu Prosserju in sploh vsem, kar se zgodi v prvem poglavju.
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/001-Yugo-Koral-eeqrrc" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/1tSfXAMqxzuJJjG4cASWnL" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/001-Yugo-Koral-eeqrrc) (za tiste ki ne vidite iFrameov)!
 
@@ -213,7 +211,7 @@ V prvi epizodi podkasta o knjigi, ki govori o knjigi _Štoparski vodnik po galak
 
 V ničti epizodi novega podkasta o knjigi, ki je najbrž bolj popularna kot Encyclopaedia Galactica, smo našli ime za podkast in se pogovarjali o Douglasu Adamsu, [Boštjan Gorenc - Pižama](http://pizama.net/) je prebral Uvod v ŠVPG, spomnili pa smo se tudi na zgodbo o dekletu! 
 
-<iframe src="https://anchor.fm/opravicujemose/embed/episodes/000-Uvod--v-katerem-smo-nali-ime-eedfno" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/3eypnTrg4UgXiMLsLih75P" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/000-Uvod--v-katerem-smo-nali-ime-eedfno) (za tistek ki ne vidite iFrameov)!
 

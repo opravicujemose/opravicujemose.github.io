@@ -49,6 +49,13 @@ small, small a, small a:hover, small a:focus {
 	outline: none;
 }
 
-iframe {
-	margin-right: 1em;
+@media (min-device-width:600px) {
+	iframe {
+		margin-right: 1em;
+		width: 500px;
+	}
 }
+
+iframe {
+	width: 90%;
+	}
