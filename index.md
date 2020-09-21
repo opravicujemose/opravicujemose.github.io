@@ -13,8 +13,22 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 ## 017:  You'll Never Walk Alone
 
+Zdravo. V sedemnajsti epizodi o prejšnih epizodah, telefonskih številkah, o avtomatih za kavo, o Rimu, pa tudi o fanfarah. Citate prebere [Simon Olenik - Brko](https://twitter.com/stjf41), govorimo pa tudi o dveh jedrskih izstrelkih, klicanju po telefonu, starih ljudeh in o človeku, katerega uporavlja številka 059968685 in o eni recenziji na Apple Podcasts. In seveda, o You'll Never Walk Alone.
 
+<iframe src="https://open.spotify.com/embed-podcast/episode/71n7bkM8BzZRgRbenlBZBE" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/017-Youll-Never-Walk-Alone-eju04e) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Neverjetnostni pogon - izsek iz TV serije](https://www.youtube.com/watch?v=fxEqIt-NUSY)
+- [Recenzije na Apple Podcasts](https://apple.co/33OvmQW)
+- [You'll Never Walk Alone](https://www.youtube.com/watch?v=Go-jJlGd1so)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 016: Soulianis in Rahm
 
@@ -26,14 +40,6 @@ Zdravo! V šestnajstem poglavju smo priča dvojnemu vzhodu sonc Soulianis in Rah
 
 Zapiski:
 - [Death Star PR na Twitterju]( https://twitter.com/DeathStarPR)
-
-Hvala, ker nas poslušate in podpirate!
-
-[hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 015: Magrateja
 
