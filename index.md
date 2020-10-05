@@ -9,9 +9,40 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 Če bi radi podkast podprli, se nanj naročili ali ga ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
 
+P.S.: V Innsbruck gremo čez {% include counter.html %}
+
 ### Epizode
 
-## 017:  You'll Never Walk Alone
+## 019: Manično depresivni robot
+
+Zdravo. V devetnajsti epizodi o manično depresivnem robotu. Njegov citat prebere [Jaka Tomc](https://twitter.com/manicnipoet/). Mi pa o bipolarni motnji in manični depresiji. Tudi o miškah in izrazih sočutja, o odštevalniku za izlet v Innsbruck, komunajzerjih in še čem. Tudi o devetnajstem poglavju. In bežno o sekiri.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/4XliJfAzUb7tU1n0pITAnO" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/018-Kit-glava-Rudonja-ek8jac) (za tiste ki ne vidite iFrameov)!
+
+  Zapiski:
+- [@opravicujemose](https://twitter.com/opravicujemose) na Twitterju
+- [@opravicujemose](https://www.instagram.com/opravicujemose/) na Instagramu
+- [@opravicujemose](https://www.facebook.com/opravicujemose/) na Facebooku
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
+## 018: Kit glavač Rudonja
+
+O kitu in loncu petunij. Tudi o tatujih s kitom in loncom petunij. O najlepši ljulki v Galaksiji. In randmo workday popivanju. Citat prebere lastnik le-te, Ismet iz Horjula (iz Celja). Govorimo tudi o tujih jezikih in zakaj je srbohrvaščina svetovni jezik. Ter o jedrskih elektrarnah in kolesarnicah. In o bistromatičnem Žmaucu. Pa še o sondi Pioneer, ker seveda o kitu glavaču, z imenom Rudonja. In o stvareh, ki jih ne moremo razumeti.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5oMWH1lw55u4NPGRP00Mt0" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/018-Kit-glava-Rudonja-ek8jac) (za tiste ki ne vidite iFrameov)!
+
+Zapiskov ni, ker, ... srečno, Bine.
+
+## 017: You'll Never Walk Alone
 
 Zdravo. V sedemnajsti epizodi o prejšnih epizodah, telefonskih številkah, o avtomatih za kavo, o Rimu, pa tudi o fanfarah. Citate prebere [Simon Olenik - Brko](https://twitter.com/stjf41), govorimo pa tudi o dveh jedrskih izstrelkih, klicanju po telefonu, starih ljudeh in o človeku, katerega uporavlja številka 059968685 in o eni recenziji na Apple Podcasts. In seveda, o You'll Never Walk Alone.
 
@@ -23,12 +54,6 @@ Zapiski:
 - [Neverjetnostni pogon - izsek iz TV serije](https://www.youtube.com/watch?v=fxEqIt-NUSY)
 - [Recenzije na Apple Podcasts](https://apple.co/33OvmQW)
 - [You'll Never Walk Alone](https://www.youtube.com/watch?v=Go-jJlGd1so)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 016: Soulianis in Rahm
 
