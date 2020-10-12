@@ -17,6 +17,10 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 Zdravo! V dvajseti epizodi spet o (zaenkrat še) dolgočasni Magrateji. Citat prvič prebere poslušalka Iva, ki ga je posnela na tajnici 05 99 68 68 5 ... hvala! Mi pa o 5G, naročnini za RTV Slovenija, podzemnih železnicah, tudi o 20. poglavju in seveda o začetnicah Z. B., vžganih v Zaphodove možgane. 
 
+<iframe src="https://open.spotify.com/embed-podcast/episode/3eYLfbKwkgoznMi7ocAwEb" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/34OqKef) (za tiste ki ne vidite iFrameov)!
+
 Zapiski:
 - [Piramida teorij zarot](https://twitter.com/abbieasr/status/1312512066071060480)
 
@@ -32,7 +36,7 @@ Zdravo. V devetnajsti epizodi o manično depresivnem robotu. Njegov citat preber
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4XliJfAzUb7tU1n0pITAnO" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/018-Kit-glava-Rudonja-ek8jac) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/2Ssv6C5) (za tiste ki ne vidite iFrameov)!
 
   Zapiski:
 - [@opravicujemose](https://twitter.com/opravicujemose) na Twitterju
@@ -45,7 +49,7 @@ O kitu in loncu petunij. Tudi o tatujih s kitom in loncom petunij. O najlepši l
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/5oMWH1lw55u4NPGRP00Mt0" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/018-Kit-glava-Rudonja-ek8jac) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/2HG49c1) (za tiste ki ne vidite iFrameov)!
 
 Zapiskov ni, ker, ... srečno, Bine.
 
@@ -55,7 +59,7 @@ Zdravo. V sedemnajsti epizodi o prejšnih epizodah, telefonskih številkah, o av
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/71n7bkM8BzZRgRbenlBZBE" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/017-Youll-Never-Walk-Alone-eju04e) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/33OvmQW) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 - [Neverjetnostni pogon - izsek iz TV serije](https://www.youtube.com/watch?v=fxEqIt-NUSY)
@@ -68,7 +72,7 @@ Zdravo! V šestnajstem poglavju smo priča dvojnemu vzhodu sonc Soulianis in Rah
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/5YDGhVitoMhjQZyk4vwmgZ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/016-Soulianis-in-Rahm-ejiqv2) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/3nG5qQS) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 - [Death Star PR na Twitterju]( https://twitter.com/DeathStarPR)
@@ -79,7 +83,7 @@ Zdravo. Prava petnajsta epizoda (pod zap. št. 16) je v celoti posvečena bajesl
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/1v9BAhF02orpIoYd59U4gX" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/015-Magrateja-ej7mmg) (za tiste ki ne vidite iFrameov)! 
+Še [povezava do epizode](https://apple.co/3jZ4hRT) (za tiste ki ne vidite iFrameov)! 
 
 Zapiski:
 - [Nenavadni primer zvezde Betelgeze](http://portalvvesolje.si/index.php?option=com_content&view=article&id=1971:space-scoop-nenavadni-primer-zvezde-betelgeze&catid=13:space-scoop&Itemid=34)
@@ -90,7 +94,7 @@ Zdravo. Petnajsta epizoda prinaša debato o dizlu, nemških markah, enem planetu
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4Dd0dLcclG6mZMexaD3sdp" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/014-Rufen-sie-an-eisqhi) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/3jxa94C) (za tiste ki ne vidite iFrameov)!
 
  Zapiskov spet ni. 
 
@@ -102,7 +106,7 @@ V trinajsti epizodi o trinajstem poglavju, kjer obdelamo zabavo v Islingtonu in 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/2tcpYahhDJDuRMO6TAT52F" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/013-Zabava-v-Islingtonu-eiihjm) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/3aShCb6) (za tiste ki ne vidite iFrameov)!
 
 Poletja še ni konec. 
 
@@ -114,7 +118,7 @@ Dvanajsta epizoda prinaša debato o 2 litrskih steklenicah piva, o čipu v glavi
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/1nJqJBXAI02PemjNk5UMWM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/012-ZZ9-Plural-Z-Alfa-ei7u8g) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/3kYPU1g) (za tiste ki ne vidite iFrameov)!
 
 Poletja še ni konec. Zapiskov tudi ni.
  
@@ -124,7 +128,7 @@ V še eni enajsti epizodi spoznamo Marvina. Spet govorimo o zabavah. [Rok Štebe
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/2k7LAsmFd9MboL2w4gBCdG" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/011-Marvin-ehtoq4) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/2XIw2Fi) (za tiste ki ne vidite iFrameov)!
 
 Zapiskov ni. [hvalazavseribe.si](https://hvalazavseribe.si/)
 
@@ -136,7 +140,7 @@ V enajsti epizodi smo hvaležni za vaše posluške, obdelamo paralelna vesolja, 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/7mn0nNXGCxXqJL4sSnLznI" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/010-Orbanov-tunel-ehjc1h) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/3lBXvSD) (za tiste ki ne vidite iFrameov)!
 
 Zapiski: 
 - [The Man in the High Castle](https://en.wikipedia.org/wiki/The_Man_in_the_High_Castle)
@@ -148,7 +152,7 @@ Ta teden o Southendu, psihadelikih, stranskih učinkih neverjetnostnega štopanj
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4b2ujXU2EVeVkGCmNQOXiq" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/009-Southend-eh997r) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/3hJNkK1) (za tiste ki ne vidite iFrameov)!
 
 Zapiskov ni. Počitnice so. Tudi v Southendu.
 
@@ -158,7 +162,7 @@ V osmi epizodi govorimo tudi o osmem poglavju. O digitalnih uah, vesolju, bogu, 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/7EiKrguL8ayAj69XREOn4M" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/008-Odojek-na-Veneri-egva19) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/30w1kQz) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 - [Dead Rock Stars](https://overcast.fm/itunes1386155203/dead-rock-stars)
@@ -170,7 +174,7 @@ Zdravo. V sedmi epizodi se posvetimo izključno vogonski poeziji. [Aljaž Pengov
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/3xg35UR7gqMmGgtgYq4hzq" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/007-Fredlene-grumblajde-egl445) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/38TqxrT) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 - [Veliki test (nekaj) nizkocenovnih piv](http://www.zvpl.com/42/clanki/veliki-test-nekaj-nizko-cenovnih-piv-prvi-del/)
