@@ -13,6 +13,19 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 020: Še bolj dolgočasen planet
+
+Zdravo! V dvajseti epizodi spet o (zaenkrat še) dolgočasni Magrateji. Citat prvič prebere poslušalka Iva, ki ga je posnela na tajnici 05 99 68 68 5 ... hvala! Mi pa o 5G, naročnini za RTV Slovenija, podzemnih železnicah, tudi o 20. poglavju in seveda o začetnicah Z. B., vžganih v Zaphodove možgane. 
+
+Zapiski:
+- [Piramida teorij zarot](https://twitter.com/abbieasr/status/1312512066071060480)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 019: Manično depresivni robot
 
 Zdravo. V devetnajsti epizodi o manično depresivnem robotu. Njegov citat prebere [Jaka Tomc](https://twitter.com/manicnipoet/). Mi pa o bipolarni motnji in manični depresiji. Tudi o miškah in izrazih sočutja, o odštevalniku za izlet v Innsbruck, komunajzerjih in še čem. Tudi o devetnajstem poglavju. In bežno o sekiri.
@@ -25,12 +38,6 @@ Zdravo. V devetnajsti epizodi o manično depresivnem robotu. Njegov citat preber
 - [@opravicujemose](https://twitter.com/opravicujemose) na Twitterju
 - [@opravicujemose](https://www.instagram.com/opravicujemose/) na Instagramu
 - [@opravicujemose](https://www.facebook.com/opravicujemose/) na Facebooku
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 018: Kit glavač Rudonja
 
