@@ -188,7 +188,7 @@ V šesti epizodi govorimo o šefih, o velikem šefu, [Damjan Cilenšek - Vini](h
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6Exj1OgPQ2KXeixtuYVGML" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/006-Riba-babilonka-egbknv) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://podcasts.apple.com/si/podcast/006-riba-babilonka/id1514750013?i=1000482800888) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 
@@ -201,7 +201,7 @@ Zdravo. V peti epizodi govorimo o Vogonih, Dentrassijih, križišču pri Barnard
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6CL5pqrjCH3NHc82eFYf0N" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/005-Vogonsko-gradbeno-ladjevje-eg2444/a-a2j1dsi) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://podcasts.apple.com/si/podcast/005-vogonsko-gradbeno-ladjevje/id1514750013?i=1000480091016) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 
@@ -213,7 +213,7 @@ Zdravo. V četrti epizodi govorimo o predsedniku galaksije. 🌍 Kvarnik. To je 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/5XlqmRQ6AVZggzHihNfxBX" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/004-Gospod-predsednik-efo2mm) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://podcasts.apple.com/si/podcast/004-gospod-predsednik/id1514750013?i=1000479009269) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 
@@ -226,7 +226,7 @@ V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige �
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6MHVxWADPTXYoh9moPncCM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/003-Vkljuite-ruilni-arek-efco4m) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://podcasts.apple.com/si/podcast/003-vklju%C4%8Dite-ru%C5%A1ilni-%C5%BEarek/id1514750013?i=1000477977615) (za tiste ki ne vidite iFrameov)!
 
 Zapiski: 
 
@@ -239,7 +239,7 @@ V drugi epizodi pogledamo alkoholu globoko v oči in v definicijo, ugotovimo zak
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6oW4u7cneO7NfwAv94EDH7" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/002-Al-Kohol-ef3n2c) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://podcasts.apple.com/si/podcast/002-al-kohol/id1514750013?i=1000477131600) (za tiste ki ne vidite iFrameov)!
 
   Zapiski:
 
@@ -252,7 +252,7 @@ V prvi epizodi podkasta o knjigi, ki govori o knjigi _Štoparski vodnik po galak
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/1tSfXAMqxzuJJjG4cASWnL" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/001-Yugo-Koral-eeqrrc) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://podcasts.apple.com/si/podcast/001-yugo-koral/id1514750013?i=1000476380817) (za tiste ki ne vidite iFrameov)!
 
 ## 000: Uvod, v katerem smo našli ime
 
@@ -260,7 +260,7 @@ V ničti epizodi novega podkasta o knjigi, ki je najbrž bolj popularna kot Ency
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/3eypnTrg4UgXiMLsLih75P" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://anchor.fm/opravicujemose/episodes/000-Uvod--v-katerem-smo-nali-ime-eedfno) (za tistek ki ne vidite iFrameov)!
+Še [povezava do epizode](https://podcasts.apple.com/si/podcast/000-uvod-v-katerem-smo-na%C5%A1li-ime/id1514750013?i=1000475394904) (za tistek ki ne vidite iFrameov)!
 
 ### Ustvarjalci
 
