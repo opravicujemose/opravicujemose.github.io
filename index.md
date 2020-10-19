@@ -13,6 +13,23 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 021: O rabljenih kulijih
+
+V 42/2 epizodi o rabljenih kulijih, vžigalnikih, planetu rabljenih kulijev, o tem, da so kuliji v bistvu v suženjstvu, dvojnem sončnem zahodu, o sodelavcu Marvinu, zanimivem srečanju, dezerterstvu v vojski in še čem. Citate je prebral Gašper, ki je napisal [Zgodbe iz karantene](https://www.zgodbeizkarantene.si)! Hvala.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/28p59VPYEEzQQs1ITyKUPf" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/2Iz7lqb) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Money gun na AliPolžu](https://bit.ly/3jbqtr1)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 020: Še bolj dolgočasen planet
 
 Zdravo! V dvajseti epizodi spet o (zaenkrat še) dolgočasni Magrateji. Citat prvič prebere poslušalka Iva, ki ga je posnela na tajnici 05 99 68 68 5 ... hvala! Mi pa o 5G, naročnini za RTV Slovenija, podzemnih železnicah, tudi o 20. poglavju in seveda o začetnicah Z. B., vžganih v Zaphodove možgane. 
@@ -23,12 +40,6 @@ Zdravo! V dvajseti epizodi spet o (zaenkrat še) dolgočasni Magrateji. Citat pr
 
 Zapiski:
 - [Piramida teorij zarot](https://twitter.com/abbieasr/status/1312512066071060480)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 019: Manično depresivni robot
 
