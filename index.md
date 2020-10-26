@@ -13,6 +13,26 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 022: Slartibartfast
+
+Zdravo. V 22tki o delovnem okolju, o tem da je podobnost z realnimi osebami zgolj naključna, o tem zakaj smo zlezli z dreves, o starcu, katerega ime zares ni pomembno, čigar citat prebere [Miha Rekar](https://twitter.com/miharekar/). Pa tudi o fjordih (na Balkanu) in o Damjanu Murku. Mogoče še o čem.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/2ykoKl8GoLbk3mWEVqzEtE" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3jw718m) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Parallel Passion](https://www.parallelpassion.com)
+- [Fjordi in Limski kanal](https://sl.wikipedia.org/wiki/Fjord#Lažni_fjordi)
+- [Damjan Murko - Ritka prehlajena](https://www.youtube.com/watch?v=Jhjr9bfylIw) - (POZOR, ogled videa na lastno odgovornost!)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
+
 ## 021: O rabljenih kulijih
 
 V 42/2 epizodi o rabljenih kulijih, vžigalnikih, planetu rabljenih kulijev, o tem, da so kuliji v bistvu v suženjstvu, dvojnem sončnem zahodu, o sodelavcu Marvinu, zanimivem srečanju, dezerterstvu v vojski in še čem. Citate je prebral Gašper, ki je napisal [Zgodbe iz karantene](https://www.zgodbeizkarantene.si)! Hvala.
@@ -23,12 +43,6 @@ V 42/2 epizodi o rabljenih kulijih, vžigalnikih, planetu rabljenih kulijev, o t
 
 Zapiski:
 - [Money gun na AliPolžu](https://bit.ly/3jbqtr1)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 020: Še bolj dolgočasen planet
 
@@ -263,7 +277,7 @@ V prvi epizodi podkasta o knjigi, ki govori o knjigi _Štoparski vodnik po galak
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/1tSfXAMqxzuJJjG4cASWnL" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://podcasts.apple.com/si/podcast/001-yugo-koral/id1514750013?i=1000476380817) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/3kdLhiZ) (za tiste ki ne vidite iFrameov)!
 
 ## 000: Uvod, v katerem smo našli ime
 
