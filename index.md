@@ -13,6 +13,25 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 023: Delfini in Kip svobode
+
+Zdravo. V iz začetnih časov hojsanja bežno o zaupanja vrednem gospodu, s katerim je Artur šel v zračni voz, astrofizičarka Dunja Fabjan razloži stvar ali dve o paralelnih vesoljih in zabavah, ter prebere citat. Tudi o Twin Peaks, filmih za odrasle, pa tudi o New Yorku in Kipu svobode. Priporočamo podkast [Temna stran Lune](https://anchor.fm/temnastranlune)! 🌘
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/40YKztwXRoWmfEroKtvkcC" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/2HWUT3a) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Kip svobode](https://sl.wikipedia.org/wiki/Kip_svobode)
+- [Wall St.](https://en.wikipedia.org/wiki/Wall_Street#/media/File:CastelloPlanOriginal.jpg)
+- [Jimijeva verzija Star Spangled Banner](https://www.youtube.com/watch?v=TKAwPA14Ni4)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 022: Slartibartfast
 
 Zdravo. V 22tki o delovnem okolju, o tem da je podobnost z realnimi osebami zgolj naključna, o tem zakaj smo zlezli z dreves, o starcu, katerega ime zares ni pomembno, čigar citat prebere [Miha Rekar](https://twitter.com/miharekar/). Pa tudi o fjordih (na Balkanu) in o Damjanu Murku. Mogoče še o čem.
@@ -25,13 +44,6 @@ Zapiski:
 - [Parallel Passion](https://www.parallelpassion.com)
 - [Fjordi in Limski kanal](https://sl.wikipedia.org/wiki/Fjord#Lažni_fjordi)
 - [Damjan Murko - Ritka prehlajena](https://www.youtube.com/watch?v=Jhjr9bfylIw) - (POZOR, ogled videa na lastno odgovornost!)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
-
 
 ## 021: O rabljenih kulijih
 
@@ -113,6 +125,7 @@ Zdravo. Prava petnajsta epizoda (pod zap. št. 16) je v celoti posvečena bajesl
 Zapiski:
 - [Nenavadni primer zvezde Betelgeze](http://portalvvesolje.si/index.php?option=com_content&view=article&id=1971:space-scoop-nenavadni-primer-zvezde-betelgeze&catid=13:space-scoop&Itemid=34)
   
+
 ## 014: Rufen sie an
 
 Zdravo. Petnajsta epizoda prinaša debato o dizlu, nemških markah, enem planetu, o tem kdo spi in kdo ne in da je končno konec tega dolgega četrtka. In o roombi s PČO. Rufen sie an. 
