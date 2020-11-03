@@ -15,7 +15,7 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ## 023: Delfini in Kip svobode
 
-Zdravo. V iz začetnih časov hojsanja bežno o zaupanja vrednem gospodu, s katerim je Artur šel v zračni voz, astrofizičarka Dunja Fabjan razloži stvar ali dve o paralelnih vesoljih in zabavah, ter prebere citat. Tudi o Twin Peaks, filmih za odrasle, pa tudi o New Yorku in Kipu svobode. Priporočamo podkast [Temna stran Lune](https://anchor.fm/temnastranlune)! 🌘
+Zdravo. Iz začetnih časov hojsanja bežno o zaupanja vrednem gospodu, s katerim je Artur šel v zračni voz, astrofizičarka Dunja Fabjan razloži stvar ali dve o paralelnih vesoljih in zabavah, ter prebere citat. Tudi o Twin Peaks, filmih za odrasle, pa tudi o New Yorku in Kipu svobode. Priporočamo podkast [Temna stran Lune](https://anchor.fm/temnastranlune)! 🌘
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/40YKztwXRoWmfEroKtvkcC" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
