@@ -13,6 +13,27 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 025: Majikthise in Vroomfondel
+
+Zdravo! V petindvajseti epizod o digitalnih urah v petindvajsetem poglavju, superračunalniku Fugaku, o tem, da Globoko misel prižgeta Lookwil in Fook, na obisk pa prideta Majikthise in Vroomfondel.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/6tf46FPvvZhXMQ2OOi3NS4" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/2UxNcUo) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Casio Watch A158](https://amzn.to/3f0RBbQ)
+- [Superračunalnik Fugaku](https://en.wikipedia.org/wiki/Fugaku)
+- [Oglas za Amazon, posnet v celoti v Ljubljani, nje](https://www.youtube.com/watch?v=m4ATNalkbGU)
+- [Googleplex Starthinker](https://hitchhikers.fandom.com/wiki/Googleplex_Starthinker)
+- [Davek na dohodek](https://en.wikipedia.org/wiki/Income_tax#Modern_era)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 024: Vse je isto kot na Zemlji
 
 Zdravo. V 24. epizodi o štiriindvajsetem poglavju in tudi o volitvah v ZDA, Seanu Conneryu, podzemnih predorih, hiper-prostoru in neskončnosti, o birokraciji in birokratih in seveda o Zemlji 2.0 ... Ter seveda o miših, ki niso kar se zdijo.
@@ -23,12 +44,6 @@ Zdravo. V 24. epizodi o štiriindvajsetem poglavju in tudi o volitvah v ZDA, Sea
 
 Zapiski
 - [Neskončnost](https://sl.wikipedia.org/wiki/Neskončnost)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 023: Delfini in Kip svobode
 
