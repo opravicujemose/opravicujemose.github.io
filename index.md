@@ -19,8 +19,6 @@ Zdravo! V petindvajseti epizod o digitalnih urah v petindvajsetem poglavju, supe
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6tf46FPvvZhXMQ2OOi3NS4" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/025-majikthise-in-vroomfondel/id1514750013?i=1000498756268&theme=light"></iframe>
-
 Še [povezava do epizode](https://apple.co/2UxNcUo) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
