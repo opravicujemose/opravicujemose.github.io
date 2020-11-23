@@ -13,6 +13,25 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 026: V primeru konca sveta pokrijte avto
+
+Zdravo. V šestindvajseti epizodi celotno poglavje odigrata _Gospoda_ (**Jure Godler** in **David Urankar**), ki prebereta celotno šestindvajseto poglavje. Govorimo o golfu, sreči, hendikepu, o tem kako najti gostilno v skoraj vsaki vasi, tudi o tem kako bi preživeli zadnjo uro na planetu, preden jo zradira komet, in seveda o cepivu proti koroni. Tudi o 26. poglavju.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/082xW49GHyysyI2Qs80r5Q" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/33biEwf) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Podkast **Gospoda** z Juretom Godlerjem in Davidom Urankarjem](https://podcasts.apple.com/si/podcast/gospoda/id1535598780)
+- [Panoramski poleti in skoki s padalom](https://www.lk-sentvid.com/?utm_source=podkast&utm_medium=zapiski&utm_campaign=opravicujemose)
+- Aljotov TRR se bo pokazal tule SI56 XXXX XXXX XXXX XXX eno uro pred prihodom kometa, ki bo ogrožal Zemljo. ☄️
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 025: Majikthise in Vroomfondel
 
 Zdravo! V petindvajseti epizod o digitalnih urah v petindvajsetem poglavju, superračunalniku Fugaku, o tem, da Globoko misel prižgeta Lookwil in Fook, na obisk pa prideta Majikthise in Vroomfondel.
@@ -27,12 +46,6 @@ Zapiski:
 - [Oglas za Amazon, posnet v celoti v Ljubljani, nje](https://www.youtube.com/watch?v=m4ATNalkbGU)
 - [Googleplex Starthinker](https://hitchhikers.fandom.com/wiki/Googleplex_Starthinker)
 - [Davek na dohodek](https://en.wikipedia.org/wiki/Income_tax#Modern_era)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/)
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 024: Vse je isto kot na Zemlji
 
