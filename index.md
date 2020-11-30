@@ -13,6 +13,24 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 027: Odgovor na vprašanje o življenju, vesolju in sploh vsem
+
+Zdravo! V sedemindvajsetem poglavju o velikem odgovoru, o zadnjem špilu Beatlov in o časovnem stroju brez udeležbe. Tudi o tem, da je nekje na svetu ura 17 in o tem, kdaj začet s popivanjem. Citat velikega odgovora prebere Nika! Spet o strahu in grozi v Las Vegasu, tokrat z lastno udeležbo, pa tudi o pričakovanjih, najboljših žurih in o tem, da je treba nositi zaščito pred soncem. In jo tudi poslušati.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/3iJPgqvxadX6DH64X0uG3X" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3lliOYf) (za tiste ki ne vidite iFrameov)!
+
+Zapiski: 
+- [Everybody's Free (To Wear Sunscreen)](https://www.youtube.com/watch?v=sTJ7AzBIJoI)
+- [Odlična zakulisna epizoda BBC-jeve oddaje _The Documentary_ o pesmi **Wear Sunscreen**](https://www.bbc.co.uk/programmes/w3cszvtr)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 026: V primeru konca sveta pokrijte avto
 
 Zdravo. V šestindvajseti epizodi celotno poglavje odigrata _Gospoda_ (**Jure Godler** in **David Urankar**), ki prebereta celotno šestindvajseto poglavje. Govorimo o golfu, sreči, hendikepu, o tem kako najti gostilno v skoraj vsaki vasi, tudi o tem kako bi preživeli zadnjo uro na planetu, preden jo zradira komet, in seveda o cepivu proti koroni. Tudi o 26. poglavju.
@@ -26,11 +44,7 @@ Zapiski:
 - [Panoramski poleti in skoki s padalom](https://www.lk-sentvid.com/?utm_source=podkast&utm_medium=zapiski&utm_campaign=opravicujemose)
 - Aljotov TRR se bo pokazal tule SI56 XXXX XXXX XXXX XXX eno uro pred prihodom kometa, ki bo ogrožal Zemljo. ☄️
 
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+Po novem nas lahko podprete tudi tako, da nam [kupite virtualno kavo na ko-fi.com](https://ko-fi.com/opravicujemose).
 
 ## 025: Majikthise in Vroomfondel
 
