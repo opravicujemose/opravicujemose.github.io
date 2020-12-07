@@ -13,6 +13,25 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 028: Komisijsko uničenje piva
+
+O domačici, o tem kako se zvečer sprehajati po mestu, o željah, o verski skupnosti opravicujemo.se, posvetimo se tudi prejšnji epizodi in knjigam. Tudi o roku trajanja, ter komisijskem uničenju piva. Tudi o osemidvajsetem poglavju, čigar citat prebere **Lenart J. Kučič**, pa tudi kakopak o čipih v glavi. 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/3fdbaJca5PG2LgdTpcBSke" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/2VNI6DW) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [BeerBelly Beer Canteen (na Bezosonu)](https://www.amazon.com/BeerBelly-200-001-80-Ounce-Beer-Belly/dp/B001RB2CXY)
+- [Prepoved osebnega prevzema alkohola in alkoholnih pijač (na prevzemnih mestih)](https://www.ozs.si/novice/od-7122020-na-prevzemnih-mestih-ni-dovoljen-osebni-prevzem-alkohola-in-alkoholnih-pijac-5fca142c2114e0635a9a35ac)
+- [Teorije o pomenu odgovora na vprašanje o življenju, vesolju in sploh vsem](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything_(42))
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
+
 ## 027: Odgovor na vprašanje o življenju, vesolju in sploh vsem
 
 Zdravo! V sedemindvajsetem poglavju o velikem odgovoru, o zadnjem špilu Beatlov in o časovnem stroju brez udeležbe. Tudi o tem, da je nekje na svetu ura 17 in o tem, kdaj začet s popivanjem. Citat velikega odgovora prebere Nika! Spet o strahu in grozi v Las Vegasu, tokrat z lastno udeležbo, pa tudi o pričakovanjih, najboljših žurih in o tem, da je treba nositi zaščito pred soncem. In jo tudi poslušati.
@@ -24,12 +43,6 @@ Zdravo! V sedemindvajsetem poglavju o velikem odgovoru, o zadnjem špilu Beatlov
 Zapiski: 
 - [Everybody's Free (To Wear Sunscreen)](https://www.youtube.com/watch?v=sTJ7AzBIJoI)
 - [Odlična zakulisna epizoda BBC-jeve oddaje _The Documentary_ o pesmi **Wear Sunscreen**](https://www.bbc.co.uk/programmes/w3cszvtr)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 026: V primeru konca sveta pokrijte avto
 
