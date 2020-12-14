@@ -5,13 +5,30 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Št
 
 # Opravičujemo se za vse nevšečnosti 🐋
 
-[Opravičujemo se za vse nevšečnosti](https://apple.co/38zBEWW) je podkast o knjigi _Štoparski vodnik po Galaksiji_, ki so jo, preden je **Douglas Adams** o njej napisali radijsko igro, knjigo (oz. 5 knjig), TV serijo, poznali le redki prebivalci tega nepomembnega modro-zelenega planeta. Z brisačo bo poslušanje lažje.
+[Opravičujemo se za vse nevšečnosti](https://apple.co/38zBEWW) je podkast o življenju, vesolju in sploh vsem ... v katerem po nekem čudnem naključju vsako epizodo obdelamo eno poglavje kultne trilogije v petih delih _Štoparski vodnik po Galaksiji_, ki jo je, ko smo bili še majhni, napisal **Douglas Adams**. Še veš kje imaš brisačo?
 
 Če bi radi podkast podprli, se nanj naročili ali ga ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
 
 P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
+
+## 029: Yooden Vranx
+
+Zdravo. V devetindvajseti epizodi o radiju, Marjanu Kralju, kasetah, cedejih, in glasbi v starih časih. Tudi o navidezno resničnostnih katalogih, o prej omenjenih dobrih starih časih, pa tudi o Zaphodu in Yoodenu Vranxu. O iskanju globjega pomena, o koncu, o teorijah zarote in še čem. Citat prebere [**Lado Bizovičar**](https://www.instagram.com/ladobizovicar/). In o miših. 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/2B9IoMpEfCqINo8R6TvBzz" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3gHwADS) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Lado, Gojko Ajkula in Rifle v <strike>najboljši</strike> edini komediji v Sloveniji](https://optimisti.si/)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 028: Komisijsko uničenje piva
 
@@ -25,12 +42,6 @@ Zapiski:
 - [BeerBelly Beer Canteen (na Bezosonu)](https://www.amazon.com/BeerBelly-200-001-80-Ounce-Beer-Belly/dp/B001RB2CXY)
 - [Prepoved osebnega prevzema alkohola in alkoholnih pijač (na prevzemnih mestih)](https://www.ozs.si/novice/od-7122020-na-prevzemnih-mestih-ni-dovoljen-osebni-prevzem-alkohola-in-alkoholnih-pijac-5fca142c2114e0635a9a35ac)
 - [Teorije o pomenu odgovora na vprašanje o življenju, vesolju in sploh vsem](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything_(42))
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 027: Odgovor na vprašanje o življenju, vesolju in sploh vsem
 
