@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti o knjigi Štoparski vodnik po Galaksiji, ki jo je napisal Douglas Adams.
+title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti.
 ---
 
 # Opravičujemo se za vse nevšečnosti 🐋
@@ -13,6 +13,25 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 030: Fjordi v Afriki
+
+Zdravo. V (enain)trideseti epizodi o poslovni priložnosti za espeje s kombiji, o kanuju na steni, o čolnih, o maskah, pa na hitro o politiki. Citat prebere Darja Sobočan. Hvala! Govorimo še o evoluciji človeštva, zgodovini planeta in bežno o nastanku lune. Pa tudi o svobodi in občutku svobode, o birokraciji, o fjordih v Afriki in o neki na videz nedolžnii Arturjevi izjavi.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/66gvqo8RDjgDsnSojzXKpM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](http://apple.co/3h6VVHF) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Zgodovina vesolja v 8 minutah](https://www.youtube.com/watch?v=C2Ebp7IsPW4)
+- [Zgodovina planeta v 9 minutah](https://www.youtube.com/watch?v=55oDyazPdTU)
+- [Zgodovina Zemlje v 10 minutah](https://www.youtube.com/watch?v=kBs2-J6k8vM)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## 029: Yooden Vranx
 
 Zdravo. V devetindvajseti epizodi o radiju, Marjanu Kralju, kasetah, cedejih, in glasbi v starih časih. Tudi o navidezno resničnostnih katalogih, o prej omenjenih dobrih starih časih, pa tudi o Zaphodu in Yoodenu Vranxu. O iskanju globjega pomena, o koncu, o teorijah zarote in še čem. Citat prebere [**Lado Bizovičar**](https://www.instagram.com/ladobizovicar/). In o miših. 
@@ -23,12 +42,6 @@ Zdravo. V devetindvajseti epizodi o radiju, Marjanu Kralju, kasetah, cedejih, in
 
 Zapiski:
 - [Lado, Gojko Ajkula in Rifle v <strike>najboljši</strike> edini komediji v Sloveniji](https://optimisti.si/)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)!
 
 ## 028: Komisijsko uničenje piva
 
