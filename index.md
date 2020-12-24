@@ -15,13 +15,15 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ## 030: Fjordi v Afriki
 
-Zdravo. V (enain)trideseti epizodi o poslovni priložnosti za espeje s kombiji, o kanuju na steni, o čolnih, o maskah, pa na hitro o politiki. Citat prebere Darja Sobočan. Hvala! Govorimo še o evoluciji človeštva, zgodovini planeta in bežno o nastanku lune. Pa tudi o svobodi in občutku svobode, o birokraciji, o fjordih v Afriki in o neki na videz nedolžnii Arturjevi izjavi.
+Zdravo. V (enain)trideseti epizodi o poslovni priložnosti za espeje s kombiji, o kanuju na steni, o čolnih, o maskah, pa na hitro o politiki. Citat prebere **Darja Sobočan**. Hvala! Govorimo še o evoluciji človeštva, zgodovini planeta in bežno o nastanku lune. Pa tudi o svobodi in občutku svobode, o birokraciji, o fjordih v Afriki in o neki na videz nedolžnii Arturjevi izjavi.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/66gvqo8RDjgDsnSojzXKpM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](http://apple.co/3h6VVHF) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
+- [_Tranzistorij_ - najboljši slovenski glasbeni podkast](https://www.marsowci.net/category/the-tranzistorij/)
+- [_Membranje_ - podkast o knjigah, ki pomagajo razumeti svet](https://www.marsowci.net/category/membranje/)
 - [Zgodovina vesolja v 8 minutah](https://www.youtube.com/watch?v=C2Ebp7IsPW4)
 - [Zgodovina planeta v 9 minutah](https://www.youtube.com/watch?v=55oDyazPdTU)
 - [Zgodovina Zemlje v 10 minutah](https://www.youtube.com/watch?v=kBs2-J6k8vM)
@@ -52,6 +54,8 @@ O domačici, o tem kako se zvečer sprehajati po mestu, o željah, o verski skup
 Še [povezava do epizode](https://apple.co/2VNI6DW) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
+- [_Membranje_ - podkast o knjigah, ki pomagajo razumeti svet](https://www.marsowci.net/category/membranje/)
+- [_Fotkast_ - najbolj fotografski podkast pod Alpami](https://www.marsowci.net/category/fotkast/)
 - [BeerBelly Beer Canteen (na Bezosonu)](https://www.amazon.com/BeerBelly-200-001-80-Ounce-Beer-Belly/dp/B001RB2CXY)
 - [Prepoved osebnega prevzema alkohola in alkoholnih pijač (na prevzemnih mestih)](https://www.ozs.si/novice/od-7122020-na-prevzemnih-mestih-ni-dovoljen-osebni-prevzem-alkohola-in-alkoholnih-pijac-5fca142c2114e0635a9a35ac)
 - [Teorije o pomenu odgovora na vprašanje o življenju, vesolju in sploh vsem](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything_(42))
