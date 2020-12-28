@@ -15,7 +15,7 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ## 030: Fjordi v Afriki
 
-Zdravo. V (enain)trideseti epizodi o poslovni priložnosti za espeje s kombiji, o kanuju na steni, o čolnih, o maskah, pa na hitro o politiki. Citat prebere **Darja Sobočan**. Hvala! Govorimo še o evoluciji človeštva, zgodovini planeta in bežno o nastanku lune. Pa tudi o svobodi in občutku svobode, o birokraciji, o fjordih v Afriki in o neki na videz nedolžnii Arturjevi izjavi.
+Zdravo. V (enain)trideseti epizodi o poslovni priložnosti za espeje s kombiji, o kanuju na steni, o čolnih, o maskah, pa na hitro o politiki. Citat prebere **Darja Potočan**. Hvala! Govorimo še o evoluciji človeštva, zgodovini planeta in bežno o nastanku lune. Pa tudi o svobodi in občutku svobode, o birokraciji, o fjordih v Afriki in o neki na videz nedolžnii Arturjevi izjavi.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/66gvqo8RDjgDsnSojzXKpM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
