@@ -13,6 +13,51 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 033: Še najbolje bi bilo pritisniti ta gumb
+
+V triintrideseti epizodi o uporabnosti gumbov, o tem, a se bomo cepili in da vsaj tri dni po cepljenju ne smemo pit alkohola, o tem iz kje sta bila dva policaja in o pomirjujočem ležanju trupel. Citat prebere **Maruša Kerec**, hvala! 🙏 Tudi o dveh mrtvih policajih, o alternativni zgodbi v radijski igri, o tem, da bi bilo še najbolje pritisniti ta gumb.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/0XQsbpm5LUTv1VZXAUdrf3" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://podcasts.apple.com/si/podcast/033-%C5%A1e-najbolje-bi-bilo-pritisniti-ta-gumb/id1514750013?i=1000504925790) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Odbita do bita](https://val202.rtvslo.si/odbita/)
+- [Številke z dr. Alojzem Ihanom](https://podcasts.apple.com/gb/podcast/173-ekstremno-leto-2020-gost-alojz-ihan/id956766978?i=1000503900356)
+- [Očarljivi skupinski samomor](https://www.dobreknjige.si/Knjiga.aspx?knjiga=1596)
+- [Radijska igra _Hithchhikers Guide to the Galaxy_](https://podcasts.apple.com/podcast/id1542254289)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
+## 032: Koliko cest mora prehoditi človek?
+
+Srečno novo leto in vesel pravoslavni božič. In maužič. V letu 2021 pazite na hrbet, ker je zmanjkalo Peliconovega Ce-piva. Govorimo o tem, da miši iščeta rešitev, da je Magratejin raketni sistem za enkratno uporabo, o dejstvu, da Benko in Franko dokaj hitro najdeta ulitimativno vprašanje, ki si ga sposodita od bodočega nobelovega nagrajenca. In o tem zakaj je bil Bob Dylan pomemben za razvoj popularne glasbe kot jo poznamo. O dveh čutečih policistih, sodobni oborožitvi in kill-o-zapih, citat pa iz 13.000 km oddaljenih Havajev prebere **Ivjana Banić**. Aloha!
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/2L8PIcmUEzPK0qoEKi0Rnv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3odKpgg) (za tiste ki ne vidite iFrameov)!
+
+Zapiski: 
+- [Bob Dylan](https://www.bobdylan.com/)
+- [Untold Dylan - najboljši blog na temo Dylanovih besedil](https://bob-dylan.org.uk/)
+- [Zakaj je Bob Dylan literarni genij](https://www.rollingstone.com/music/music-features/why-bob-dylan-is-a-literary-genius-105108/)
+
+## 031: Kam greste pa kej za nou let?
+
+Zdravo, v enaintrideseti oddaji se sprašujemo kje je bložič, O tkivu časovno prostorskega kontinuuma in obutem mačku. O Arturjevi varnosti in o vegovskem (veganskem?) nosorogu in o Benku in Franku. Citat prebere **Nina Kožar** iz Knjigobežnic. Mi tudi o preklicanih naročilih, o poslu, o navadah in o ultimativnem vprašanju. Pa tudi o branju in pranju možganov in o tinitusu. In o tem zakaj je birokracija včasih tudi fajn. 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/1HCIklu1RpvB34yBGyU5mP" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3hpuUiC) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Knjigobežnice](https://www.facebook.com/groups/knjigobeznice)
+- [Birokracija na Wikipediji](https://en.wikipedia.org/wiki/Bureaucracy)
+
 ## 030: Fjordi v Afriki
 
 Zdravo. V (enain)trideseti epizodi o poslovni priložnosti za espeje s kombiji, o kanuju na steni, o čolnih, o maskah, pa na hitro o politiki. Citat prebere **Darja Potočan**. Hvala! Govorimo še o evoluciji človeštva, zgodovini planeta in bežno o nastanku lune. Pa tudi o svobodi in občutku svobode, o birokraciji, o fjordih v Afriki in o neki na videz nedolžnii Arturjevi izjavi.
@@ -27,12 +72,6 @@ Zapiski:
 - [Zgodovina vesolja v 8 minutah](https://www.youtube.com/watch?v=C2Ebp7IsPW4)
 - [Zgodovina planeta v 9 minutah](https://www.youtube.com/watch?v=55oDyazPdTU)
 - [Zgodovina Zemlje v 10 minutah](https://www.youtube.com/watch?v=kBs2-J6k8vM)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## 029: Yooden Vranx
 
