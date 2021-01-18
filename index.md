@@ -13,6 +13,28 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 034: Nič te bolj ne osreči, kot pogled na tujo nesrečo
+
+Zdravo, v predzadnji epizodi o tem kaj lahko otroci gledajo brez spremstva staršev. O tem da Biblos aplikacija ne dela. Ali pa dela slabo. O tem katere radije poslušamo. In o Radiu Študent. Tudi o hitrosti govorimo, ne samo o hitrosti R17, katere definicijo prebere **Nataša Briški**! Hvala! 🙏 O tem, da človek čuti, kda je ladja popolnoma mrtva in o tem zakaj in kako sta tista dva policaja odapela papke. Za vse je kriv Marvin, ki je zamorjen za umret, ... kar občuti tudi prej omenjena mrtva ladja. Tudi o tuji nesreči. 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/2zkdQSGvi8k2Q1fkoqigPN" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](http://apple.co/38VpSrI) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Radio Študent](https://koalicija.radiostudent.si/)
+- [SSC Tuatara](https://en.wikipedia.org/wiki/SSC_Tuatara)
+- [Seznam najhitrejših reči](https://en.wikipedia.org/wiki/List_of_vehicle_speed_records)
+- [Metin čaj](https://podcasts.apple.com/si/podcast/metin-%C4%8Daj/id730083653)
+- [LD;GD](https://podcasts.apple.com/si/podcast/ld-gd/id1458208652)
+- [Evropska četrt](https://podcasts.apple.com/si/podcast/evropska-%C4%8Detrt/id1286259337)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## 033: Še najbolje bi bilo pritisniti ta gumb
 
 V triintrideseti epizodi o uporabnosti gumbov, o tem, a se bomo cepili in da vsaj tri dni po cepljenju ne smemo pit alkohola, o tem iz kje sta bila dva policaja in o pomirjujočem ležanju trupel. Citat prebere **Maruša Kerec**, hvala! 🙏 Tudi o dveh mrtvih policajih, o alternativni zgodbi v radijski igri, o tem, da bi bilo še najbolje pritisniti ta gumb.
@@ -26,12 +48,6 @@ Zapiski:
 - [Številke z dr. Alojzem Ihanom](https://podcasts.apple.com/gb/podcast/173-ekstremno-leto-2020-gost-alojz-ihan/id956766978?i=1000503900356)
 - [Očarljivi skupinski samomor](https://www.dobreknjige.si/Knjiga.aspx?knjiga=1596)
 - [Radijska igra _Hithchhikers Guide to the Galaxy_](https://podcasts.apple.com/podcast/id1542254289)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## 032: Koliko cest mora prehoditi človek?
 
