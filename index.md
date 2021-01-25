@@ -13,6 +13,26 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 035: Kam gremo na kosilo?
+
+Zdravo, v zadnji epizodi (prve sezone, oz. prve knjige) o vinu v vojski, o tem ali bomo imeli pavzo preden gremo do Restavracije ob koncu vesolja. In o najnižjem skupnem imenovalcu, pa o depresivnem robotu, ki rešuje življenja. Tudi o meglici Konjska glava in pritlikavi galaksiji 4214 ter o šnopcu. Citat prebere poslušalec Damjan, ki je poklical na tajnico, juhej! Hvala! Mi pa o stopnjah razvoja civilizacij, vilicah, kravati in o hrani. Tudi o empatičnem Zaphodu, radijski igri in imenih za knjige. Ob koncu epizode imamo rahlo solzne oči. In tudi objemali bi se. Ampak ne gre. Mogoče ob koncu druge sezone. Hvala vsem za poslušanje. Najboljši ste! 🙏 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/1V9eskfSHuuJXW1ifGG5pP" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](http://apple.co/3qMOrgq) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Meglica Konjska glava](https://sl.wikipedia.org/wiki/Konjska_glava_(meglica))
+- [Hrib Konjska glava](https://hr.wikipedia.org/wiki/Konjska_glava_(brdo))
+- [Pritlikava galaksija](https://sl.wikipedia.org/wiki/Pritlikava_galaksija)
+- [Sirni & mesni - Ali En](https://www.youtube.com/watch?v=DrULd4PvNhE)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## 034: Nič te bolj ne osreči, kot pogled na tujo nesrečo
 
 Zdravo, v predzadnji epizodi o tem kaj lahko otroci gledajo brez spremstva staršev. O tem da Biblos aplikacija ne dela. Ali pa dela slabo. O tem katere radije poslušamo. In o Radiu Študent. Tudi o hitrosti govorimo, ne samo o hitrosti R17, katere definicijo prebere **Nataša Briški**! Hvala! 🙏 O tem, da človek čuti, kda je ladja popolnoma mrtva in o tem zakaj in kako sta tista dva policaja odapela papke. Za vse je kriv Marvin, ki je zamorjen za umret, ... kar občuti tudi prej omenjena mrtva ladja. Tudi o tuji nesreči. 
@@ -28,12 +48,6 @@ Zapiski:
 - [Metin čaj](https://podcasts.apple.com/si/podcast/metin-%C4%8Daj/id730083653)
 - [LD;GD](https://podcasts.apple.com/si/podcast/ld-gd/id1458208652)
 - [Evropska četrt](https://podcasts.apple.com/si/podcast/evropska-%C4%8Detrt/id1286259337)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## 033: Še najbolje bi bilo pritisniti ta gumb
 
@@ -170,7 +184,7 @@ Zapiski
 
 ## 023: Delfini in Kip svobode
 
-Zdravo. Iz začetnih časov hojsanja bežno o zaupanja vrednem gospodu, s katerim je Artur šel v zračni voz, astrofizičarka Dunja Fabjan razloži stvar ali dve o paralelnih vesoljih in zabavah, ter prebere citat. Tudi o Twin Peaks, filmih za odrasle, pa tudi o New Yorku in Kipu svobode. Priporočamo podkast [Temna stran Lune](https://anchor.fm/temnastranlune)! 🌘
+Zdravo. Iz začetnih časov hojsanja bežno o zaupanja vrednem gospodu, s katerim je Artur šel v zračni voz, astrofizičarka **Dunja Fabjan** razloži stvar ali dve o paralelnih vesoljih in zabavah, ter prebere citat. Tudi o Twin Peaks, filmih za odrasle, pa tudi o New Yorku in Kipu svobode. Priporočamo podkast [Temna stran Lune](https://anchor.fm/temnastranlune)! 🌘
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/40YKztwXRoWmfEroKtvkcC" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
