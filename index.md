@@ -15,7 +15,7 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ## 036: Uvod v drugo knjigo
 
-Uvod v _Restavracijo ob koncu vesolja_ prebere nihče drug kot **Alojz Kodre**. V epizodi govorimo tudi o tem, da smo moški bolj predvidljivi kot ženske, nanizamo nekaj dejstev o Štoparcu. Namesto obnove 1. knjige razglabljamo o zapisu o _Štoparskem vodniku po galaksiji_ na slovenski Wikipediji. Nismo zadovoljni. Ugotovimo tudi da so ženske gibalo napredka in da moški, če bi znali zvariti pivo na drevju, sploh ne bi splezali dol.
+Uvod v _Restavracijo ob koncu vesolja_ prebere nihče drug kot **Alojz Kodre**. V epizodi govorimo tudi o tem, da smo moški bolj predvidljivi kot ženske in nanizamo nekaj dejstev o Štoparcu. Namesto obnove 1. knjige razglabljamo o zapisu o _Štoparskem vodniku po galaksiji_ na slovenski Wikipediji. Nismo zadovoljni. Ugotovimo tudi da so ženske gibalo napredka in da moški, če bi znali zvariti pivo na drevju, sploh ne bi splezali dol.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6ko6dykanAqyVM5VVGk3Qv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
