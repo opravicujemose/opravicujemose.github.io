@@ -13,6 +13,24 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 036: Uvod v drugo knjigo
+
+Uvod v _Restavracijo ob koncu vesolja_ prebere nihče drug kot **Alojz Kodre**. V epizodi govorimo tudi o tem, da smo moški bolj predvidljivi kot ženske, nanizamo nekaj dejstev o Štoparcu. Namesto obnove 1. knjige razglabljamo o zapisu o _Štoparskem vodniku po galaksiji_ na slovenski Wikipediji. Nismo zadovoljni. Ugotovimo tudi da so ženske gibalo napredka in da moški, če bi znali zvariti pivo na drevju, sploh ne bi splezali dol.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/6ko6dykanAqyVM5VVGk3Qv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](http://apple.co/2Mq5S7R) (za tiste ki ne vidite iFrameov)!
+
+Zapiski
+- [Zapis o Štoparcu na slovenski Wikipediji](https://sl.wikipedia.org/wiki/%C5%A0toparski_vodnik_po_galaksiji) - vabljeni, da ga pomagate urediti
+- [Alojz Kodre v epizodi Membranja)](http://www.marsowci.net/membranje/03/25/021-membranje-stopanje-po-galaksiji-z-alojzom-kodretom/)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## 035: Kam gremo na kosilo?
 
 Zdravo, v zadnji epizodi (prve sezone, oz. prve knjige) o vinu v vojski, o tem ali bomo imeli pavzo preden gremo do Restavracije ob koncu vesolja. In o najnižjem skupnem imenovalcu, pa o depresivnem robotu, ki rešuje življenja. Tudi o meglici Konjska glava in pritlikavi galaksiji 4214 ter o šnopcu. Citat prebere poslušalec Damjan, ki je poklical na tajnico, juhej! Hvala! Mi pa o stopnjah razvoja civilizacij, vilicah, kravati in o hrani. Tudi o empatičnem Zaphodu, radijski igri in imenih za knjige. Ob koncu epizode imamo rahlo solzne oči. In tudi objemali bi se. Ampak ne gre. Mogoče ob koncu druge sezone. Hvala vsem za poslušanje. Najboljši ste! 🙏 
@@ -26,12 +44,6 @@ Zapiski:
 - [Hrib Konjska glava](https://hr.wikipedia.org/wiki/Konjska_glava_(brdo))
 - [Pritlikava galaksija](https://sl.wikipedia.org/wiki/Pritlikava_galaksija)
 - [Sirni & mesni - Ali En](https://www.youtube.com/watch?v=DrULd4PvNhE)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivoravna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## 034: Nič te bolj ne osreči, kot pogled na tujo nesrečo
 
@@ -245,7 +257,7 @@ Zdravo. V devetnajsti epizodi o manično depresivnem robotu. Njegov citat preber
 
 ## 018: Kit glavač Rudonja
 
-O kitu in loncu petunij. Tudi o tatujih s kitom in loncom petunij. O najlepši ljulki v Galaksiji. In randmo workday popivanju. Citat prebere lastnik le-te, Ismet iz Horjula (iz Celja). Govorimo tudi o tujih jezikih in zakaj je srbohrvaščina svetovni jezik. Ter o jedrskih elektrarnah in kolesarnicah. In o bistromatičnem Žmaucu. Pa še o sondi Pioneer, ker seveda o kitu glavaču, z imenom Rudonja. In o stvareh, ki jih ne moremo razumeti.
+O kitu in loncu petunij. Tudi o tatujih s kitom in loncom petunij. O najlepši ljulki v galaksiji. In randmo workday popivanju. Citat prebere lastnik le-te, Ismet iz Horjula (iz Celja). Govorimo tudi o tujih jezikih in zakaj je srbohrvaščina svetovni jezik. Ter o jedrskih elektrarnah in kolesarnicah. In o bistromatičnem Žmaucu. Pa še o sondi Pioneer, ker seveda o kitu glavaču, z imenom Rudonja. In o stvareh, ki jih ne moremo razumeti.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/5oMWH1lw55u4NPGRP00Mt0" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -423,7 +435,7 @@ Zapiski:
 
 ## 003: Vključite rušilni žarek
 
-V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige Štoparski vodnik po Galaksiji, definicijo brisače, ki jo prebere hupi frud (in fizik) **dr. Matjaž Ličer**, končno smo priča koncu sveta, ki ga zakuhajo Vogoni, čustvenček za brisačo ne obstaja, ... in povabimo Boruta Pahorja da prebere definicijo predsednika Galaksije.
+V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige _Štoparski vodnik po galaksiji_, definicijo brisače, ki jo prebere hupi frud (in fizik) **dr. Matjaž Ličer**, končno smo priča koncu sveta, ki ga zakuhajo Vogoni, čustvenček za brisačo ne obstaja, ... in povabimo Boruta Pahorja da prebere definicijo predsednika galaksije.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6MHVxWADPTXYoh9moPncCM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
