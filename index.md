@@ -13,6 +13,18 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 037: Konjska vprega
+
+Zdravo. Druga epizoda druge sezone prinaša pogovor o prvem poglavju druge knjige, govorimo o ekonomsko propagandnih programih, živih vklopih prek spleta, konjski vpregi, o vladi, o velikim zelenem Čihokrču ter jasno, tudi o bogovih. Ustavimo se v Sv. Tomažu nad Ormožem, obdelamo veliki računalnik 🌍, ugotovimo, da smo brihtni, citat pa prebere **Maja Čakarić** - strašno huda polovica podkasta Strašno hudi, pa i šire. Pred pečinaobešalnikom pa v kader, kot se za začetek knjige spodobi, padejo vogoni.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5VTedhxNRYDftJwZOu2Azm" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3a0VuwC) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Kojna je na tla vrgu](https://www.youtube.com/watch?v=4Zgekd_W684)
+- [Strašno hudi podkast](https://www.strasnohudi.si/)
+
 ## 036: Uvod v drugo knjigo
 
 Uvod v _Restavracijo ob koncu vesolja_ prebere nihče drug kot **Alojz Kodre**. V epizodi govorimo tudi o tem, da smo moški bolj predvidljivi kot ženske in nanizamo nekaj dejstev o Štoparcu. Namesto obnove 1. knjige razglabljamo o zapisu o _Štoparskem vodniku po galaksiji_ na slovenski Wikipediji. Nismo zadovoljni. Ugotovimo tudi da so ženske gibalo napredka in da moški, če bi znali zvariti pivo na drevju, sploh ne bi splezali dol.
