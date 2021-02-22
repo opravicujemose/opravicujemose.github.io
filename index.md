@@ -19,6 +19,10 @@ Zdravo. 39. epizodo začnemo s sluhom, praznovanjem rojstnodnevnih zabav, 20. ob
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4cbdbn2BJ8zMc1f8vUJVSS" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
+Zapiski:
+- [Podkast Lovim ravnotežje](https://podcasts.apple.com/us/podcast/lovim-ravnote%C5%BEje/id1488492687)
+- [NinaGaspari.com](https://ninagaspari.com/)
+
 Še [povezava do epizode](https://apple.co/3b0tc4k) (za tiste ki ne vidite iFrameov)!
 
 Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
@@ -34,6 +38,12 @@ Zdravo. Smo v oranžni fazi in v novi normalnosti. V 38. epizodi o dobrih gostil
 <iframe src="https://open.spotify.com/embed-podcast/episode/4j6EQUZWPfPBBtMnqx2LMJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Še [povezava do epizode](https://apple.co/3b0tc4k) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Piškotarna](https://piskotarna.wordpress.com/)
+- [Meta PHoDcast](https://metinalista.si/category/phodcast/)
+- [Znanstvena redakcija Radia Študent](https://www.facebook.com/znanstvenaredakcijars/)
+- [sledilnik.org](https://covid-19.sledilnik.org/sl/stats)
 
 ## 037: Konjska vprega
 
