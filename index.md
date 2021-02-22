@@ -13,9 +13,31 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 039: Štiri hokejske minute
+
+Zdravo. 39. epizodo začnemo s sluhom, praznovanjem rojstnodnevnih zabav, 20. obletnici Aljotove domače pivovarne, dobimo idejo za Opravičujemo se pivo, govorimo pa tudi o Bitcoinu, penziji in napadu na Kapitol. Kam vse nas zanese, če se pogovarjamo o našem najljubšem Zemljanu. Tudi o drugem poglavju druge knjige. O odštevanju, o Arturju, o relativnosti, Zaphodu Beeblebroxu četrtem, napredku in še čem. Citat prebere **Nina Gaspari**, hvala! 🙏 Ne vemo zakaj in od kje, ampak govorimo tudi o formuli 1. 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/4cbdbn2BJ8zMc1f8vUJVSS" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3b0tc4k) (za tiste ki ne vidite iFrameov)!
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
+## 038: Miselni higienik
+
+Zdravo. Smo v oranžni fazi in v novi normalnosti. V 38. epizodi o dobrih gostilnah in o kisli vodi. Tudi o delu in nalogah miselnega higienika, o vogonfluencerjih, algoritmih, računalniku Ediju in še čem. Citat prebere **dr. Zarja Muršič** (hvala 🙏), mi pa tudi o čaju in kavi iz avtomata, o Italijanih, še malo o čaju in Japoncih. Ne moremo mimo Marvina, čeprav ga v tem poglavju praktično ni. Marvin je pač tak robot. 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/4j6EQUZWPfPBBtMnqx2LMJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3b0tc4k) (za tiste ki ne vidite iFrameov)!
+
 ## 037: Konjska vprega
 
-Zdravo. Druga epizoda druge sezone prinaša pogovor o prvem poglavju druge knjige, govorimo o ekonomsko propagandnih programih, živih vklopih prek spleta, konjski vpregi, o vladi, o velikim zelenem Čihokrču ter jasno, tudi o bogovih. Ustavimo se v Sv. Tomažu nad Ormožem, obdelamo veliki računalnik 🌍, ugotovimo, da smo brihtni, citat pa prebere **Maja Čakarić** - strašno huda polovica podkasta Strašno hudi, pa i šire. Pred pečinaobešalnikom pa v kader, kot se za začetek knjige spodobi, padejo vogoni.
+Zdravo. Druga epizoda druge sezone prinaša pogovor o prvem poglavju druge knjige, govorimo o ekonomsko propagandnih programih, živih vklopih prek spleta, konjski vpregi, o vladi, o velikim zelenem Čihokrču ter jasno, tudi o bogovih. Ustavimo se v Sv. Tomažu nad Ormožem, obdelamo veliki računalnik 🌍, ugotovimo, da smo brihtni, citat pa prebere **Maja Čakarić** - strašno huda polovica podkasta Strašno hudi, pa i šire. Hvala! 🙏 Pred pečinaobešalnikom pa v kader, kot se za začetek knjige spodobi, padejo vogoni.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/5VTedhxNRYDftJwZOu2Azm" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -27,7 +49,7 @@ Zapiski:
 
 ## 036: Uvod v drugo knjigo
 
-Uvod v _Restavracijo ob koncu vesolja_ prebere nihče drug kot **Alojz Kodre**. V epizodi govorimo tudi o tem, da smo moški bolj predvidljivi kot ženske in nanizamo nekaj dejstev o Štoparcu. Namesto obnove 1. knjige razglabljamo o zapisu o _Štoparskem vodniku po galaksiji_ na slovenski Wikipediji. Nismo zadovoljni. Ugotovimo tudi da so ženske gibalo napredka in da moški, če bi znali zvariti pivo na drevju, sploh ne bi splezali dol.
+Uvod v _Restavracijo ob koncu vesolja_ prebere nihče drug kot **Alojz Kodre**. Hvala! V epizodi govorimo tudi o tem, da smo moški bolj predvidljivi kot ženske in nanizamo nekaj dejstev o Štoparcu. Namesto obnove 1. knjige razglabljamo o zapisu o _Štoparskem vodniku po galaksiji_ na slovenski Wikipediji. Nismo zadovoljni. Ugotovimo tudi da so ženske gibalo napredka in da moški, če bi znali zvariti pivo na drevju, sploh ne bi splezali dol.
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6ko6dykanAqyVM5VVGk3Qv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -36,12 +58,6 @@ Uvod v _Restavracijo ob koncu vesolja_ prebere nihče drug kot **Alojz Kodre**. 
 Zapiski
 - [Zapis o Štoparcu na slovenski Wikipediji](https://sl.wikipedia.org/wiki/%C5%A0toparski_vodnik_po_galaksiji) - vabljeni, da ga pomagate urediti
 - [Alojz Kodre v epizodi Membranja)](http://www.marsowci.net/membranje/03/25/021-membranje-stopanje-po-galaksiji-z-alojzom-kodretom/)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## 035: Kam gremo na kosilo?
 
