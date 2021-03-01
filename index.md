@@ -13,6 +13,24 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## 040: Blažena voda na Woltu
+
+Zdravo. 41 epizoda pod zap. št. 040 prinaša debato o tem al' bomo mel piknik 🧺 al' Zencastr. In o tem, kaj je to snemanje v živo v studiu. O bodočem pivu pivovarne Pelicon in našega podkasta - Pangalaktični pivorez 🍻. O tem kdo ima raje pivo. O dokončni zmagi psihiatrov, ki nočejo priti do ultimativnega vprašanja, do smisla življenja in o tem, da je vesolje imelo drugačne načrte. O smislu življenja in kam so ga bogovi skrili. O zenu ... in alkoholu. O srednji poti, o budi na TikToku, o tem, da ima voda spomin (kot v Frozen II). Citat prebere **Ana Ruter**, hvala! 🙏 Mi pa še malo o čaju, pivu in vinu, ter o Trbovljah. 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/75FzwM9g4QkU3T7UAwyNOQ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/2Ssv6C5) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Trbovlje](https://www.trbovlje.si/)
+- [Ledeno kraljestvo II](https://www.youtube.com/watch?v=a8yn_MO8VWA)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## 039: Štiri hokejske minute
 
 Zdravo. 39. epizodo začnemo s sluhom, praznovanjem rojstnodnevnih zabav, 20. obletnici Aljotove domače pivovarne, dobimo idejo za Opravičujemo se pivo, govorimo pa tudi o Bitcoinu, penziji in napadu na Kapitol. Kam vse nas zanese, če se pogovarjamo o našem najljubšem Zemljanu. Tudi o drugem poglavju druge knjige. O odštevanju, o Arturju, o relativnosti, Zaphodu Beeblebroxu četrtem, napredku in še čem. Citat prebere **Nina Gaspari**, hvala! 🙏 Ne vemo zakaj in od kje, ampak govorimo tudi o formuli 1. 
@@ -22,14 +40,6 @@ Zdravo. 39. epizodo začnemo s sluhom, praznovanjem rojstnodnevnih zabav, 20. ob
 Zapiski:
 - [Podkast Lovim ravnotežje](https://podcasts.apple.com/us/podcast/lovim-ravnote%C5%BEje/id1488492687)
 - [NinaGaspari.com](https://ninagaspari.com/)
-
-Še [povezava do epizode](https://apple.co/3b0tc4k) (za tiste ki ne vidite iFrameov)!
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## 038: Miselni higienik
 
