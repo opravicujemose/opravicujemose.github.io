@@ -15,9 +15,7 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ## 042: Žuželka v veži
 
-Zdravo! V epizodi zap. št. 42 o črnih lučkah, štumfih, vročem telefonu, zvočnih efektih, snemanju našega živega nastopa v Stožicah, tudi o 6. druge knjige. Žuželka v preddverju napravi vtis na nas kot Veso v Naši mali kliniki. Sprašujemo se zakaj so bili šanki v starih socialističnih bifejih iz kroma. Govorimo tudi o tem, da se moti življenje, Štoparski vodnik nikoli, da Marvin ni hotel it samo seb na živce, ampak še komu drugemu, o dvigalih, s katerimi pridemo v 15. nadstropje, kjer Zarniwoopa ni, ker nima uradnih ur. 
-Zapiski so na opravicujemo.se ...
-Hvala ker nas poslušate, podpirate in sledite. Povsod smo @opravicujemose ...
+Zdravo! V epizodi zap. št. 42 o črnih lučkah, štumfih, vročem telefonu, zvočnih efektih, snemanju našega živega nastopa v Stožicah, tudi o 6. poglavju druge knjige. Žuželka v preddverju napravi vtis na nas kot Veso v Naši mali kliniki. Sprašujemo se zakaj so bili šanki v starih socialističnih bifejih iz kroma. Govorimo tudi o tem, da se moti življenje, Štoparski vodnik nikoli, da Marvin ni hotel it samo seb na živce, ampak še komu drugemu, o dvigalih, s katerimi pridemo v 15. nadstropje, kjer Zarniwoopa ni, ker nima uradnih ur. 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6hnisRiAg4nSEQrg6BGy7S" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
