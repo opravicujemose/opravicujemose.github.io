@@ -13,17 +13,20 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
-## 040: Blažena voda na Woltu
+## 042: Žuželka v veži
 
-Zdravo. 41 epizoda pod zap. št. 040 prinaša debato o tem al' bomo mel piknik 🧺 al' Zencastr. In o tem, kaj je to snemanje v živo v studiu. O bodočem pivu pivovarne Pelicon in našega podkasta - Pangalaktični pivorez 🍻. O tem kdo ima raje pivo. O dokončni zmagi psihiatrov, ki nočejo priti do ultimativnega vprašanja, do smisla življenja in o tem, da je vesolje imelo drugačne načrte. O smislu življenja in kam so ga bogovi skrili. O zenu ... in alkoholu. O srednji poti, o budi na TikToku, o tem, da ima voda spomin (kot v Frozen II). Citat prebere **Ana Ruter**, hvala! 🙏 Mi pa še malo o čaju, pivu in vinu, ter o Trbovljah. 
+Zdravo! V epizodi zap. št. 42 o črnih lučkah, štumfih, vročem telefonu, zvočnih efektih, snemanju našega živega nastopa v Stožicah, tudi o 6. druge knjige. Žuželka v preddverju napravi vtis na nas kot Veso v Naši mali kliniki. Sprašujemo se zakaj so bili šanki v starih socialističnih bifejih iz kroma. Govorimo tudi o tem, da se moti življenje, Štoparski vodnik nikoli, da Marvin ni hotel it samo seb na živce, ampak še komu drugemu, o dvigalih, s katerimi pridemo v 15. nadstropje, kjer Zarniwoopa ni, ker nima uradnih ur. 
+Zapiski so na opravicujemo.se ...
+Hvala ker nas poslušate, podpirate in sledite. Povsod smo @opravicujemose ...
 
-<iframe src="https://open.spotify.com/embed-podcast/episode/75FzwM9g4QkU3T7UAwyNOQ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed-podcast/episode/6hnisRiAg4nSEQrg6BGy7S" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://apple.co/2Ssv6C5) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](http://apple.co/3qIGPv7) (za tiste ki ne vidite iFrameov)!
 
-Zapiski:
-- [Trbovlje](https://www.trbovlje.si/)
-- [Ledeno kraljestvo II](https://www.youtube.com/watch?v=a8yn_MO8VWA)
+Zapiski
+- [Leteči stol Ludvika XV.](https://www.reddit.com/r/todayilearned/comments/ccuwr8/til_that_louis_xv_had_his_own_personal_elevator/)
+- [Dvigalo v podkastu 50 Things That Made The Modern Economy](https://www.bbc.co.uk/programmes/p04yzrqv)
+- [Horizonalno / vertikalno dvigalo v Genovi](https://www.youtube.com/watch?v=A739p5HkRZ8)
 
 Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
 
@@ -31,11 +34,38 @@ Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseri
 
 S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
+## 041: Vsak bajt šteje
+
+Zdravo! V 41. epizodi govorimo o programerjih v Sirijski korporaciji, prijaznem štoparskem vesolju, o tem, kje dobit dober čaj, o traktorjih in SUV-jih in o beti Malega voza. Ugotovimo da Svetlo mesto ni sveto, preskočimo politiko, vero in Elona in gremo na Mikonos, kjer se radi kažejo bogati Zemljani. Citat prebere Ula Furlan, hvala! 🙏 Sprašujemo se kako se je Zaphod znašel na Beti Malega voza z očali Džoo Džanta 200. Tudi o tem kako hupi bi bil Zaphod na Instagramu in na TikToku. Še bolj kot Borut Pahor.
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/6QSswpfiKwtEQUNPuQztwJ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/30tLeqN) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Beta Malega voza](https://hitchhikers.fandom.com/wiki/Ursa_Minor_Beta)
+- [Mali voz](https://en.wikipedia.org/wiki/Ursa_Minor)
+- [Ula na Instagramu](https://www.instagram.com/ulaf/)
+
+## 040: Blažena voda na Woltu
+
+Zdravo. 41 epizoda pod zap. št. 040 prinaša debato o tem al' bomo mel piknik 🧺 al' Zencastr. In o tem, kaj je to snemanje v živo v studiu. O bodočem pivu pivovarne Pelicon in našega podkasta - Pangalaktični pivorez 🍻. O tem kdo ima raje pivo. O dokončni zmagi psihiatrov, ki nočejo priti do ultimativnega vprašanja, do smisla življenja in o tem, da je vesolje imelo drugačne načrte. O smislu življenja in kam so ga bogovi skrili. O zenu ... in alkoholu. O srednji poti, o budi na TikToku, o tem, da ima voda spomin (kot v Frozen II). Citat prebere **Ana Ruter**, hvala! 🙏 Mi pa še malo o čaju, pivu in vinu, ter o Trbovljah. 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/75FzwM9g4QkU3T7UAwyNOQ" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/2ObWo0w) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Trbovlje](https://www.trbovlje.si/)
+- [Ledeno kraljestvo II](https://www.youtube.com/watch?v=a8yn_MO8VWA)
+
 ## 039: Štiri hokejske minute
 
 Zdravo. 39. epizodo začnemo s sluhom, praznovanjem rojstnodnevnih zabav, 20. obletnici Aljotove domače pivovarne, dobimo idejo za Opravičujemo se pivo, govorimo pa tudi o Bitcoinu, penziji in napadu na Kapitol. Kam vse nas zanese, če se pogovarjamo o našem najljubšem Zemljanu. Tudi o drugem poglavju druge knjige. O odštevanju, o Arturju, o relativnosti, Zaphodu Beeblebroxu četrtem, napredku in še čem. Citat prebere **Nina Gaspari**, hvala! 🙏 Ne vemo zakaj in od kje, ampak govorimo tudi o formuli 1. 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/4cbdbn2BJ8zMc1f8vUJVSS" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3pJuEgZ) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
 - [Podkast Lovim ravnotežje](https://podcasts.apple.com/us/podcast/lovim-ravnote%C5%BEje/id1488492687)
