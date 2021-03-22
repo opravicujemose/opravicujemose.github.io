@@ -13,6 +13,26 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## Noulet skoz
+
+Zdravo. Tokrat obdelamo 7. poglavje 2. knjige. V štartu so na tapeti Shure, Gustinčič, palestinski konflikt in sirska vojna, 10.000 beguncev in vardisti. Samo v prvih treh minutah. Aljo pravi, da si čipov vgrajevat v glavo ne bo pustil. Razpravljamo o Patrii v roza barvi. Marvin se sreča z žabonskim tankom D klase, Peli pa pove kako je bilo, ko se je srečal s tankom T-84. O pepelniku v pisarni in v kajenju v pisarnah, o kadilcih in o tem, da je zloraba vsake snovi problematična. Tudi o tem, da je razlika med zdravilom in strupom v količini. Citat, kjer slišimo kaj je Zaphod pustil Marvinu, prebere **Ana Maria Mitić**! Hvala. 🙏 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/2JSwMExhmQQeeUapnFxuqY" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](http://apple.co/317nIAg) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Run The Jewels - JU$T [ft. Pharrell Williams and Zack de la Rocha] (Art Video)](https://www.youtube.com/watch?v=vYPIOaqNlyg)
+- [Desetletje sirske vojne je ukradlo prihodnost milijonov](https://www.delo.si/novice/svet/desetletje-sirske-vojne-je-ukradlo-prihodnost-milijonov/)
+- [Tank T-84 (na Wikipediji mu pravijo M-84)](https://sl.wikipedia.org/wiki/M-84) (čeprav, kaj pa Wikipedija ve, v Slovenski vojski so rekli T-84 in takrat, ko je bil Peli v vojski, je bil obrambni minister naš trenutni PV in on ve!!!)
+- [MamaMaria.si](https://www.mamamaria.si/)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## 042: Žuželka v veži
 
 Zdravo! V epizodi zap. št. 42 o črnih lučkah, štumfih, vročem telefonu, zvočnih efektih, snemanju našega živega nastopa v Stožicah, tudi o 6. poglavju druge knjige. Žuželka v preddverju napravi vtis na nas kot Veso v Naši mali kliniki. Sprašujemo se zakaj so bili šanki v starih socialističnih bifejih iz kroma. Govorimo tudi o tem, da se moti življenje, Štoparski vodnik nikoli, da Marvin ni hotel it samo seb na živce, ampak še komu drugemu, o dvigalih, s katerimi pridemo v 15. nadstropje, kjer Zarniwoopa ni, ker nima uradnih ur. 
@@ -25,12 +45,6 @@ Zapiski
 - [Leteči stol Ludvika XV.](https://www.reddit.com/r/todayilearned/comments/ccuwr8/til_that_louis_xv_had_his_own_personal_elevator/)
 - [Dvigalo v podkastu 50 Things That Made The Modern Economy](https://www.bbc.co.uk/programmes/p04yzrqv)
 - [Horizonalno / vertikalno dvigalo v Genovi](https://www.youtube.com/watch?v=A739p5HkRZ8)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## 041: Vsak bajt šteje
 
