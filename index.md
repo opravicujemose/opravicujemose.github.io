@@ -14,6 +14,7 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 ### Epizode
 
 ## Noulet skoz
+###### #043 aka S02E07
 
 Zdravo. Tokrat obdelamo 7. poglavje 2. knjige. V štartu so na tapeti Shure, Gustinčič, palestinski konflikt in sirska vojna, 10.000 beguncev in vardisti. Samo v prvih treh minutah. Aljo pravi, da si čipov vgrajevat v glavo ne bo pustil. Razpravljamo o Patrii v roza barvi. Marvin se sreča z žabonskim tankom D klase, Peli pa pove kako je bilo, ko se je srečal s tankom T-84. O pepelniku v pisarni in v kajenju v pisarnah, o kadilcih in o tem, da je zloraba vsake snovi problematična. Tudi o tem, da je razlika med zdravilom in strupom v količini. Citat, kjer slišimo kaj je Zaphod pustil Marvinu, prebere **Ana Maria Mitić**! Hvala. 🙏 
 
