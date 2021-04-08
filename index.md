@@ -16,6 +16,27 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 ## Je vrtinec totalne perspektive ... v Dravl'ah?
 ###### #044 aka S02E07
 
+Zdravo! V S02E09 spet o vogonfluencerjih in o tem da smo lahko svetel zgled, ali svareč primer. Smo na Žabsvetu B, ki je kot Litostroj, ali bolje Detroit. O menzah, ki jih na Žabsvetu B ni. Citat prebere **Tomaž Celestina**! Hvala! 🙏 Marvin se zdi Zaphodu malo bolj dobre volje, kar niti ni čudno. O glasovih v glavi in ubogih dušah. O tem da samo božji glas pokliče, ostali te peljejo v norišnico. O Kviskoteki, spoznamo Gargravarja in povemo dva nasveta. Eden od njiju je: če je zveza slaba, zavrti ničlo! 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/2vPRqBaA1ugzuuy3fAGzeH" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/2PqPndv) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Kviskoteka na YouTube-u (kakšna epizoda se še najde tam gori)](https://www.youtube.com/results?search_query=kviskoteka)
+- [George Carlin o religiji in bogu](https://www.youtube.com/watch?v=gPOfurmrjxo)
+- [Litostroj](https://sl.wikipedia.org/wiki/Litostroj)
+- [Celestina si - ali pa nisi](http://celestina.si/)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
+## Je vrtinec totalne perspektive ... v Dravl'ah?
+###### #044 aka S02E07
+
 V osmi epizodi druge sezone ugotovimo da je korona fajn, da Aljo čipa še nima v glavi, od glave pa preidemo k Butnskali, do alarma. Vrnemo se k dvigalom (ne zadnjič) in ugotovimo, da gre Zaphod v Dravlje. Ker že dolgo nismo govorili o bogu, tokrat o iskanju le njega, Aljo pa pove, da ko gre naslednjič na morje, bo poizkusil tisto Budweiser brisačo. Govorimo tudi o žabarjih, in o predsedniku z žrebanjem in poslancih ljudstva. In o poklicih med mladimi. Tudi o osmem poglavju druge knjige. Citat prebere **Neža Prah Seničar**. Hvala! 🙏 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/0Y8GKvLTPK6oYyvjZSQhf3" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
@@ -26,12 +47,6 @@ Zapiski:
 - [Predsednik z žrebanjem (podkast Revisionst History z Malcomom Gladwellom, ne This American Life, kot je Peli pomotoma povedal)](http://revisionisthistory.com/episodes/44-the-powerball-revolution)
 - [Democracy in Practice](https://democracyinpractice.org/)
 - [Neža Prah Seničar](https://www.instagram.com/neza.p.s/)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## Noulet skoz
 ###### #043 aka S02E07
