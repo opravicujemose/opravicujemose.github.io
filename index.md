@@ -13,7 +13,7 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
-## Je vrtinec totalne perspektive ... v Dravl'ah?
+## Če je zveza slaba, zavrti ničlo
 ###### #045 aka S02E09
 
 Zdravo! V S02E09 spet o vogonfluencerjih in o tem da smo lahko svetel zgled, ali svareč primer. Smo na Žabsvetu B, ki je kot Litostroj, ali bolje Detroit. O menzah, ki jih na Žabsvetu B ni. Citat prebere **Tomaž Celestina**! Hvala! 🙏 Marvin se zdi Zaphodu malo bolj dobre volje, kar niti ni čudno. O glasovih v glavi in ubogih dušah. O tem da samo božji glas pokliče, ostali te peljejo v norišnico. O Kviskoteki, spoznamo Gargravarja in povemo dva nasveta. Eden od njiju je: če je zveza slaba, zavrti ničlo! 
