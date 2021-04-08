@@ -14,7 +14,7 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 ### Epizode
 
 ## Je vrtinec totalne perspektive ... v Dravl'ah?
-###### #044 aka S02E07
+###### #045 aka S02E09
 
 Zdravo! V S02E09 spet o vogonfluencerjih in o tem da smo lahko svetel zgled, ali svareč primer. Smo na Žabsvetu B, ki je kot Litostroj, ali bolje Detroit. O menzah, ki jih na Žabsvetu B ni. Citat prebere **Tomaž Celestina**! Hvala! 🙏 Marvin se zdi Zaphodu malo bolj dobre volje, kar niti ni čudno. O glasovih v glavi in ubogih dušah. O tem da samo božji glas pokliče, ostali te peljejo v norišnico. O Kviskoteki, spoznamo Gargravarja in povemo dva nasveta. Eden od njiju je: če je zveza slaba, zavrti ničlo! 
 
@@ -35,7 +35,7 @@ Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseri
 S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## Je vrtinec totalne perspektive ... v Dravl'ah?
-###### #044 aka S02E07
+###### #044 aka S02E08
 
 V osmi epizodi druge sezone ugotovimo da je korona fajn, da Aljo čipa še nima v glavi, od glave pa preidemo k Butnskali, do alarma. Vrnemo se k dvigalom (ne zadnjič) in ugotovimo, da gre Zaphod v Dravlje. Ker že dolgo nismo govorili o bogu, tokrat o iskanju le njega, Aljo pa pove, da ko gre naslednjič na morje, bo poizkusil tisto Budweiser brisačo. Govorimo tudi o žabarjih, in o predsedniku z žrebanjem in poslancih ljudstva. In o poklicih med mladimi. Tudi o osmem poglavju druge knjige. Citat prebere **Neža Prah Seničar**. Hvala! 🙏 
 
