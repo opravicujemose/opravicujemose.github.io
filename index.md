@@ -13,6 +13,28 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## Kot dojenček v striptiz baru
+###### #046 aka S02E10
+
+Zdravo. V S02E10 o tem, da so v našem podkastu možne so divje netočnosti. In da je vesolje strašljivo veliko. Govorimo o tistem orehu na Oglarunu, najmanjših stanovanjih na Zemlji, ki so v Hong Kongu. Ugotovimo da je digitalni vrtinec blizu in da bi Zaphod raje na kakšni zabavi v eni od 2 trilijona galaksij, ne pa z Gargravarrjem na Žabsvetu B. Le ta se izpove velikemu Z-ju, ki pove, da ima telo svojo pamet. Tudi o ribolovu in seksu, kar nas pripelje do dejstva, da ribe ne obstajajo. Vsaj po znanstvenih klasifikacijah ne. Tudi o gospodarski rasti in tem, da si, ko prideš v delikateso, zmeden kot dojenček v striptiz baru! 👶 Citat o čevljih prebere **Lorella Flego**, hvala!  🙏 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/0JJPsdjoat9AQeDN2bxXWW" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/2Q2mmVy) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Letalski klub Šentvid](https://www.lk-sentvid.com/)
+- [Vesolje (je strašno veliko)](https://sl.wikipedia.org/wiki/Vesolje)
+- [Temna stran lune](https://podcasts.apple.com/us/podcast/temna-stran-lune/id1530444841)
+- [There's No Such Thing as a Fish](https://www.youtube.com/watch?v=uhwcEvMJz1Y)
+- [Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life ](https://www.goodreads.com/book/show/50887097-why-fish-don-t-exist)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## Če je zveza slaba, zavrti ničlo
 ###### #045 aka S02E09
 
@@ -27,12 +49,6 @@ Zapiski:
 - [George Carlin o religiji in bogu](https://www.youtube.com/watch?v=gPOfurmrjxo)
 - [Litostroj](https://sl.wikipedia.org/wiki/Litostroj)
 - [Celestina si - ali pa nisi](http://celestina.si/)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## Je vrtinec totalne perspektive ... v Dravl'ah?
 ###### #044 aka S02E08
