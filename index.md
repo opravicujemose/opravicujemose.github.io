@@ -24,11 +24,12 @@ Zdravo. V S02E10 o tem, da so v našem podkastu možne so divje netočnosti. In 
 
 Zapiski:
 - [Letalski klub Šentvid](https://www.lk-sentvid.com/)
-- [Najmanjša stanovanja so v Hong Kongu](https://www.nationalgeographic.com/photography/article/hong-kong-living-trapped-lam-photos)
+- [Najmanjša stanovanja so v Hong Kongu 🖼](https://www.nationalgeographic.com/photography/article/hong-kong-living-trapped-lam-photos)
+- [V honkonških domovih v kletkah 🎥](https://www.youtube.com/watch?v=hLrFyjGZ9NU)
 - [Vesolje (je strašno veliko)](https://sl.wikipedia.org/wiki/Vesolje)
 - [Temna stran lune](https://podcasts.apple.com/us/podcast/temna-stran-lune/id1530444841)
 - [There's No Such Thing as a Fish](https://www.youtube.com/watch?v=uhwcEvMJz1Y)
-- [Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life ](https://www.goodreads.com/book/show/50887097-why-fish-don-t-exist) - knjiga Lulu Miller, so-voditeljice Radiolaba
+- [Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life ](https://www.goodreads.com/book/show/50887097-why-fish-don-t-exist) - knjiga Lulu Miller, so-voditeljice Radiolaba o tem, da ribe ne obstajajo
 - [Why Fish Don’t Exist](https://overcast.fm/+L11mOY) - epizoda o tej temi na Radiolabu
 
 Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
