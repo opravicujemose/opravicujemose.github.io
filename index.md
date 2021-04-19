@@ -13,6 +13,26 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## Pomanjkanje občutka za mero
+###### #047 aka S02E11
+
+Zdravo. V S02E11 o knjigi 7000 dni v Sibiriji, domeni hvalazavseribekijihni.si, o ekstrapolaciji vesolja, Aljo pove dva vica, enega o diplomi in enega o Bitcoinu, pogovarjamo se o izumitelju Vrtinca in o pomanjkanju občutka za mero. Citat prebere **Maja Pavlica**, hvala! 🙏 Tudi o ženah in o zgodbah, ki jih piše življenje ... in zakaj je Trin Tragula naredil Vrtinec totalne perspektive: da je dokazal svoj prav. Zaphod gre v vrtinec, Gargravarr zaprepaščen, ker Zaphod pride ven in da je vse stvar percepcije. Peli prijav' eno, ki se sliš, kot da je v SDS-u, mi pa o Živalski farmi, Noriškem kraljestvu, domoljubju in o dejstvu, da lahko Twitter škoduje zdravju in da je kot prometna nesreča! 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/1Yb38UKIEbtfAAD54rKnXK" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3x6WUix) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [7000 dni v Sibiriji](https://sl.wikipedia.org/wiki/Sedem_tiso%C4%8D_dni_v_Sibiriji), knjiga Karla Štajnerja v kateri opisuje svoje življenje v taboriščih Sovjetske zveze.
+- [Noriško kraljestvo](https://sl.wikipedia.org/wiki/Nori%C5%A1ko_kraljestvo) so okoli leta 200 pr. n. št. v regiji vzhodnih Alp ustanovili Kelti
+- [Živalska farma](https://sl.wikipedia.org/wiki/%C5%BDivalska_farma)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## Kot dojenček v striptiz baru
 ###### #046 aka S02E10
 
@@ -31,12 +51,6 @@ Zapiski:
 - [There's No Such Thing as a Fish](https://www.youtube.com/watch?v=uhwcEvMJz1Y)
 - [Why Fish Don't Exist: A Story of Loss, Love, and the Hidden Order of Life ](https://www.goodreads.com/book/show/50887097-why-fish-don-t-exist) - knjiga Lulu Miller, so-voditeljice Radiolaba o tem, da ribe ne obstajajo
 - [Why Fish Don’t Exist](https://overcast.fm/+L11mOY) - epizoda o tej temi na Radiolabu
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## Če je zveza slaba, zavrti ničlo
 ###### #045 aka S02E09
