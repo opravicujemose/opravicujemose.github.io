@@ -23,9 +23,9 @@ Zdravo. V S02E11 o knjigi 7000 dni v Sibiriji, domeni hvalazavseribekijihni.si, 
 Še [povezava do epizode](https://apple.co/3x6WUix) (za tiste ki ne vidite iFrameov)!
 
 Zapiski:
-- [7000 dni v Sibiriji](https://sl.wikipedia.org/wiki/Sedem_tiso%C4%8D_dni_v_Sibiriji), knjiga Karla Štajnerja v kateri opisuje svoje življenje v taboriščih Sovjetske zveze.
+- [7000 dni v Sibiriji](https://sl.wikipedia.org/wiki/Sedem_tiso%C4%8D_dni_v_Sibiriji), knjiga Karla Štajnerja v kateri opisuje svoje življenje v taboriščih Sovjetske zveze
 - [Noriško kraljestvo](https://sl.wikipedia.org/wiki/Nori%C5%A1ko_kraljestvo) so okoli leta 200 pr. n. št. v regiji vzhodnih Alp ustanovili Kelti
-- [Živalska farma](https://sl.wikipedia.org/wiki/%C5%BDivalska_farma)
+- [Živalska farma](https://sl.wikipedia.org/wiki/%C5%BDivalska_farma) Georgea Orwella mi morala biti obvezno branje 
 
 Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
 
