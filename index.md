@@ -605,7 +605,7 @@ V tretji epizod Zemljo končno raznese. Kvarnik. Prvič srečamo opis e-knjige _
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6MHVxWADPTXYoh9moPncCM" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-Še [povezava do epizode](https://podcasts.apple.com/si/podcast/003-vklju%C4%8Dite-ru%C5%A1ilni-%C5%BEarek/id1514750013?i=1000477977615) (za tiste ki ne vidite iFrameov)!
+Še [povezava do epizode](https://apple.co/2DJZ9kv) (za tiste ki ne vidite iFrameov)!
 
 Zapiski: 
 
@@ -614,7 +614,7 @@ Zapiski:
 
 ## 002: Al Kohol
 
-V drugi epizodi pogledamo alkoholu globoko v oči in v definicijo, ugotovimo zakaj so trije vrčki piva prava mera, [Tara Zupančič](https://www.instagram.com/varishana) prebere definicijo alkohola in recept za pangalaktični grlorez, povabimo vas, da nam pošljete svoje recepte in čakamo konec sveta, ki se je zgodil na tisti nesrečni četrtek, ...
+V drugi epizodi pogledamo alkoholu globoko v oči in v defnicijo, ugotovimo zakaj so trije vrčki piva prava mera, [Tara Zupančič](https://www.instagram.com/varishana) prebere definicijo alkohola in recept za pangalaktični grlorez, povabimo vas, da nam pošljete svoje recepte in čakamo konec sveta, ki se je zgodil na tisti nesrečni četrtek, ...
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/6oW4u7cneO7NfwAv94EDH7" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
