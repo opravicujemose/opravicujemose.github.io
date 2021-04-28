@@ -13,6 +13,25 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## Teci, Zaphod, teci
+###### #048 aka S02E12
+
+Zdravo. V 12. epizodi 2. sezone o tem, da je treba kupovat knjige in se vozit z bicikli na Robidišču. Če imate problem, je prvi korak to, da priznate da ga imate. Miselni higieniki se vračajo. Ladja, ki jo Zaphod najde pa zamuja. Razlog je znan in čisto razumljiv: zmanjkalo je vlažilnih robčkov z limonino aromo. So pa na ladji kava in piškoti, vsako leto, a vseeno. Pa kaj, če ladja zamuja 900 let. Govorimo tudi o fajmoštrih, kuharcah in dečkih, kardinalu in Meggie. In o genetskem materialu. Citat prebere Naša! ;) Hvala! 🙏 Srečamo tudi Zarniwoopa, ki jih na koncu faše ... 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/2sQPGeOxzM6fxuFeLhrllc" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3vlbz8c) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Robidišče Outdoor Home](https://sl.arbischa.si/)
+- [Pridite na naš Slack kanal](https://bit.ly/opr-slack) 
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## Pomanjkanje občutka za mero
 ###### #047 aka S02E11
 
@@ -26,12 +45,6 @@ Zapiski:
 - [7000 dni v Sibiriji](https://sl.wikipedia.org/wiki/Sedem_tiso%C4%8D_dni_v_Sibiriji), knjiga Karla Štajnerja v kateri opisuje svoje življenje v taboriščih Sovjetske zveze
 - [Noriško kraljestvo](https://sl.wikipedia.org/wiki/Nori%C5%A1ko_kraljestvo) so okoli leta 200 pr. n. št. v regiji vzhodnih Alp ustanovili Kelti
 - [Živalska farma](https://sl.wikipedia.org/wiki/%C5%BDivalska_farma) Georgea Orwella mi morala biti obvezno branje 
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## Kot dojenček v striptiz baru
 ###### #046 aka S02E10
