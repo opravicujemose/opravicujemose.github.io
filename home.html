@@ -3,13 +3,13 @@ layout: default
 ---
 
 <div class="home">
-<!--   {% if page.title %}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  {% if page.title %}
+    <h1 class="page-heading">{{ page.title }} PT</h1>
   {% endif %}
- -->
+
   {{ content }}
 
-  {% if site.posts.size > 0 %}
+  {% if site.posts.size > 1 %}
     <h2 class="page-heading">{{ page.list_title | default: "Zadnje objave" }}</h2>
     <ul class="post-list">
       {% for post in site.posts %}
