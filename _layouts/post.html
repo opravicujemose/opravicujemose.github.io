@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti.
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }} PTPOST</h1>
+    <h1 class="post-title" itemprop="name headline">{{ post.title | escape }} page.title </h1>
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
       {% assign m = page.date | date: "%-m" %}
