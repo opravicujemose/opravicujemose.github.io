@@ -13,6 +13,26 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## Izvidniška podmornica
+###### #049 aka S02E13
+
+Zdravo! V 50 epizodi pod zap. št. 49 oz. S02E13 o Indiji, cepljenju in osamosvojiteljih. Tudi o ID-u, egu, super-egu in Filozofski fakulteti. Tudi o tem, da bi moral marsikdo nehat na vrhuncu. Tudi o požiganju možganov in o izvidniški podmornici, ki je na ogled v vojaškem muzeju v Pivki. Nekaj malega tudi o sami vsebini poglavja, torej o Zlatem srcu in naših, na njem izgubljenih junakih. Citat prebere **Lovro Pavlica**, hvala! 🙏 Aja, tudi na Zenico nanese beseda. Spomnimo se tudi tistega vica ... 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/5L1AraWEy5ls2UsTBlWT9B" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3nEMjXQ) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Park vojaške zgodovine Pivka](https://www.parkvojaskezgodovine.si/) 
+- [Slon in Sadež: Čreva na plot](https://www.youtube.com/watch?v=5w5m8lYMJoo)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
+
 ## Teci, Zaphod, teci
 ###### #048 aka S02E12
 
@@ -25,12 +45,6 @@ Zdravo. V 12. epizodi 2. sezone o tem, da je treba kupovat knjige in se vozit z 
 Zapiski:
 - [Robidišče Outdoor Home](https://sl.arbischa.si/)
 - [Pridite na naš Slack kanal](https://bit.ly/opr-slack) 
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
 
 ## Pomanjkanje občutka za mero
 ###### #047 aka S02E11
@@ -49,7 +63,7 @@ Zapiski:
 ## Kot dojenček v striptiz baru
 ###### #046 aka S02E10
 
-Zdravo. V S02E10 o tem, da so v našem podkastu možne so divje netočnosti. In da je vesolje strašljivo veliko. Govorimo o tistem orehu na Oglarunu, najmanjših stanovanjih na Zemlji, ki so v Hong Kongu. Ugotovimo da je digitalni vrtinec blizu in da bi Zaphod raje na kakšni zabavi v eni od 2 trilijona galaksij, ne pa z Gargravarrjem na Žabsvetu B. Le ta se izpove velikemu Z-ju, ki pove, da ima telo svojo pamet. Tudi o ribolovu in seksu, kar nas pripelje do dejstva, da ribe ne obstajajo. Vsaj po znanstvenih klasifikacijah ne. Tudi o gospodarski rasti in tem, da si, ko prideš v delikateso, zmeden kot dojenček v striptiz baru! 👶 Citat o čevljih prebere **Lorella Flego**, hvala!  🙏 
+Zdravo. V S02E10 o tem, da so v našem podkastu možne divje netočnosti. In da je vesolje strašljivo veliko. Govorimo o tistem orehu na Oglarunu, najmanjših stanovanjih na Zemlji, ki so v Hong Kongu. Ugotovimo da je digitalni vrtinec blizu in da bi Zaphod raje na kakšni zabavi v eni od 2 trilijona galaksij, ne pa z Gargravarrjem na Žabsvetu B. Le ta se izpove velikemu Z-ju, ki pove, da ima telo svojo pamet. Tudi o ribolovu in seksu, kar nas pripelje do dejstva, da ribe ne obstajajo. Vsaj po znanstvenih klasifikacijah ne. Tudi o gospodarski rasti in tem, da si, ko prideš v delikateso, zmeden kot dojenček v striptiz baru! 👶 Citat o čevljih prebere **Lorella Flego**, hvala!  🙏 
 
 <iframe src="https://open.spotify.com/embed-podcast/episode/0JJPsdjoat9AQeDN2bxXWW" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
