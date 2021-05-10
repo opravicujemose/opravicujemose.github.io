@@ -4,7 +4,6 @@ layout: default
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline"><a href="../">Opravičujemo se za vse nevšečnosti 🐋</a></h1>
     <p class="post-meta">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
       {% assign m = page.date | date: "%-m" %}
@@ -29,6 +28,10 @@ layout: default
   </header>
 
   <div class="post-content" itemprop="articleBody">
+
+    <h2>{{ page.title }}</h2>
+    <h6>{{ page.number }}</h6>
+
     {{ content }}
   </div>
 
@@ -36,7 +39,7 @@ layout: default
     <div class="prev-next-post-wrapper">
       {% if page.previous.url %}
         <div class="prev-next-post-col prev-next-post-col-1">
-          <p class="page-heading">Prejšnja epizoda</hp>
+          <p class="page-heading">Prejšnja epizoda</p>
           <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
         </div>
       {% endif %}

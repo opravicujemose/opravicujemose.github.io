@@ -1,0 +1,49 @@
+---
+layout: home
+title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti.
+---
+
+{% include about.html %}
+
+{{ content }}
+
+  {% if site.posts.size > 0 %}
+    <h3>{{ page.list_title | default: "Seznam vseh podkast epizod" }}</h3>
+    <ul class="post-list">
+      {% for post in site.posts %}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <time class="post-meta">
+          <!-- slo. datumi -->
+          {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d. " }}{% case m %}{% when '1' %}januar{% when '2' %}februar{% when '3' %}marec{% when '4' %}april{% when '5' %}maj{% when '6' %}junij{% when '7' %}julij{% when '8' %}avgust{% when '9' %}september{% when '10' %}oktober{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %Y" }}
+        </time>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }} 
+          </a>
+        </h3>
+        <p>{{ post.tagline }}</p>
+        {% if site.show_excerpts %}
+          {{ post.excerpt }}
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+<h3 id="ustvarjalci">Ustvarjalci</h3>
+
+<p>Podkast ustvarjamo <a href="https://twitter.com/kozli42">Aljo</a>, <a href="https://twitter.com/DavorinPavlica">Peli</a> &amp; <a href="https://twitter.com/gregorzalaznik">Zi</a>.</p>
+
+<h3 id="naroči-se-na-podkast">Naroči se na podkast</h3>
+
+<p>Smo na sledečih platformah:</p>
+<ul>
+  <li><a href="https://podcasts.apple.com/si/podcast/opravi%C4%8Dujemo-se-za-vse-nev%C5%A1e%C4%8Dnosti/id1514750013">Apple Podcasts</a>,</li>
+  <li><a href="https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yMmI1YTUwMC9wb2RjYXN0L3Jzcw">Google Podcasts</a>,</li>
+  <li><a href="https://overcast.fm/p1800312-cfXucP">Overcast</a>,</li>
+  <li><a href="https://pca.st/zqlh1e4s">Pocket Casts</a>,</li>
+  <li>seznam vseh platform pa najdete na <a href="http://hvalazavseribe.si">hvalazavseribe.si</a>.</li>
+</ul>
+
+<p>Lahko nam pošlješ tudi e-pošto, bomo še bolj veseli! Ali pa vsaj toliko. Najbolje na e-poštni naslov <strong>hvalazavseribe afna zvpl pika com</strong>. Res hvala. 🙏</p>

@@ -3,13 +3,9 @@ layout: default
 title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti.
 ---
 
-# Opravičujemo se za vse nevšečnosti 🐋
+<!-- # Opravičujemo se za vse nevšečnosti 🐋 -->
 
-[Opravičujemo se za vse nevšečnosti](https://apple.co/38zBEWW) je podkast o življenju, vesolju in sploh vsem ... v katerem po nekem čudnem naključju vsako epizodo obdelamo eno poglavje kultne trilogije v petih delih _Štoparski vodnik po Galaksiji_, ki jo je, ko smo bili še majhni, napisal **Douglas Adams**. Še veš kje imaš brisačo?
-
-Če bi radi podkast podprli, se nanj naročili ali ga ocenili, vabljeni na [hvalazavseribe.si](http://hvalazavseribe.si)! Hvala! 🙏
-
-P.S.: V Innsbruck gremo čez {% include counter.html %}
+{% include about.html %}
 
 ### Epizode
 
