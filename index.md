@@ -13,6 +13,28 @@ P.S.: V Innsbruck gremo čez {% include counter.html %}
 
 ### Epizode
 
+## Naplavina življena, vesolja in sploh vsega
+###### #050 aka S02E14
+
+Zdravo. V jubilejni 50. epizodi o napačnih predstavah, o seksu in pornografiji in o tem, da je treba poslušat Seksodrom. Peli pove novo besedo, ki je ne razume, pogovarjamo pa se tudi o 14. poglavju 2. knjige. Citat prebere **Mojca Gorenc**, ki ima skupaj s Pižamo [nov podkast Danes praznuje](https://anchor.fm/danespraznuje). Hvala! 🙏 Ugotovimo, da je časovno popotovanje podobno smrti. Tudi o flimih, ki se včasih strgajo, izgubljenih koščih spomina in o obujanju trenutkov, ki se jih ne spomnimo. Beseda nanese na najdaljši šank na svetu, zaodrje, na pijačo in na natakarja. Končno smo v _Restavraciji ob koncu vesolja_, ki je v časovnem mehurčku. 
+
+<iframe src="https://open.spotify.com/embed-podcast/episode/4l043FZUzKDALgcBBwKii8" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+Še [povezava do epizode](https://apple.co/3o4oybC) (za tiste ki ne vidite iFrameov)!
+
+Zapiski:
+- [Danes praznuje](https://anchor.fm/danespraznuje)
+- [Seksodrom](https://seksodrom.buzzsprout.com/)
+- [Beer Barrel Saloon](https://www.beerbarrelpib.com/), lokal z najdaljšim šankom na svetu
+- [_Blinded by the Light_](https://www.youtube.com/watch?v=RlcFrQu90A8), v izvedbi Manfred Mann's Earth Band, ... edini štiklc Brucea Springsteena, ki se je zavihtel na prvo mesto Billboard Hot 100
+- [_Jungleland_](https://www.youtube.com/watch?v=l6IwxpL-ZDk)
+
+Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
+
+🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
+
+S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
+
 ## Izvidniška podmornica
 ###### #049 aka S02E13
 
@@ -25,13 +47,6 @@ Zdravo! V 50. epizodi pod zap. št. 049 oz. S02E13 o Indiji, cepljenju in osamos
 Zapiski:
 - [Park vojaške zgodovine Pivka](https://www.parkvojaskezgodovine.si/) 
 - [Slon in Sadež: Čreva na plot](https://www.youtube.com/watch?v=5w5m8lYMJoo)
-
-Hvala, ker nas poslušate in podpirate! [hvalazavseribe.si](https://hvalazavseribe.si/) 🙏
-
-🍻 Podkast podpira poleg podpornikov podpira tudi [pivovarna Pelicon](https://www.pelicon.beer/). 🍻
-
-S kodo **BREZPANIKE** imate poslušalke in poslušalci 10% popust. Čin. Več informacij o popustih [tule](https://hvalazavseribe.si/pelicon/)! 
-
 
 ## Teci, Zaphod, teci
 ###### #048 aka S02E12
