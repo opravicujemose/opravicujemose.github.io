@@ -23,12 +23,23 @@ h1 {
 	padding: 0.2em 0 0.6em 0;
 }
 
+@media screen and (max-width: 600px) {
+h1 {
+	font-size: 1.5em;
+	line-height: 0.9em;
+	}
+}
+
 h1 a {
 	text-decoration: none;
 }
 
 h2 {
 	font-size: 1.8em;
+}
+
+@media screen and (max-width: 600px) {
+h2 { line-height: 1.0em }
 }
 
 h6 {
@@ -55,6 +66,14 @@ ul, ol {
 	padding: 0 0 0 3em;
 }
 
+
+@media screen and (max-width: 600px) {
+	ul, ol {
+		padding: 0 0 0 2em;
+	}
+}
+
+
 img {
 	max-width: 100%;
 	display: block;
@@ -69,16 +88,24 @@ small, small a, small a:hover, small a:focus {
 	outline: none;
 }
 
-@media (min-device-width:600px) {
+iframe {
+	width: 92%;
+	}
+
+
+@media screen and (max-width: 600px) {
 	iframe {
-		margin-right: 1em;
-		width: 500px;
+		width: 100%;
 	}
 }
 
-iframe {
-	width: 90%;
+
+@media screen and (max-width: 600px) {
+.about p {
+	font-size: 0.8em;
+	line-height: 1.1em;
 	}
+}
 
 
 .about {
@@ -95,9 +122,17 @@ iframe {
 	padding: 0 0.5em;
 }
 
+@media screen and (max-width: 600px) {
+.about p {
+	font-size: 0.8em;
+	line-height: 1.1em;
+	}
+}
+
 ul.post-list {
   list-style-type: none;
 }
+
 
 ul.post-list .post-meta {
 	background: rgba(0,0,0,0.1);
@@ -106,16 +141,33 @@ ul.post-list .post-meta {
 	color: #042042;
 }
 
+@media screen and (max-width: 600px) {
+	ul.post-list .post-meta {
+		margin-left: 0em;
+	}
+
+	ul.post-list {
+		padding: 0;
+	}
+}
+
 ul.post-list p {
 	font-size: 0.9em;
 	margin-top: -1em;
 }
+
 
 article time {
 	background: #042042;
 	padding: 0.3em;
 	margin-left: -2em;
 	color: #fff;
+}
+
+@media screen and (max-width: 600px) {
+	article time {
+		margin-left: -2.1em;
+	}
 }
 
 .prev-next-post-wrapper:after {
