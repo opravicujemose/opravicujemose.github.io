@@ -21,8 +21,8 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti.
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }} 
           </a>
-          <br /><span>{{ post.number }}</span>
         </h3>
+        <h6 class="post-number">{{ post.number }}</h6>
         <p>{{ post.tagline }}</p>
         {% if site.show_excerpts %}
           {{ post.excerpt }}

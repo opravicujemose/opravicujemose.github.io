@@ -43,7 +43,7 @@ h2 { line-height: 1.0em }
 }
 
 h6,
-ul.post-list li h3 span {
+h6.post-number {
     color: rgba(0,0,0, 0.42);
     margin-top: -1.83em;
     margin-left: 0.1em;
@@ -51,9 +51,12 @@ ul.post-list li h3 span {
     font-weight: 400;
 }
 
-ul.post-list li h3 span {
+h6.post-number {
 	font-size: 0.6em;
 	line-height: 0.6em;
+    margin-top: -1.3em;
+    margin-bottom: 2.3em;
+	padding: 0;
 }
 
 a {
