@@ -5,18 +5,16 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti.
 
 {% include about.html %}
 
+<!-- INDEX CONTENT -->
 {{ content }}
+<!-- END INDEX CONTENT -->
 
   {% if site.posts.size > 0 %}
-    <h3>{{ page.list_title | default: "Seznam vseh epizod podkasta" }}</h3>
+    <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }}</h4>
     <ul class="post-list">
       {% for post in site.posts %}
-      <li>
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <time class="post-meta">
-          <!-- slo. datumi -->
-          {% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d. " }}{% case m %}{% when '1' %}januar{% when '2' %}februar{% when '3' %}marec{% when '4' %}april{% when '5' %}maj{% when '6' %}junij{% when '7' %}julij{% when '8' %}avgust{% when '9' %}september{% when '10' %}oktober{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %Y" }}
-        </time>
+      <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+        <time class="post-meta">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d. " }}{% case m %}{% when '1' %}januar{% when '2' %}februar{% when '3' %}marec{% when '4' %}april{% when '5' %}maj{% when '6' %}junij{% when '7' %}julij{% when '8' %}avgust{% when '9' %}september{% when '10' %}oktober{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %Y" }}</time>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }} 
@@ -27,10 +25,8 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti.
         {% if site.show_excerpts %}
           {{ post.excerpt }}
         {% endif %}
-      </li>
-      {% endfor %}
-    </ul>
-  {% endif %}
+      </li>{% endfor %}
+    </ul>{% endif %}
 
 <h3 id="ustvarjalci">Ustvarjalci</h3>
 

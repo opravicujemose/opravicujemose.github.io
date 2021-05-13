@@ -1,0 +1,18 @@
+<a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+<div class="prev-next-post">
+  <div class="prev-next-post-wrapper">
+    {% if page.previous.url %}
+      <div class="prev-next-post-col prev-next-post-col-1">
+        <p class="page-heading">Prejšnja epizoda</p>
+        <a class="previous" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+      </div>
+      {% endif %}
+      {% if page.next.url %}
+      <div class="prev-next-post-col prev-next-post-col-2">
+        <p class="page-heading">Naslednja epizoda</p>
+        <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+      </div>        
+      {% endif %}
+  </div>
+</div>
