@@ -245,3 +245,7 @@ article time {
  width:-webkit-calc(50% - (30px / 2));
  width:calc(50% - (30px / 2))
 }
+
+article.post {
+	padding-bottom: 1px;
+}
