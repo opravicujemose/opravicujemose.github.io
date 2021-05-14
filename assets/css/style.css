@@ -55,12 +55,16 @@ h2 {
 	font-size: 1.8em;
 }
 
-h4 {
+h4, .page-heading {
     color: rgba(0,0,0, 0.67);
     letter-spacing: 2px;
     padding: 0;
     text-transform: uppercase;
     font-weight: lighter;
+}
+
+.page-heading {
+	letter-spacing: 1px;
 }
 
 h3 {
