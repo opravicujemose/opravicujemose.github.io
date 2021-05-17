@@ -143,18 +143,16 @@ iframe {
 	}
 }
 
-
 @media screen and (max-width: 600px) {
-.about p {
+.about p, .alert {
 	font-size: 0.8em;
 	line-height: 1.1em;
 	}
 }
 
-
 .about {
 	background: #eee;
-	padding: 0.1em 0.7em; 
+	padding: 0.1em 0.5em; 
 	margin-top: -1.33em;
 	font-weight: 100;
 	color: rgba(0,0,0,0.8)
@@ -162,9 +160,11 @@ iframe {
 
 .about p {
 	font-size: 1em;
-	line-height: 1.2em;
+	line-height: 1.3em;
 	padding: 0 0.5em;
 }
+
+.about p strong {font-weight: 700;}
 
 @media screen and (max-width: 600px) {
 .about p {
@@ -217,6 +217,11 @@ article time {
 	}
 }
 
+.post-content {
+	margin-bottom: 3em;
+}
+
+
 .prev-next-post-wrapper:after {
  content:"";
  display:table;
@@ -252,4 +257,101 @@ article time {
 
 article.post {
 	padding-bottom: 1px;
+}
+
+
+/* ALERTS */
+
+.alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px
+}
+
+.alert h4 {
+    margin-top: 0;
+    color: inherit
+}
+
+.alert .alert-link {
+    font-weight: 700
+}
+
+.alert>p,
+.alert>ul {
+    margin-bottom: 0
+}
+
+.alert>p+p {
+    margin-top: 5px
+}
+
+.alert-dismissable,
+.alert-dismissible {
+    padding-right: 35px
+}
+
+.alert-dismissable .close,
+.alert-dismissible .close {
+    position: relative;
+    top: -2px;
+    right: -21px;
+    color: inherit
+}
+
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6
+}
+
+.alert-success hr {
+    border-top-color: #c9e2b3
+}
+
+.alert-success .alert-link {
+    color: #2b542c
+}
+
+.alert-info {
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1
+}
+
+.alert-info hr {
+    border-top-color: #a6e1ec
+}
+
+.alert-info .alert-link, .alert-info a {
+    color: #245269
+}
+
+.alert-warning {
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc
+}
+
+.alert-warning hr {
+    border-top-color: #f7e1b5
+}
+
+.alert-warning .alert-link {
+    color: #66512c
+}
+
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1
+}
+
+.alert-danger hr {
+    border-top-color: #e4b9c0
+}
+
+.alert-danger .alert-link {
+    color: #843534
 }
