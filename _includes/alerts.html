@@ -1,3 +1,4 @@
 {% for alert in site.data.alerts %}
-	<p class="{{ alert.class }}"><strong>{{ alert.type }}</strong>: {{ alert.text }}! <a href"alert.url">Klik</a></p>
+<div markdown="span" class="alert {{ alert.class }}" id="hide{{ alert.number }}" role="alert">
+<i class="{{ alert.type }}"></i>&nbsp;&nbsp;{{ alert.text }} <a href="{{ alert.url }}" class="alert-link" target="_blank">{{ alert.link }}</a>{{ alert.end }}</div>	
 {% endfor %}
