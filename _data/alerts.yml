@@ -1,0 +1,8 @@
+- type: Vabilo
+  class: alert-info
+  text: Pridruži se nam na Slacku. 🎉 Debatiramo o življenju, vesolju in sploh vsem. 💬 
+  url:  https://bit.ly/opr-slack
+- type: Vabilo
+  class: alert-info
+  text: Sledi nam v vesolju in sploh vsem. Lorem ipsum dolor sit amet.
+  url:  https://bit.ly/opr-slack

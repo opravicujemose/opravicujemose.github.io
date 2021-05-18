@@ -1,0 +1,3 @@
+{% for alert in site.data.alerts %}
+	<p class="{{ alert.class }}"><strong>{{ alert.type }}</strong>: {{ alert.text }}! <a href"alert.url">Klik</a></p>
+{% endfor %}
