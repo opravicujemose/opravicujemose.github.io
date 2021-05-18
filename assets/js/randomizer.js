@@ -1,4 +1,5 @@
 // Found don't know where 
+// https://stackoverflow.com/questions/22511144/how-to-load-a-different-div-on-reload-in-repeating-order/22513574
 
 $(document).ready(function(){
     //hide all divs just for the purpose of this example, 
