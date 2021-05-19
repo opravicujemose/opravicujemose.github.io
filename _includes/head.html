@@ -9,39 +9,6 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
   <!-- JS -->
   <script src="https://kit.fontawesome.com/73f3b9c326.js" crossorigin="anonymous"></script>
-  <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-  <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.cookie.js"></script>
-<script>
-$(document).ready(function(){
-
-    //hide all divs just for the purpose of this example, 
-    //you should have the divs hidden with your css
-
-    $('#mdiv1').hide();
-    $('#mdiv2').hide();
-    $('#mdiv3').hide();
-    $('#mdiv4').hide();
-    //check if the cookie is already setted
-    if ($.cookie("currentDiv")===undefined){
-            $.cookie("currentDiv",1);
-    }else{ //else..well 
-            //get and increment value, let's suppse we have just 3 divs     
-
-            var numValue = parseInt($.cookie("currentDiv"));
-            numValue = numValue + 1;
-            if (numValue>3){
-            //restart to 1
-                $.cookie("currentDiv",1);
-            }
-            else{ //no issues, assign the incremented value
-                $.cookie("currentDiv",numValue.toString());
-            }
-
-            //show the div
-            $('#mdiv'+$.cookie("currentDiv")).show();
-    }
-});
-</script>
 </head>
 
 <body>
