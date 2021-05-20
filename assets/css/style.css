@@ -367,19 +367,27 @@ hr {
 }
 
 .listen {
-    padding: 12px 12px;
+/*    padding: 12px 12px;
     border: 1px #ccc solid;
-    border-radius: 4px;
+*/    border-radius: 4px;
 	display: inline-flex;
 	flex-flow: row;
-	margin: -8px 8px 0 0;
-	font-size: 1em;
+	margin: -24px 8px 0 0;
+	font-size: 0.90em;
 	vertical-align: middle;
 }
 
-.listen>a { color: rgba(0,0,0, 0.60); }
+.listen>a { color: rgba(0,0,0, 0.70); }
 
 .listen i {
 	color: rgba(0,0,0, 0.70);
 	line-height: 1.4em;
+}
+
+.listen a:hover {
+	color: #042042;
+}
+
+h4.listens {
+	margin: 0.4em 0 1em 0;
 }

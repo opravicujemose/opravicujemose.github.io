@@ -1,5 +1,8 @@
-  <h4>Ali poslušaj na </h4>
-  <div class="listen apple"><i class="fab fa-apple"></i>&nbsp;<a href="{{ page.apple }}">Apple Podcasts</a></div>
-  <div class="listen over"><i class="fas fa-cloud"></i>&nbsp;<a href="{{ page.overcast }}">Overcast</a></div>
-  <div class="listen googlep"><i class="fab fa-google"></i>&nbsp;<a href="{{ page.google }}">Google Podcasts</a></div>
-  <div class="listen podkite"><i class="fas fa-microphone-alt"></i>&nbsp;<a href="{{ page.podkite }}">Večina ostalih podkast trafik</a></div>
+{% if page.apple %}
+  <h4 class="listens">Smo tudi na</h4>
+  <div class="listen apple"><i class="fab fa-apple"></i>&nbsp;<a href="{{ page.apple }}">Apple Podcasts</a></div>{% endif %}
+{% if page.pocket %}<div class="listen pocket"><i class="fab fa-get-pocket"></i>&nbsp;<a href="{{ page.pocket }}">Pocket Casts</a></div>{% endif %}
+{% if page.overcast %}<div class="listen over"><i class="fas fa-cloud"></i>&nbsp;<a href="{{ page.overcast }}">Overcast</a></div>{% endif %}
+{% if page.google %}<div class="listen googlep"><i class="fab fa-google"></i>&nbsp;<a href="{{ page.google }}">Google Podcasts</a></div>
+{% endif %}
+{% if page.podkite %}<div class="listen podkite"><i class="fas fa-microphone-alt"></i>&nbsp;<a href="{{ page.podkite }}">... in ostalih podkast trafikah</a></div>{% endif %}
