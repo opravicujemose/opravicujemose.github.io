@@ -1,12 +1,11 @@
 ---
-layout: home
+layout: default
 title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti.
 ---
 
-{% include alerts.html %}
+{% include carousel.html %}
 
 <!-- INDEX CONTENT -->
-{{ content }}
 <!-- END INDEX CONTENT -->
 
 <div class="about">
@@ -14,6 +13,7 @@ title: Spletna stran podkasta Opravičujemo se za vse nevšečnosti.
   <p>P.S.: V Innsbruck gremo čez {% include counter.html %}</p>
 </div>
 
+{% include sponzorji.html %}
 
   {% if site.posts.size > 0 %}
     <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }}</h4>
