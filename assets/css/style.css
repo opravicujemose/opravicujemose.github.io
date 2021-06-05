@@ -382,19 +382,21 @@ hr {
 	margin: -24px 8px 0 0;
 	font-size: 0.90em;
 	vertical-align: middle;
+
 }
 
-.listen>a { color: rgba(0,0,0, 0.70); }
+.listen>a { 	color: #042042; }
 
 .listen i {
-	color: rgba(0,0,0, 0.70);
+	color: #042042;;
 	line-height: 1.4em;
 }
 
 .listen a:hover {
-	color: #042042;
+	color: #000;
 }
 
 h4.listens {
 	margin: 0.4em 0 1em 0;
+	color: #042042;
 }
