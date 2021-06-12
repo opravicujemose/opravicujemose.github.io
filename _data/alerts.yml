@@ -3,7 +3,7 @@
 # če hočeš več alertov, morš dodat cifro v alerts.html !!!
 - type:   fas fa-exclamation-circle
   number: 01
-  class:  alert-danger
+  class:  alert-info
   text:   Bi imel/a brisačo 
   link:   Opravičujemo se za vse nevšečnosti
   end:    " 👈 Klik za naročilo."
@@ -11,7 +11,7 @@
 
 - type:   fa fa-info-circle
   number: 02
-  class:  alert-info
+  class:  alert-danger
   text:   Pridruži se nam na Slacku. 🎉 Debatiramo o
   link:   življenju, vesolju in sploh vsem
   end:    . 💬
