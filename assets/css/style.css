@@ -135,6 +135,16 @@ img {
 	margin: .75em auto;
 }
 
+blockquote {
+    color: #828282;
+    border-left: 4px solid #e8e8e8;
+    padding-left: 0.1em;
+    font-size: 1.2375rem;
+    letter-spacing: 0px;
+    font-style: italic;
+    margin: 0 0 0 1em;
+}
+
 small, small a, small a:hover, small a:focus {
 	color: rgba(0,0,0, 0.42);
 	text-decoration: none;
