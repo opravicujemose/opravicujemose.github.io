@@ -4,10 +4,10 @@
 - type:   fas fa-exclamation-circle
   number: 01
   class:  alert-info
-  text:   Bi imel/a brisačo 
+  text:   Bi imel/a majico 
   link:   Opravičujemo se za vse nevšečnosti
   end:    " 👈 Klik za naročilo."
-  url:    https://forms.gle/aLrzrWXRnGEkLqP27
+  url:    https://forms.gle/UvJpTiRhMWHiskeL8
 
 - type:   fa fa-info-circle
   number: 02
