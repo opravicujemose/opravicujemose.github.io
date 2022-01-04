@@ -386,9 +386,10 @@ hr {
 .listen {
 /*    padding: 12px 12px;
     border: 1px #ccc solid;
-*/  border-radius: 4px;
+*/  
 	display: inline-flex;
 	flex-flow: row;
+	flex-direction: row;
 	margin: -24px 4px 0 0;
 	font-size: 0.90em;
 	vertical-align: middle;
@@ -398,7 +399,7 @@ hr {
 
 .listen i {
 	color: #042042;;
-	line-height: 1.4em;
+	line-height: 1.5em;
 }
 
 .listen a:hover {
