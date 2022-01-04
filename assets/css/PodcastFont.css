@@ -1,0 +1,455 @@
+@charset "UTF-8";
+.pi {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1; }
+
+.pi {
+  font-family: 'Podcast Font';
+  font-weight: 400; }
+
+@font-face {
+  font-family: 'Podcast Font';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../fonts/PodcastFont.woff2") format("woff2"), url("../fonts/PodcastFont.woff") format("woff"), url("../fonts/PodcastFont.ttf") format("truetype"), url("../fonts/PodcastFont.svg") format("svg"); }
+
+.pi-misc:before {
+  content: ""; }
+
+.pi-podlink:before {
+  content: ""; }
+
+.pi-acast:before {
+  content: ""; }
+
+.pi-anchor:before {
+  content: ""; }
+
+.pi-ausha:before {
+  content: ""; }
+
+.pi-blubrry:before {
+  content: ""; }
+
+.pi-buzzsprout:before {
+  content: ""; }
+
+.pi-captivate:before {
+  content: ""; }
+
+.pi-castopod:before {
+  content: ""; }
+
+.pi-castos:before {
+  content: ""; }
+
+.pi-fireside:before {
+  content: ""; }
+
+.pi-headliner:before {
+  content: ""; }
+
+.pi-jumplink:before {
+  content: ""; }
+
+.pi-justcast:before {
+  content: ""; }
+
+.pi-libsyn:before {
+  content: ""; }
+
+.pi-podbean:before {
+  content: ""; }
+
+.pi-podcastics:before {
+  content: ""; }
+
+.pi-podcastpage:before {
+  content: ""; }
+
+.pi-podchaser:before {
+  content: ""; }
+
+.pi-podcloud:before {
+  content: ""; }
+
+.pi-podigee:before {
+  content: ""; }
+
+.pi-podlove:before {
+  content: ""; }
+
+.pi-podserve:before {
+  content: ""; }
+
+.pi-powerpress:before {
+  content: ""; }
+
+.pi-rsscom:before {
+  content: ""; }
+
+.pi-satoshisstream:before {
+  content: ""; }
+
+.pi-simplecast:before {
+  content: ""; }
+
+.pi-spreaker:before {
+  content: ""; }
+
+.pi-stitcher:before {
+  content: ""; }
+
+.pi-transistor:before {
+  content: ""; }
+
+.pi-whooshkaa:before {
+  content: ""; }
+
+.pi-chapters:before {
+  content: ""; }
+
+.pi-podcasting20certified:before {
+  content: ""; }
+
+.pi-amazonmusic:before {
+  content: ""; }
+
+.pi-antennapod:before {
+  content: ""; }
+
+.pi-anytime:before {
+  content: ""; }
+
+.pi-breaker:before {
+  content: ""; }
+
+.pi-breez:before {
+  content: ""; }
+
+.pi-castamatic:before {
+  content: ""; }
+
+.pi-castbox:before {
+  content: ""; }
+
+.pi-castcoverage:before {
+  content: ""; }
+
+.pi-castro:before {
+  content: ""; }
+
+.pi-curiocaster:before {
+  content: ""; }
+
+.pi-deezer:before {
+  content: ""; }
+
+.pi-escapepod:before {
+  content: ""; }
+
+.pi-fountain:before {
+  content: ""; }
+
+.pi-gnomepodcasts:before {
+  content: ""; }
+
+.pi-googlepodcasts:before {
+  content: ""; }
+
+.pi-gpodder:before {
+  content: ""; }
+
+.pi-hypercatcher:before {
+  content: ""; }
+
+.pi-iheart:before {
+  content: ""; }
+
+.pi-ivoox:before {
+  content: ""; }
+
+.pi-ivyfm:before {
+  content: ""; }
+
+.pi-kasts:before {
+  content: ""; }
+
+.pi-mediavault:before {
+  content: ""; }
+
+.pi-overcast:before {
+  content: ""; }
+
+.pi-playapod:before {
+  content: ""; }
+
+.pi-playerfm:before {
+  content: ""; }
+
+.pi-pocketcasts:before {
+  content: ""; }
+
+.pi-podcastaddict:before {
+  content: ""; }
+
+.pi-podcastchapters:before {
+  content: ""; }
+
+.pi-podcastguru:before {
+  content: ""; }
+
+.pi-podfriend:before {
+  content: ""; }
+
+.pi-podinstall:before {
+  content: ""; }
+
+.pi-podlp:before {
+  content: ""; }
+
+.pi-podstation:before {
+  content: ""; }
+
+.pi-podtail:before {
+  content: ""; }
+
+.pi-podverse:before {
+  content: ""; }
+
+.pi-radiopublic:before {
+  content: ""; }
+
+.pi-sphinxchat:before {
+  content: ""; }
+
+.pi-tsacdop:before {
+  content: ""; }
+
+.pi-tunein:before {
+  content: ""; }
+
+.pi-zion:before {
+  content: ""; }
+
+.pi-chartable:before {
+  content: ""; }
+
+.pi-fyyd:before {
+  content: ""; }
+
+.pi-listennotes:before {
+  content: ""; }
+
+.pi-plink:before {
+  content: ""; }
+
+.pi-podcastindex:before {
+  content: ""; }
+
+.pi-podnews:before {
+  content: ""; }
+
+.pi-podcastfont:before {
+  content: ""; }
+
+.pi-podcastrepublic:before {
+  content: ""; }
+
+.pi-activitypub:before {
+  content: ""; }
+
+.pi-podcasting20certifiedbadge:before {
+  content: ""; }
+
+.pi-musicnote:before {
+  content: ""; }
+
+.pi-search:before {
+  content: ""; }
+
+.pi-heart:before {
+  content: ""; }
+
+.pi-star:before {
+  content: ""; }
+
+.pi-user:before {
+  content: ""; }
+
+.pi-download:before {
+  content: ""; }
+
+.pi-headphones:before {
+  content: ""; }
+
+.pi-volumedown:before {
+  content: ""; }
+
+.pi-volumeup:before {
+  content: ""; }
+
+.pi-bookmark:before {
+  content: ""; }
+
+.pi-mapmarker:before {
+  content: ""; }
+
+.pi-previous:before {
+  content: ""; }
+
+.pi-backward:before {
+  content: ""; }
+
+.pi-play:before {
+  content: ""; }
+
+.pi-pause:before {
+  content: ""; }
+
+.pi-stop:before {
+  content: ""; }
+
+.pi-forward:before {
+  content: ""; }
+
+.pi-next:before {
+  content: ""; }
+
+.pi-share:before {
+  content: ""; }
+
+.pi-comment:before {
+  content: ""; }
+
+.pi-upload:before {
+  content: ""; }
+
+.pi-rss:before {
+  content: ""; }
+
+.pi-link:before {
+  content: ""; }
+
+.pi-desktop:before {
+  content: ""; }
+
+.pi-laptop:before {
+  content: ""; }
+
+.pi-tablet:before {
+  content: ""; }
+
+.pi-mobile:before {
+  content: ""; }
+
+.pi-code:before {
+  content: ""; }
+
+.pi-microphone:before {
+  content: ""; }
+
+.pi-mutedmicrophone:before {
+  content: ""; }
+
+.pi-spotify:before {
+  content: ""; }
+
+.pi-soundcloud:before {
+  content: ""; }
+
+.pi-settings:before {
+  content: ""; }
+
+.pi-closedcaption:before {
+  content: ""; }
+
+.pi-server:before {
+  content: ""; }
+
+.pi-cc:before {
+  content: ""; }
+
+.pi-directory:before {
+  content: ""; }
+
+.pi-applepodcast:before {
+  content: ""; }
+
+.pi-external-link:before {
+  content: ""; }
+
+.pi-repeat:before {
+  content: ""; }
+
+.pi-appstore:before {
+  content: ""; }
+
+.pi-bitcoin:before {
+  content: ""; }
+
+.pi-opensource:before {
+  content: ""; }
+
+.pi-ccby:before {
+  content: ""; }
+
+.pi-ccnc:before {
+  content: ""; }
+
+.pi-ccnc-eu:before {
+  content: ""; }
+
+.pi-ccnc-jp:before {
+  content: ""; }
+
+.pi-ccnd:before {
+  content: ""; }
+
+.pi-ccpd:before {
+  content: ""; }
+
+.pi-ccremix:before {
+  content: ""; }
+
+.pi-ccsa:before {
+  content: ""; }
+
+.pi-ccshare:before {
+  content: ""; }
+
+.pi-cczero:before {
+  content: ""; }
+
+.pi-coins:before {
+  content: ""; }
+
+.pi-disc:before {
+  content: ""; }
+
+.pi-podcaster:before {
+  content: ""; }
+
+.pi-volumemute:before {
+  content: ""; }
+
+.pi-listener:before {
+  content: ""; }
+
+.pi-coin:before {
+  content: ""; }
+
+.pi-tape:before {
+  content: ""; }
+
+.pi-mp3player:before {
+  content: ""; }
+
+.pi-radio:before {
+  content: ""; }
