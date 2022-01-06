@@ -8,11 +8,11 @@ Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkas
 
 Enostavno je. Posnameš in pošlješ.
 
-<p>Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! Več informacij, kako posneti in poslati citat pa na dnu strani</p>
+Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:059968685" target="_blank" rel="noopener noreferrer">05 99 68 68 5</a> ali na naš <a href="https://hvalazavseribe.si/odzivnik/">digitalni telefonski odzivnik</a>! Hvala! 📞🙏! Več informacij, kako posneti in poslati citat pa na dnu strani
 
-<h3>Citat za epizodo 085 (s03e15)</h3>
+### Citat za epizodo 085 (s03e15)
 
-<h4>ROK za pošiljanje: sobota, 8. januar 2022 do 22:08</h4>
+#### ROK za pošiljanje: sobota, 8. januar 2022 do 22:08
 
 <blockquote>Ravno ko so zaklenili ovojnico Po-časa,« je rekla in premolknila, da je mu je vtrla še malo kvalaktinske esence, »se je pokazalo, da je bila ena od pogrešanih, domnevno uničenih krikkiških ladij, samo pogrešana. Na lepem se je pojavila in se poskušala dokopati do Ključa.<br /><br />
 Zipo je planil pokonci. <br /><br />
