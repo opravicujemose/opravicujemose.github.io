@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: home
 title: Posnami in 🎙 pošlji citat
 permalink: /citat/
-
 ---
 
 Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast.
@@ -15,10 +14,14 @@ Citat prosim pošlji na brezplačni telefonski odzivnik ☎️ <a href="tel:0599
 
 #### ROK za pošiljanje: sobota, 8. januar 2022 do 22:08
 
-<blockquote>Ravno ko so zaklenili ovojnico Po-časa,« je rekla in premolknila, da je mu je vtrla še malo kvalaktinske esence, »se je pokazalo, da je bila ena od pogrešanih, domnevno uničenih krikkiških ladij, samo pogrešana. Na lepem se je pojavila in se poskušala dokopati do Ključa.<br /><br />
-Zipo je planil pokonci. <br /><br />
-»Kaj?« je vzkliknil. <br/><br />
-»Je že dobro,« je rekla z glasom, ki bi pomiril še Veliki pok. »Očitno je prišlo do manjše bitke. Ladja in Ključ sta se razblinila v časovno-prostorskem kontinuumu. Kaže, da sta za vedno izgubljena.«</blockquote>
+<blockquote>
+  »Ravno ko so zaklenili ovojnico Po-časa,« je rekla in premolknila, da je mu je vtrla še malo kvalaktinske esence, »se je pokazalo, da je bila ena od pogrešanih, domnevno uničenih krikkiških ladij, samo pogrešana. Na lepem se je pojavila in se poskušala dokopati do Ključa.
+  Zipo je planil pokonci.
+  
+  »Kaj?« je vzkliknil.
+
+  »Je že dobro,« je rekla z glasom, ki bi pomiril še Veliki pok. »Očitno je prišlo do manjše bitke. Ladja in Ključ sta se razblinila v časovno-prostorskem kontinuumu. Kaže, da sta za vedno izgubljena.«
+</blockquote>
 
 <h3>Citat za epizodo 086 (s03e15)</h3>
 
