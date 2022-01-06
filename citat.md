@@ -2,6 +2,7 @@
 layout: default
 title: Posnami in 🎙 pošlji citat
 permalink: /citat/
+
 ---
 
 Zdravo! Hvala, ker razmišljaš o tem, da bi prebral-a citat za naš mali podkast.
