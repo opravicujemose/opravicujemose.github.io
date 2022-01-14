@@ -1,7 +1,6 @@
-
-# Glej https://fontawesome.com/ za več ikon
+# Glej https://podcastfont.com/ za več ikon
 # če hočeš več alertov, morš dodat cifro v alerts.html !!!
-- type:   pi pi-user
+- type:   pi pi-rocket
   number: 01
   class:  alert-info
   text:   Bi imel/a majico 
