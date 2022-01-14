@@ -1,7 +1,7 @@
 
 # Glej https://fontawesome.com/ za več ikon
 # če hočeš več alertov, morš dodat cifro v alerts.html !!!
-- type:   fas fa-exclamation-circle
+- type:   pi pi-celebrate
   number: 01
   class:  alert-info
   text:   Bi imel/a majico 
@@ -9,21 +9,21 @@
   end:    " 👈 Klik za naročilo."
   url:    https://forms.gle/UvJpTiRhMWHiskeL8
 
-- type:   fa fa-info-circle
+- type:   pi pi-comment
   number: 02
   class:  alert-danger
   text:   Pridruži se nam na Slacku. 🎉 Debatiramo o
   link:   življenju, vesolju in sploh vsem
   end:    . 💬
   url:    https://bit.ly/opr-slack
-- type:   fab fa-patreon
+- type:   pi pi-coins
   number: 03
   class:  alert-success
   text:   Naš podkast lahko podpreš 
   link:   tudi na Patreonu
   end:    "! Imamo bonus epizode. Hvala za vse ribe. 🐟"
   url:    https://www.patreon.com/opravicujemose
-- type:   fas fa-donate
+- type:   pi pi-tag-funding
   number: 04
   class:  alert-warning
   text:   "Podpreš nas lahko tako, da za nas poveš še komu ali "
