@@ -1,7 +1,7 @@
 
 # Glej https://fontawesome.com/ za več ikon
 # če hočeš več alertov, morš dodat cifro v alerts.html !!!
-- type:   pi pi-thumbsup
+- type:   pi pi-user
   number: 01
   class:  alert-info
   text:   Bi imel/a majico 
