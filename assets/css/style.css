@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 @media screen and (prefers-color-scheme: dark) {
   h1, h2, h3, h4, h5, h6 {
-    color: rgba(255,255,255, 0.80);
+    color: rgba(255,255,255, 0.90);
   }
 }
 
@@ -218,6 +218,7 @@ iframe {
 @media screen and (prefers-color-scheme: dark) {
   .about {
     background: rgba(255, 255, 255, 0.12);
+    color: rgba(255, 255, 255, 0.84);
   }
 }
 
@@ -431,6 +432,14 @@ article.post {
 .alert-danger .alert-link {
     color: #843534
 }
+
+@media screen and (prefers-color-scheme: dark) {
+  .alert-success, .alert-danger,  .alert-warning, .alert-info {
+    background: rgba(255, 255, 255, 0.21);
+    color: rgba(255, 255, 255, 0.55);
+  }
+}
+
 
 hr {
 	border: 1px solid #ccc;
