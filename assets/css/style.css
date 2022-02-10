@@ -448,7 +448,9 @@ hr {
 	vertical-align: middle;
 }
 
-.listen>a {	color: #042042; }
+.listen>a {
+	color: #042042;
+}
 
 .listen i {
 	color: #042042;;
@@ -457,6 +459,12 @@ hr {
 
 .listen a:hover {
 	color: #000;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  .listen>a, .listen i {
+    color: rgba(255,255,255, 0.42);
+  }
 }
 
 h4.listens {
