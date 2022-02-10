@@ -78,6 +78,12 @@ h2 {
 h3:first {
 	background: rgba(42,42,42, 0.67);
 }
+@media screen and (prefers-color-scheme: dark) {
+  h3:first {
+    background: rgba(0,0,0, 0.21);
+  }
+}
+
 
 h4, .page-heading {
     color: rgba(0,0,0, 0.67);
@@ -240,6 +246,12 @@ ul.post-list .post-meta {
 	padding: 0.3em;
 	margin-left: -2em;
 	color: #042042;
+}
+@media screen and (prefers-color-scheme: dark) {
+  ul.post-list .post-meta {
+    background: rgba(255,255,255,0.1);
+    color: rgba(255,255,255, 0.42);
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -450,4 +462,9 @@ hr {
 h4.listens {
 	margin: 0.4em 0 1em 0;
 	color: #042042;
+}
+@media screen and (prefers-color-scheme: dark) {
+  h4.listens {
+    color: rgba(255,255,255, 0.42);
+  }
 }
