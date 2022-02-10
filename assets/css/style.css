@@ -21,8 +21,6 @@ body {
   }
 }
 
-
-
 /*
 @media screen and (min-width: 1440px) {
 	body {
@@ -445,6 +443,11 @@ article.post {
 
 hr {
 	border: 1px solid #ccc;
+}
+@media screen and (prefers-color-scheme: dark) {
+  hr {
+    border: 1px solid rgba(255,255,255, 0.3);
+  }
 }
 
 .listen {
