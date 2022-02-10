@@ -14,6 +14,14 @@ body {
 	margin: auto; 
 	padding: 0 5%;
 }
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    background: #333333;
+    color: rgba(255,255,255, 0.85);
+  }
+}
+
+
 
 /*
 @media screen and (min-width: 1440px) {
@@ -36,6 +44,11 @@ h1, h2, h3, h4, h5, h6 {
     text-transform: none;
     color: rgba(0,0,0, 0.80);
     /*color: #092049;*/ 
+}
+@media screen and (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6 {
+    color: rgba(255,255,255, 0.80);
+  }
 }
 
 h1 {
@@ -231,6 +244,12 @@ article time {
 	padding: 0.3em;
 	margin-left: -2em;
 	color: #fff;
+}
+@media screen and (prefers-color-scheme: dark) {
+  article time {
+    background: rgba(255,255,255, 0.42);
+    color: #042042;
+  }
 }
 
 @media screen and (max-width: 600px) {
