@@ -186,6 +186,11 @@ small, small a, small a:hover, small a:focus {
 	box-shadow: none;
 	outline: none;
 }
+@media screen and (prefers-color-scheme: dark) {
+  small, small a, small a:hover, small a:focus {
+    color: rgba(255,255,255, 0.42);
+  }
+}
 
 iframe {
 	width: 92%;
@@ -281,7 +286,7 @@ article time {
 @media screen and (prefers-color-scheme: dark) {
   article time {
     background: rgba(255,255,255, 0.42);
-    color: #042042;
+    color: rgba(0,0,0, 0.84);
   }
 }
 
@@ -364,7 +369,7 @@ article.post {
 
 .alert-dismissable,
 .alert-dismissible {
-    padding-right: 35px
+    padding-right: 35px;
 }
 
 .alert-dismissable .close,
@@ -372,27 +377,27 @@ article.post {
     position: relative;
     top: -2px;
     right: -21px;
-    color: inherit
+    color: inherit;
 }
 
 .alert-success {
     color: #3c763d;
     background-color: #dff0d8;
-    border-color: #d6e9c6
+    border-color: #d6e9c6;
 }
 
 .alert-success hr {
-    border-top-color: #c9e2b3
+    border-top-color: #c9e2b3;
 }
 
 .alert-success .alert-link {
-    color: #2b542c
+    color: #2b542c;
 }
 
 .alert-info {
     color: #31708f;
     background-color: #d9edf7;
-    border-color: #bce8f1
+    border-color: #bce8f1;
 }
 
 .alert-info hr {
@@ -400,13 +405,13 @@ article.post {
 }
 
 .alert-info .alert-link, .alert-info a {
-    color: #245269
+    color: #245269;
 }
 
 .alert-warning {
     color: #8a6d3b;
     background-color: #fcf8e3;
-    border-color: #faebcc
+    border-color: #faebcc;
 }
 
 .alert-warning hr {
@@ -414,13 +419,13 @@ article.post {
 }
 
 .alert-warning .alert-link {
-    color: #66512c
+    color: #66512c;
 }
 
 .alert-danger {
     color: #a94442;
     background-color: #f2dede;
-    border-color: #ebccd1
+    border-color: #ebccd1;
 }
 
 .alert-danger hr {
@@ -428,7 +433,7 @@ article.post {
 }
 
 .alert-danger .alert-link {
-    color: #843534
+    color: #843534;
 }
 
 @media screen and (prefers-color-scheme: dark) {
@@ -437,6 +442,9 @@ article.post {
     color: rgba(255, 255, 255, 0.55);
     border-color: rgba(255, 255, 255, 0.1);
     border:  none;
+  }
+  .alert-link {
+    color: #fff;
   }
 }
 
