@@ -437,7 +437,8 @@ article.post {
   .alert-success, .alert-danger,  .alert-warning, .alert-info {
     background: rgba(255, 255, 255, 0.21);
     color: rgba(255, 255, 255, 0.55);
-    border-color:  none;
+    border-color: rgba(255, 255, 255, 0.1);
+    border:  none;
   }
 }
 
