@@ -503,7 +503,7 @@ h4.listens {
 
 }
 @media screen and (prefers-color-scheme: dark) {
-  .bg-white, .text-muted-color, time {
+  .bg-white!important, .text-muted-color, time {
     background: #333333;
     color: rgba(255,255,255, 0.85);
  }
