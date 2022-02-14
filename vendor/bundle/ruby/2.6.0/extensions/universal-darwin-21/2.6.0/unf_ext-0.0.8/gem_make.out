@@ -1,5 +1,5 @@
 current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8/ext/unf_ext
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20220102-61982-1niksop.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20220214-33539-ub7uby.rb extconf.rb
 /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /usr/local/laps in PATH, mode 040753
 checking for -lstdc++... *** extconf.rb failed ***
 Could not create Makefile due to some reason, probably lack of necessary

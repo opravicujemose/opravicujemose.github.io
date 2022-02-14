@@ -500,11 +500,12 @@ h4.listens {
 }
 
 .bg-white {
-
 }
 @media screen and (prefers-color-scheme: dark) {
-  iframe div.bg-white, iframe>.bg-white {
-    background: rgba(0,0,0,0.2);
+  #audio-player > div > div > div.bg-white.dark\:bg-dark-deep,
+  #audio-player >div > div > div.bg-white,
+  .bg-white dark:bg-dark-deep{
+    background: #333;
     color: rgba(255,255,255, 0.85);
  }
 }
