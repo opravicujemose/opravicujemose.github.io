@@ -149,6 +149,7 @@ p, iframe {
 
 iframe {
 	padding: 0;
+	border-bottom: 10px #fff solid;
 }
 
 ul, ol {
@@ -191,11 +192,6 @@ small, small a, small a:hover, small a:focus {
     color: rgba(255,255,255, 0.42);
   }
 }
-
-iframe {
-	width: 92%;
-	}
-
 
 @media screen and (max-width: 600px) {
 	iframe {
@@ -497,8 +493,4 @@ h4.listens {
   h4.listens {
     color: rgba(255,255,255, 0.42);
   }
-}
-
-iframe:after {
-	border-bottom: 10px #fff solid;
 }
