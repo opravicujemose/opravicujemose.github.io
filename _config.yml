@@ -13,3 +13,5 @@ paginate_path: "/page:num/"
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
