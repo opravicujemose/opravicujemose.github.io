@@ -7,6 +7,9 @@ facebook_username: opravicujemose
 google_analytics: UA-686717-20
 author: "Davorin Pavlica"
 twitter_username: "davorinpavlica"
-paginate: 42
+paginate: 10
+paginate_path: "/page:num/"
+
 plugins:
   - jekyll-redirect-from
+  - jekyll-paginate
