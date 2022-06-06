@@ -2,11 +2,11 @@
 # če hočeš več alertov, morš dodat cifro v alerts.html !!!
 - type:   pi pi-rocket
   number: 01
-  class:  alert-info
-  text:   Bi imel/a majico 
-  link:   Opravičujemo se za vse nevšečnosti
-  end:    " 👈 Klik za naročilo."
-  url:    https://forms.gle/UvJpTiRhMWHiskeL8
+  class:  alert-warning
+  text:   "Podpreš nas lahko tako, da za nas poveš še komu ali "
+  link:   na Patreonu, Paypalu ali Ko-fiju
+  end:    ". Hvala!"  
+  url:    https://hvalazavseribe.si/#-podpri-nas
 
 - type:   pi pi-comment
   number: 02
@@ -24,11 +24,11 @@
   url:    https://www.patreon.com/opravicujemose
 - type:   pi pi-tag-funding
   number: 04
-  class:  alert-warning
-  text:   "Podpreš nas lahko tako, da za nas poveš še komu ali "
-  link:   na Patreonu, Paypalu ali Ko-fiju
-  end:    ". Hvala!"
-  url:    https://hvalazavseribe.si/#-podpri-nas
+  class:  alert-info
+  text:   Bi imel/a majico 
+  link:   Opravičujemo se za vse nevšečnosti
+  end:    " 👈 Klik za naročilo."
+  url:    https://forms.gle/UvJpTiRhMWHiskeL8
 # - type:   fas fa-podcast
 #   number: 04
 #   class:  alert-danger
