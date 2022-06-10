@@ -7,9 +7,9 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 
 {% include about.html %}
 
-<!-- INDEX CONTENT
+{% for post in site.posts limit:1 %}
 {{ content }}
-END INDEX CONTENT -->
+{% endfor %}
 
 <div class="about">
   <p>Če bi radi podkast podprli 💸, se nanj naročili 🔗 ali ga ocenili ⭐️⭐️⭐️⭐️⭐️, lahko to storite na <a href="http://hvalazavseribe.si" target="_blank">hvalazavseribe.si</a>! Hvala! 🙏</p>
@@ -21,8 +21,10 @@ END INDEX CONTENT -->
 
 {% include sponzorji.html %}
 
-    <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }} <span class="paginationTop"><span class="page_number ">(Stran {{ paginator.page }} od {{ paginator.total_pages }})</span></span></h4>
     {% for post in paginator.posts %}
+
+    <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }} <span class="paginationTop"><span class="page_number ">(Stran {{ paginator.page }} od {{ paginator.total_pages }})</span></span></h4>
+
     <ul class="post-list">
       <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <time class="post-meta">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d. " }}{% case m %}{% when '1' %}januar{% when '2' %}februar{% when '3' %}marec{% when '4' %}april{% when '5' %}maj{% when '6' %}junij{% when '7' %}julij{% when '8' %}avgust{% when '9' %}september{% when '10' %}oktober{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %Y" }}</time>
