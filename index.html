@@ -26,7 +26,7 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 
 {% include sponzorji.html %}
 
-<h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }}</h4>
+<h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }} (stran {{ paginator.page }} od {{ paginator.total_pages }})</h4>
 
 {% if page.paginator %}
 {% assign paginator = page.paginator %}
@@ -52,11 +52,11 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
-<div class="pagination">
+<div class="pagination"><span>Stran:</span>
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="prevnext">&laquo; nazaj</a>
   {% else %}
-    <span>&laquo; Nazaj</span>
+    <span> </span>
   {% endif %}
   {% for page in (1..paginator.total_pages) %}
     {% if page == paginator.page %}
@@ -67,11 +67,10 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
       <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
     {% endif %}
   {% endfor %}
-
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | relative_url }}" class="prevnext">naprej &raquo;</a>
   {% else %}
-    <span>Naprej &raquo;</span>
+    <span></span>
   {% endif %}
 </div>
 {% endif %}

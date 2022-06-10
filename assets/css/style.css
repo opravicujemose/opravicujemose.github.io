@@ -83,7 +83,7 @@ h3:first {
 }
 
 
-h4, .page-heading {
+h4, .page-heading, .pagination span {
     color: rgba(0,0,0, 0.67);
     letter-spacing: 2px;
     padding: 0;
@@ -442,7 +442,6 @@ article.post {
   }
 }
 
-
 hr {
 	border: 1px solid #ccc;
 }
@@ -491,4 +490,26 @@ h4.listens {
   h4.listens {
     color: rgba(255,255,255, 0.42);
   }
+}
+
+
+.pagination, .pagination a {
+	padding: 10px 20px;
+	/*font-size: 0.9em;*/
+}
+
+.pagination em {
+	padding: 10px 20px;
+	background: #042042;
+	color: #fff;
+}
+
+.pagination a {
+	background: rgba(0,0,0,0.1);
+	}
+
+.pagination .prevnext {
+	background: none;
+	padding: 0 5px;
+	color: #042042;
 }
