@@ -22,40 +22,8 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 {% include sponzorji.html %}
 
   {% if site.posts.size > 0 %}
+    {% for post in paginator.posts %}
     <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }}</h4>
-
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }} </a></h3>
-  <time class="post-meta">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d. " }}{% case m %}{% when '1' %}januar{% when '2' %}februar{% when '3' %}marec{% when '4' %}april{% when '5' %}maj{% when '6' %}junij{% when '7' %}julij{% when '8' %}avgust{% when '9' %}september{% when '10' %}oktober{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %Y" }}</time>
-    <span class="date">{{ post.date }}</span>
-          {% if site.show_excerpts %}
-          {{ post.excerpt }}
-        {% endif %}
-{% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
-
-<br/>
-<h4>Stari posti</h4>
-
     <ul class="post-list">
       {% for post in site.posts %}
       <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -72,8 +40,26 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
         {% endif %}
       </li>{% endfor %}
     </ul>
-
-    {% endif %}
+    {% endfor %}
+    <!-- Pagination links -->
+    <div class="pagination">
+      {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path }}" class="previous">
+          Prejšnja stran
+        </a>
+      {% else %}
+        <span class="previous">Prejšnja stran</span>
+      {% endif %}
+      <span class="page_number ">
+        Page: {{ paginator.page }} of {{ paginator.total_pages }}
+      </span>
+      {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+      {% else %}
+        <span class="next ">Naslednja stran</span>
+      {% endif %}
+    </div>
+  {% endif %}
 
 <h4 id="ustvarjalci">Ustvarjalci</h4>
 
