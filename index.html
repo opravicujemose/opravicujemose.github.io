@@ -5,11 +5,11 @@ title:  Opravičujemo se za vse nevšečnosti - podkast o življenju, vesolju in
 image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 ---
 
-{% for post in site.posts limit: 1 %}
 {% include about.html %}
-<p>Kje je loop</p>
+
+<!-- INDEX CONTENT -->
 {{ content }}
-{% endfor %}
+<!-- END INDEX CONTENT -->
 
 <div class="about">
   <p>Če bi radi podkast podprli 💸, se nanj naročili 🔗 ali ga ocenili ⭐️⭐️⭐️⭐️⭐️, lahko to storite na <a href="http://hvalazavseribe.si" target="_blank">hvalazavseribe.si</a>! Hvala! 🙏</p>
@@ -19,14 +19,12 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 <h4>Oceni nas</h4>
   <p>Če ti je naš podkast všeč, nas lahko oceniš na <a href="https://apple.co/38zBEWW">Apple Podcasts</a>, <a href="https://spoti.fi/2YynMaM">Spotify</a> ali na <a href="https://www.podchaser.com/podcasts/opravicujemo-se-za-vse-nevsecn-1223565">Podchaser</a>-ju. Hvala!</p>
 
-  {% include sponzorji.html %}
+{% include sponzorji.html %}
 
-
-    <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }} <span class="paginationTop"><span class="page_number ">(Stran {{ paginator.page }} od {{ paginator.total_pages }})</span></span></h4>
-
-    {% for post in paginator.posts %}
-
+  {% if site.posts.size > 0 %}
+    <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }}</h4>
     <ul class="post-list">
+      {% for post in site.posts %}
       <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <time class="post-meta">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d. " }}{% case m %}{% when '1' %}januar{% when '2' %}februar{% when '3' %}marec{% when '4' %}april{% when '5' %}maj{% when '6' %}junij{% when '7' %}julij{% when '8' %}avgust{% when '9' %}september{% when '10' %}oktober{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %Y" }}</time>
         <h3>
@@ -39,35 +37,9 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
         {% if site.show_excerpts %}
           {{ post.excerpt }}
         {% endif %}
-      </li>
+      </li>{% endfor %}
     </ul>
-    {% endfor %}
-
-{% if paginator.total_pages > 1 %}
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
-  {% else %}
-    <span>&laquo; Prev</span>
   {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <em>{{ page }}</em>
-    {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
-  {% else %}
-    <span>Next &raquo;</span>
-  {% endif %}
-</div>
-{% endif %}
 
 <h4 id="ustvarjalci">Ustvarjalci</h4>
 

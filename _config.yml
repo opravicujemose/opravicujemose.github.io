@@ -10,5 +10,5 @@ twitter_username: "davorinpavlica"
 
 plugins:
   - jekyll-redirect-from
-paginate: 21
-paginate_path: "/stran:num/"
+# paginate: 21
+# paginate_path: "/stran:num/"
