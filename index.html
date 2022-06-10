@@ -21,7 +21,6 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 
 {% include sponzorji.html %}
 
-  {% if site.posts.size > 0 %}
     <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }} • <div class="paginationTop"><span class="page_number ">({{ paginator.page }} od {{ paginator.total_pages }})</span></div></h4>
     {% for post in paginator.posts %}
     <ul class="post-list">
@@ -43,18 +42,17 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
     <!-- Pagination links -->
     <div class="pagination">
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Prejšnja stran</a>
-        {% else %}<span class="previous">⬅️ prejšnja</span>
+        <a href="{{ paginator.previous_page_path }}" class="previous"><<</a>
+        {% else %}<span class="previous">(Prva)</span>
       {% endif %}
-      <span class="page_number ">Stran: {{ paginator.page }} od {{ paginator.total_pages }}</span>
+      <span class="page_number ">stran: {{ paginator.page }} od {{ paginator.total_pages }}</span>
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Naslednja stran</a>
+        <a href="{{ paginator.next_page_path }}" class="next">>></a>
       {% else %}
-        <span class="next ">naslednja ➡️</span>
+        <span class="next ">(zadnja stran)</span>
       {% endif %}
     </div>
-  {% endif %}
-
+  
 <h4 id="ustvarjalci">Ustvarjalci</h4>
 
 <p>Podkast ustvarjamo Aljo - <a href="https://twitter.com/kozli42">@kozli42</a>, Peli - <a href="https://twitter.com/DavorinPavlica">@davorinpavlica</a> &amp; Zi - <a href="https://twitter.com/gregorzalaznik">@gregorzalaznik</a>.</p>
