@@ -8,7 +8,12 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 {% include about.html %}
 
 <!-- INDEX CONTENT -->
-{{ content }}
+<div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include latest.html %}
+</div>
+
 <!-- END INDEX CONTENT -->
 
 <div class="about">
@@ -21,25 +26,56 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 
 {% include sponzorji.html %}
 
-  {% if site.posts.size > 0 %}
-    <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }}</h4>
-    <ul class="post-list">
-      {% for post in site.posts %}
-      <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        <time class="post-meta">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d. " }}{% case m %}{% when '1' %}januar{% when '2' %}februar{% when '3' %}marec{% when '4' %}april{% when '5' %}maj{% when '6' %}junij{% when '7' %}julij{% when '8' %}avgust{% when '9' %}september{% when '10' %}oktober{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %Y" }}</time>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }} 
-          </a>
-        </h3>
-        <h6 class="post-number">{{ post.number }}</h6>
-        <p>{{ post.tagline }}</p>
-        {% if site.show_excerpts %}
-          {{ post.excerpt }}
-        {% endif %}
-      </li>{% endfor %}
-    </ul>
+<h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }}</h4>
+
+{% if page.paginator %}
+{% assign paginator = page.paginator %}
+{% endif %}
+
+{% for post in paginator.posts %}
+
+<ul class="post-list">
+  <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+    <time class="post-meta">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d. " }}{% case m %}{% when '1' %}januar{% when '2' %}februar{% when '3' %}marec{% when '4' %}april{% when '5' %}maj{% when '6' %}junij{% when '7' %}julij{% when '8' %}avgust{% when '9' %}september{% when '10' %}oktober{% when '11' %}november{% when '12' %}december{% endcase %}{{ post.date | date: " %Y" }}</time>
+    <h3>
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }} 
+      </a>
+    </h3>
+    <h6 class="post-number">{{ post.number }}</h6>
+    <p>{{ post.tagline }}</p>
+    {% if site.show_excerpts %}
+      {{ post.excerpt }}
+    {% endif %}
+  </li>
+</ul>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Nazaj</span>
   {% endif %}
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ '/' | relative_url }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+  {% else %}
+    <span>Naprej &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
+
 
 <h4 id="ustvarjalci">Ustvarjalci</h4>
 
