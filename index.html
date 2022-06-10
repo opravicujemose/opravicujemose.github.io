@@ -42,14 +42,14 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
     <!-- Pagination links -->
     <div class="pagination">
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous"><<</a>
-        {% else %}<span class="previous">(Prva)</span>
+        <a href="{{ paginator.previous_page_path }}" class="previous"><<<</a>
+        {% else %}<span class="previous"></span>
       {% endif %}
-      <span class="page_number ">stran: {{ paginator.page }} od {{ paginator.total_pages }}</span>
+      <span class="page_number "> {{ paginator.page }} / {{ paginator.total_pages }}</span>
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">>></a>
+        <a href="{{ paginator.next_page_path }}" class="next">>>></a>
       {% else %}
-        <span class="next ">(zadnja stran)</span>
+        <span class="next ">(na koncu seznama)</span>
       {% endif %}
     </div>
   
