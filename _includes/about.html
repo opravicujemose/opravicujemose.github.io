@@ -4,6 +4,8 @@
 
 <!-- {% include note.html content="Pridruži se nam na Slacku. 🎉 Debatiramo o <a href=https://bit.ly/opr-slack>življenju, vesolju in sploh vsem</a>. 💬" %} -->
 
-{% include carousel.html %}
+{% for post in site.posts limit:1 %}
+  {% include carousel.html %}
+{% endfor %}
 
 <h4>Zadnja epizoda</h4>
