@@ -21,7 +21,7 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 
 {% include sponzorji.html %}
 
-    <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }} • <span class="paginationTop"><span class="page_number ">({{ paginator.page }} od {{ paginator.total_pages }})</span></span></h4>
+    <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }} <span class="paginationTop"><span class="page_number ">(Stran {{ paginator.page }} od {{ paginator.total_pages }})</span></span></h4>
     {% for post in paginator.posts %}
     <ul class="post-list">
       <li>{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
