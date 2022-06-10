@@ -22,6 +22,10 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 {% include sponzorji.html %}
 
   {% if site.posts.size > 0 %}
+    <!-- Pagination links -->
+    <div class="paginationTop">
+      <span class="page_number ">Stran: {{ paginator.page }} od {{ paginator.total_pages }}</span>
+    </div>
     <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }}</h4>
     {% for post in paginator.posts %}
     <ul class="post-list">
@@ -44,16 +48,13 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
     <div class="pagination">
       {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path }}" class="previous">Prejšnja stran</a>
-      {% else %}
-        <span class="previous">Prejšnja stran</span>
+        {% else %}<span class="previous">⬅️ prejšnja</span>
       {% endif %}
-      <span class="page_number ">
-        Page: {{ paginator.page }} of {{ paginator.total_pages }}
-      </span>
+      <span class="page_number ">Stran: {{ paginator.page }} od {{ paginator.total_pages }}</span>
       {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path }}" class="next">Naslednja stran</a>
       {% else %}
-        <span class="next ">Naslednja stran</span>
+        <span class="next ">naslednja ➡️</span>
       {% endif %}
     </div>
   {% endif %}
