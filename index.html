@@ -5,9 +5,12 @@ title:  Opravičujemo se za vse nevšečnosti - podkast o življenju, vesolju in
 image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 ---
 
-{% for post in site.posts limit:1 %}
+{% for post in paginator.posts limit: 1 %}
 {% include about.html %}
+{% endfor %}
+
 {{ content }}
+
 <div class="about">
   <p>Če bi radi podkast podprli 💸, se nanj naročili 🔗 ali ga ocenili ⭐️⭐️⭐️⭐️⭐️, lahko to storite na <a href="http://hvalazavseribe.si" target="_blank">hvalazavseribe.si</a>! Hvala! 🙏</p>
   <p>P.S.: V Innsbruck gremo čez {% include counter.html %}... še prej pa v Indijo po motorje <a href="https://www.jawamotorcycles.com/motorcycles/42" target="_blank">Jawa 42</a>. 🏍 </p>
@@ -17,7 +20,6 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
   <p>Če ti je naš podkast všeč, nas lahko oceniš na <a href="https://apple.co/38zBEWW">Apple Podcasts</a>, <a href="https://spoti.fi/2YynMaM">Spotify</a> ali na <a href="https://www.podchaser.com/podcasts/opravicujemo-se-za-vse-nevsecn-1223565">Podchaser</a>-ju. Hvala!</p>
 
   {% include sponzorji.html %}
-{% endfor %}
 
 
     <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }} <span class="paginationTop"><span class="page_number ">(Stran {{ paginator.page }} od {{ paginator.total_pages }})</span></span></h4>
