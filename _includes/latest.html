@@ -13,6 +13,13 @@
   <h2><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
   <h6>{{ post.number }}</h6>
   <!-- CONTENT POST HTML -->
-  {{ content }}
-  <!-- END CONTENT POST HTML -->
+   {% if post.content contains '<!--break-->' %}
+   {{ post.content | split:'<!--break-->' | first }}
+       <div class="readMore"><a href="{{ post.url }}" title="{{ post.title }}">... preveri tudi zapiske in povezave epizode »</a></div>
+   {% else %}
+      {{ post.content }}
+   {% endif %}
+   <!-- END CONTENT POST HTML -->
 </div>
+
+</article>

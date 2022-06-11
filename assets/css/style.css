@@ -143,11 +143,12 @@ a {
   }
 }
 
-p, iframe {
+p {
 	padding: 0 0 0 1em;
 }
 
 iframe {
+	margin-bottom: -24px;
 }
 
 ul, ol {
@@ -271,14 +272,14 @@ article {
 	
 }
 
-article time {
+article time, .readMore a {
 	background: #042042;
 	padding: 0.3em;
 	margin-left: -2em;
 	color: #fff;
 }
 @media screen and (prefers-color-scheme: dark) {
-  article time {
+  article time, .readMore a {
     background: rgba(255,255,255, 0.42);
     color: rgba(0,0,0, 0.84);
   }
@@ -290,10 +291,24 @@ article time {
 	}
 }
 
+div.readMore {
+    text-align: right;
+    margin-top: 20px;
+}
+
+.readMore a {
+	color: #fff;
+	text-align: right;
+	padding: 4px 12px;
+}
+
 .post-content {
 	margin-bottom: 3em;
 }
 
+.post-content iframe {
+	margin: 0;
+}
 
 .prev-next-post-wrapper:after {
  content:"";
@@ -451,6 +466,10 @@ hr {
   }
 }
 
+.listenWrap {
+	margin: -32px 0 0 0;
+}
+
 .listen {
 /*    padding: 12px 12px;
     border: 1px #ccc solid;
@@ -484,7 +503,8 @@ hr {
 
 h4.listens {
 	margin: 0.4em 0 1em 0;
-	color: #042042;
+    color: rgba(0,0,0, 0.67)
+
 }
 @media screen and (prefers-color-scheme: dark) {
   h4.listens {
@@ -492,6 +512,9 @@ h4.listens {
   }
 }
 
+div.pagination {
+	padding: 0;
+}
 
 .pagination, .pagination a {
 	padding: 10px 20px;
