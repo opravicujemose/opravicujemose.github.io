@@ -13,20 +13,20 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 
 <!-- PRVA STRAN -->
 
-{% if paginator.page == 1 %}
   <!-- INDEX CONTENT -->
+{% if paginator.page == 1 %}
     {% assign post = site.posts.first %}
     {% assign content = post.content %}
     {% include latest.html %}
   <!-- END INDEX CONTENT -->
 
   <div class="about">
-    <p>Če bi radi podkast podprli 💸, se nanj naročili 🔗 ali ga ocenili ⭐️⭐️⭐️⭐️⭐️, lahko to storite na <a href="http://hvalazavseribe.si" target="_blank">hvalazavseribe.si</a>! Hvala! 🙏</p>
+    <p>Če bi radi podkast podprli 💸 ali se nanj naročili 🔗, lahko to storite na <a href="http://hvalazavseribe.si" target="_blank">hvalazavseribe.si</a>! 🙏</p>
     <p>P.S.: V Innsbruck gremo čez {% include counter.html %}... še prej pa v Indijo po motorje <a href="https://www.jawamotorcycles.com/motorcycles/42" target="_blank">Jawa 42</a>. 🏍 </p>
   </div>
 
-  <h4>Oceni nas</h4>
-    <p>Če ti je naš podkast všeč, nas lahko oceniš na <a href="https://apple.co/38zBEWW">Apple Podcasts</a>, <a href="https://spoti.fi/2YynMaM">Spotify</a> ali na <a href="https://www.podchaser.com/podcasts/opravicujemo-se-za-vse-nevsecn-1223565">Podchaser</a>-ju. Hvala!</p>
+  <h4>Oceni nas ⭐️⭐️⭐️⭐️⭐️</h4>
+    <p>Če ti je naš podkast všeč, nas lahko oceniš na <a href="https://apple.co/38zBEWW">Apple Podcasts</a>, <a href="https://www.podchaser.com/podcasts/opravicujemo-se-za-vse-nevsecn-1223565">Podchaser</a> ali na <a href="https://spoti.fi/2YynMaM">Spotify</a>-ju. Hvala!</p>
   {% include sponzorji.html %}
 
   <h4>{{ page.list_title | default: "Seznam vseh epizod podkasta" }} (stran {{ paginator.page }} od {{ paginator.total_pages }})</h4>
