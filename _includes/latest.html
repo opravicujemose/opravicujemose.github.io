@@ -15,7 +15,7 @@
   <!-- CONTENT POST HTML -->
    {% if post.content contains '<!--break-->' %}
    {{ post.content | split:'<!--break-->' | first }}
-       <div class="readMore"><a href="{{ post.url }}" title="{{ post.title }}">... preveri tudi zapiske in povezave epizode »</a></div>
+       <div class="readMore"><a href="{{ post.url }}" title="{{ post.title }}">... preveri  zapiske in povezave iz epizode »</a></div>
    {% else %}
       {{ post.content }}
    {% endif %}
