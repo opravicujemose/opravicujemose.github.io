@@ -298,18 +298,12 @@ div.readMore {
 
 @media screen and (max-width: 600px) {
 	div.readMore {
-	    float: right;
-	    margin: 10px 0 00px 0;
+	    display: flex;
+	    justify-content: flex-end;
+	    width: 180px;
+	    margin: 0 0 -15px auto;
+	    padding: 10px 0 20px 0;
 	}
-
-	div.readMore:after {
-		clear: both;
-	}
-
-	.about {
-		margin-top: 10px;
-	}
-
 
 }
 
@@ -320,7 +314,7 @@ div.readMore {
 }
 
 .post-content {
-	margin-bottom: 3em;
+	margin-bottom: 2.5em;
 }
 
 .post-content iframe {
