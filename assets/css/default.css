@@ -560,3 +560,13 @@ div.pagination {
 	padding: 0 5px;
 	color: #042042;
 }
+
+@media screen and (max-width: 600px) {
+	.pagination span {
+		display: block;
+		padding-bottom: 10px;
+		/*font-size: 0.9em;*/
+	}
+
+	.pagination .prevnext {display: none;}
+}
