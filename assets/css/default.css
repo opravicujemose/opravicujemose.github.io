@@ -296,6 +296,23 @@ div.readMore {
     margin-top: 20px;
 }
 
+@media screen and (max-width: 600px) {
+	div.readMore {
+	    float: right;
+	    margin: 10px 0 00px 0;
+	}
+
+	div.readMore:after {
+		clear: both;
+	}
+
+	.about {
+		margin-top: 10px;
+	}
+
+
+}
+
 .readMore a {
 	color: #fff;
 	text-align: right;
