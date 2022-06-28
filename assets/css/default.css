@@ -235,8 +235,12 @@ small, small a, small a:hover, small a:focus {
 	}
 }
 
-ul.post-list {
+ul.post-list, .noUl {
   list-style-type: none;
+}
+
+.noUl {
+	margin-left: -1em;
 }
 
 
@@ -593,7 +597,9 @@ div.pagination {
 }
 
 .Aljo, .Peli, .Zi {
-	background-size: 48px;
-	width: 48px;
-	height: 48px;
+	background-size: 50px;
+	width: 50px;
+	height: 50px;
+	box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+	border: 1px solid rgba(0, 0, 0, 0.1);
 }
