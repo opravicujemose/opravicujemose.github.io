@@ -564,3 +564,36 @@ div.pagination {
 
 	.pagination .prevnext {display: none;}
 }
+
+.user {
+	background: #ccc;
+	width: 48px;
+	height: 48px;
+	display: inline-flex;
+	flex-flow: row;
+	flex-direction: row;
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    vertical-align: middle;
+    border-radius: 50%;
+    margin-left: 8px;
+}
+
+.Aljo {
+	background: url(https://pbs.twimg.com/profile_images/417641915744800768/lSLzlQLM_400x400.jpeg) 0 0 no-repeat;
+}
+
+.Peli {
+	background: url(https://pbs.twimg.com/profile_images/699541602394619904/FXNkMTxF_400x400.jpg) 0 0 no-repeat;
+}
+
+.Zi {
+	background: url(https://pbs.twimg.com/profile_images/794133683783561216/gPWLH0q4_400x400.jpg) 0 0 no-repeat;
+}
+
+.Aljo, .Peli, .Zi {
+	background-size: 48px;
+	width: 48px;
+	height: 48px;
+}
