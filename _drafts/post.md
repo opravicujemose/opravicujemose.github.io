@@ -1,11 +1,11 @@
 ---
 layout: 	post
-title:  	"108 epizoda ali S04E02"
-number: 	"#108 aka S04E02"
+title:  	"110 epizoda ali S04E10"
+number: 	"#110 aka S04E04"
 categories:	epizode
-permalink:	/108/
+permalink:	/110/
 tagline: 	"Zdravo..."
-image:		/assets/img/107.png
+image:		/assets/img/110.jpg
 apple:		https://apple.co/
 pocket:		https://pca.st/
 overcast:	https://overcast.fm/
@@ -13,7 +13,7 @@ podkite:	https://kite.link/107-opr
 google:		https://kite.link/107-opr?open=google
 anchor:		https://anchor.fm/opravicujemose/episodes/Mi-trije-bi-v-Avstraliji-vn-padl-e1jrqat
 published:	false
-date: 		2022-06-13 06:00 +0200
+date: 		2022-07-04 06:00 +0200
 ---
 
 Zdravo. Pa smo pri prvem poglavju četrte knjige. V uvodu ugotovimo, da večino napak moraš narediti sam, četudi ti starši, prijatelji ali kdo tretji svetuje, kako se jih izogniti. Pri kopanju jame smo taki eksperti, da bi mi trije v Avstraliji ven padli, kot veli naslov te epizode.
