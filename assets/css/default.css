@@ -155,6 +155,10 @@ ul, ol {
 	padding: 0 0 0 3em;
 }
 
+.zapiski li {
+	padding: 0 3px;
+}
+
 
 @media screen and (max-width: 600px) {
 	ul, ol {
