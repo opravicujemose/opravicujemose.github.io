@@ -11,7 +11,8 @@ pocket:		https://pca.st/
 overcast:	https://overcast.fm/
 podkite:	https://kite.link/107-opr
 google:		https://kite.link/107-opr?open=google
-anchor:		https://anchor.fm/opravicujemose/episodes/Mi-trije-bi-v-Avstraliji-vn-padl-e1jrqat
+anchor:		https://anchor.fm/opravicujemose/episodes/ur-kot-bistvo-obstoja-srednja-pot-po-Fordu-Prefectu-e1lblv5
+listen:		https://www.listennotes.com/podcasts/opravičujemo-se-za/žur-kot-bistvo-obstoja-mLAblXr08T4/embed/
 published:	false
 date: 		2022-07-04 06:00 +0200
 ---
@@ -22,8 +23,7 @@ Zdravo. Pa smo pri prvem poglavju četrte knjige. V uvodu ugotovimo, da večino 
 
 Med debato o neznanem štoparju in njega lokaciji zaidemo na Balkan, se spomnimo imenitnih pogruntavščin, kar so duty free shopi nedvomno bili in ugotovimo, kaj so stroji z žarečimi lučmi. Blisk je osvetljeval okolico toliko časa, da se spomnimo na igro _Need For Speed: Porsche Unleashed_.
 
-<iframe src="https://www.listennotes.com/podcasts/opravičujemo-se-za/mi-trije-bi-v-avstraliji-vn-RpokX6Nualb/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
-
+{% include player.html %}
 {% include poslusaj.html %}
 
 <!--break-->
