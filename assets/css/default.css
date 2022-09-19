@@ -147,6 +147,14 @@ p {
 	padding: 0 0 0 1em;
 }
 
+p.coming-soon {
+	text-transform: uppercase;
+	padding: 1em;
+	border: 1px solid #eee;
+	margin-bottom: 2.2em;
+	letter-spacing: 2px;
+}
+
 iframe {
 	margin-bottom: -24px;
 }
