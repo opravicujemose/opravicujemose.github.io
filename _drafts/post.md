@@ -11,10 +11,10 @@ pocket:		https://pca.st/
 overcast:	https://overcast.fm/
 podkite:	https://kite.link/107-opr
 google:		https://kite.link/107-opr?open=google
-anchor:		https://anchor.fm/opravicujemose/episodes/ur-kot-bistvo-obstoja-srednja-pot-po-Fordu-Prefectu-e1lblv5
-listen:		https://www.listennotes.com/podcasts/opravičujemo-se-za/žur-kot-bistvo-obstoja-mLAblXr08T4/embed/
+anchor:		
+listen:		
 published:	false
-date: 		2022-07-04 06:00 +0200
+date: 		2022-MM-DD 06:00 +0200
 ---
 
 Zdravo. Pa smo pri prvem poglavju četrte knjige. V uvodu ugotovimo, da večino napak moraš narediti sam, četudi ti starši, prijatelji ali kdo tretji svetuje, kako se jih izogniti. Pri kopanju jame smo taki eksperti, da bi mi trije v Avstraliji ven padli, kot veli naslov te epizode.
