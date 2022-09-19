@@ -153,6 +153,8 @@ p.coming-soon {
 	border: 1px solid #eee;
 	margin-bottom: 2.2em;
 	letter-spacing: 2px;
+	color: rgba(0,0,0, 0.74);
+	text-align: center;
 }
 
 iframe {
