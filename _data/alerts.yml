@@ -1,33 +1,32 @@
 # Glej https://podcastfont.com/ za več ikon
 # če hočeš več alertov, morš dodat cifro v alerts.html !!!
-- type:   pi pi-rocket
+- type:   pi pi-comment
   number: 01
   class:  alert-info
+  text:   Pridruži se nam na Discordu. 🎉 Debatiramo o
+  link:   življenju, vesolju in sploh vsem
+  end:    . 💬
+  url:    https://opravicujemo.se/discord
+- type:   pi pi-rocket
+  number: 02
+  class:  alert-success
   text:   "Podpreš nas lahko tako, da za nas poveš še komu ali "
   link:   na Patreonu, Paypalu ali Ko-fiju
   end:    ". Hvala!"  
   url:    https://hvalazavseribe.si/#-podpri-nas
-
-- type:   pi pi-comment
-  number: 02
-  class:  alert-danger
-  text:   Pridruži se nam na Slacku. 🎉 Debatiramo o
-  link:   življenju, vesolju in sploh vsem
-  end:    . 💬
-  url:    https://bit.ly/opr-slack
 - type:   pi pi-coins
   number: 03
-  class:  alert-success
+  class:  alert-warning
   text:   Naš podkast lahko podpreš 
   link:   tudi na Patreonu
   end:    "! Imamo bonus epizode. Hvala za vse ribe. 🐟"
   url:    https://www.patreon.com/opravicujemose
 - type:   pi pi-tag-funding
   number: 04
-  class:  alert-warning
+  class:  alert-danger
   text:   Bi imel/a majico 
   link:   Opravičujemo se za vse nevšečnosti
-  end:    " 👈 Klik za naročilo."
+  end:    " 👈 Klik za (pred)naročilo."
   url:    https://forms.gle/UvJpTiRhMWHiskeL8
 # - type:   fas fa-podcast
 #   number: 04
