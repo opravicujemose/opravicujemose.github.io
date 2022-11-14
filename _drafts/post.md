@@ -1,11 +1,11 @@
 ---
 layout: 	post
-title:  	"110 epizoda ali S04E10"
-number: 	"#110 aka S04E04"
+title:  	"Zakaj so izginili delfini? 🐬"
+number: 	"#129 aka S04E23"
 categories:	epizode
-permalink:	/110/
+permalink:	/129/
 tagline: 	"Zdravo..."
-image:		/assets/img/110.jpg
+image:		/assets/img/129.jpg
 apple:		https://apple.co/
 pocket:		https://pca.st/
 overcast:	https://overcast.fm/
