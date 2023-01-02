@@ -14,7 +14,7 @@ google:		https://kite.link/133-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2022-mm-dd 06:00 +0200
+date: 		2023-mm-dd 06:00 +0200
 ---
 
 Zdravo. Pa smo pri prvem poglavju četrte knjige. V uvodu ugotovimo, da večino napak moraš narediti sam, četudi ti starši, prijatelji ali kdo tretji svetuje, kako se jih izogniti. Pri kopanju jame smo taki eksperti, da bi mi trije v Avstraliji ven padli, kot veli naslov te epizode.
