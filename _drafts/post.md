@@ -1,20 +1,20 @@
 ---
 layout: 	post
 title:  	"Ni pornič"
-number: 	"#133 aka S04E27"
+number: 	"#137 aka S04E31"
 categories:	epizode
-permalink:	/133/
+permalink:	/137/
 tagline: 	"Zdravo..."
-image:		/assets/img/133.jpg
+image:		/assets/img/137.jpg
 apple:		
 pocket:		
 overcast:	
-podkite:	https://kite.link/133-opr
-google:		https://kite.link/133-opr?open=google
+podkite:	https://kite.link/137-opr
+google:		https://kite.link/137-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2023-mm-dd 06:00 +0200
+date: 		2023-01-dd 06:00 +0200
 ---
 
 Zdravo. Pa smo pri prvem poglavju četrte knjige. V uvodu ugotovimo, da večino napak moraš narediti sam, četudi ti starši, prijatelji ali kdo tretji svetuje, kako se jih izogniti. Pri kopanju jame smo taki eksperti, da bi mi trije v Avstraliji ven padli, kot veli naslov te epizode.
