@@ -5,7 +5,7 @@ number: 	"#137 aka S04E31"
 categories:	epizode
 permalink:	/137/
 tagline: 	"Zdravo..."
-image:		/assets/img/137.jpg
+image:		/assets/img/138@2x.jpg
 apple:		
 pocket:		
 overcast:	
