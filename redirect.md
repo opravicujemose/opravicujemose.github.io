@@ -3,5 +3,5 @@ title: Redirect to Apple or Google Podcasts
 redirect_from:
 - /078r/
 - /zadnja/
-redirect_to: https://pod.fo/e/15f4de
+redirect_to: https://pod.fo/e/161267
 ---
