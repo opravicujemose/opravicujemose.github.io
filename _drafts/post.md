@@ -1,16 +1,16 @@
 ---
 layout: 	post
-title:  	"Ni pornič"
-number: 	"#137 aka S04E31"
+title:  	"Mišji penis"
+number: 	"#147 aka S04E41"
 categories:	epizode
-permalink:	/137/
+permalink:	/147/
 tagline: 	"Zdravo..."
-image:		/assets/img/138@2x.jpg
+image:		/assets/img/147@2x.jpg
 apple:		
 pocket:		
 overcast:	
-podkite:	https://kite.link/137-opr
-google:		https://kite.link/137-opr?open=google
+podkite:	https://kite.link/147-opr
+google:		https://kite.link/147-opr?open=google
 anchor:		
 listen:		
 published:	false
