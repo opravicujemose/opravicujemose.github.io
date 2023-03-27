@@ -1,16 +1,16 @@
 ---
 layout: 	post
-title:  	"Mišji penis"
-number: 	"#147 aka S04E41"
+title:  	"Življenje, pač 🧬"
+number: 	"#148 aka S04E42"
 categories:	epizode
-permalink:	/147/
+permalink:	/148/
 tagline: 	"Zdravo..."
-image:		/assets/img/147@2x.jpg
+image:		/assets/img/148@2x.jpg
 apple:		
 pocket:		
 overcast:	
-podkite:	https://kite.link/147-opr
-google:		https://kite.link/147-opr?open=google
+podkite:	https://kite.link/148-opr
+google:		https://kite.link/148-opr?open=google
 anchor:		
 listen:		
 published:	false
