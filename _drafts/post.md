@@ -1,16 +1,16 @@
 ---
 layout: 	post
 title:  	"Življenje, pač 🧬"
-number: 	"#148 aka S04E42"
+number: 	"#151 aka S04E45"
 categories:	epizode
-permalink:	/148/
+permalink:	/151/
 tagline: 	"Zdravo..."
-image:		/assets/img/148@2x.jpg
+image:		/assets/img/151@2x.jpg
 apple:		
 pocket:		
 overcast:	
-podkite:	https://kite.link/148-opr
-google:		https://kite.link/148-opr?open=google
+podkite:	https://kite.link/151-opr
+google:		https://kite.link/151-opr?open=google
 anchor:		
 listen:		
 published:	false
