@@ -1,7 +1,7 @@
 ---
 layout: 	post
 title:  	"Življenje, pač 🧬"
-number: 	"#151 aka S04E45"
+number: 	"#151 aka S05E00"
 categories:	epizode
 permalink:	/151/
 tagline: 	"Zdravo..."
