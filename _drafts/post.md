@@ -4,14 +4,14 @@ title:  	"Noži 🔪 in sekire 🪓"
 number: 	"#161 aka S05E08"
 categories:	epizode
 permalink:	/161/
-tagline: 	"Zdravo. Tokrat se posvetimo sekiram. In nožem. Ampak bolj sekiram. NoJa."
+tagline: 	"Zdravo..."
 image:		/assets/img/161@2x.jpg
 apple:		
-pocket:		
 overcast:	
 podkite:	https://kite.link/161-opr
+pocket:		https://kite.link/161-opr?open=pocketcasts
 google:		https://kite.link/161-opr?open=google
-anchor:		https://podcasters.spotify.com/pod/show/opravicujemose/episodes/Noi-in-sekire-e2665ol
+anchor:		
 listen:		
 published:	false
 date: 		2023-06-25 06:00 +0200
