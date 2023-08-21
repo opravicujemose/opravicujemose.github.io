@@ -1,20 +1,20 @@
 ---
 layout: 	post
-title:  	"Kam pa gre(s)te za nou let? 🥂"
-number: 	"#168 aka S05E14"
+title:  	"S konjem do Indije in s kajakom 🛶 do Maldivov"
+number: 	"#169 aka S05E15"
 categories:	epizode
-permalink:	/167/
+permalink:	/169/
 tagline: 	"Zdravo. 🚨"
-image:		/assets/img/168@2x.jpg
+image:		/assets/img/169@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/168-opr
-pocket:		https://kite.link/168-opr?open=pocketcasts
-google:		https://kite.link/168-opr?open=google
+podkite:	https://kite.link/169-opr
+pocket:		https://kite.link/169-opr?open=pocketcasts
+google:		https://kite.link/169-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2023-08-13 06:00 +0200
+date: 		2023-08-20 06:00 +0200
 ---
 
 Zdravo. Ta teden pogledamo daleč v prihodnost in se vprašamo, kje boste za Novo leto? Že drugič v zgodovini našega podkasta. V začetku se pogovarjamo o pitju in petju, o legendarnem #wwwp oz. webmaster pikniku, alkoholu, materi Zemlji in sklenemo, da nihče ni otok. Še otoki so pod morsko gladino vsi povezani. 
