@@ -1,27 +1,27 @@
 ---
 layout: 	post
-title:  	"Veliki prezračevalni 💨 in telefonski ☎️ punt"
-number: 	"#170 aka S05E17"
+title:  	"Mojster (razstavljenih) sendvičev 🥪"
+number: 	"#171 aka S05E18"
 categories:	epizode
-permalink:	/170/
-tagline: 	"Zdravo. 🚨"
-image:		/assets/img/170@2x.jpg
+permalink:	/171/
+tagline: 	"Zdravo. V tokratni epizodi se sprašujemo, kdo je mojster sendvičev in kako se pripravi pravi razstavljeni sendvič."
+image:		/assets/img/171@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/170-opr
-pocket:		https://kite.link/170-opr?open=pocketcasts
-google:		https://kite.link/170-opr?open=google
-anchor:		
+podkite:	https://kite.link/171-opr
+pocket:		https://kite.link/171-opr?open=pocketcasts
+google:		https://kite.link/171-opr?open=google
+anchor:		https://podcasters.spotify.com/pod/show/opravicujemose/episodes/Mojster-razstavljenih-sendviev-e28sc89
 listen:		
 published:	false
-date: 		2023-08-27 06:00 +0200
+date: 		2023-09-03 06:00 +0200
 ---
 
-Zdravo. Ta teden pogledamo daleč v prihodnost in se vprašamo, kje boste za Novo leto? Že drugič v zgodovini našega podkasta. V začetku se pogovarjamo o pitju in petju, o legendarnem #wwwp oz. webmaster pikniku, alkoholu, materi Zemlji in sklenemo, da nihče ni otok. Še otoki so pod morsko gladino vsi povezani. 
+Zdravo. V tokratni epizodi se končno prebijemo v 13. poglavje 5. knjige, kjer spoznamo nov planet, ki mu pravijo Lamuela in novega junaka, ki mu mi pravimo Stari Bargo. Pa tudi novo vesoljsko ladjo in dve potnici na njem in mojstra sendvičev. 
 
-Spomnimo se tudi na legendarno reklo, ki veli, da "od tamalih nisi pijan". Obdelamo tudi navodila za sestavljanje omar IKEA, v po glavju spremljamo Forda kako pada iz 23. nadstropja stolpnice Štoparskega vodnika, kako se huduje nad premnogimi zaposlenimi v podjetju, oz. korporaciji in kako ima revež boleč gleženj. 
+Ime mojstra sedvičev ostane skrivnost do konca epizode, ker se mi vmes pogovarjamo o preklinjanju, novem letu, novih turističnih destinacijah letošnje zime (Opatija), novi paradigmi, celoletnih smučiščih v nakupovalnih centrih, ter o nožih in seveda o razstavljenih sendvičih, kakršne ima Peli najraje. 
 
-Tudi na Ronalda Waynea ne pozabimo, pa na kartice iz kjerkoli že pač ste, lahko tudi z Debelega rtiča in prosimo, da ne pošiljate kartic v klet na Trstenjakovi, ker bomo potem morali s karjolo do tja. 
+Ugotovimo tudi, da so vsi sendviči lepi, tudi razstavljeni. 
 
 {% include player.html %}
 {% include poslusaj.html %}
