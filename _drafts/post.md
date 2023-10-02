@@ -1,20 +1,20 @@
 ---
 layout: 	post
-title:  	"Vsemogočni Bob"
-number: 	"#174 aka S05E21"
+title:  	"Naslov epizode"
+number: 	"#175 aka S05E22"
 categories:	epizode
-permalink:	/174/
-tagline: 	"Zdravo. Tokrat smo se spraševali o zločinu in kazni. In ali je strelski vod poštena kazen za direktorje zavarovalnic (ali bank)?"
-image:		/assets/img/174@2x.jpg
+permalink:	/175/
+tagline: 	"Zdravo."
+image:		/assets/img/175@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/174-opr
-pocket:		https://kite.link/174-opr?open=pocketcasts
-google:		https://kite.link/174-opr?open=google
+podkite:	https://kite.link/175-opr
+pocket:		https://kite.link/175-opr?open=pocketcasts
+google:		https://kite.link/175-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2023-09-24 06:00 +0200
+date: 		2023-10-01 06:00 +0200
 ---
 
 Zdravo. Tokrat je zaradi bolezni v ansamblu opis epizode malce drugačen. Namreč: konec tedna se je ekipa, ki skrbi, da to podkast pride v eter, dobila na sestanku (se pravi, ne vaši vrli voditelji Aljo, Peli in Zi), ampak tisti, ki v redakciji zares delamo, torej tehnična ekipa. Scenarist je iz podaljšanega vikenda v Maredi prinesel neko virozo in jo podelil v celotnem uredništvu. 
