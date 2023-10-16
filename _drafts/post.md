@@ -1,20 +1,20 @@
 ---
 layout: 	post
-title:  	"Naslov epizode"
-number: 	"#176 aka S05E23"
+title:  	"Kot starševstvo z jasnega"
+number: 	"#174 aka S05E24"
 categories:	epizode
-permalink:	/176/
-tagline: 	"Zdravo."
-image:		/assets/img/176@2x.jpg
+permalink:	/177/
+tagline: 	"Zdravo. Tokrat spoznamo, kaj ima skupnega naš mali podkast s filmi kot so Reservoir Dogs, franšizo Indiana Jones, Star Wars in mnogimi drugimi. In govorimo o starševstvu."
+image:		/assets/img/177@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/176-opr
-pocket:		https://kite.link/176-opr?open=pocketcasts
-google:		https://kite.link/176-opr?open=google
+podkite:	https://kite.link/177-opr
+pocket:		https://kite.link/177-opr?open=pocketcasts
+google:		https://kite.link/177-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2023-10-08 06:00 +0200
+date: 		2023-10-15 06:00 +0200
 ---
 
 Zdravo. V predigri ugotovimo, da zmeraj snemajo in da velja biti previden. Mi nismo in zakorakamo v dolino smrti, kjer srečamo zombije in se sprašujemo, če smo vsi udeleženci v prometnih kolonah kot zombiji. Seveda ne pozabimo na 5G in ugotovimo, da se nekateri obnašajo, kot da bodo preživeli smrt samo. 
