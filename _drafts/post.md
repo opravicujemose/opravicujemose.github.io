@@ -1,7 +1,7 @@
 ---
 layout: 	post
 title:  	"Normalost se včasih (tudi) ne posreči"
-number: 	"#175 aka S05E25"
+number: 	"#178 aka S05E25"
 categories:	epizode
 permalink:	/178/
 tagline: 	"Zdravo."
