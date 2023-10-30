@@ -1,20 +1,20 @@
 ---
 layout: 	post
-title:  	"Normalost se včasih (tudi) ne posreči"
-number: 	"#178 aka S05E25"
+title:  	"Če je to kriza, naj traja"
+number: 	"#179 aka S05E26"
 categories:	epizode
-permalink:	/178/
+permalink:	/179/
 tagline: 	"Zdravo."
-image:		/assets/img/178@2x.jpg
+image:		/assets/img/179@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/178-opr
-pocket:		https://kite.link/178-opr?open=pocketcasts
-google:		https://kite.link/178-opr?open=google
+podkite:	https://kite.link/179-opr
+pocket:		https://kite.link/179-opr?open=pocketcasts
+google:		https://kite.link/179-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2023-10-22 06:00 +0200
+date: 		2023-10-29 06:00 +0200
 ---
 
 Zdravo. V predigri ugotovimo, da zmeraj snemajo in da velja biti previden. Mi nismo in zakorakamo v dolino smrti, kjer srečamo zombije in se sprašujemo, če smo vsi udeleženci v prometnih kolonah kot zombiji. Seveda ne pozabimo na 5G in ugotovimo, da se nekateri obnašajo, kot da bodo preživeli smrt samo. 
