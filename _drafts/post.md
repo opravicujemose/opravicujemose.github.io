@@ -1,28 +1,27 @@
 ---
 layout: 	post
-title:  	"A vi ne plešete več?"
-number: 	"#181 aka S05E28"
+title:  	"Revolucija v šamponu"
+number: 	"#182 aka S05E29"
 categories:	epizode
 permalink:	/181/
 tagline: 	"Zdravo."
-image:		/assets/img/181@2x.jpg
+image:		/assets/img/182@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/181-opr
-pocket:		https://kite.link/181-opr?open=pocketcasts
-google:		https://kite.link/181-opr?open=google
+podkite:	https://kite.link/182-opr
+pocket:		https://kite.link/182-opr?open=pocketcasts
+google:		https://kite.link/182-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2023-11-12 06:00 +0200
+date: 		2023-11-19 06:00 +0200
 ---
 
-Zdravo. Ker smo ravno v teh časih, se spočetka sprašujemo, kako se mošt spremeni v vino, kaj stoji za to čarovnijo in da je pri nekaterih drugih pijačah treba dosti plesat’ okol’ soda, da v še ne-alkoholno pijačo stopi tisto božje, kar od pijače človek pač pričakuje. Alkohol, torej.
+Zdravo. Ker ples ni več v modi, tokrat stavimo na revolucijo. V šamponu. Oziroma, v šamponih. Vsaj na kakšno novo revolucionarno formulo čakamo, ki bo krasila novodobne šampone, ki bodo primerni za podnebne spremembe. V predigri se posvetimo divje netočni zgodovini interneta, tehnologiji WAP, SMS-om in Geocities. 
 
-Ugotovimo, da rastemo in da se učimo, najdemo komad tedna in še enega in se po kratkem odvodu do Odiseje 2001 posvetimo poglavju, kjer Vodnik (ptič) razloži Random, kaj je to vzvratno inženirstvo. Tudi o filtrih, generalštabu in Fordu Prefectu je govora. 
+Obelodanimo, da odpuščamo tudi v našem malem podkastu, ker je to pač popularno početje v našem (podkasterskem) sektorju. Poslovimo se od scenarista, redaktorja, montažerja, oblikovalke, režiserke, tajnice režije, organizatorka, odgovorna urednica, strokovnjaka za družabna omrežja in tonskega tehnika. Slava jim. 
 
-Vmes se spomnimo tudi na dilemo, kaj je vprašanje in kaj je odgovor in ugotovimo da so trenutno vsi božkji operaterji zasedeni. 
-
+V poglavju se posvetimo povratku Forda, oz. snidenju Arturja in Forda in se spomnimo na Carja, ki zna oživljati skoraj tako dobro, kot Aljo, ki Carja ni gledal, ve pa, kako se to dela po zadnjih standardih. 
 
 {% include player.html %}
 {% include poslusaj.html %}
