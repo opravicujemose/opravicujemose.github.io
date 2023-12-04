@@ -1,20 +1,20 @@
 ---
 layout: 	post
 title:  	"Trakci čistonavadnega goveda 🐂"
-number: 	"#183 aka S05E30"
+number: 	"#184 aka S05E31"
 categories:	epizode
-permalink:	/183/
+permalink:	/184/
 tagline: 	"Zdravo."
-image:		/assets/img/183@2x.jpg
+image:		/assets/img/184@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/183-opr
-pocket:		https://kite.link/183-opr?open=pocketcasts
-google:		https://kite.link/183-opr?open=google
+podkite:	https://kite.link/184-opr
+pocket:		https://kite.link/184-opr?open=pocketcasts
+google:		https://kite.link/184-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2023-11-26 06:00 +0200
+date: 		2023-12-03 06:00 +0200
 ---
 
 Zdravo. Čeprav je veseli november že skoraj mimo, še vedno čutimo odpuščanja v našem malem podkastu (najbolj pogrešamo scenarista), Peli je ponosen, ker na črni petek ni kupil nobene kitare, sprašujemo pa se če bo regres in kam bomo šli na novoletno večerjo. 
