@@ -1,20 +1,20 @@
 ---
 layout: 	post
-title:  	"Schrödingerjeve kartice"
-number: 	"#186 aka S05E33"
+title:  	"V imenu neustavljivega dobička 🎄"
+number: 	"#187 aka S05E34"
 categories:	epizode
-permalink:	/186/
-tagline: 	"Zdravo. Ta teden se sprašujemo če bo Božič bel (ali se Božič piše z veliko ali malo začetnico) in vam povemo, kdaj je bil bel nazadnje. Tudi o Schrödingerjevih karticah je govora."
-image:		/assets/img/186@2x.jpg
+permalink:	/187/
+tagline: 	"Zdravo."
+image:		/assets/img/187@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/186-opr
-pocket:		https://kite.link/186-opr?open=pocketcasts
-google:		https://kite.link/186-opr?open=google
+podkite:	https://kite.link/187-opr
+pocket:		https://kite.link/187-opr?open=pocketcasts
+google:		https://kite.link/187-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2023-12-18 06:00 +0200
+date: 		2023-12-24 06:00 +0200
 ---
 
 Zdravo. Tokrat se sprašujemo, kdaj bo zapadel sneg do nižin in če ta podatek piše v pratiki in da že od leta 2007 ni bilo belega Božiča. Študiramo, kako se priporočiti pri Bobu in se sprašujemo, kdo je prestregel naše dopisnice? Globoka država? Kdo stoji za tem? Kam so se skrile te Schrödingerjeve kartice? 
