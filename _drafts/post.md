@@ -1,27 +1,27 @@
 ---
 layout: 	post
-title:  	"Kraljeva dežela 👑"
-number: 	"#188 aka S05E35"
+title:  	"Švica 🇨🇭"
+number: 	"#189 aka S05E36"
 categories:	epizode
-permalink:	/188/
-tagline: 	"Zdravo. Tokrat se ustavimo v restavraciji in baruk Kraljeva dežela, kjer Ford napiše recenzijo za novi Štoparski vodnik po Galaksiji."
-image:		/assets/img/188@2x.jpg
+permalink:	/189/
+tagline: 	"Zdravo. V tokratni epizodi nas res zanima koliko denarja človek potrebuje, če hoče kupiti Švico. Odgovor najdemo v dejstvu, da jo je najbrž ceneje napasti, kot kupiti."
+image:		/assets/img/189@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/188-opr
-pocket:		https://kite.link/188-opr?open=pocketcasts
-google:		https://kite.link/188-opr?open=google
+podkite:	https://kite.link/189-opr
+pocket:		https://kite.link/189-opr?open=pocketcasts
+google:		https://kite.link/189-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2023-12-31 06:00 +0200
+date: 		2024-01-07 06:00 +0200
 ---
 
-Zdravo. Tokrat se sprašujemo, kdaj bo zapadel sneg do nižin in če ta podatek piše v pratiki in da že od leta 2007 ni bilo belega Božiča. Študiramo, kako se priporočiti pri Bobu in se sprašujemo, kdo je prestregel naše dopisnice? Globoka država? Kdo stoji za tem? Kam so se skrile te Schrödingerjeve kartice? 
+Zdravo, v predigri ugotovimo, da smo v novem studiu št. 114 oz. po domače 42, skratka, da je vse pod kontrolo. Aljo pove šalo, pošalimo se o dinamiki zvoka, pozdravimo sosede LDGD, se pogovarjamo o cestah, Greti in po nekem čudnem naključju tudi o drugem delu 22. poglavja knjige Pretežno neškodljiva. 
 
-V epizodi spremljamo Tricio, ki pregleduje posnetke z Ruperta in se ji očitno rahlo keglja, čeprav je na Rupretu doživela mnogo prefinjenih potrošnih dobrin in sedela na vreči fižola, … je mogoče to pripomoglo, da je doživela živčni zlom? Tega ne vemo, vemo, pa da so bile v devetdesetih popularne teve serije, kot je naprimer M.A.S.H.! 
+Še vedno smo bifeju Kraljeva dežela, kjer Ford najde luknjo v sistemu, nas zanima koliko stane Švica, ugotovimo da se Artur drži starega vogonskega pregovora, da upiranje ne pomaga in poslušamo skoraj dva komada tedna. Na koncu je samo eden, ker se tako spodobi. 
 
-Na koncu se odpravimo na brezalkoholnega kuhančka in vam želimo lep preostanek decembra. 
+In ja: tudi o poklovniku in Elvisu teče beseda. 
 
 {% include player.html %}
 {% include poslusaj.html %}
