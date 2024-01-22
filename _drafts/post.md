@@ -1,31 +1,25 @@
 ---
 layout: 	post
-title:  	"Razvran"
-number: 	"#190 aka S05E37"
+title:  	"Nevladni podkast"
+number: 	"#191 aka S05E38"
 categories:	epizode
-permalink:	/190/
-tagline: 	"Zdravo. Tokrat se oglašamo iz sveta izbrisanih "
-image:		/assets/img/190@2x.jpg
+permalink:	/191/
+tagline: 	"Zdravo. "
+image:		/assets/img/191@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/190-opr
-pocket:		https://kite.link/190-opr?open=pocketcasts
-google:		https://kite.link/190-opr?open=google
+podkite:	https://kite.link/191-opr
+pocket:		https://kite.link/191-opr?open=pocketcasts
+google:		https://kite.link/191-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2024-01-14 06:00 +0200
+date: 		2024-01-21 06:00 +0200
 ---
 
-Zdravo. Tokrat se je zgodilo to, česar smo se najbolj bali. Zgodilo se je tisto, za kar smo bili sveto prepričani, da se ne bo. Izgubili smo epizodo. Šla je v večna podkasterska lovišča. Prišlo je namreč do nesreče. Računalnik je imel pomembnejše opravke in tako je šla skoraj cela epizoda v večna lovišča. 
+Zdravo. V tokratni epizodi namesto pogovora o 24. poglavju 5. knjige obdelamo leto zmaja, Threads, Stožice, vladni podkast, 42. vladni vladni računalnik, premaknjene golobe, čustveno stanje našega scenarista, 24 urni cikel novic, zalivsko vojno in težave s percepcijo relanosti. 
 
-Pri vsemogočnem Bobu, zakaj? 🙌
-
-Ko smo jo posneli v drugo, je šlo, a je bilo zelo težko. 
-
-Kdo je bil najbolj razvran … boste slišali v drugem poizkusu snemanjea epizode. Če se bomo prevečkrat spomnili na dejstvo, da smo izbrisali skoraj "cel take", kot se reče v lepi slovenščini, potem je to zato, ker je bila bolečina res močna. Za morebitno trpljenje se že vnaprej … opravičujemo za vse nevšečnosti. 
-
-Vmes smo prvih dvajstet minut izgubljene epizode našli in prvi del objavljamo kot bonus. Celotno izgubljeno epizodo lahko slišite naše podpornice in podporniki ta teden v bonus epizodi, … ostali pa, enkrat ko jo objavimo. Lahko pa nas podprete na [hvalazavseribe.si](https://hvalazavseribe.si/) in jo poslušate že danes. 
+Posvetimo se tudi peti knjigi kot taki in jo primerjamo s trilogijo v štirih delih. Kar smo nameravali narediti v eni od prihodnjih epizod, ampak nič ne de. Spomnimo se tudi na tiste zelene koščke papirja in še kaj. Intro nam uspe narediti v štirih korakih. Bravo. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -34,8 +28,4 @@ Vmes smo prvih dvajstet minut izgubljene epizode našli in prvi del objavljamo k
 
 #### Zapiski
 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
+- [Nenavaden primer 50.000 premaknjenih golobov](https://www.wnycstudios.org/podcasts/otm/segments/curious-case-50000-missing-pigeons-on-the-media) - Robert Krulwich, bivši sovoditelj Radiolaba v podkastu On The Media o tem, kako in kdo je premaknil na tisoče poštnih golobov (bolje rečeno izginotje)
