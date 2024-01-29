@@ -198,7 +198,11 @@ ld: warning: dylib (/opt/homebrew/opt/openssl@3/lib/libcrypto.dylib) was built f
 ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.3.0/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (11.3)
 Undefined symbols for architecture arm64:
   "_rb_thread_blocking_region", referenced from:
+<<<<<<< Updated upstream
       _t in conftest-adfad3.o
+=======
+      _t in conftest-7c2886.o
+>>>>>>> Stashed changes
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -385,7 +389,11 @@ ld: warning: dylib (/opt/homebrew/opt/openssl@3/lib/libcrypto.dylib) was built f
 ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.3.0/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (11.3)
 Undefined symbols for architecture arm64:
   "_rb_enable_interrupt", referenced from:
+<<<<<<< Updated upstream
       _t in conftest-c71780.o
+=======
+      _t in conftest-bb44c2.o
+>>>>>>> Stashed changes
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -585,7 +593,11 @@ ld: warning: dylib (/opt/homebrew/opt/openssl@3/lib/libcrypto.dylib) was built f
 ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.3.0/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (11.3)
 Undefined symbols for architecture arm64:
   "_pipe2", referenced from:
+<<<<<<< Updated upstream
       _t in conftest-bf69a6.o
+=======
+      _t in conftest-b5a109.o
+>>>>>>> Stashed changes
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
@@ -647,7 +659,11 @@ ld: warning: dylib (/opt/homebrew/opt/openssl@3/lib/libcrypto.dylib) was built f
 ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.3.0/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (11.3)
 Undefined symbols for architecture arm64:
   "_accept4", referenced from:
+<<<<<<< Updated upstream
       _t in conftest-c52c98.o
+=======
+      _t in conftest-2e0019.o
+>>>>>>> Stashed changes
 ld: symbol(s) not found for architecture arm64
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:

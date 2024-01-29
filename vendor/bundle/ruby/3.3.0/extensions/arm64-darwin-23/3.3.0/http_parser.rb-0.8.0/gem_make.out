@@ -3,10 +3,17 @@ current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/ven
 creating Makefile
 
 current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+<<<<<<< Updated upstream
 make DESTDIR\= sitearchdir\=./.gem.20240128-2768-umvxd3 sitelibdir\=./.gem.20240128-2768-umvxd3 clean
 
 current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20240128-2768-umvxd3 sitelibdir\=./.gem.20240128-2768-umvxd3
+=======
+make DESTDIR\= sitearchdir\=./.gem.20240129-6865-wyk2d9 sitelibdir\=./.gem.20240129-6865-wyk2d9 clean
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240129-6865-wyk2d9 sitelibdir\=./.gem.20240129-6865-wyk2d9
+>>>>>>> Stashed changes
 compiling ruby_http_parser.c
 warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
 ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
@@ -20,8 +27,16 @@ linking shared-object ruby_http_parser.bundle
 ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.3.0/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (11.3)
 
 current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+<<<<<<< Updated upstream
 make DESTDIR\= sitearchdir\=./.gem.20240128-2768-umvxd3 sitelibdir\=./.gem.20240128-2768-umvxd3 install
 /usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20240128-2768-umvxd3
 
 current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
 make DESTDIR\= sitearchdir\=./.gem.20240128-2768-umvxd3 sitelibdir\=./.gem.20240128-2768-umvxd3 clean
+=======
+make DESTDIR\= sitearchdir\=./.gem.20240129-6865-wyk2d9 sitelibdir\=./.gem.20240129-6865-wyk2d9 install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20240129-6865-wyk2d9
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= sitearchdir\=./.gem.20240129-6865-wyk2d9 sitelibdir\=./.gem.20240129-6865-wyk2d9 clean
+>>>>>>> Stashed changes

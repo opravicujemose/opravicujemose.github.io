@@ -3,10 +3,17 @@ current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/ven
 creating Makefile
 
 current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.4/ext/commonmarker
+<<<<<<< Updated upstream
 make DESTDIR\= sitearchdir\=./.gem.20240128-2768-r1mkpf sitelibdir\=./.gem.20240128-2768-r1mkpf clean
 
 current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.4/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20240128-2768-r1mkpf sitelibdir\=./.gem.20240128-2768-r1mkpf
+=======
+make DESTDIR\= sitearchdir\=./.gem.20240129-6865-mvhrfd sitelibdir\=./.gem.20240129-6865-mvhrfd clean
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.4/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20240129-6865-mvhrfd sitelibdir\=./.gem.20240129-6865-mvhrfd
+>>>>>>> Stashed changes
 compiling arena.c
 warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
 1 warning generated.
@@ -151,8 +158,16 @@ linking shared-object commonmarker/commonmarker.bundle
 ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.3.0/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (11.3)
 
 current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.4/ext/commonmarker
+<<<<<<< Updated upstream
 make DESTDIR\= sitearchdir\=./.gem.20240128-2768-r1mkpf sitelibdir\=./.gem.20240128-2768-r1mkpf install
 /usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20240128-2768-r1mkpf/commonmarker
 
 current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.4/ext/commonmarker
 make DESTDIR\= sitearchdir\=./.gem.20240128-2768-r1mkpf sitelibdir\=./.gem.20240128-2768-r1mkpf clean
+=======
+make DESTDIR\= sitearchdir\=./.gem.20240129-6865-mvhrfd sitelibdir\=./.gem.20240129-6865-mvhrfd install
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20240129-6865-mvhrfd/commonmarker
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/commonmarker-0.23.4/ext/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20240129-6865-mvhrfd sitelibdir\=./.gem.20240129-6865-mvhrfd clean
+>>>>>>> Stashed changes
