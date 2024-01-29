@@ -1,25 +1,27 @@
 ---
 layout: 	post
-title:  	"Nevladni podkast"
-number: 	"#191 aka S05E38"
+title:  	"David Goggins 💪"
+number: 	"#192 aka S05E39"
 categories:	epizode
-permalink:	/191/
+permalink:	/192/
 tagline: 	"Zdravo. "
-image:		/assets/img/191@2x.jpg
+image:		/assets/img/192@2x.jpg
 apple:		
 overcast:	
-podkite:	https://kite.link/191-opr
-pocket:		https://kite.link/191-opr?open=pocketcasts
-google:		https://kite.link/191-opr?open=google
+podkite:	https://kite.link/192-opr
+pocket:		https://kite.link/192-opr?open=pocketcasts
+google:		https://kite.link/192-opr?open=google
 anchor:		
 listen:		
 published:	false
-date: 		2024-01-21 06:00 +0200
+date: 		2024-02-xx 06:00 +0200
 ---
 
-Zdravo. V tokratni epizodi namesto pogovora o 24. poglavju 5. knjige obdelamo leto zmaja, Threads, Stožice, vladni podkast, 42. vladni vladni računalnik, premaknjene golobe, čustveno stanje našega scenarista, 24 urni cikel novic, zalivsko vojno in težave s percepcijo relanosti. 
+Zdravo. Dobrodošli v najbolj demokratičnem podkastu, kjer dajemo našo prihodnost v vaše roke. Ker se ne moramo kar tako v poglavje zakopat', se ustavimo pri nizkocenovcih, Hoferju in Lidlu, 25. maju, dnevu brisače in praznovanju na FRI-ju, Innsbrucku, Kardelju in idejah, pa tudi o Davidu Gogginsu in o ameriškem snu. 🇺🇸 
 
-Posvetimo se tudi peti knjigi kot taki in jo primerjamo s trilogijo v štirih delih. Kar smo nameravali narediti v eni od prihodnjih epizod, ampak nič ne de. Spomnimo se tudi na tiste zelene koščke papirja in še kaj. Intro nam uspe narediti v štirih korakih. Bravo. 
+Po pečinaobešalniku o penalih po pijansko, o ljubeznih, ki bolijo in avtorskih pravicah včeraj in danes. Tudi o podaljških in vsebinah za podpornike, ki mogoče pridejo v bodoče. O 24. poglavju 5. knjige pa že drug’ teden bore malo. 
+
+Hvala ker nas tudi v teh težkih časih poslušate, podpirate in sledite. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -28,4 +30,12 @@ Posvetimo se tudi peti knjigi kot taki in jo primerjamo s trilogijo v štirih de
 
 #### Zapiski
 
-- [Nenavaden primer 50.000 premaknjenih golobov](https://www.wnycstudios.org/podcasts/otm/segments/curious-case-50000-missing-pigeons-on-the-media) - Robert Krulwich, bivši sovoditelj Radiolaba v podkastu On The Media o tem, kako in kdo je premaknil na tisoče poštnih golobov (bolje rečeno izginotje)
+- 🤓 []() - 
+- 🤓 []() - 
+- 🤓 []() - 
+- 🤓 []() - 
+- 🤓 []() - 
+- 🤓 []() - 
+- 🤓 []() - 
+- 🤓 []() - 
+- 🤓 []() - 
