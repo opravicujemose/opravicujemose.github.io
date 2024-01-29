@@ -1,0 +1,20 @@
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240129-8778-l9yls8 sitelibdir\=./.gem.20240129-8778-l9yls8 clean
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240129-8778-l9yls8 sitelibdir\=./.gem.20240129-8778-l9yls8
+compiling unf.cc
+linking shared-object unf_ext.bundle
+ld: warning: dylib (/opt/homebrew/Cellar/ruby/3.3.0/lib/libruby.3.3.dylib) was built for newer macOS version (14.0) than being linked (11.3)
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240129-8778-l9yls8 sitelibdir\=./.gem.20240129-8778-l9yls8 install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20240129-8778-l9yls8
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.3.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240129-8778-l9yls8 sitelibdir\=./.gem.20240129-8778-l9yls8 clean

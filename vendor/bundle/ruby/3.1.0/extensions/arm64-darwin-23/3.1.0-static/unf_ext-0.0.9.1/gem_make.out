@@ -1,0 +1,16 @@
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+/Users/dpavlica/.rubies/ruby-3.1.3/bin/ruby -I /Users/dpavlica/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240129-69033-rlimbv sitelibdir\=./.gem.20240129-69033-rlimbv clean
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240129-69033-rlimbv sitelibdir\=./.gem.20240129-69033-rlimbv
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/dpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.1.0/gems/unf_ext-0.0.9.1/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20240129-69033-rlimbv sitelibdir\=./.gem.20240129-69033-rlimbv install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20240129-69033-rlimbv
