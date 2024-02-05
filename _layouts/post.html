@@ -13,11 +13,15 @@ layout: default
 <div class="post-content" itemprop="articleBody">
     <h2>{{ page.title }}</h2>
   <h6>{{ page.number }}</h6>
-  <img src="{{ page.cover }}" />
+  {% if page.youtube %}
+  <a href="{{ page.youtube }}" title="{{ page.title }} - oglej si video na YouTubeu" target="_blank"><img src="{{ page.cover }}" alt="{{ page.title }}" /></a>
+  {% elsif page.cover %}
+  <img src="{{ page.cover }}" alt="{{ page.title }}" />
+  {% endif %}
   <!-- CONTENT POST HTML -->
   {{ content }}
   <!-- END CONTENT POST HTML -->
-</div>
+<!-- </div> -->
 </div>
 <!-- <span> [
   {% for tag in page.tags %}

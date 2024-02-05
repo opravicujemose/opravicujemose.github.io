@@ -343,8 +343,17 @@ div.readMore {
 	float: right;
 	width: 30%;
 	padding: 0 0 0;
-	margin: -7em -2em 0 0;
+	margin: -8.2em -2em 0 0;
 }
+
+
+@media screen and (max-width: 600px) {
+	.post-content img {
+		margin: -1.8em -1.1em 0 0;
+		width: 40%;
+	}
+}
+
 
 .prev-next-post-wrapper:after {
  content:"";
