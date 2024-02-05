@@ -6,6 +6,7 @@ categories:	epizode
 permalink:	/193/
 tagline: 	"Zdravo. "
 image:		/assets/img/193@2x.jpg
+cover:		/assets/img/cover/193@2x.png
 apple:		
 overcast:	
 podkite:	https://kite.link/193-opr
