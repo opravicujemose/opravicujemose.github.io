@@ -341,8 +341,9 @@ div.readMore {
 
 .post-content img {
 	float: right;
-	width: 50%;
-	padding: 0 0 8px 16px;
+	width: 30%;
+	padding: 0 0 0;
+	margin: -7em -2em 0 0;
 }
 
 .prev-next-post-wrapper:after {
