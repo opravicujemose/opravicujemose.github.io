@@ -1,17 +1,17 @@
 ---
 layout: 	post
-title:  	"Verjet' je treba"
-number: 	"#193 aka S05E40"
+title:  	"Hipotenuzično"
+number: 	"#194 aka S05E41"
 categories:	epizode
-permalink:	/193/
+permalink:	/194/
 tagline: 	"Zdravo. "
-image:		/assets/img/193@2x.jpg
-cover:		/assets/img/cover/193@2x.png
+image:		/assets/img/194@2x.jpg
+cover:		/assets/img/cover/194@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/193-opr
-pocket:		https://kite.link/193-opr?open=pocketcasts
-google:		https://kite.link/193-opr?open=google
+podkite:	https://kite.link/194-opr
+pocket:		https://kite.link/194-opr?open=pocketcasts
+google:		https://kite.link/194-opr?open=google
 anchor:		
 listen:		
 published:	false
