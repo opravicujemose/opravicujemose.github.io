@@ -1,19 +1,20 @@
 ---
 layout: 	post
-title:  	"Hipotenuzično"
-number: 	"#194 aka S05E41"
+title:  	"S tujim k***cem po koprivah"
+number: 	"#195 aka S05E42"
 categories:	epizode
-permalink:	/194/
+permalink:	/195/
 tagline: 	"Zdravo. "
-image:		/assets/img/194@2x.jpg
-cover:		/assets/img/cover/194@2x.png
+image:		/assets/img/195@2x.jpg
+cover:		/assets/img/cover/195@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/194-opr
-pocket:		https://kite.link/194-opr?open=pocketcasts
-google:		https://kite.link/194-opr?open=google
+podkite:	https://kite.link/195-opr
+pocket:		https://kite.link/195-opr?open=pocketcasts
+google:		https://kite.link/195-opr?open=google
 anchor:		
 listen:		
+youtube:	https://youtube.com/opravicujemose
 published:	false
 date: 		2024-02-xx 06:00 +0200
 ---
