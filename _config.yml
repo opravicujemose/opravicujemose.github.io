@@ -1,7 +1,6 @@
 title : Opravicujemo.se
 tagline: Opravičujemo se za vse nevšečnosti
-description: "Podkast o življenju, vesolju in sploh vsem, ... včasih tudi o robotih, odvisnostih, delfinih, vesolju, bogu, predsednikih, iskanju smisla, alkoholu, buldožerjih, birokraciji in še marsičem, ... in občasno o neki, za prebivalce tega modro-zelenega planeta, zelo neznani knjigi, jo v bolj modernih koncih Galaksije poznajo kot Štoparski vodnik po Galaksiji, o kateri je Douglas Adams napisal trilogijo v petih delih. Še veš, kje imaš brisačo?
- Štoparski vodnik po Galaksiji, ki jo je napisal Douglas Adams. Še veš kje imaš brisačo?"
+description: "Podkast o življenju, vesolju in sploh vsem, ... včasih tudi o robotih, odvisnostih, delfinih, vesolju, bogu, predsednikih, iskanju smisla, alkoholu, buldožerjih, birokraciji in še marsičem, ... in občasno o neki, za prebivalce tega modro-zelenega planeta, zelo neznani knjigi, jo v bolj modernih koncih Galaksije poznajo kot Štoparski vodnik po Galaksiji, o kateri je Douglas Adams napisal, radijsko igro, knjižno trilogijo v petih delih, tv serijo, računalniško igro in scenarij za film."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://opravicujemo.se" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: opravicujemose
