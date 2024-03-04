@@ -1,25 +1,29 @@
 ---
 layout: 	post
-title:  	"S tujim k***cem po koprivah"
-number: 	"#196 aka S05E43"
+title:  	"Agradžagovo slovo"
+number: 	"#197 aka S05E44"
 categories:	epizode
-permalink:	/196/
+permalink:	/197/
 tagline: 	"Zdravo. "
-image:		/assets/img/196@2x.jpg
-cover:		/assets/img/cover/196@2x.png
+image:		/assets/img/197@2x.jpg
+cover:		/assets/img/cover/197@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/196-opr
-pocket:		https://kite.link/196-opr?open=pocketcasts
-google:		https://kite.link/196-opr?open=google
+podkite:	https://kite.link/197-opr
+pocket:		https://kite.link/197-opr?open=pocketcasts
+google:		https://kite.link/197-opr?open=google
 anchor:		
 listen:		
 youtube:	https://youtube.com/opravicujemose
 published:	false
-date: 		2024-02-25 06:00 +0200
+date: 		2024-03-03 06:00 +0200
 ---
 
-Zdravo. Tokrat začnemo s serijo neprimernosti, pokomentiramo komentatorje in ugotovimo, da je komentiranje tekem naporen poklic. Pogovarjamo se tudi o filmih in sklenemo, da je treba verjet’. Ker je šnopc pa per ena pijača, pridemo tudi do 24. poglavja 5. knjige, a nas od dokončne obdelave zmotijo mozolji, knjige za samopomoč in … od Koprivnika žena. 
+Zdravo. Ker se zlagoma približujemo slovesu od 5. knjige, smo prišli do epizode v kateri se poslovimo od Agradžaga. Mnogi ste ga poznali kot lonec petunij, bil je pa znan tudi kot muhe, ki jih je ubil Artur, zajec, ki ga je Artur pokončal na prazgodovinski Zemlji, krava, ki jo je pojedel v Restavraciji ob koncu Vesolja in še bi lahko naštevali. 
+
+Medtem ko se prikopljemo do dela zadnjega poglavja, kjer spremljamo slovo Stavra Muellerja, se spomnimo da ta teden praznujemo Dan žena, 46. let od prve objave radijske igre Štoparski vodnik po Galaksiji, delimo finančne (ne)nasvete in se spomnimo na Zulu čas in očeta časa na internetu, Davida L. Millsa. 
+
+Tudi komad tedna nam tokrat ne uide, zato pa nam pred koncem knjige v kader skoči … pečinaobešalnik! 
 
 {% include player.html %}
 {% include poslusaj.html %}
