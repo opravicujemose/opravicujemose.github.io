@@ -1,20 +1,20 @@
 ---
 layout: 	post
 title:  	"Agradžagovo slovo"
-number: 	"#197 aka S05E44"
+number: 	"#198 aka S05E45"
 categories:	epizode
-permalink:	/197/
+permalink:	/198/
 tagline: 	"Zdravo. "
 image:		/assets/img/197@2x.jpg
-cover:		/assets/img/cover/197@2x.png
+cover:		/assets/img/cover/198@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/197-opr
-pocket:		https://kite.link/197-opr?open=pocketcasts
-google:		https://kite.link/197-opr?open=google
+podkite:	https://kite.link/198-opr
+pocket:		https://kite.link/198-opr?open=pocketcasts
+google:		https://kite.link/198-opr?open=google
 anchor:		
 listen:		
-youtube:	https://youtube.com/opravicujemose
+youtube:	https://youtu.be/YDQHbggfG4A
 published:	false
 date: 		2024-03-03 06:00 +0200
 ---
