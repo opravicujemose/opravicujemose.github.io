@@ -1,22 +1,22 @@
 ---
 layout: 	post
-title:  	"Agradžagovo slovo"
-number: 	"#198 aka S05E45"
+title:  	"Alojz Kodre o Štoparcu, fiziki in sploh vsem"
+number: 	"#199 aka S05E46"
 categories:	epizode
-permalink:	/198/
+permalink:	/199/
 tagline: 	"Zdravo. "
-image:		/assets/img/197@2x.jpg
-cover:		/assets/img/cover/198@2x.png
+image:		/assets/img/199@2x.jpg
+cover:		/assets/img/cover/199@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/198-opr
-pocket:		https://kite.link/198-opr?open=pocketcasts
-google:		https://kite.link/198-opr?open=google
+podkite:	https://kite.link/199-opr
+pocket:		https://kite.link/199-opr?open=pocketcasts
+google:		https://kite.link/199-opr?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/YDQHbggfG4A
 published:	false
-date: 		2024-03-03 06:00 +0200
+date: 		2024-03-17 06:00 +0200
 ---
 
 Zdravo. Ker se zlagoma približujemo slovesu od 5. knjige, smo prišli do epizode v kateri se poslovimo od Agradžaga. Mnogi ste ga poznali kot lonec petunij, bil je pa znan tudi kot muhe, ki jih je ubil Artur, zajec, ki ga je Artur pokončal na prazgodovinski Zemlji, krava, ki jo je pojedel v Restavraciji ob koncu Vesolja in še bi lahko naštevali. 
