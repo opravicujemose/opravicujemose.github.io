@@ -1,17 +1,17 @@
 ---
 layout: 	post
-title:  	"Alojz Kodre o Štoparcu, fiziki in sploh vsem"
-number: 	"#199 aka S05E46"
+title:  	"V prejšnji epizodi ⏪"
+number: 	"#200 aka S05E47"
 categories:	epizode
-permalink:	/199/
-tagline: 	"Zdravo. "
-image:		/assets/img/199@2x.jpg
-cover:		/assets/img/cover/199@2x.png
+permalink:	/200/
+tagline: 	"Zdravo. Ta teden se znajdemo v prejšnji epizodi, natančneje v 35. prejšnjih epizodah, v kateri predelamo, kaj smo delali v prejšnjih epizodah prve sezone."
+image:		/assets/img/200@2x.jpg
+cover:		/assets/img/cover/200 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/199-opr
-pocket:		https://kite.link/199-opr?open=pocketcasts
-google:		https://kite.link/199-opr?open=google
+podkite:	https://kite.link/200-opr
+pocket:		https://kite.link/200-opr?open=pocketcasts
+google:		https://kite.link/200-opr?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/YDQHbggfG4A
