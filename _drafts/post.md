@@ -1,29 +1,29 @@
 ---
 layout: 	post
-title:  	"V prejšnji epizodi ⏪"
-number: 	"#200 aka S05E47"
+title:  	"V prejšnji epizodi II ⏪"
+number: 	"#201 aka S05E48"
 categories:	epizode
-permalink:	/200/
-tagline: 	"Zdravo. Ta teden se znajdemo v prejšnji epizodi, natančneje v 35. prejšnjih epizodah, v kateri predelamo, kaj smo delali v prejšnjih epizodah prve sezone."
-image:		/assets/img/200@2x.jpg
-cover:		/assets/img/cover/200 img@2x.png
+permalink:	/201/
+tagline: 	"Zdravo. Na ta praznični ponedeljek se znajdemo v drugi epizodi ."
+image:		/assets/img/201@2x.jpg
+cover:		/assets/img/cover/201 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/200-opr
-pocket:		https://kite.link/200-opr?open=pocketcasts
-google:		https://kite.link/200-opr?open=google
+podkite:	https://kite.link/201-opr
+pocket:		https://kite.link/201-opr?open=pocketcasts
+google:		https://kite.link/201-opr?open=google
 anchor:		
 listen:		
-youtube:	https://youtu.be/YDQHbggfG4A
+youtube:	https://youtu.be/eYs7SmVWcUg
 published:	false
 date: 		2024-03-17 06:00 +0200
 ---
 
-Zdravo. Ker se zlagoma približujemo slovesu od 5. knjige, smo prišli do epizode v kateri se poslovimo od Agradžaga. Mnogi ste ga poznali kot lonec petunij, bil je pa znan tudi kot muhe, ki jih je ubil Artur, zajec, ki ga je Artur pokončal na prazgodovinski Zemlji, krava, ki jo je pojedel v Restavraciji ob koncu Vesolja in še bi lahko naštevali. 
+Zdravo. Ker nas je zdelal EMŠO, oz. ker je še vedno isti, kot pred mnogimi desetletji, ko smo ga, skupaj z davčno številko, dobili, imamo tudi tokrat za vas epizodo, v kateri zavrtimo stare kolute, tokrat iz 2. sezone, ki ste jo lahko poslušali v letu 2021, v njej pa obdelamo drugo knjigo iz trilogije (v 5. delih): Restavracijo ob koncu Vesolja. 
 
-Medtem ko se prikopljemo do dela zadnjega poglavja, kjer spremljamo slovo Stavra Muellerja, se spomnimo da ta teden praznujemo Dan žena, 46. let od prve objave radijske igre Štoparski vodnik po Galaksiji, delimo finančne (ne)nasvete in se spomnimo na Zulu čas in očeta časa na internetu, Davida L. Millsa. 
+Zi je v toplicah, Aljo je zbolel, Peli pa čaka recenzije na Apple podcast in vsi skupaj razmišljamo, če bi si vzeli še kakšen teden dopusta.
 
-Tudi komad tedna nam tokrat ne uide, zato pa nam pred koncem knjige v kader skoči … pečinaobešalnik! 
+Ali tri. 
 
 {% include player.html %}
 {% include poslusaj.html %}
