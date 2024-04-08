@@ -1,22 +1,26 @@
 ---
-layout: default
+layout: season
 title: Seznam sezon podkasta Opravičujemo se za vse nevšečnosti
 permalink:  /sezona/
+cover:      /assets/img/cover/season 01 img@2x.png
+
 ---
 
 Seznam in opisi sezon našega malega podkasta, v katerem govorimo o življenju, vesolju in sploh vsem ... in po nekem čudnem naključju tudi (skoraj) vsako epizodo o enem poglavju iz trilogije v petih delih, ki jo je pred mnogimi leti napisal [Douglas Adams](https://sl.wikipedia.org/wiki/Douglas_Adams). 
 
 ### [Sezona 1](../sezona/01/)
 #### 📖 Štoparski vodnik po Galaksiji
+<!-- <img class="post-content" src="/assets/img/cover/season 01 img@2x.png" alt="Opravičujemo se - 1. sezona" /> -->
 
 Podkast se začne z iskanjem imena, ki ga najdemo v ničti epizodi in se tako hitro posvetimo 1. knjigi "Štoparski vodnik po galaksiji", njenim likom in idejam, medtem ko se poglabljamo v teme, kot so alkohol, predsednik Galaksije, Vogoni, zabave (tudi v Islingtonu) in še marsikaj. 
 
 Vsaka epizoda prinaša nove vpoglede v galaktični svet Douglasa Adamsa, pogosto z zanimivimi citati, ki jih preberejo citat-o-gostje in citat-o-gostje. V nadaljevanju sezone se dotaknejo tudi drugih tem, kot so depresija, bajeslovni planeti, dvojna sonca, vesoljske bajke, politika, poslovne priložnosti, alternativni poteki zgodbe in še več.
 
-Vsaka epizoda odkriva nove plasti in zaplete, ki jih prinaša Adamsovo delo, ter jih povezuje z različnimi vidiki življenja, od vsakdanjih situacij do globljih filozofskih vprašanj in vprašanj o obstoju boga. Sledijo številne razprave o glavnih temah, ki jih predstavlja knjiga, pa tudi o aktualnih dogodkih in družbenih vprašanjih, vse skupaj pa začinjajo s ščepcem humorja in izvirnosti.
+Skozi epizode odkrivamo nove plasti in zaplete, ki jih prinaša Adamsovo delo, ter jih povezuje z različnimi vidiki življenja, od vsakdanjih situacij do globljih filozofskih vprašanj in vprašanj o obstoju boga. Sledijo številne razprave o glavnih temah, ki jih predstavlja knjiga, pa tudi o aktualnih dogodkih in družbenih vprašanjih, vse skupaj pa začinjajo s ščepcem humorja in izvirnosti.
 
 ### [Sezona 2](../sezona/02/)
 #### 📖 Restavracija ob koncu Vesolja
+<img class="post-content" src="/assets/img/cover/season 02 img@2x.png" alt="Opravičujemo se - 2. sezona" />
 
 V drugi sezoni podkasta se odvijejo številne zanimive teme, poleg obedovanja v Restavraciji, spoznamo miselne higienike in se spomnimo napada na Kapitol (ki se zgodi v tistih časih, ko snemamo drugo sezono) in tudi programerje v Sirijski korporaciji in še marsikaj
 
@@ -30,6 +34,7 @@ Pogosto epizode zabelimo s humornim pridihom in, skozi sezono pa se razkrivajo n
 
 ### [Sezona 3](../sezona/03/)
 #### 📖 O življenju, vesolju in sploh vsem
+<img class="post-content" src="/assets/img/cover/season 03 img@2x.png" alt="Opravičujemo se - 3. sezona" />
 
 V tretji sezoni podkasta se odpravimo na planet Krikkit, katerega prebivalci so naveličani nočnega neba nad svojimi glavami, zato se odločijo, da ga bodo uničili. Mi pa spoznamo Ovečenega Velepoteža, naučimo se leteti, se spočijemo na česterfildski zofi, pojemo sendvič, za tem skočimo na Balkan in se ustavimo na robotski sindikalni zabavi.
 
@@ -39,6 +44,7 @@ Ker tudi v tretji sezoni ne izostanejo debate o bogu, smislu življenja in sredi
 
 ### [Sezona 4](../sezona/04/)
 #### 📖 Zbogom in hvala za vse ribe
+<img class="post-content" src="/assets/img/cover/season 04 img@2x.png" alt="Opravičujemo se - 4. sezona" />
 
 Četrta sezona podkasta prinaša pestro paleto tematik in dogodivščin. Tokrat se osredotočamo na četrto knjigo "Zbogom in hvala za vse ribe", v kateri Artur začuti razpravlja o vesoljskih pristankih, srečuje nenavadne like kot je Rob McKenna ter razmišlja o življenjskih načelih, kot je "ne biti žleht".
 
@@ -48,6 +54,7 @@ Sezona se zaključi z intenzivnimi pogovori o življenju, vesolju, birokraciji i
 
 ### [Sezona 5](../sezona/05/)
 #### 📖 Pretežno neškodljiva
+<img class="post-content" src="/assets/img/cover/season 05 img@2x.png" alt="Opravičujemo se - 5. sezona" />
 
 Sezona 5 je polna raznolikih tem, od filozofskih premislekov do humorja in absurdnosti, česar smo navajeni že iz prejšnjih knjig in sezon. Tudi v peti epizodi se ne izognemo bogu, posledicah naših dejanj, beseda teče tudi o pojmu "hegemon" v slovenskem kontekstu in eksperimentih v naravi. Veseli smo, ker Artur postane *Mojster sendvičev*, čeprav le za kratek čas.
 

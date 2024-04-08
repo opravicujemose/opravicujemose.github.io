@@ -6,9 +6,3308 @@ categories: epizode
 permalink: /transkript/
 ---
 
-Transkripti iz Spotifya, če je treba kej poiskat. ;)
 
-### 197
+[Epizoda 199](#199) • [Epizoda 198](#198) • [Epizoda 197](#197) • [Epizoda 196](#196) • [Epizoda 195](#195) • [Epizoda 194](#194) • [Epizoda 193](#193) • [Epizoda 192](#192) • [Epizoda 191](#191) • [Epizoda 190](#190) • [Epizoda 189](#189) • [Epizoda 188](#188) • [Epizoda 187](#187) • [Epizoda 186](#186) • [Epizoda 185](#185) • [Epizoda 179](#184) • [Epizoda 183](#183) • [Epizoda 182](#182) • [Epizoda 181](#181) • [Epizoda 180](#180) • [Epizoda 179](#179) • [Epizoda 178](#178)
+
+#### Transkripti iz Spotifya, če je treba kej poiskat. ;)
+
+###### 199
+## Alojz Kodre o Štoparcu, fiziki in sploh vsem 
+
+0:07
+
+12341234 a ne slišiš.
+
+Tone a ne imaš požgana.
+
+Škof ne unije, ki so bakterije narobe.
+
+Se zgodi.
+0:25
+
+Jaz slišim tudi sebe, dokler otrese, slišimo, se slišimo, slišimo.
+
+Na mar a ja dobro.
+
+Smo pa.
+
+Kako stojijo?
+
+As ja.
+
+0:51
+
+Domov.
+
+A nič je predelal.
+
+Saj imaš tam še en še en druzga, glej, dobite ga, če pa dela slučajno.
+
+Samo tako je, zdaj delate samo jaz.
+
+1:12
+
+Preprogo če.
+
+Ne nepravi čas od leve, ničle.
+
+Ja no ja ja.
+
+Zmeraj je to.
+
+Kakšno prezentacijo ali pa kaj pomembnega pol teh opravil?
+1:34
+
+Danes smo Marka imamo tako eminentnega gosta, smo malo nervozni.
+
+Ja.
+
+Tako je.
+
+Glejte.
+
+Priznamo da je tako.
+
+Bom.
+
+Podporo veš pomagaja te elektronske stvari pomaga.
+1:51
+
+Evo evo.
+
+Aleš ti pred samo z mikrofonom malo bližje.
+
+Lahko to?
+
+Sploh bolj se bomo mi klicali ali jo peli.
+
+Pazi tako kot ponavadi ne.
+
+Čudna ker ne.
+
+Če, če se bomo iz klicali po pravih imenih, bo prvič po desetletjih.
+2:15
+
+Kaj pa zdaj?
+
+Točno to ja čisto nekaj čudnega.
+
+Nebo ne bo tako kot ponavadi.
+
+Evo še podžgemo, pa naštimamo.
+
+Pa to je to, ne?
+
+Dobro pol pa kar štartamo.
+2:33
+
+Nisem trenutek smo že povedali, da imamo tremo danes.
+
+A.
+
+Ornk.
+
+Imamo tremo, imamo tremo danes, ampak saj bo minila.
+
+Če čez 1.42 ali pa prej bo že bo živel.
+
+M.
+
+2:54
+
+Bi človek mislil, da to, da imamo scenarije v oblaku, da hitreje pride, ampak ne kar traja, kar tako ne moreš.
+
+Ah.
+
+Kaj bomo kar?
+
+Kar štartamo kaj?
+
+Počnemo.
+
+3:25
+
+Ja takole zdravo štoparke in štoparji.
+
+To je podcast, v katerem govorimo o snovi, iz katere rastejo kulti.
+
+Zgodba do sem obdelali smo vseh 5 knjig našega preljubega avtorja.
+
+Danes pa smo z vami.
+
+Ja ne boste verjeli.
+
+3:42
+
+Peli.
+
+In si.
+
+Ampak to ne boste.
+
+Verjeli to pa res ne boste verjeli.
+
+Kdo je še z nami?
+
+Ja z neznansko čas čast si štejemo, da lahko daje z nami pred mikrofoni tudi.
+
+Doktor Alojz Kodre.
+
+3:58
+
+Točno tako doktor alojz kadre dober dan.
+
+Pozdravljeni.
+
+Pozdravljeni.
+
+Dober dan.
+
+Ja tako ne vem kje bi začela.
+
+Kako ste se pripeljali sem je bilo vse v redu?
+
+Ja a že zdaj je že tako hudo malo mim ko človek najde pot v tem letu strelskem labirintu pol ni več problema.
+4:21
+
+Ja pa koga?
+
+Prijazni ljudje usmerijo na pravo številko in napravi vhod, ja.
+
+Tudi gre ja, to je dobro, saj dobro smo imeli vsak malo nevšečnosti, preden smo štartali tole dol epizodo.
+4:38
+
+A ne vem, če smo že rekli, malo smo živčni.
+
+A ne saj se tudi naslednji.
+
+Mislim da jaz.
+
+Mislim da malo.
+
+A.
+
+Ne bi dal besede na poudarek malo.
+
+Tako da ampak tako tako pač je tako da ni čase kar zakopljemo.
+4:54
+
+Dajmo ne jaz mislim, da si doktor kodre e mislim, da ga ne rabimo posebej predstavljati.
+
+Ker, vsi vemo, da je zaslužni profesor na fakulteti za matematiko in fiziko em, da ste delal na področju eksperimentalne atomske fizike.
+5:10
+
+Jaz sploh ne vem, kaj to pomeni, ampak dobro bo mogoče malo kasneje.
+
+Em in ne da ste v bistvu.
+
+Tako poučevalna na fakultete za matematiko in fiziko in še mnoge stvari.
+5:26
+
+Prejemnik mnogih nagrad mi vas imamo pa o čistilih, predvsem zaradi tega, ker ste prevedli.
+
+Lahko rečemo biblijo.
+
+Ne če ne drugega našo biblijo.
+
+A mislim v naših očeh.
+
+Ja.
+
+Hm vmes se je zgodil še ena zanimiva stvar, da je ena od bivših študentov s sumom, da ni bil prav zelo dober študent napisal en komad, ampak to lahko pustimo za kdaj drugič mogoče tako da nič ee začnemo tako kot ponavadi se začne pri pogovorih z vami to zanimivo, neverjetno sta na letališču hitro.
+6:03
+
+Sicer mogoče je zgodba že znana in večkrat povedano tako, da v bistvu bi jaz vprašal to, da ste se srečali.
+
+Z naglasom je jasno in to, kako lepo štorijo, ste povedali več, kot bomo dali v zapiske vsaj v podcastu.
+
+Membrane pa po mojem tudi na valu 202, ampak a ste kdaj v živo srečali dokler se ne?
+6:24
+
+Poznam pa nekoga, ki se je srečal z njim.
+
+Aha, ja, to je bil en študent naš.
+
+Eno leto po počitnicah pride.
+
+Morda prav John deere a veste.
+
+Sem pa letos srečal z glasom ne, no, tako da ja.
+6:43
+
+Eno srečanje je bilo nekje v Švici ali nekaj takega in ne on je bil na pravem mestu ob pravem času.
+
+In se je srečal z njimi.
+
+Ja se mi zdi, da je bil kar globok vtis, aha, ampak to je pa tudi približno vse, kar bi dobro.
+6:58
+
+Prvo koleno je boljše.
+
+Tanko.
+
+Ker večine do tudi večina oboževalcev najbrž ni imela niti šestega kolena.
+
+Ali kako je ponavadi?
+
+Pri nas malo težji, mislim.
+
+Da je tudi na svetu, mislim.
+
+Da do kogar koli na svetu, pri teh 4 kolenih pa veste ja no pol pa pol se pa do njega tudi da pride vsaj ne.
+7:20
+
+Poznamo vas, ko poznate tega študentov, ki je bilo dano as.
+
+A.
+
+Ampak do danes pa ne pa tega bližnji sosedje.
+
+Se.
+
+Tako rekoč.
+
+Do danes pa tega nismo imeli, ne tako da evo pa imamo eno stvar po ca hrano.
+7:36
+
+Aha ee ena od naših poslušalcev nas je vprašal tudi, če sta slučajno, ko ste prevajal, da glasova dela imel kakšno korespondenco z njim, ampak tudi ne očitno ne, tudi ne bi bilo strani založbe.
+
+Je takrat ni bilo treba zdaj.
+7:53
+
+Mislim, ker sem zadnje čase prevajal.
+
+Ja tam sem tega fizika rovellija, a ne in ja sva si malo dopisovala ne?
+
+In prav prijazno je bilo, ampak skratka drugače pa ne mislim in je v tistih časih to še ni bil zsms.
+8:14
+
+Ja kot verjetno je tudi lažje prevajati.
+
+Imaš mogoče stik z originalom in se z originalnim avtorjem?
+
+Če je mogoče problem te laži, ne tako ja.
+
+No samo vse, kar se pri vaših prevodov tiče.
+
+Mislim, da teh problemov ni bilo.
+
+E mislim, ker je tako lepo prevedena knjiga, da.
+8:33
+
+Mislim mi bralci čutimo to ne AA meni je bilo zanimivo, ker zadnjič sem bral tega tale boga črnega laboda pa moram reči, da tam prevajalka prevajalka ali prevajalec.
+
+Ne vem kdo je bil.
+
+Prav ni mogel narediti mislim prav jaz vem zelo malo ne filozofiji pa fis ki pa teh stvareh in on razlaga tam ena enačbe pa neke stvari ne, ampak tako malo sem pa že vedel, da sem vedel, da je prevod čisto.
+9:00
+
+Mogoče tudi original, a veš vprašanje Kakšna je?
+
+Organizacija gospod je hudomušen in zabaven in nee skrajno natančen v teh stvareh, ki jih razlaga, ampak ni pa fovš no hočem reči, da zunaj koliko dela je šlo recimo v prevajanje ena knjige tako.
+9:23
+
+Ja kar precej.
+
+Torej šlo je sicer v silnem.
+
+Zamakajo sem bil navdušen in stvar se mi je zdela.
+
+Noro zabavna in fina in tako naprej, ne?
+
+Ampak.
+
+Nekako pa tudi ne bi dal iz rok nekaj, kar ne bi bil.
+9:42
+
+Ne bi se mogel.
+
+Sploh ne jaz to 100 procentov ne tako da.
+
+Nazaj, na začetku sem še mislil, da je bil to.
+
+Ena od prvih prevodov je bil ta.
+
+Ki je šel?
+9:59
+
+V Sloveniji.
+
+Prvič prvi prva knjiga, ki je šla na disketi v tiskarno uv in to še podatek in to še na unix.
+
+Takrat smo imeli atari je največ, kar se je dalo ime vau in na unije to šlo in inja in tudi tiskarna je očitno imela to in jaz znala porabit ne tako da ja tako da s tem takrat se je pravzaprav začelo nezanimiva še računalniška doba ja ja, no tako da, tako da ja sam pa recimo ne.
+10:39
+
+Še, zdaj imam nekaj zadnjič sem brskal po njih starih papirjih in najdem o poglej poglej.
+
+In ta velik zvezek.
+
+In noter rokopisno prevajane, aha ja tudi če bi drugače mislim tudi če še ni bila na računalniku ne.
+10:57
+
+Torej je bilo sem delal vsaj napisano, ampak tisto je bilo pa tako treba razklop, hotel sem tako razklop itd.
+
+In njegove veličastne stavke ne te periode ja njegove nesem ga tako in potem ne da bo zdaj.
+
+Se še tudi v slovenščini, enako lepo in glih prav zavito prebral neko, ker se je pri njemu ne in je bilo v resnici treba na roko sklaplja d podredja in priredja in nekako se štukat skupaj, da da je bil.
+11:31
+
+Efekt da je bilo efekta unguja vau ja ker da glas je znan, ne da bi si vzame tudi po kakšno stran pa več.
+
+Ne.
+
+Večkrat obdela.
+
+Ja večkrat izvesti listja v resnici.
+11:47
+
+Mojstrsko urina, saj to sem pa jaz.
+
+Mi smo se vsi srečali z vašim prevodom ee najprej zadnjem sam ne in moram reči, da po tem ko sem šel original, brat, sem bil še bolj navdušen, ne, kar je v bistvu točno to, ta žmoht pa občutek ne tudi kako šalo pripeljati, če se malo čez res dolg ali pa če se res kratek traktat ne je v tem prevodu diha ne.
+12:13
+
+Pa tudi ta angleško, ki ima svoje specifike tudi svoje te šale, ki imajo dvo tip je, pa to pa preveč.
+
+Slovenskem ni lahko mislim je carton mislim tukaj.
+
+Zdaj tako, kot je on en nekje rekel ne.
+12:29
+
+Da mu je všeč, ko ljudje rečejo, joj, kako ste?
+
+Kako se to lahkotno bere?
+
+Kako ste lahko to napisal?
+
+Prav pa noben ne ve, koliko truda je koštalo, da sem ta vtis dosegel ne zdaj čez nebo preveč bahaško ne.
+12:47
+
+Tudi za ta prevod je.
+
+Noben ne vem ne je šlo kar nekaj truda je treba.
+
+Zato poudariti, da se niste.
+
+Meni se zdi, da je rekel, da se je razbijal glavo do krvavljenje.
+
+Upam, da niste šli tako daleč.
+
+On je šel najbrž samo pri.
+13:04
+
+Spodbuja.
+
+Ja še eno vprašanje eno poslušalka, ki je tudi slučajno moja žena, je vprašala, glede na to, da vas je toliko, ko sem ji povedal zgodbo hitro, pa nekako sem se srečal z njo, ki je v zapiskih za tiste, ki še niso slišali.
+13:23
+
+Ne, če vas je polka ste prevedel celo knjigo ne taprvo, recimo pa se je šel še enkrat.
+
+Brata sta se tudi tokrat v Kopru regional ff ne če če, če je bil ta efekt.
+
+Ja ja zaradi tega, ker ta prvo sem požrl ne ja pol na.
+13:38
+
+Pri naslednjih branjih, pridejo pa vneta drobne stvari iz ozadja v ospredje ne in je seveda.
+
+Tisti torej to je to je tisto.
+
+Ker ne moreš nehat ne tako kako ima to previden pa pa to nekako se stvar pojavi tukaj nepopoln čas mi pol se pa nekje drugje pojavlja.
+13:59
+
+Zopet jo pripelje čisto zadaj, a?
+
+Včasih traja tudi pol knjige ali pa celo knjigo, da so stvar mojstrsko mojstrsko res.
+
+Ja super.
+
+A se drugače, mislim da se vem, da ste prevajali tudi recimo marsovske kronike od brata oriane, a ste imeli še kakšno željo oziroma ali je bilo kaj žal, da se recimo in kakšno drugo, da bi kaj drugega hotel prevajati, pa vam ni uspelo oziroma pač založba ni pripeljala k nam, pa kaj takega ne vem, a si morale zdaj vem, da recimo foundation fundacija pri temelji pravilen prevod ja, da so prišli k nam šele zdaj prevod slovenske, recimo kaj takega, da bi prevedli kot zame?
+14:37
+
+Klasika recimo ne.
+
+Ja sicer.
+
+Tam sem bil malo izbirčen ne?
+
+Aha.
+
+Ponujali so seveda marsikaj, kar je bilo klasike recimo stvari iz leta 46. 47 ne.
+14:57
+
+In tisti grozd.
+
+Tisti igralci, mislim, tisti je živa.
+
+Mornariška pustolovska zadeva premakne na gor ne.
+
+To je res ja.
+
+Vse je tako, ne na premcu pa na krmi ladje ne skratka.
+15:18
+
+Vidite, kdaj je bil napisan ja, to je tudi res.
+
+Ja, takrat je bilo tisto še živo.
+
+No, druga možnost.
+
+Seveda je pa to, da imate.
+
+Da imate kavbojke jaz se ne gor v vesolje ne tudi ne skratka jaz tistem nisem ne bi imel veselje ne mhm, tako da, tako da sem smeri bolj ljubil.
+15:40
+
+Kakšne stvari, ki so šle ne vem na.
+
+No predvsem s je bilo dobro, če so bile literarno v redu.
+
+Ne, seveda ne.
+
+Pa tako drugače.
+
+Na splošno ste ljubitelj znanstvene fantastike ali pač tako kot ste nekje omenil, da recimo ne vem tako kot jaz.
+16:01
+
+Načeloma nisem ljubitelj ne em, ker mi je pač štoparski vodnik všeč zaradi tega, tako kot ste vi enkrat rekel, da je v bistvu samo kulisa za za to življenje, ki ga v bistvu živimo tukaj.
+
+Ne mislim družbene.
+16:18
+
+Absolutno, absolutno ne.
+
+Ena gospa dobro, prijateljica in.
+
+Izvrstne poznavalka tega žal že pokojna.
+
+Ne je ee.
+
+Primerjala.
+16:34
+
+To z.
+
+Wolter jem ne torej s kandidatom ne, kjer imate tudi seveda ne popolnoma nore dogodivščine in se junakom zgodi glih vse mogoče, ampak seveda.
+16:50
+
+V resnici je to.
+
+Slikanje do karikature.
+
+Tedanje družbe ne in natančno to počne.
+
+Da glas 7 z ne.
+
+Moram reči sicer ne.
+17:07
+
+Dan pravzaprav nadvse prijazen način.
+
+Ne ja ne vem, če so tisti, ki jih karikira, če so si v resnici zaslužili tako prijazen način, ne.
+
+Malo.
+
+Kdaj ne marsikdaj že, če začnemo z definicijo predsednikov galaksije je v bistvu as.
+17:27
+
+Prav tako.
+
+Je na mestu je na mestu.
+
+Točno tja mir kamor mora imeti, ampak ne tako kot je rekel gospod koreja, mogoče si niso zaslužili take prijaznosti, ne?
+
+Je pa nisi užaljen tudi po pošti, pa tudi mogoče tudi to, da si ne počutijo ali pa mogoče jim gre čez glavo, da ne opazijo, da, da jih je na lep način.
+17:49
+
+Jih je pa malo.
+
+Ne recimo parkinson neke e keys to v bistvu to neko humorno delo zapakirane em, ker bi bil recimo, če bi to kot probal nekako drugače predstaviti, bi bilo to deležno nekih kritik in obsojanj in vsega skupaj ne.
+18:07
+
+Tako kot zapakiraš v neko humorno delo, je pa vsem zabavno, ampak tistih, ki se jih hoče se jih.
+
+Dotakne tisti, ki bi se jih v tem primeru, kdor pa noče slišat, pa itak ne bo pa.
+
+Z nepopolno ben v primeru slišal ne, če bo kritika, bo še mogoče še bolj.
+18:27
+
+Večjim bolj.
+
+Še bolj.
+
+Zategnili, dodaja zategnjene.
+
+To je to.
+
+Ja no saj če zanimivo ne, a ste kdaj zdaj ko ste skoz vse ne knjige skoz.
+
+Me razmišljali.
+
+Kdo je pravzaprav?
+18:45
+
+A je kakšna ne karikirana.
+
+Oseba v teh 5 knjigah razen če seveda ne oseba ali.
+
+A oseba madona vem vem vem za pojem, se pravi ljubezen ne je edina stvar, ki je ne samo ugotoviti ne samo oseba.
+19:08
+
+M ena je no saj pravim pa seveda fant.
+
+A.
+
+Ne.
+
+Je pa ratala.
+
+Vsaj ja tehnično, glede na to, da ne vemo, kako veliko je vesolje in kako neverjetno ne bi lahko bi bil, ampak mislim, da ne govori.
+19:26
+
+Vsaj ne ne, to je v ta zadnji knjigi ne.
+
+Ta.
+
+Em.
+
+Trov login ja a katera se pogovarja ne kako je ja en izjemno svetu prijazen lik, ki se popolnoma seveda zaveda ne svoje obrti in da jaz točne, saj to ni mišljen, ampak v bistvu ne nekdo ki.
+19:54
+
+Globoko čuti, pa ji ne bi bilo nič treba čutiti.
+
+Kdo priden ne zadane bi lahko rečemo kakšno zamero goji le tako res ne.
+
+Ampak to je tudi edina ne.
+
+Ja in to lepo prosim ne torej v kvazi ne znanstvenem tekstu, da.
+20:15
+
+Ta ta lepi pečat.
+
+Nekomu, na katerem seveda se vse znanosti zmrdujejo, a?
+
+Ja čeprav ne, čeprav ljudje pa ne za razliko nisem, ne vem, kako to jim rad, ampak radi verjamejo ne očitno.
+20:34
+
+Ljudje radi verjamemo tudi stvarem, ko v sumimo, da niso čisto resnične.
+
+Ampak saj veš, kako je zmeraj govoriš ne astrologija horoskop da prebereš ga pa zmeraj ne če je kje jaz vem mislim časopis revija mislim mi je vseeno za.
+20:51
+
+Morsko peresniki osnovi smo še, zmeraj se ne prebere že verni.
+
+Em, ne glede na na stopnjo izobrazbe ne AA.
+
+Vse to v bistvu je, ja ne ve, a veš kaj pravim jaz po resnici se mi zdi, da ne verjamem v to, ampak berem ga pa vseeno, pa čeprav vem, ko sem delal tudi v smo delali tudi v časopisnem biznisu, nekaj časa bi zraven, pa vemo, kako se to dela, pa kako pišejo, še posebej za revije.
+21:19
+
+Drugo je tisti, kateri ti pride astrolog, pa ti ga naredi recimo ne najde tam rečeš, okej ne?
+
+Rečem, da zaračunajo planete, ne?
+
+Drži vodo ne recimo ne če verjameš obeležiti, ste pa napisano kar tako, ampak če se ne preberem.
+
+Jaz pa ne?
+21:34
+
+Jaz pa ne vem, zakaj pa.
+
+Preberem zaradi tega, ker naša čarovnica ste rekli, da ima vsak.
+
+Skupna pravila skop da sodelavki, bivši z ljubkovalno sta se sami oklicali čarovnice, tako da ne bo kdo kaj hotel bomo kakšne bodeče neže dobili pa kaj ali pa vsaj nominacije em tako da ne èe nima verjamem ko sta bila s srcem preko pri stvari in razdelali stvari in pač če verjameš verjameš, saj ne verjamemo vsi vse nekateri verjamem v znanost bolj kot drugi ne zdaj zadnja leta z razmahom interneta se mi zdi, da vse manj ljudi verjame v znanost.
+22:12
+
+A mislite da je samo zaradi interneta, ali da je še zaradi česa drugega prišlo do tega?
+
+Tako lahko.
+
+Si je pridobiti eno.
+
+Eno kvazi vedno steno kvazi mnenje o nečem tudi o zelo zapletenih stvareh, do česar, če ne investirate, pač nekaj let svojega življenja v študij.
+22:38
+
+Nimate šanse preprosto ne ja seveda nič ni grdega pa ne pomeni, da ste neumni ali kaj podobnega.
+
+Ampak seveda, treba je investirati.
+
+Ne, to hočeš.
+
+Druge stvari niso tako enostavne kot ampak fred, ampak ne internet, daje pa občutek, jaz se sedaj nekaj dobitne seveda, saj se da pride sem se da preskoči ja.
+23:02
+
+In nekateri seveda to vzamejo še.
+
+Še toliko rajši zares mislim ne tako.
+
+A no zdaj pa vem ne.
+
+Oziroma se prebral.
+
+Mislim takole in takole odstavek prebereš tam aja aja no saj zdaj pa vem.
+
+Ne vem vse o virusih in.
+23:18
+
+Karkoli.
+
+Ja seveda, seveda.
+
+A to je res ja.
+
+Pa hitro hitro se po.
+
+Porabi imam radi, predvsem imamo radi vsi preproste razlage ne.
+
+Ne težko je težko je zaobjet neki, ker ne razumeš oziroma tako kot ste rekli, pač vložiti nek čas v neko stvar, ki jo je težko razumeti, ne pa zdaj ne glede na na neko stopnjo izobrazbe, ampak je poenostavljeno različico, ker jaz sem zmeraj trdil, da da bi bilo recimo tudi politično gledano, bi bilo fajn, da bi.
+23:56
+
+Nekdo razložil ne, ampak so me pol poklopili s tem, da nekdo bo populistično razložil.
+
+Nekdo bo pa strokovno razložil in nekdo, ki bo populistično razložil, bo precej več dosegel kakor nekdo, ki bo strokovno razložil.
+
+Ne in potem je bila stvar jasna, da to pač ne gre, a ne da onega, ki bo strokovno razlago ponudil, ne bo noben poslušal.
+24:22
+
+Ja.
+
+Saj in pol rajši nič ko populizem.
+
+Ja.
+
+Ja tako ja.
+
+Še zmeraj boljše in nekdo.
+
+Za asne verjetno vi to bolj poznate, ampak nekdo, ki je strokovnjak na nekem področju, se niti ne bo tako razpravo spustil.
+24:40
+
+Ja ja ja ja.
+
+Ne ker mu bo?
+
+Sploh če veš, da veš, da je bil drugi strani nekdo, ki ni pripravljen niti poslušati niti, a veš vložiti časa, da bi razumel, kajne?
+
+Enih stvari se ne da razumeti iz teksta na škatli kosmičev ne tako da razen če si wonko, da se je nehote pa.
+25:00
+
+Se.
+
+Ampak tisto so bili zobotrebci tako da.
+
+Ti so bila posebna zgodba, ne?
+
+Ja, ampak smo že tam.
+
+Tudi tudi zdaj se.
+
+Rabijo za potrebe pc y ker rabijo za budre bci.
+
+Takrat je bilo mogoče to malo karikirano, ne danes pa to ni več karikatura.
+25:19
+
+Če, zdaj pa pač ni več tvoj ne zato, ker se mogoče sem se pa takrat v osemdesetih začeli pojavljati napisi na retrovizor, jih v Ameriki ne vem kdaj, ampak to so oni imeli že davno pred nami kot pri nas v 90.
+
+Hyundai, ki so bili, spomnim se, ko so bili hung ali veš nekaj.
+25:38
+
+Ja moderen avto čeprav niso bili, ampak oni so bili prvi, ki so imeli te ne, ker v Evropski zakonodaji ni bilo tega, da ne piše objekti in miru naj bi bla bla bla.
+
+Ne oni so oni so pa oni so pa to imeli, kar so očitno imeli za ameriški trg v enkratnem.
+
+Tako da mogoče so v Ameriki že prej imeli te.
+25:55
+
+Ne povsod napisano vse ne.
+
+Pa zdaj še vse razsekane vse informacije razsekana na ta kao ne koliko imamo mi ta spe n em razumevanja ne in je še kratko in hočejo vsi hitro te informacije podajati in pol pač ja.
+
+Noben ne čaka na dolgo razlago nekega strokovnjak, ki bo razložil, da vse ni tako, kot bi moralo biti ali mislim ne tako kot mogli, kako pride do tega, kaj je, kaj je posledica tega itd.
+26:23
+
+Investirati k časno tako kot.
+
+Lestev v zadnji klin pa da ne smeš naprej.
+
+Ja ne je prvič biti.
+
+Mora biti napisan jane ni stopil tožil oziroma ja pisan mora biti zato, ker bi lahko.
+26:40
+
+Ker ker so jih prepričali, da bi lahko nekdo ja se pojavil, ki je pa stopil še malo naprej.
+
+Problema ung.
+
+Jih prepričali, da bi bilo to ja.
+
+Tukaj pravijo, da je v bistvu evolucija naredila največji.
+
+Mislim, da smo kot ljudje e zapletli po poti evoluciji, ne, ker tisti, ki pač stopijo naprej, ne pa tisti v evolucijskem ciklusu nimamo kaj početi, a ne.
+27:08
+
+Tako, da.
+
+Ja.
+
+Mogoče.
+
+Tone a.
+
+J jaz.
+
+Sem v zgodovini pač tisti, ki so stopili naprej, niso smeli preživeti.
+
+Ne danes pa lahko, ker ni okej.
+
+Tako da ja mislim ne vem, vse je za nekaj dobro, mogoče bom, ampak mogoče tega še ne vemo, a veš ne, ker ne vemo vseh stvari.
+27:31
+
+Ne mislim, čisto pravi, da bi vse stvari da ponavadi, saj najbrž moti.
+
+Ne to ja to ste vi tudi vi rekel ja da daste že tudi v fiziki mislili, da ste že vse odkrili, ne pa se vseeno vsake tok cajta nekaj pojav kee kaj nekaj novega ne.
+27:48
+
+Zadnjih par 100 par 100 let.
+
+Je tako, no ne čisto na začetku, ampak precej plesne.
+
+Približno tam leta kot leta 2009.
+
+Stone, ki je gdo, je bil že.
+
+Ena od zelo znanih fizikov, nee?
+28:05
+
+Mislim po zdaj nastalih ne.
+
+Pa se je pogovarjal s svojim učiteljem ne kemikal, kaj bi rekel?
+
+Pa kaj boš hodil v izkop?
+
+Poglej prav zdaj so.
+
+Vse je že narejen dobro, prav lahko boš meril ee tiste slavne konstante še za kakšno decimalko več in to je vse, kar je fizikom ostaline naslednji ne, kar naslednje leto bom rentgenski žarki 5 let pozneje relativnostna teorija, kvantna mehanika ne skratka, vse je šlo znova ne, no in zdaj nimamo navsezadnje problem, da je.
+28:43
+
+Tega, o čemer kaj vemo, ne o čemer fiska govori, ne je kaj v tem vesolju 25 procentov, 75, je pa nekaj, o čemer nimamo pojma ne mislim.
+
+Imamo ime in, to je vse ja ja.
+28:58
+
+Ampak tudi meni prav posrečena.
+
+J jaz sem dal pač ni ne mislim, saj z našimi ne sezoni.
+
+Aung moramo poimenovati pač tako pa zdaj je.
+
+Ampak toliko ne o tem kako si.
+29:16
+
+Pa tudi temna snov je bila.
+
+Že se mi zdi, da je bila poimenovala, čeprav je še že takrat niso vedeli, da je bilo v 40 ih ali 30 ih, da je nek.
+
+Jaja 40. ja je bilo ta gospa je kaj kako se.
+
+Tako tako ja.
+
+Ja je pokazala, da tam mora biti še nekaj ja, ampak mi nič ne vidimo.
+29:35
+
+Jaz sem slišal zgodbe bomo dali v zapisku.
+
+Mislim, da je bil en radio lepena, lepena doda, tako da ja.
+
+Mhm ja recimo kar da glas je pa rad z komplicirane stvari, kar rabijo veliko razlage ali pa vsaj računanje ne kar se fizike tiče recimo pri letenju ne si pa našel eno tako domislico ne da pač čisto enostavno moraš sam se zamotiti, pa zagrešiti lane in ta je bila tako briljantne ja do pap a veš ne, to je v bistvu populistično pripovedovanje, ne?
+30:14
+
+Ampak za čmrla zmeraj govorili ne da čmrlj pač ne more leteti.
+
+Ampak on ne ve da pač ne more leteti in pač letine.
+
+A ja.
+
+Ja, dobro.
+30:31
+
+Kje smo še oblike u en poslušalci je vprašal, če ste kdaj poskusil panga taktični grlo res.
+
+Ne ponujali so mi že stvari s tem imenom in.
+
+A.
+
+Lepa saj niso bile tako slabe, ampak kakšnih posebnih učinkov pa ni bilo zaznati.
+30:51
+
+A.
+
+Vsaj take kakor jih je avtor opisoval ne?
+
+Ja dober.
+
+Aha no to je pa drug po poslušalcu vprašal, če ste že takrat vedel, ko se prevajajo, da bo knjiga kultna oziroma ali je že bila takrat kot na v po svetu.
+31:10
+
+Razmeroma malo, ampak seveda.
+
+Kult je veliko, je tega nastalo iz v resnici iz radijske serije ne, ker je bilo to že vse že tekli ne in je.
+
+Bibi si jevo mlado poslušalstvo je že takrat je že ponoreli za tem ne tako, da se je najbrž je pol tudi.
+31:35
+
+Ena s pomisliti dovolj dobro napisat ne.
+
+Jaz sem mislim, da tako nekako se je zgodilo, da je tisto kar kolega.
+
+Procentualno je rekel, da zgledam sta skupaj nista šla v grčijo, da bosta napisal, a ne pol pa tak da sem rekel veš kaj.
+31:51
+
+Je rekel jaz čutim, da moram to sam narediti.
+
+In začuda ne mulo ni dosmrtno zameril.
+
+Lipica je ta mu je.
+
+Sam ali mu je jayne časa unga as.
+
+Mi smo par let, mi pa sta bila že v redu aunga zelo v bistvu globok poklon džungli ne absolutne.
+32:17
+
+Pa, mislim, da je tam tudi tam tudi bila ta štorija, ki jo kapetan goričan cev ubani jim ne da je tudi to tam ratali me sedaj že zdaj.
+
+Tam se tudi rad kaj rabil, da kvas malo miru, da raje ostal v banji pa malo razmišlja ne.
+32:33
+
+Verjetno je bilo veliko teh sam, bi rekel sebe opisal.
+
+Razvoj, jasno se kje mislim.
+
+Če morate.
+
+Od od nekod morate črpati tako utrgane domislice, kolikor jih je na.
+
+Tone, seveda.
+32:49
+
+Ne dobro, mojster, potem je pa še tisti, ki to mislim tako lepo oblečene, da ni butne na domislica ne, ampak je spravljen mehko v zgodbo in se počasi razvije in kar naenkrat je pred nami nekaj, da v bistvu obstanemo in debelo gledamo.
+33:09
+
+Ne mislim, kaj mi ratali ja in to večkrat in ne ja vedno znala.
+
+Ker od od teh ponarodelih stvari izstopata se vam je najbolj dopadla od od vseh?
+
+Recimo teh ne vem vprašanje 2 odgovor 42 brisača vodnik bo gasly tudi recimo večkrat in aa.
+33:32
+
+Zelo dobro povsod psihologe, psihiatre in mislim.
+
+Da smo že ugotovili, koga si ne politike.
+
+Ja ker od teh stvari vam je bila najbolj zabavna.
+
+Mogoče.
+
+Težko se odločim pravzaprav ja, saj moram izdelati tako, da nekako.
+33:52
+
+Ja v resnici se težko odločim pa skozi, tako bi rekel tudi skozi razna obdobja, če gledam nazaj, se je to menjane so bile.
+
+Različne stvari ne, hm ne.
+
+Nekaj časa moram priznati, mi je šla 3 let mal na živce na a.
+34:13
+
+M.
+
+Ampak ne na vsaj navsezadnje vsak dobi svoje na.
+
+Tako tako kot tako.
+
+Kot tukaj, ampak tista zgodba je zdaj to že spet ni čist.
+
+Zdaj sveže sem nekaj napisal, ki je bila že aja tam v lososu dvoma ne.
+34:33
+
+Mojo generacijo ne je, čeprav je bil da glas mlajši od nas ne, ampak nekako hitreje živel, ali je seveda imel bolj prodoren pogled?
+
+Ne.
+
+Z ljudi okrog sebe, ampak nekako nas je vodil ne.
+34:50
+
+On je bil tisti, ki nam je povedal, kaj pa je zdaj ta doba, v kateri smo, ne ne od tistega.
+
+Mislim telička iz prve druge knjige ne dotalno, ne, nekem vržem pa so, v bistvu si nima kaj pomagat, ne napačen, slabo zrel mladostnik, ne, ne pa poj ne počasi do.
+35:14
+
+Da seveda do tisto čemur rečemo zrela ljubezen ne torej, to sta četrta knjiga sveča čne in potem seveda starševstvo ne jap energija v peti knjigi ne tako da nekako to je bilo ne tako je zdaj, kakor je on odrasel, pa njegov junak je šel lepo s tem gor ne in to smo nekako, to je tudi.
+35:40
+
+No ne morem reči zgodilo ne, saj smo šli najbrž že malo naprej, ampak v bistvu bi rekel pojasnilo.
+
+Nekako vidite, to je bila pa ta doba ko ste je pa to ne.
+
+Razloži pač ne vsako dobo posebej iz.
+35:58
+
+Nekako izgubil je u ne slikar bo naslikal ne ja on je pa ne načinu besedo nekdo to kar smo ravnokar šli skozi ne, ker smo vsi dobro poznal iz lastnih občutkov.
+36:13
+
+Ja saj v bistvu je zelo dobro razložil odraščanje ne v bistvu.
+
+Ne imel imel je nek fenomenalen vpogled v človeško psiho.
+
+Tukaj je, ker se je v bistvu kazal.
+
+Mogoče po tem, da je.
+36:31
+
+Da je videl stvari, ki se v bistvu v svetu in na splošno ne menjajo.
+
+Ne ker recimo ena stvari konstantno ostajajo isto, ne glede na to, da se tehnologija zamenja, ne glede na to, da se vse v svetu, ampak ljudje, tako kot smo mi že v podkastu več po mojem da večkrat rekli ne.
+36:55
+
+Èe da tehnološko smo blazno napredovali, psihološko pa pa v bistvu smo še zmeraj na istem nivoju, kot smo bili pred 2000 leti.
+
+Ali pa emocije so popolnoma enake, nas vodijo, kot so nas pred 1000 leti vodile ne samo toliko pač, da se je tehnologija okoli tega za zamenjala.
+37:18
+
+Ne in on je imel to, da je znal nato psihologijo, neko tehnologijo zraven priklopit mm in jo in jo peljat tako da da nam je v bistvu še danes, ki je knjiga stara, ne vem tridesetletne ali pa.
+37:34
+
+Aa 40 ali pa kakorkoli nam je še zmeraj in tudi tistim, ki danes začnejo brat je še zmeraj zabavna in se najdejo v njej.
+
+Ja ker se mi zdi, da se da so take prav življenjske resnice.
+37:50
+
+Notri, jaz sem začel recimo četrto knjigo, pa me je takoj kupil z bogom dežja in pol 100 ljubezensko romanco, ker sem jo pograbil pri 17. letih.
+
+In kaj te bolj pomiri kot to, da ne?
+
+Nekdo je zaljubljen in nekdo ima punco.
+38:06
+
+Meni je to rešeno puberteto v bistvu, a veš sam vedno to se da ne, ker kot mlad tele sem pač ne neuspešno probal, dokaj ne z redkimi ne svet.
+38:22
+
+Z redkimi kakorkoli že, ampak ja tistimi je bilo prav tako.
+
+Aha, v bistvu bo vse v redu.
+
+Ne.
+
+Na pol sem pa začel s prvo knjigo pa sem ugotovil, da najbrž bodo do takrat še malo trajalo.
+
+Ne te bo še kakšen svet rešit pa vse ee tako da ja.
+38:43
+
+Ja zanimivo, da nisem, ko smo se o tem pogovarjali, ne da ste odraščali.
+
+V bistvu sprva mislim, da ste v bistvu bi bili prva generacija, ki je odraščala z naglasom.
+
+Ne, mi smo bili mogoče druga ali pa tretja.
+
+Nekje je to v 90.
+
+Pol, pograbila pa v 2000 jih ne in pol pač, ko je na žalost preminil, ste lepo rekel pri maji ratej da ne da.
+39:06
+
+Kako si že rekel, zdaj pa ne bomo več vedeli v sebi, kar ne bo več.
+
+Kdo bo zdaj povedal dobro razložil, kaj ne?
+
+In se mi zdi, da ena taka figura bi res mislim res manjkal v tem času.
+
+Ne prostoru je bilo res dragoceno.
+
+Kako se mi pa zdi s tem čisto na drugo temo potovanje na tuje planeta, ne kot fiziku mater najbrž kakšno mnenje ali oziroma kakšno časovnico, kdaj bi mi to lahko naredili in čemu sploh smisel?
+39:40
+
+S časovnicami poglejte, ne?
+
+Kdaj tam širil stih letih ne smemo.
+
+No smo misli so skupine lune.
+
+In zdajle se že spet blazno.
+
+Naprezajo v ena, pa drugi pa tretji, da bi spet prišli na luno, ne?
+40:01
+
+Japonska je bilo.
+
+Tako da to ja tako da to je samo odvisno od tistega.
+
+Kdaj?
+
+Kdo mislim kdo?
+
+1 1 1 1 v tem primeru država ne ena velika skupnost začuti, da bi lahko nekaj od tega imela, če spravi svoje ljudi, kaj gor ne tako in seveda tisto, kar bi imela, je samo ee torej besedah psihologija ne da ne rečem še kaj slabšega.
+40:33
+
+Zdaj.
+
+Bi imel jaz tukaj mogoče za vas eno vprašanje, ki me je v bistvu zanimalo, ker ste pač fizik pa o vse skupaj.
+
+Recimo da pri vas doma na dvorišču.
+
+Pristanejo.
+40:50
+
+Nezemljani.
+
+Kakšno vprašanje bi imel vizije njih, a bi bilo vezano na fiziko ali bi bilo na eksistencionalno vprašanje?
+
+O, mislim.
+
+Kakorkoli sem smeri se zelo čuti fizika, ampak da v takem primeru je pa seveda mislim.
+41:14
+
+Ne to kako smo zdaj mi pa oni in kakšno relacijo bomo imeli?
+
+Ne, je pa pretex odtehta vse fizikalno ne vsem še, ker ne bi mogel pričakovati, da bi tako hitro tisto fisku lahko razložim.
+41:35
+
+A ja.
+
+Najprej se je treba osnove zmed, potem bo pa lahko izobraževali aung.
+
+Ja veš ne pomisli ne da bi rekel, mislim, zdaj se je treba najprej neko osnove zamenja.
+41:58
+
+Če štartamo iz tega.
+
+Ja zanimivo ja.
+
+Ja, kateri iz pete knjige so samo rekli uni paralelni 3 šida, da naj gre z njimi pa je šla ne?
+
+Ja pa oni oni so bili res pozabljivi ja.
+42:15
+
+Je pa res, da je bila ona v nekem tem čustvenem stanju, ko je res ni šlo zunaj alejandru 100 astrologinja, a ne da mogoče je blo lažje prepričati ne te.
+
+Bom pač no pa preklinjajo, je lastna zgodba, da takratni šla.
+
+Pa še to najhujše to ime.
+42:34
+
+Je bilo njeno enkrat v življenju.
+
+Torbico v ena pa ni šla v torbico.
+
+Ne tako je bilo.
+
+To zmeraj tako slučaji.
+
+Ja jaz si.
+
+Šleva greš desno.
+
+Tako je ta.
+42:51
+
+Ne naključja so ne tako kot sva bila takrat na hitro.
+
+Foto, tako je bilo tudi pri funk ne.
+
+M.
+
+Hm.
+
+A to strokovno je, zato sem zdaj vem, zakaj si ne boš zapomnil zato, ker nimam pojma o teh stvareh.
+43:10
+
+Nič narobe vpraša.
+
+Do nje fabjan je astrofizičarka in vodstva podkast tam nastran ule enkrat je že bila pri nas, ko smo se pogovarjali o medzvezdnih potovanjih u sprašuješ pa vas pa tole v luki sta se ukvarjal s fiziko, toma pa eksperimentalnice ste bil, kakor sem razumela, v bistvu ga je pa zanima tole ne da se mafija se reče predmetov, matematična fizika, ki sem ga predaval.
+43:38
+
+Ee da, če vam bila, če nam lahko razložite.
+
+Za laike ne kje in kako se to uporablja?
+
+Ta predmet, ki ste ga učili ne.
+
+Tako aplikativno, da sem rekel toliko, da bom padel bolj pameten.
+
+Ja.
+43:55
+
+No.
+
+Če morate kaj izračunati, ne vse stroke.
+
+Imajo svoje svete formule ne hm, po katerih računajo, ker je tako predpisan ne in to je tisto, kar študente seveda začnejo, ne v prvem letniku z osnovami, pol pa čedalje bolj kompliciran, da ne, ampak tisti je fiksno in dobijo.
+44:18
+
+Tisto reč v paketu, tako se to dela ane.
+
+Če pa pridete, včasih pa pridete.
+
+Do kakšnega problema?
+
+Ker bi bilo treba nekaj izračunat pa pravzaprav ni.
+44:37
+
+Še ustaljenega in znanega postopka ne niste dobili recepta med svojim študijem ali pa ki je pozneje v literaturi?
+
+Ne, ne, ampak morate začeti sami razmišljati.
+
+A kaj kako pa se kaj bi se pa tukaj dal izračunat ne kako pa je kaj pa so.
+44:58
+
+Kaj pa lahko rečemo o tem?
+
+Ne, kaj so enačbe in kako jih je treba razumeti?
+
+Da, to je matematična fizika, ne in potem iz tega naredite, a ne skratka.
+
+Pač kar se da napravit včasih.
+
+Samo malenkost, včasih pridete pa lahko precej daleč, a ne ja, no, saj to je bila poj to, kar sem potem na koncu delal.
+45:21
+
+Čemu si rekla modelska analiza ne bi bila ravno ta nadgradnja ane in torej moram reči, da.
+
+Od študentov, ki so.
+
+Ki so to obiskovali ne in.
+
+Torej to je bil en najlepših predmetov, kjer so.
+45:38
+
+Študent pač vsak teden smo jim servirali.
+
+En te sorte problem ne ne s.
+
+Pač ski letom, ne?
+
+No ne in, so oni morali iz tega nekaj napravit ne.
+45:56
+
+In.
+
+Torej no vsaj v če je bilo.
+
+Čez sta bila uredili vsaj 2.
+
+Malo bolj zagnano in tako naprej, ne?
+
+Èe se je pol to reč ta plamen razširil.
+46:12
+
+In je bila cel semester celo leto pravzaprav nepopisna tekma, kdo bo zdaj več originalnega prinesel naslednji teden, ko je bilo treba tisto pokazat ne, ko smo to dajali, to se pravi, da ne.
+46:28
+
+In tudi in zdaj, ker nimam kontakta z njimi.
+
+Ne, če si kdaj kdo oglasi.
+
+Povedo ne da, to je pa tisto ne, ker kar jim najbolj koristili zdaj ne, to se pravi v bistvu reševalci problema.
+
+Vse to ne.
+
+Av super ja da sem slišal da ste mislim tudi nekateri od naših sodelavcev le v firmi so bili vaši študentje in vsi so mislim brez izjeme pohvalili in način govora.
+46:57
+
+To, da ste zelo razumen mislim ne na lahek način, ampak tako, da ste govoril tako, da so razumeli, da ni bilo ne da lepo prijazno in vse in me zanima ali.
+
+Kaj vas je, mislim če se da sploh to zmeriti.
+47:15
+
+Ne AA je bil poučevanje pa fiska pa akademski del večji del vašega življenja.
+
+Kaj je dom ali neko za nas je pač, ne vemo, da je vaša prevajalsko delo prvo, ampak za vas, če vas če.
+47:33
+
+Nobenega dvoma fiska.
+
+Seveda ne, ne, to je bilo.
+
+Čeprav še ne vem.
+
+Kako sem.
+
+Na finsko prišel hm ne tisto leto 62 ga ko.
+
+Smo se gimnazijci vpisovali, ne ja.
+47:53
+
+Sem jaz se pripeljal v Ljubljano.
+
+Ne in.
+
+Za šivalne.
+
+Nič na finsko.
+
+In se in kar dal svojo prijavo ne ali pa prej pa prej mislim mene jaz gimnazijo.
+48:11
+
+No še še malo prej iz nižje gimnazije ven nekaj mi je zelo vlekla, ne sem doma, mislim doma, najprej v svoji nočni omarci na mamino.
+
+Hudo jezo žalost, je delal poskuse na.
+
+Ja no poj mi je oče odstopil in konec kleti, ampak glede na to, da je na drugem koncu, je bilo pa le kislo zelje, pa te stvari tudi ni bilo zelo prijazen gledano, a?
+48:38
+
+Ni bil le para toliko, ker si ga mlad kemik nadobuden želel.
+
+Ne, no potem v gimnazijo višji gimnaziji ne.
+
+Sem pa začel hodit na matematična tekmovanja, ne.
+
+Uspešno, ne.
+48:55
+
+Tako da tako da nekako to sta bila zdaj 2 moja centra ne ja pol pa mislim da je bilo to da smo.
+
+V zadnjem letniku ali pa mogoče že predzadnjem in zadnjem?
+
+Izvrstnega profesorja za fiziko ne, in potem je bilo jasno, da je to tvoj ne skratka ne, ampak v resnici pa takrat, ko sem šel dol.
+49:18
+
+No sigurno seveda sem vedel ne, ko bom, ampak še zdaj ni nikoli bilo jasno, kdaj se je to obrnilo in kdaj ta sklep padel ne, ker drugače bi, zmeraj bi rekel dober kemija matematika mogoče ne, ampak.
+49:36
+
+No, potem ko sem, če sem nazaj gledal ne, potem ko sem že stal fizik, moram reči, da.
+
+Sem si zmeraj rekel, da sem to.
+
+Pametni zbral le ob vseh zmotah in neumnostih, ki sem jih naredil v življenju.
+49:51
+
+Ne, ta je bila pa em na srečo ena od prav obrnjenih nano tako da tako da ja.
+
+Jaz še iščem.
+
+A sigurno imaš, ja sam najti boš sam narediš.
+50:07
+
+Ja jaz sem šel po nesreči študirati agronomijo, pa tudi ne vem zakaj, ampak po nekem čudnem naključju sem tam srečal učilnici za računalništvo, vizija.
+
+Spoznal a vsaj za nekaj dobro bi bilo.
+
+Kajne res nisem imel nobene želje, niti mislim, ne samo pač sem šel, ker sta 2 prijatelja šla na agronomijo sem rekel, pa vemo, skupaj bomo študirali ne, ker pač ee takrat še res nismo vedeli, kaj bi počeli v življenju, se mi zdi, da smo bili ena ta izgubljena generacija po osamosvojitvi.
+50:42
+
+Ne vem, če je zaradi tega pomoje, da ne, ampak tako se mi zdi, da smo malo bolj tavali, ne v ali pa vsaj naša družba tako no.
+
+In ne srečno, nesrečno naključje, da sva nisva imela noben od naju, ni imel interneta doma.
+
+V računalniški učilnici je bil pa zastonj.
+50:59
+
+Tako.
+
+Na starih 2 8 6 ha ha ampak je bil hiter.
+
+Tako da ja so to se ta naključja ne ki se.
+
+Pol obrne življenja.
+
+Ja nič še čisto zadnje vprašanje, ali ste kdaj stopil?
+51:17
+
+O ja.
+
+Ne grozno velik, ne da bi recimo pri podvoji Evropo da ne, ampak tako budna.
+
+Ja kdaj pa kdaj sem no ja.
+
+Lepo, ker mi smo bili, pa tudi že smo, ampak ko smo pa mi začel štopati, je bilo pa to tako že zoprno početje, ker ne ee fantom niso ustavljali nikoli ne.
+51:40
+
+Kolega je bil rekord 12 ur do kopra ga ne tako da takrat se že ni več daleč, zdaj pa mislim da, a ta discipline izumrlo.
+
+Ja nimaš kaj tako je, zato pa lahko zdravilstvom še ne še vedno stopate po galaksiji in štruklje in uživate v odličnem prevodu doktor kodreta, tako da imata videl še kaj.
+52:03
+
+To je to.
+
+To je to ja najlepša hvala s zato ker si si vzel čas in se malo družil z nami.
+
+To je torej to najlepša hvala res ja.
+
+Hvala.
+
+Hvala za vse ribe.
+
+Tako ja to je to.
+52:21
+
+Nič ali se še mi še zahvalimo, pa te stvari naredimo, konec pa bo.
+
+Najlepša hvala, ker ste nas poslušali čisto do konca epizode, v katerem smo v naše, in upam, da tudi vaše največje veselje gostili doktor alojza kodreta.
+52:41
+
+Ja z nami lahko debatirata na discordu, kjer poiščete kanal samo brez panike na družabnih omrežjih pa smo povsod afna opravicujem vse.
+
+Z vami smo bili ali jo peli in zi in če ti ta podkast všeč, ga lahko deliš oceniš ali podpreš.
+53:01
+
+Hvala za vse ribe.
+
+Pika si.
+
+Dvesto epizod pa govorite točno po pravilih ne bi sem res hotel te prekinit in doktoriral s kodre.
+
+Ampak dobro.
+
+Zdaj.
+
+Če je red je red ne, če ga imamo ga imamo.
+53:18
+
+Odlično.
+
+Super.
+
+To je to vmesno luči smarta.
+
+Ja ja se seli to ali prižgan zdaj sem potem vem, da takrat ko najprej prižgeš zaful imamo sicer dimer, ampak potem najprej furs.
+
+Fbi je napolnil kaj ampak.
+53:35
+
+Ja pazite.
+
+Prijavi družbo.
+
+Ne saj ne skrivamo, hm?
+
+A.
+
+Super.
+
+Zdaj pa vidimo.
+
+Eno prošnjo mi bi še imel gospod hudega marijana, a bi nam podpisu knjige imate vi?
+53:53
+
+Pisalo, ali moram jaz.
+
+Sigurno.
+
+## Dvestota epizoda
+###### 198
+
+0:08
+
+Takrat si vedno.
+
+Mislim saj dobro, ampak kako opis, da ne moreš?
+
+Veselim se zmeraj najde najti miru.
+
+Ja ti ja jaz pa ne.
+0:28
+
+Jaz nisem bil na nobenem svojem absolventu, sem bil pa na 3 tako službeno pa niti ne dneva nisem zdržal, da ne bi bil.
+
+Seveda sem bil tudi na 2 tako.
+
+Pa je dober teste so najboljši.
+
+Sem ja ja.
+
+Ker ni obremenilno.
+
+Ker, predstavljam si čudna lastnega zunaj banda odvoz 20.
+0:48
+
+Oddati bi bil res boj na požiralniku le.
+
+Ne, tako je bilo pa tako je bilo pa ful.
+
+Redko si pa tako si pa samo pivo spil ali pa tudi ne.
+
+Ne, tam smo več mogli delati pa se.
+
+Med dnevom smo bili.
+1:03
+
+Približno mare zapovedal srednjo pot, ki se je glasila čez dan.
+
+Ne pijemo.
+
+Mislim, da sva se držala in tudi polne plaže sva se držala me je prav.
+
+Ne piješ ne pač ko smo delali.
+
+Pol Večer je bil še on žur pa smo šli pofotkat pol pa mi je fotkala ne pač ee.
+1:24
+
+Oziroma da lažem pol.
+
+Začela sva že kakšno piva spili.
+
+Vsaj po večerji smo se dobili že pol z dohtarji pa s srbežem ali pa z njimi radijci pa to.
+
+Se por timom.
+
+Pa smo, malo smo namočili, ampak nič drastičnega.
+1:41
+
+Odraslo, odraslo lepo.
+
+Ste doktorja en je bil vedno dežuren in je opazil, da hipoteko hipokrat ni slabe volje in nič tako, da je bila ne ta resna tako prav.
+
+Občudoval se bo.
+
+Pričakovali smo jih, kako ne bo nič nobenega.
+1:59
+
+Je bilo zelo.
+
+Na nivoju tako kot se spodobi, pač delamo.
+
+Dela.
+
+Midva pač nisva bila k dohtarju a ampak ne bom brez hujših izgredov si predstavljam, če bi čez dan pil, da bi bilo to a veš, če bi šel na svoj na svojem bivata ne, ker ne bi.
+2:17
+
+Bil kontra ne bi debeli del mislim ali.
+
+Delaš nedelja še zdaj ne najdem izgovor, da bi čez dan ne bi bil težko.
+
+Mislim, da bi Slovenija si ti zastavi, saj te vsi čudno gledali.
+
+A veš.
+
+Pa vsi so to počeli tako, da bi se kaj če park je čredni.
+2:33
+
+Nagon ne pridejo do izraza pa tukaj ne.
+
+A je kdo sploh to poslušalke in poslušalce pa sprašujem, če je kdo bil na absolventu.
+
+Pa da ni pil to pa res ala mu vera.
+
+Ne bi šel, če bi vedel recimo, da je okej, to ti nikoli ne nočem se ga nažgat kavi pri.
+2:49
+
+No pa saj se danes.
+
+Ne da se.
+
+Zbal da bi se.
+
+To ni utonil to ni obsojanje.
+
+Ne razen, če si navajen pijanih ljudi, pa da si trezen to edino to gredo napiješ.
+
+Hočem reči, da te potegne, a veš tam se vsi, a?
+3:07
+
+Zdaj bo večina.
+
+Sicer še vse igralne.
+
+Neke ni bila, no tako da.
+
+Ima pa.
+
+Seveda že prej skoz bila kot peli rekel ti med pijanimi pa ne piješ pač nikoli ne.
+
+Ampak ko si navajen ne pa ti.
+3:24
+
+Jaz znala ta moment ujeta veš.
+
+Se to meni po navadi, bil sem jo ta lahko ta moment, ko si bil ti trezen pa ostali prijatelja pa je tokrat grem jaz.
+
+Dam.
+
+Ja ker ne gre.
+
+Nekaj pa znajo je tako z.
+3:41
+
+Momentom ja lepo.
+
+Ja v redu, če čez naš.
+
+Dobro, pa saj ti ga znaš.
+
+Zdaj ja ne lovim golubinka, včasih bolj včasih manj uspešno, ampak ja em.
+3:57
+
+Dober še zmeraj ostaneš.
+
+Ne mislim da greš.
+
+Mislim jaz sva nekega trenutka.
+
+Da se mi da se mi da je ponoč moja magična meja, da.
+
+To je, to je verjetno, zaradi česar je.
+
+Domov ja že malo pogrešam kavšek pa.
+
+Se pepelka je imela tudi ta moment.
+4:14
+
+Je dolg nisem poznal, to mi je zdaj tako.
+
+Ni to čustvo, ampak.
+
+Dober čut ki se.
+
+Pravi, to je to mogoče tudi ni povezano z alkoholom, da pač ne z drugimi stvarmi.
+
+Zdaj teh letih.
+
+To mi so šle.
+4:30
+
+Prioritete pa to.
+
+Pri uri le te.
+
+Oh.
+
+Če je pa temu tako pol pa pač ne bo takole.
+
+Ne mislim lej zdaj, zdaj ti probamo sam še kakšno.
+
+Ker, vem da se um proba prijet nečesa ne empati probava dati nečesa, česar se bo prijel tako.
+4:52
+
+Te pri teh letih ja ja saj veš kako.
+
+Vem kaj je mislil ja?
+
+Starega kozla pa to.
+
+Ja lej no lej, tudi sem se pa malo raz kozličev zadnje 3 leta, tako da neki pa je ne napredek pa to čeprav.
+5:13
+
+Napredek ali pa ne napredek pot je v glavnem.
+
+Pot pot je pomembna.
+
+To je res.
+
+Vsi pravijo.
+
+Ne saj če a veš, to je tako kot ne pač, če znaš živeti s svojo strastjo, ne.
+
+AA je pač.
+
+V bistvu kaj pravijo, že morali tretirati kot hobi.
+5:32
+
+Probleme če je strast, a?
+
+A preveč strastna.
+
+Če si preveč strasti ali pa čez rast škodljiva za svoje telo.
+
+Sem ne.
+
+Pa, kot je rekel, moraš znati živeti s tem, ne?
+
+Ja no to je to je ta srednja pot ki je mislim že zadnjih 50.
+5:49
+
+Mogoče ne, ampak.
+
+Hočeš da moraš objeti to?
+
+Ne veš?
+
+Kaj pa jaz vem, kaj bo videti zdaj, a?
+
+Kako jo?
+
+Objema, saj to sem mal trolom.
+6:04
+
+Jaz bi se opravičil, koliko da bo osredotočilo, ampak ja em ne, a veš tudi to je bilo meni zmeraj.
+
+Ne ne bom šel, a?
+
+AA.
+
+Zato, ker se izločki telesni ki niso.
+6:20
+
+Zelene pač človek, ki ima neko oct.
+
+Ne kot sem recimo je stane, pa je recimo šel on oct je šel ter mobene 2 ponoči je šel domov, ne lahko da veš, da je pač da veš, da so te stvari res res produkt uma ne ee ja ne da da da pač to ni, da to ni tvoje stanje, da to ni stvar kar rečeš to sem jaz ne.
+6:52
+
+Ja.
+
+Ampak ugotoviš da ko se zjutraj zbudiš, ne ugotoviš da glej faco v tisto kar bi jaz ne vem prej ne vem stokrat prej brisalne pa.
+
+V bistvu sploh ne bi stopil tja ne tisto sem jaz celo noč.
+7:11
+
+Žvečijo in je bilo super.
+
+Malikoval.
+
+A tako dobro.
+
+Ne.
+
+Ja ja glej.
+
+No jaz sem pa vsaj ugotovil.
+
+Toda.
+
+Hišici malo bolj.
+
+Se neumni si um nisi ti no mi.
+7:29
+
+Ampak si tudi je tudi zgrajen iz nekih veš izkušenj preteklosti.
+
+Le tega ne smeš se ne smeš identificirati s tistim, kar je pač, kar ti pač um ponuja.
+
+No mislim ja, saj je nekaj od tega res.
+7:46
+
+J jaz.
+
+Ker mogla zmenit še zmeraj glejte, mislim saj meniva, ampak lej ni, saj pravim pote ne ampak.
+
+Ne večkrat sva se sporekla hudič hoče, da veš hoče po svoje.
+8:01
+
+On bi šel po svoje, ne samo ne, ne, ko jo probam razložiti, kako je bilo, ko je on mislil, da je prav, pa je.
+
+Vse v redu ane.
+
+Pa se malo, spomnim pa pol, da je priznati, da sem bil v dobro.
+8:16
+
+Kaj ima ona veš ne, kaj je bilo res?
+
+Res je bilo dobro, ne?
+
+Pogovoriti, pogovarjajte.
+
+Pa.
+
+Je pomembna.
+
+Samo sabo ja.
+
+Komunikacija je pomembna, jabolka nočeš definitivno.
+8:33
+
+Ne je boljše, nekaj kot nič.
+
+Boljše le.
+
+Munikacije v kakršnemkoli je.
+
+Pogovarjajte se med sabo ali pa s sabo tudi sam ne preveč naglas karte pa lahko.
+
+Pa tudi čez jase in če.
+8:48
+
+So čudne vas gledajo samo tako.
+
+Svet je ta norma, kao tega ne smeš početi.
+
+Jaz sem se zalotil, da grem s pevskih vedno pojem po cest.
+
+Ja saj pravim, norma je ta, da je malce časa če poje.
+
+Brez.
+
+Veze.
+
+Župnika, ki je mojega otroka, kar sem ga v bistvu nekaj on je pač rekel, da je, ki je bil prej pač čisti laik ne.
+9:14
+
+Da je pač zaslišal božji glas.
+
+A ne AA.
+
+Jaz ga vprašajte, kaj je z božjim glasom pa.
+
+Tako ja valda mi je bilo a veš tisto mojo g ker je pač.
+
+Zakaj te vsi drugi glasovi pripeljejo v norišnico, razen božjega ne, ker te pa pripelje v cerkev, a ne, ker če slišiš glasov, je pač pridejo pote a ne ja.
+9:38
+
+Še posebej, če to glasno izjavljam, da.
+
+Izjavlja, zdaj govorijo.
+
+Še imamo.
+
+Ja ne ampak glej tako tako je ne pa tisto tisto recimo pa ko pa nekdo to zasliši, pa spoštujemo ne in ne glede na to a si ne vem.
+10:00
+
+A si katolik ali kakorkoli, ali ne nekatere funkcije, neko spoštovanje do teh, ki jih pač pokliče ne vem božji glas ja.
+
+Ja jaz mislim da mali mi je za zavedati, če vzameš v ozir, toda v resnici ne vemo kaj je pa, a veš, kakor smo rekli mi koliko 4 do 4 čustva ne štekamo ali kako smo že rekli ena par epizod nazaj.
+10:30
+
+Ne na dimenzije oziroma ne ne čustva 4 dimenzije štekamo ne ostalih pa nekaj pa čas so še nekaj, ko ne veš nekdo ti lahko nekaj pove ne.
+
+Ali pa sam tok dober konstrukt, ki se je valil skozi tisočletja.
+
+In ne ali pa.
+10:45
+
+Verjameš?
+
+Možgani možgani ti hoče katy in nekaj pove pa ti misliš, da je to pač neka.
+
+Leško mene zanima, če recimo, ko vemo, da se mediji novice?
+
+Mislim, da je med filmi vsa ta vse te stvari nas nekako programirajo in oglasi tudi v zelo veliko oglasi ne da bova fantje radi avte.
+11:07
+
+Punčke imajo rade barbike la veš ne bi smel pol izjeme pa pol so doma morili isti je pa ono pa tretje ampak a veš.
+
+Tako tudi jaz verjamem, da v družinah, ki so pač krščansko vzgojeni, prej prideš do tega, da ne da.
+11:23
+
+Začutiš boga, no recimo, ampak vprašanje je sam zaključeval vprašanje.
+
+Nekdo sreča boga, ki nikoli ni imel izkušenj oziroma ni slišal, a veš nič o bibliji.
+
+A veš nula, da ne ve.
+
+Lahko mislim, zakaj pač ne?
+
+Misliš?
+
+Mislim ja neka mistična izkušnja je pač vsega omogoča.
+11:42
+
+Mogoče se on pa kje je dejstvo, to ne da.
+
+Am ja vidiš, ker sem zdaj že pozabil, kaj torej hočeš zdaj jaz ena.
+
+Sem sprobal spomnit pa ti.
+
+Jaz ja.
+11:58
+
+Jaz bi jaz bi tukaj.
+
+Spet smo tukaj, da veš nimamo neke neki nimamo neke analize, ne koliko je teh, ko sem recimo imel.
+
+Jaz.
+
+Ko imajo ljudje, ki so imeli izkušnje, se pravi so bili verni, doma pa se potem odloči.
+
+Zato grem stavt jih je valda več.
+
+Ker je logična, sploh ne.
+12:13
+
+Nimamo nekih podatkov.
+
+Skratka ne moreš sanjati ljudi, ki jih nisi še nikoli v življenju srečal.
+
+Ja.
+
+Da bi čisto fabrici ral ne vem neko nek neke obraze ne em tako verjetno pač moraš imeti nek stik z neko z neko vero ali pa nekaj sem da ti pač to.
+12:37
+
+Imamo nekaj.
+
+Rešiti ta glas pride.
+
+A veš konec koncev neka stik z vero maš skos po mojem saj veš nismo ni a verska a veš tudi če nimaš doma, imaš pa okrog se vidiš cerkev pisec.
+
+Je to isti, ki zbira.
+
+Konec koncev ali pa konec koncev džamijo nekje imajo.
+12:54
+
+Tako skozi družbo pa.
+
+Kako se pravilnik skupine?
+
+Nisi čist, nisi čisto.
+
+Odsekano tega ne vsi, a veš božič je pri vseh.
+
+Ne, to je res, sam hočeš tudi.
+
+Če so samo darile, pa če se.
+
+Predstavil 4000 let nazaj, ker ni bilo vedeti.
+13:12
+
+Ljudje se še zmeraj v nekaj verjeli, samo da pač ni bilo ne tako definiran, da moraš verjeti v nekoga, ki ima brado, pa je na nebu, ne samo verjeli ali je.
+
+Žrtev delu več takrat se te.
+
+Več.
+
+Bogove.
+
+Mnogoboštvo, ker je v bistvu, kar se tega tiče bolj smiselno ne veš, ker.
+13:33
+
+Imaš ee.
+
+Mislim da je to.
+
+Bolj socialistično.
+
+Ne pa ti imaš, ne vem lep angleški pregovor aung.
+
+To sem jaz hotel reči ne moreš biti za vse dober pizda.
+
+Ne a veš ti če rabiš, kaj pa veš, če rabiš keramičarja pokliče, mislim, če rabiš ploščice.
+13:53
+
+Položiti chaungtha oziroma sixpack, zdaj pač ne dela to.
+
+Recimo ne rabiš nevem boš vodovodarja.
+
+Ker boš kemala.
+
+Klical mislim ponavadi vzrok je narobe.
+
+Še ne znajo, ljudje znajo vse delat.
+14:11
+
+Ne slabi pri roki, ko se zdaj promovirajo?
+
+Ja, ja, saj to imaš prav.
+
+V bistvu ja, bolj kul ja imaš.
+
+Enga če dec specializirane za ne.
+
+Vem.
+
+Recimo za morje ne vem neptune, a veš on je bil ne zamore specializirano aunga.
+14:30
+
+Jaz se tudi to.
+
+Slovanski mitologiji so bile podobne štorije.
+
+Ne niso bile zavode, ena so bili za neke ena so bili za zrak.
+
+Mislim pa, da itak ne ne za ljubezen za vse tote sangineto.
+
+Točno veš kaj, zakaj in veš za koga res imaš ta problem bom.
+14:47
+
+Za tole molilne če.
+
+Imaš za ljubezen.
+
+Zase, saj sem imel tudi generalnega na Triglav je bil tako za generalno.
+
+On je bil v bistvu.
+
+Je bil primer ni, on je bil sam nadzorni, a veš on je bivši šef odbora eciia.
+
+Opise.
+
+To je shodu.
+15:03
+
+Jaz sem hodil s tam smo imeli neko športno aktivnost in je bil em, pa je bilo skos nekaj narobe, ne?
+
+In je bil pacient je bil tudi dohtar ne ja.
+
+A veš ne, kaj so vsi spraševali ves čas, a veš ljudje kaj je to me nekaj boli me nekaj boli, ne prav pa pizda jaz sem anestezist.
+15:23
+
+A nikoli ne reče sem pediater se.
+
+Aung prav jaz ne vem zakva te boli jaz vem ko jaz ko te pogledam jaz vem kako ti moram dati dovoljenje se 5 ur noč spustil, vem pa ne vem pa kaj je s tvojim kolenom ali afp.
+15:42
+
+Pelje, ampak veš mi nekako ne zdravnik si pizzo ta del se jaz nebi.
+
+Saj veš da.
+
+Ne in to ni čisto tako ne in ne hodimo odvetnikom tistim, ki pač ne ja, ker so ker niso specializirani za neke stvari, a ne mi gremo radi, ne vem poiščemo, ne vem, čeferina, zato ker je znana veš ne pa on nam bo pa rešil ne bo ti dajo tam ena malinovca neko kajti sicer aleksandrovo ter ifop ali ne, ampak veze ve pa ništa ne uža ne in pač to plačujemo ne.
+16:21
+
+Ja.
+
+Jaz sem imel moj kolega, sošolci srednje šole je bil paznik v zaporu in je hodil na te obravnave.
+
+No in on je imel.
+
+On je imel blazno dobro rečenico.
+
+Ne bom rekel, da včasih, ko te odvetnike gledaš, pač, ki jih dobiš ali po uradni dolžnosti ali pa kakorkoli ne bi rekel prav stari.
+16:40
+
+Včasih je ura 2 tožilca, kot da imam takega odvetnika, ki ga tam dajo ne.
+
+Res.
+
+Se mora očitne.
+
+Sedaj se pravi vrednote.
+
+Ki se učijo, bi rekel ani.
+
+A še toliko bolj.
+
+Nujno ja ena pač res.
+16:57
+
+Pa če niso.
+
+Za vse ena so za vse pridejo.
+
+Pa vidiš.
+
+Neki neki neki saj imaš da imaš saj ta ne kako bi rekel profesionalni etos da rečeš pizda bom pa vsaj majčken se bo trudil.
+
+No zdaj obsojen tu a veš.
+17:14
+
+Ja ja neki higienski minimum se temu reče.
+
+A veš narediš svojega hipokrata?
+
+Odvetnik je mogoče bili tudi najbolj kakšno božanstvo, zato se multi boštva.
+
+Tale hipokrat mislim da že.
+
+Malo šel nekam.
+17:30
+
+Zelo krvavi.
+
+Mislim v grobu se vrti kot ventilator ne zdajle v temle kar gleda tole našo situacijo.
+
+Da spominja na tako dobro novico biševo klimo že počasi.
+17:47
+
+Ne slišite nikjer audi klima, to je hipokrat ko se vrtimo.
+
+Kar se rola.
+
+Naši dragi zdravniki ne niso to oni zjebane klime, ki so vam jih zmontirali v klinični center je hipokrat v grobu.
+18:04
+
+Te zrihtano zrihtate.
+
+Se mogoče zdaj že stari, zdaj pa res že bistvu.
+
+Imamo to, kar se vleče že.
+
+Kakorkoli je.
+
+Čeprav vsakem primeru, tudi če se tudi če je bilo predolg, je bilo.
+
+Neudobno.
+
+Mislim da veš meni, meni je najbolj ne štrajka šne in rečeš, da to na zdravje ljudi ne vpliva, ne se pravi delaš v bistvu isto kot ker ne delaš, pa kar štrajka še eno je enačaj vmes.
+18:32
+
+Ne mislim nič in.
+
+To se mi ne zdi kul.
+
+Jaz vem kaj še?
+
+Isto dobro delajo Kakšna je, koliko pa ne.
+
+Ne vem veliki tukaj malo ne spol.
+
+Ne vem kaj hoče povedat s tem ne?
+18:49
+
+Saj to ja, če bi to en razložil zdaj neke polog pogajalska skupina, pač mi sploh ne pridem okej itak vse v redu.
+
+Ja ja saj.
+
+A.
+
+Saj to mi je kar zanimiva, ampak očitno glej tudi tako.
+19:05
+
+Se danes zgleda ne mislim da.
+
+Pustimo se presenetiti, mogoče res konec pa so se super zmerjali in vse boljši in čakalnih dob ni več dvoživk ni več.
+
+Pravi čili s to naselje.
+
+Dvoživke nosimo v lambergh, ki jih čez cesto.
+19:22
+
+Kul mislim da je super za neškodljive, pač ne govorim o teh zdravstvenih dvoživkah, ampak.
+
+Ja.
+
+To teorijo sem razvil zadnjič, da je v bistvu ne, ker sem slišal, da so ena sindikati bolj nagnjeni v eno.
+19:38
+
+Vlado pa vztrajaj vztrajaj, ki je enaka ena oblasti na oblast, pa drugi pa v drugo ne in te zdravniki so pač te, ki so zdaj opozicijski so koker in mogoče je bil ne vse skupaj zunaj hišo.
+
+Mislim, hišo tisto prodajo, ne pa še 7 tednov 2 meseca pa glih tam vmes se je nekaj zgodilo.
+20:00
+
+A tako tak manever se mi zdi dober no mislim poznam tudi človeka, ki bi ga lahko naredil ne tako, da sam očitno ni ratalo.
+
+Ne vem, mogoče pa je seveda ne veš, ker smo tukaj že prihodnje.
+
+Zdaj tukaj je zdaj že midva ne veva čisto točno čem govoriš, ampak.
+20:17
+
+Dobro, ne?
+
+Pa da zelo dvomim da.
+
+Ja no ja lej ne veš a ung.
+
+Ne berem, poslušam te politične podkaste in imajo navado, le mislim novinarji in te novinarji, ki spoštujejo in uniko odgovarjajo, moje navadno ne povedati vsega in se mi zdi, da to je dober ZA veš z ratingi nedorečene.
+20:40
+
+Švica tančica da ostane če.
+
+Si a veš kaj zdaj skoz ne, saj smo to smo že govorili teh stricih iz ozadja pa to ne da skos je malo malo mistike.
+
+Ne mislim ja no tako da.
+
+Mi a veš kaj si mislim da.
+
+Sem se navadil ne ja.
+20:56
+
+Mislim, da pri nas, ki jih je res, se vsi poznajo med sabo, da fakin bi izvedeli, kdo so ti kurčevi stric iz ozadja, levi ali pač dejstvu.
+
+Veliki, ali pa ne Kitajskem jebenti se skrijejo te strici razumeš kaj mislim ali so pa pač no bila sem.
+
+Tudi tam se ne.
+
+Ne samo pri nas se pri nas so to neki imaginarni možici ne, ker ker to kot lutkarji ne, ker to vse opravljajo, ne prodaja ne recimo ne vem s za ameriko pač vsi nekako vedo, kdo naj bi to bil ne ali kdo naj bi ne ta.
+21:31
+
+Ne vem korporacija nekdo je bil pač to usmerjalne, saj.
+
+Ne je bil najbolj luškan on, ker so rekli, da ne, da bi mogel ameriški predsednik ne v obleki hoditi, ampak tako kot voznik nascar ja, a veš, da ima kdo ga je vse do moje vse kampanjo kupil, ne pa kdo je bil njegov sponzor ne, ko mu je pač dolžen uslugo ne.
+21:50
+
+Saj načeloma oni ti podatki so javno znani vejo.
+
+Se bistveno, ker so.
+
+Me zelo veliko tega mora biti čisto verjetno aunga pri nas.
+
+Je.
+
+Še katera korporacija.
+
+Za tem.
+
+Ker to sem milijardni, a veš mislim, to je tisti tam z promoviraš stvari, pa kampanje pa to ful ena denar ostane in to, da res moral nekdo odgovarjat milijon ne milijarda, ne vem koliko je to zares.
+22:17
+
+Taki denarji da vas nekaj, da ljudi ne more niti predstavljat 2.
+
+Lepo pa si nekaj dolžen ne ja toliko demokracij.
+
+Ne seže vse vse tak dobrodelno.
+22:32
+
+Polju doma, ni pa tako ja.
+
+Zaradi res je, tako, kot so rekli, tako kot v tele.
+
+To je bila watergate, ne?
+
+Hm.
+
+Je on rekel pač zmeraj kaj iščeš krivca folo doma ni.
+
+Tiskal največ, imel si tega, tisti je kriv za to sranje in to je to.
+22:54
+
+Pa ni važna je to neka vojna, a je to nikoli kar koli.
+
+Tako da ja em.
+
+Vse v imenu neustavljivega napredka ne.
+
+Tako avizo.
+
+Slavko au včasih, včasih pa ja no.
+23:10
+
+Daj povej, zakaj je kar dokončan.
+
+Najprej pa.
+
+Me saj pravim ne, ko bomo šli polže opisu to a veš?
+
+Aja ok.
+
+V madola 23.
+
+Junija.
+
+A evo imamo jordana.
+
+Ne veš nekaj, je pa tudi ne da nekaj delaš, pa samo zaradi tega, ker to rad naredil ne?
+23:30
+
+Saj je veliko teh ljudi, ki to počnejo veliko.
+
+Veliko je ljudi, ki te k migajo.
+
+Ko boš pa naredil sam zato, ker ti gre nekaj na živce ali?
+
+Pa bi hotel nekaj dobrega narediti, ampak nekaj jih pa še ni važno.
+
+Kakšen vzgib, ampak da bi nekaj naredil veliko teh ljudi, ki to delajo čisto iz res iz srca pa z zavedanjem, da neki dobrega počnejo.
+23:50
+
+Velike tega ne smeva biti.
+
+Ne da so te ti ljudje so samo na žalost.
+
+Slabo počnejo in seveda z istih nagibov.
+
+Ja ampak.
+
+To je že kakorkoli.
+
+Ja tudi to oboje, ampak veš v čem je fora.
+
+Kakor smo že ena par epizod nazaj rekli, a veš dobre novice ne potujejo tako dobro.
+24:08
+
+Ne veš, da slabe novice pa a veš, saj že pregovor star pravi le tako da po mojem samo zaradi tega ne samo percepcija je taka nekdo v bistvu bendu, vsi so isti, pa vsi samo kradejo ne.
+
+Ja.
+
+Res ne.
+24:26
+
+Mislim, mislim, ker če niso potem res opis delo, a veš, da smo v večji pizdi, kakor si mislimo.
+
+Zelo depresiven, svet je poln, se hitro ti izkoristili le, če tako misliš, dajmo dajmo revolucija zaključiti na pozitivno noto pa.
+
+Res ja pa gremo.
+24:41
+
+V luciji nikoli ni bila dobra, tako da.
+
+Ja saj za one, ki so jo delali ne?
+
+Mislim ne za one, ki so jo delale po navadi bilo v redu.
+
+Čeprav paziš.
+
+Da so jo speljali, ja sem jo imel.
+
+Previdni sistemu je danem trenutku se tudi njim pol sfižilo tako da.
+
+No ampak glej.
+24:57
+
+Ful veliko stvari gre lahko po teh revolucijah narobe, tako da se je nekaj novega zmislit stari.
+
+Revolucija nikoli fajn no.
+
+Pa on miroljuben ta moment saj tudi sicer je boljše, ampak tako je nadal mislim na dolgi rok je pol ti ljudje kar malo ubijajo.
+25:15
+
+Mislim ne vse, ampak ne veš ful je nevaren.
+
+No, je pa res, da tudi če greš v zabavno industrijo, pa se pečaš s heroinom.
+
+Takoj nam ni nič manj nevaren, a veš tudi ti strežejo po življenju, tako da ne.
+
+Kaj pa veš?
+25:31
+
+To je pa vsaj dober pa še.
+
+No ampak glej recimo ne če gledaš pač, če zgodovino ne so bili pač ljudje, ki so bili pripravljeni tvegati svoje življenje.
+
+Za neko skupno dobro ne, če bi se pač v bistvu odločili sebično, ne èe bi ta svet izgledal precej drugače, kakor danes zgleda.
+25:54
+
+Ne, to je pa.
+
+Ne in, vse pa ne glede na zdaj, kaj smo rekli za revolucijo, ne pač.
+
+Revolucija je vsako je pognala neka ideja ne AA, ki je v bistvu ljudeh zbudila tisto pozitivno, ne zdaj.
+26:12
+
+Kaj pa na koncu prinesla?
+
+Je pa druga stvar, ne vse revolucije so v bistvu štartale z dobro idejo.
+
+V resnici ne stojimo na ramenih velikanov.
+
+Kako pa so rekli, ampak pol ste jih namenili, šlo pa včasih tudi kaj malo narobe.
+26:29
+
+No mislim te velikani so si pol pač vzeli pravico tudi da da pač oblikujejo življenja, ne tistih, ki so jih pač podprli ne in bi mogli dati.
+
+Neko neko možnost odločanja ali kakorkoli ne, ampak si si jo potem zase prisvojili.
+26:48
+
+Ne, ker so bili pač pobudniki te ideje ali pa kakorkoli.
+
+Ne rataš velikan na ramenih velikanov pol ne to je ta višinska bolezen kartone, o katerih smo govorili, v bistvu ne veš.
+
+Zdaj mene samo zanima me predvsem temne kva bo komad a bo pankrti totalno revolucijo.
+27:21
+
+Pa ja je kovača.
+
+J ja.
+
+A.
+
+A.
+
+Ali.
+
+Bo kdo mislil da sta kar obe 2 v beli ali ne?
+27:40
+
+Èe in časovno in aa.
+
+Pa še zraven.
+
+Stilistično mislim da ne moremo tukaj.
+
+To je tako kot debata ungu boji ne rabiš, rabiš vodo v epika konec strinjam.
+
+Em, čakali smo že rekel slavko.
+27:58
+
+Slavko si prej rekel, ampak si pa je bilo 23.
+
+Ampak prvo jutro 27 b em f intro.
+
+Včasih mislim, da smo podrli rekord gt.
+
+Ja zdajle smo ja.
+
+Meni se zdi, da so oni 7.10 govorili takrat, ko so gostovali pri nas.
+28:18
+
+Tako da.
+
+Upa še nekaj se, ko sem se boš vrnil zapiski.
+
+Še nekaj smo pozabili za en rojstni dan povedat rojstni dan je današnji dan zgodilo, mislim.
+
+Da ima donna Marija gospoda o madona Marija glasa.
+28:33
+
+Je bil 72 let star.
+
+Na današnji dan, če to poslušate v realnem času.
+
+Ja, je bil star ko si rekel. 2 in 7. 72.
+
+Je lep. 52 e in 20 kar je.
+28:49
+
+Mislim čisto normalno bi lahko še živel.
+
+Mislim ni neka tudi ne neke ni neka besno dolga leta.
+
+Bistvu bi bil mlajši kot predsednik in.
+
+Kandidat in kandidatka za te letošnje.
+
+Volitve za teleta.
+29:04
+
+Govori ja ja šala bo slaba in se že v naprej opravičujem za vse nevšečnosti, ampak veš kaj naredi šport iz tebe.
+
+Tom reči lahko.
+
+Dober mali.
+
+Parker, predsednik.
+
+Neameriški.
+29:21
+
+Aja to.
+
+Ameriški in ne naša predsednica je mlajša.
+
+Na kjerkoli ameriški predsednik, ki je ali pa bo v naslednjih letih je tam jaz starejših.
+
+Oba 2 sta?
+
+Iz fascinantno da v bazenu 300 milijonov ljudi najdeš bi ena dementnega pa ena pofukanega.
+29:43
+
+A veš ko tekmujete.
+
+Top to je vse, kar je prav, kar si ljudje zaslužimo.
+
+Se kot si.
+
+Res za kandidata tudi ne veš, če ni mogoče tudi demence ne glede na vse se je dobro povedal, saj si čist zadel.
+30:00
+
+Še ni pa še.
+
+Bo.
+
+Ja.
+
+In pol se mi žalimo našimi, ker nas je 2 milijona pizda pa se mi imamo super izbiro bi.
+
+Se to je to res naslednjič, ko bom pizdil čez našel veneto aunga.
+30:17
+
+Nimamo, saj veš mi in naša demokracija je, saj lahko izbiraš med strankami, tudi če se hočejo vsi levo desno pa zdaj imaš vsaj ena par, ki jih lahko voliš, tudi če nočeš, pač najdeš eno ne medije nazaj.
+
+Približno da imaš 2, čeprav je nemogoče stranka, ne vem, spet je spet najvišje na lestvici ne oziroma stranka neopredeljenih ne tako da veš, kaj ne vem.
+30:41
+
+Ej tole tole.
+
+Zdaj.
+
+Dole izkoristimo tale trenutek da mi.
+
+Bo ne če bo prišlo do tega ne.
+
+Bodo česa.
+
+Dobimo stranko ustanovil.
+
+Do neke neki do nekih volitev, ne le je to res moramo za nek za nek jok izkoristiti.
+31:00
+
+Da bomo stranko ne vem narediti, da vse kar ne vedo.
+
+A veš.
+
+Ne nikogar izmed njih.
+
+Saj ja.
+
+Tudi nikogar izmed njih.
+
+Tole je problem če imaš nevem lds bla bla bla bla bla bla bla bla bla bla z zvezo komunistov pol pa na koncu ne vem ne samo ker ni na koncu je random.
+31:20
+
+Jaz pa hočem, mislim, meni se pa zdi, da bi mogel.
+
+Je tudi nikogar izmed njih bo isto bo še bolj.
+
+Zgleda mogel pač povedal, veš, da bi našli vse dobro, ker vsi se potem ko recimo ne vem, če pogledamo zdajšnjega premierja, ne se kitijo s tem volilnim rezultatom.
+31:39
+
+Ne, ampak ta volilni rezultat je bil nočem Janše ja.
+
+Ne, to ni bil hočem goloba mislim.
+
+Ne, to je besed, da izmeriti.
+
+Vsaj 30 postov je bilo, nočem ja že.
+
+No ne vem ali je.
+
+On samo s svojimi no ja ampak on z glasovi nočem ja brez glasov nočem Janše ne bi imel niti prag prestopilo.
+31:58
+
+Brez veze.
+
+Niti praga ne prestopi, to bo moramo biti iskreni, ker smo pač to epizodo že v teh političnih vodah.
+
+Tako da ja, ja, ja.
+
+Se strinjam in po tem, da se da se pač evidentno pove, da nikogar izmed njih ne da ne vem kaj bi jaz vem, kaj bi ja sam pač ne ponuja noben tega ker.
+32:19
+
+Tudi vem, kaj bi naredil, če bi zmagali.
+
+Mislim ne, ko bi zmagal.
+
+Uvedel bi preferenčni glas za naslednje volitve, zato, ker to, kar je zdaj domov samo ena izbrati ne moreš izbrati onih, ki ne bi čez prišli.
+
+Ne zato, da se stvari še malo bolj zdi verzi zirajo, da je še več naborov to, kar kakor smo rekli, ne rabimo ena boga, ampak rabimo več malih bogov.
+32:41
+
+Ne to je že ustava to mislim da je to mora biti kot že 2/3 da pol če se ne motim da ta preferenčni glas to ne moreš tudi če si če imaš.
+
+Ti zdaj 70 procentov je 2/3 več kot.
+
+Včeraj.
+
+Aero ko sem dvignila?
+32:57
+
+A.
+
+Ja.
+
+V redu, pa zdaj em ne, če le lovimo ne po poteh minutah ni treba, da tudi smo oni.
+
+A.
+
+Jaz nikogar izmed vas ali pa ne vem ali pa ful mora biti ta chimera veš kaj se mu bo da sam ne.
+33:20
+
+Ja mi.
+
+Smo kar se.
+
+Ne svoboda.
+
+Ja treba se je s piarovci še zmeraj veliko smo, ker smo vse odpustili, ker zdajle bi imeli.
+
+Zdaj bi že pisal razumeš ena, a patrik, ki smo ga imeli.
+33:37
+
+Ja.
+
+Leta patrik bo imel pa čez zdaj, ko to poslušate, bo imel pa čez 6 dni rojstni dan pijan bo.
+
+Skratka še tretjič bomo.
+
+Povedali 11.
+
+Marca goduje sveti pa.
+33:53
+
+Ja aung.
+
+A.
+
+A ne.
+
+AA.
+
+Skratka še zadnjič za slavko da bi.
+
+Te spet na a.
+
+Vsakič dlje videti 32.
+34:11
+
+Radostjo v srcu sporočam, da smo tokrat res premagal in gt f, ker smo že na 33.
+
+Minuti.
+
+Okej.
+34:37
+
+Dobro.
+
+Zdravo štumfa z.
+
+Aja pa boljše avto naredil takoj potem.
+
+To je pot k 100, katerem smo povedali.
+
+Veliko zanimivih stvari AA in ja ful je bil dober.
+
+Mislim, če imate tudi vi idejo, da bi imeli stranko, ki ni nobena od unih.
+34:57
+
+Ali kako pa če imate res dobro idejo z imenom to povejte na daljšo discordo ali pa ne, to pa samo na dopisnicah drugače se pravi bomo.
+
+Drugač dobro imena že imamo tako da ja če.
+
+Če ne.
+35:12
+
+Dopisnici, litostrojska cesta 52 tako.
+
+Lahko še discordo pobude teramo malo o tem planu ali pa.
+
+Kako našem je treba začeti infrastrukturo graditi več, kot to moraš imeti?
+
+Razvajamo omrežja, kot pravite v teh podkastih, ne tako da ja, to je treba podsekretarje, pa te lokalne odbore.
+35:33
+
+To je treba.
+
+Kaj bom, zakaj se bomo borili?
+
+To sem hotel.
+
+Ne da bi iskreni panne lagati kot vsi ostali, ki ste.
+
+Fajn je, ko smo prej že ugotovili fajn imeti idejo ideja.
+
+Po tem da dajmo imeti dober javni promet, tak najjači dober prej pa še uro pa pol z.
+35:53
+
+Vlakom jaz bi še pol zdaj smo že pri tem za zdravstvo, saj vem, da je že malo populistično, ampak dajmo še zdravstvo zraven pa.
+
+Bo še šolstvo pa bo 3.
+
+Naj stvari so 3.
+
+Zelo dober kuba tedna.
+
+Ne smo že prej rekli, kaj bo.
+
+Imeli smo totalno revolucijo, jebemti pa revolucijo.
+36:11
+
+Videa.
+
+V.
+
+Parker te banke pa.
+
+Jana plestenjaka zraven?
+
+Nekaj strogi veto proti tem.
+
+Imaš prav si, da bi tudi jaz vedno aunga.
+
+A.
+
+Moram pa reči v javnem zagovoru, da se je kar naredil.
+36:28
+
+Zdaj ne sploh naj naj stvari so 3 je bil pa res.
+
+Jebiga.
+
+Ampak to je dokaz ne s trdim delom prideš tudi ne do razprodanih stožic brez problema in ne.
+
+Nese človek je nadalje.
+
+Čari, ki so pa komadi, ki naj jih poje cele dvorane, tako da le nimaš kaj.
+36:48
+
+Je pa ima je pa tudi ko.
+
+Bi naj stvari so 3 pa nkol nov komad tedna to dajmo reči.
+
+Dajmo dajmo dajmo reči bobu bob pa naj bo to v naši politični agendi.
+
+To je pa en.
+
+Tak šolstvo, zdravstvo pa.
+
+Naj se ne bi nikoli komad.
+37:04
+
+Tedna bova pa te stvari noto v osnovno agendo to to po mojem bi bilo zaradi wales let dela.
+
+Jaz sem hotel reči, da.
+
+Mi smo še vedno.
+
+Ali jo.
+
+Peli vadola, ki smo stali prejšnjič.
+
+Nič samo za podporo ušes se še zahvalimo.
+37:24
+
+Ja ja.
+
+Ja.
+
+To je to, to je to.
+
+Hvala za podporo res res da iz dna srca.
+
+Hvala če če nas podpirate za tole, kar sem zdajle slišal.
+
+Pa hvala.
+
+Ker nas je tako.
+
+Pa hvala, ker nas tudi poslušate kar.
+37:41
+
+Smo, zdaj me zdajle poslušate, še posebej 2, ker tako bom rekel ne, če se ne zdajle poslušali.
+
+Pol imate šanse, da ste kakšen sekretarka ali pa sekretarju stranki sum, da je bolj malo ljudi, je zdajle prišlo do sem.
+37:58
+
+Ta rud moment ko se rete pa naredi nekaj demoni bodimo pozitivna sprememba.
+
+U pozitivna sprememba.
+
+Je ne boš mislila že nekja.
+
+Dajmo biti sprememba na bolje.
+
+Bo nebi teh.
+
+Sploh ni treba biti sprememba, a veš lahko sam delaš boljši opis.
+38:17
+
+Zato je tudi že.
+
+Bog ker gremo v prejšnjih izodel prejšnji pustimo to, zdaj sem se malo pod smart olea ima malo razmišljat.
+
+Govori, stroka je treba poklicat, obalo poklical on zna te krilatice pisat razumeš.
+
+Druge zveze nato so ti stari prdci pizde.
+38:35
+
+Čeprav to.
+
+Pusti pri miru.
+
+Ja skratka v prejšnji epizodi.
+
+Ja prejšnji zgodi ja, prejšnji epizodi strel je bil AA.
+38:50
+
+Bi ljudje so umrli.
+
+A umrl umrl.
+
+Umrl.
+
+Je.
+
+Ja in force je ležal kot prasica.
+
+Foto je bila to res najbolj smešen?
+
+In vsi so ugotovili zdaj, to je to zdi en.
+39:09
+
+Ja samo to je res konec ne drage poslušalke in dragi poslušalci.
+
+Zdaj bom pa še enkrat uporabil, da se sicer to ni zlagoma ali ampak se pa bližamo koncu em tako da ja gremo okvarni, kako bomo kar zaključili.
+39:30
+
+To bi že kvarnik naj se ve, da zaključimo danes tole pač.
+
+Posvetili se je.
+
+Vogoni so zmagala.
+
+So razturili zemljo.
+
+Ne ja lahko.
+
+Več vrst letni kelc ne.
+
+Izpolni svojo nalogo, ne?
+39:47
+
+Zadnjič, mislim, da je to kar je to.
+
+Kar je imel za počekirat.
+
+Tokrat je za počakati je.
+
+Birokrate dnk dan ne.
+
+Ja.
+
+Ena kljukica je ostala v bistvu od zadeve ts za plural z alpha sektorja, tako da.
+40:04
+
+Za ja meni se zdi da je taprav ne en pol ure manj dobre.
+
+Ja v glavnem.
+
+Em v gonji elc je bil ful zadovoljen, ne?
+
+Ni bil ne tiho je obsedel, ne v bistvu sploh ne vem, ne vem, če je to res vzradostil.
+40:24
+
+Jaz sem mislil, da je on mislil, da bo to prineslo.
+
+To je to.
+
+Jaz veš skozi hočeš stopiti.
+
+Fighter se do konca, da boš to naredil, pa narediš to je pa kwa pa pol kam pa zdaj, a veš, da je bil njegov smisel življenja.
+
+Kam pa zdaj?
+
+Delaš, da je bil jamal.
+
+Je pa vsaj po mojem planetu že razvajali od.
+40:41
+
+Vem ampak veš on je tukaj tukaj nekaj, kar je manjkala veš tisti tip iz liste, ki je bil razfukan je bil že pizda je bil samo še sam še to je manjkalo.
+
+To je volja ga je držala.
+
+Samo še to pa grem v penzijo ave varianta ne.
+
+Ja po mojem je bil to njegov ta ne.
+40:59
+
+Skoz skoz stremiš in pol pa to narediš pa si pa prazen.
+
+Tako da zdaj, to je bila njegova sikstinska kapela.
+
+Ne, to je to, kar je treba narediti.
+
+Vam pa zdaj delal, a zdaj pa ni nekaj.
+
+Zakaj bi se ga njo ne pa ti nove zemlje, ki so se skozi prikazovale ne s tekom pa zdaj.
+41:15
+
+Seveda, ja seveda, ker je imel še ne ptiča zraven ne ptič je.
+
+V bistvu ne se bom še pri banki je bilo ne.
+
+Ja ja pol pa ptiči tudi pivo je šel ja se je razbil in če se nama.
+
+Je vse skupaj se je raztreščilo, ne obstaja.
+41:32
+
+Tako je bilo lepo, ne lepo, je zaključilo avtor.
+
+Tukaj mislim lepe besede, čeprav zelo kratko, ne, a veš, v bistvu ni prav zelo veliko.
+
+Tega poglavja niti teh besed, ampak lepo je bilo ne ja zelo globoka tema, se je razlila, ne veš in polne toga.
+41:51
+
+Meni se zdi, da ga je to zmotilo, da je ptiču denimo go on sam luči prižigat, enako manta komando pulta veš, zdaj pa spet del.
+
+Spet je isto, kot je bilo, a veš ne, to je tako, kot da bi kaj že kar doživiš, da se tukaj ne pol pa spet naprej isto ali pa kar nekaj pogruntaš, da ne boš rešil neko zadevo, pa ugotoviš, da je gozd še zmeraj zelen.
+42:11
+
+Pridržek svetlenjem sem nosil vodo in sekal drevje ja.
+
+Zdaj, ko sem razsvetljen, nosim vodo in si kadri.
+
+V gonilce je doživel razsvetljenje in to je bilo to kljukca je bila, ne.
+
+Celo.
+
+Younga in to je bilo to.
+42:27
+
+Ja.
+
+Ja glej.
+
+Tudi, da je to še gre bolonjski vodje tudi del.
+
+Kot stari, zdaj smo pa že predolgi.
+
+Jaz mislim, da bi zdaj, da bi danes zaključili.
+
+A.
+
+Danes dajmo reči mu koncu.
+
+Jasba se zdaj ne vem.
+42:46
+
+Zdaj bi bil pa a veš kaj moram povedati, da sem žagal poslušalca, da bo med temi katsina mimo ponavadi tropičje in je a veš luftu zapiskih.
+
+In prejšnji teden je bil tudi ne in se mi je zdel ful dober ne plača plačilo obešali, ker normalno bi bil, ampak res ne moremo tega vleči tako zadnjega odstavka pa ne bomo vlekli.
+43:07
+
+Tako da kaj je bilo.
+
+Ko si že prej imel prej ni bil dober.
+
+Mesec.
+
+Slab mesec je imel in to je bilo res.
+
+Ne, to je že vedel.
+
+In si je dal zavrtet.
+
+Ja ni televizije ni bilo nič gor več.
+
+Ker ni.
+
+Bilo nič za oddajat več nič ni več oddajal, in sicer je malo lahke glasbe, smučanje.
+43:26
+
+M.
+
+Brunk.
+
+To ni to nista.
+
+Aunga GB.
+
+Ja to nekaj takega, nekaj dela veš kaj zdaj te ne moti, ampak neka.
+43:42
+
+Igra nežna popolnoma nova v ozadju.
+
+Boste novice so že malo.
+
+Preveč je tam.
+
+Bung al kaj.
+
+Imaš v ali pa v joj, ampak veš katera mi gre pa na živce ne.
+
+V šparu.
+44:00
+
+Kaj pa je?
+
+Jah ne vem kje boš.
+
+Vedel da ni hofer koli buska.
+
+To pa je, v.
+
+Tej puščavi, da bom prišel in oni imajo muziko, ki so jo isti komad so oni sam za božič so ga samo malo na božično napisal.
+44:17
+
+A je tako kot bi intro.
+
+Res smo tako grozni, a?
+
+Ne kot da že vsaj dober srednje mislim.
+
+Ne.
+
+Res za mitrej in.
+
+Se tudi to se vrti, ne vem.
+44:34
+
+Zdaj pa.
+
+Se res prav komada se vrti mi da grem v špar.
+
+Igre ter.
+
+Jaz bom, zaradi tega bom šel, mogoče ne bo.
+
+Verjetno bom šel.
+
+Kazen je prav prišel resna.
+
+Je dolg komad.
+
+Je prav ni dal komad, saj to je problem, če bi bil to a veš. 18 minut in jakne vojno bi bilo vse v redu.
+44:55
+
+Le ali pa bolero pizda a veš da to se od vrtine in sem jaz že zunaj ne jé okej, v redu je ne ampak kaj to naredi pid a veš?
+
+Ko sem pogledal.
+
+Tudi si predstavljaš, da delaš tam?
+
+18 minuta nyaung.
+45:10
+
+Ali.
+
+Samo, a si predstavljaš da delaš tam pa posuješ 8.
+
+Ur.
+
+H da delaš 8 ur dan ti gre avto.
+
+Je res da je aung moreš tožiti.
+
+Mislim se ti tam recimo kar v šopih ne ajde pa urce manj tam okrog ne odvisno koliko imaš pač shoppinga.
+45:28
+
+Ampak teen dela 8 ur com za blagajno.
+
+Ali sam tako rekel naša novoustanovljena stranka, ki se imenuje, ne vemo še čisto točno, ampak ne vem, ali pa unih izmed vas ne nemogoče bo kakšen.
+
+Ja.
+
+Dobro delovno ime tako potrjeno požegnano bo poštemplano, pa vagon je les je.
+45:46
+
+Tudi els je tudi naredil tako, da glej tukaj nimaš kaj, ampak ko bom in ubil, bom to zrihtal.
+
+Ne vidiš da muzika bo dolga in avtorska.
+
+Mora biti več, mislim več.
+
+Podpirali bomo vse bende, tako pa ta mlade.
+
+Slovenske maše še nekaj za slovensko glasbeno.
+46:05
+
+Sceno merkurju bodo pa panksi pa heavy metalci pa to pa vodi.
+
+Kamorkoli.
+
+Greš železnini moškem imenu.
+
+AZ.
+
+Toliko so pa oni.
+
+Za.
+
+Skate štima ti imaš pa imaš pa imaš pa banke bank se ne.
+46:21
+
+Zaveš za pleskanje pa nekaj bolj najmanj.
+
+Klasika pa to.
+
+Ustanova mora biti tudi to je res pa.
+
+Klasika ima on mi ful bossa nove.
+
+Marko hatlak fanta.
+
+Do beton narejen, samo da vem, da preverim veš.
+
+A ti povem, da sem ga srečal res reunion bomo imeli.
+46:37
+
+Gremo v ena bra.
+
+Bo letos.
+
+V akm dober ja pišem to je to zmenjen skratka če bi tudi vi šli v edinburga ne pisat nam ne vemo, kdaj se je to zgodilo, bo pa zdajle avtor ali kako?
+46:54
+
+Že čaka ung.
+
+To je konec pa je te knjige.
+
+Hvala, ker ste bili z nami samo še kaj govorila.
+
+Drug te ne najbrž mislim, ker moramo imeti nek fin ali pa nekaj ne vemo še kaj ja.
+
+Nismo se še odločili.
+
+To ko bomo šli tako, kot se gre ne pote.
+47:11
+
+Rečem predlog itak ne to ne vržete ne.
+
+Kako je rekel da kyle ne išče poti, ampak počakaj, da bo pot najdete bar bomo mi naredili.
+
+Ni hannibal rekel da AA če ni poti jo bomo naredili mi ne ja.
+47:28
+
+Dobro je to sloni naredil.
+
+Dober ja lej slon slon kaj?
+
+8 kje ti ta lonec pa tudi da agra agra agra aung ne.
+
+Mislim za hiperprostorsko obvoznico smo najdli bo gorenje.
+47:45
+
+Treba zaupati birokraciji v določeni meri to v naši stranki dobro vemo.
+
+Ena izmed prejšnjih.
+
+Seveda seveda, saj to.
+
+Najbrž so bili najboljša aneksi pol, podpisani s vogoni ne.
+
+Tudi če.
+
+Nekdo bo rušil, kdo bo gradil, a.
+48:03
+
+Je to, že mislim, da že zdaj vejo ne.
+
+Te stvari, ko so pol.
+
+Točke je treba.
+
+To se je treba hitro zmenit ja saj.
+
+Zato je treba hitro noter, ker zdaj bo velik aneks za podpisat ja res je in vse bomo podpisali ne priznamo jebi ga tako je.
+48:20
+
+Za dobro, ljudi.
+
+Zrihtano zdravstvo zrihtano šolstvo zrihtano zrihtam promet, kaj češ je narejen narejen, kot bi rekel vlado še on ni bil v hoferju.
+
+Pa se je novi motor res ne, ampak jaz bolj.
+48:37
+
+Bo pa moramo biti na sceni, a veš, saj se vse zrihta.
+
+Boš povabil poslušalstvo.
+
+Kam.
+
+Grem.
+
+Na volitve.
+
+J jared.
+
+Kdaj, koliko glasov je treba za sprožitev predčasnih volitev?
+48:54
+
+To nyaung.
+
+Ne ja je lahko.
+
+Janič, dajmo začet zbirat.
+
+Hudiča za stranko moramo itak imeti nekaj ne vem, koliko podpisov, da lahko ustanovimo.
+
+To je začel 5000 dober, nekaj imamo od naših poslušalcev.
+
+Če se boste odločili, ni treba zaradi mene.
+49:10
+
+Volite tiste tiste, ki šteje, ampak.
+
+Vsak naj bolj tiskar če ja.
+
+Hvala podpis boste padali.
+
+Ne.
+
+V.
+
+Zberem a.
+
+A no ker smo zadnjič rekli ne.
+
+Mi nismo take ane.
+49:27
+
+A.
+
+Joj aja a.
+
+A.
+
+Jaz ne vem to a to je zato ker je slovo ali zakaj?
+
+Se ne poslavljamo zares.
+
+Saj v bistvu ane nismo povedali še kaj bo naprej.
+49:44
+
+Aja, saj smo že povedali bomo naslednji teden, pa saj smo tudi.
+
+Že skor unu kdo je ubil ja veš v dallasu.
+
+A.
+
+Aung tako matra ne tako imate.
+
+Mimo če ne.
+50:00
+
+Sploh se bo zabil za ja razumem, kaj si rekel, da les se mi je že lepo svetila.
+
+Pa le govoriti si dala sok je bil, ko je bil še John collis igrala ne v tem zdaj ki bi ena nevem koliko let nazaj.
+
+Aung ni bil tako uspešen.
+50:20
+
+Kaunda lasanja je bil.
+
+Em ja to je pač èe smo prišli do konca, ne samo epizode, ampak tudi knjige.
+
+Mnenja.
+
+Ne samo poglavja.
+
+Vi 7 poglavje in nasploh vsega v.
+50:35
+
+Bistvu nasploh vsega, kar je, da glasu v tem opusu naredil ne samo v okviru štoparica.
+
+Zdaj nas pa čaka ion colfer ali pa kaj drugega, saj ne vem zdaj, ko smo tokrat poti.
+
+V omenili sem se vmes na nejca zaplotnika spomnil tista knjiga je res za prebrat ne.
+50:54
+
+Za pogovarjat o ne.
+
+Kaj in herojska je in je ful nekih teh aa pogovorov sami s sabo in iskanja resnice in Sveta življenje vesolje sploh vsega.
+
+Ni pa ni pa nobenih ugovorov noter ne, čeprav se tudi birokratski zapleti kako pred rogat füle narobe na himalajo ziher.
+51:14
+
+To zmeraj obstaja okej AA?
+
+Birokracija bo kar nekaj časa še krojila naša življenja, tako da ja dajmo nehati.
+
+Pa se zahvalimo za.
+
+Katero kjer je epizoda je to?
+51:32
+
+1 9 8. 1 9 8 ampak je v bistvu tehnično, je dvesto.
+
+A je dvesto.
+
+Poslušalec.
+
+Plus nula nula plus gp 2 sta ja.
+
+Drage poslušalke dragi poslušalci, lahko se vam samo zahvalimo, ne?
+51:47
+
+Samo res.
+
+Hvala lepa.
+
+Mi imamo res lep odnos, ker že toliko časa prinaša.
+
+Še. 2 sta fak mi?
+
+Res hvala, lepa se opravičujem za vse všečnosti em, ampak mislim, da je bilo lepo.
+
+Ne le pot je bila.
+52:03
+
+Nekaj smo prišli.
+
+Ne, ne kam smo prišli.
+
+Zdaj.
+
+Zmeraj pravim, da je pot bolj pomembna od cilja, tako da.
+
+Tako jim bomo po poti hodili še naprej.
+
+In skupaj iskat.
+
+Sicer smo na cilju, ampak bomo po poti hodili še.
+52:21
+
+Moram reči, da sem kar malo na trnih zaradi tega 6.
+
+Ampak bomo bomo naslednjič, ker zdaj smo pa že bi rekel malček dolgi.
+
+Gremo kar v avto.
+
+To je to, hvala, ker ste bili z nami še enkrat.
+
+Super je bilo.
+
+Discord saj veste.
+52:38
+
+Se. 2 sta se?
+
+Ob zaključku pika.
+
+Se epizodo na koncu pusta zadnjih 5 minut, ampak temelji tako da.
+
+Če boste, če boste kakšno od prvih, lahko tudi zadnji 2.
+
+Minuti, ko smo bili bolj kratki.
+
+Jaz mislim, da smo sami daljši opravlja z vami smo bili.
+52:58
+
+Aljo peli in.
+
+In če ti ta podkast všeč, ga lahko vedno deliš oceniš ali podpreš.
+
+Res iz srca hvala.
+
+Hvala.
+
+Lepo je lepo je.
+53:13
+
+Lepo je bilo slavimo.
+
+Mene bo še.
+
+Aunga.
+
+Si.
+
+To.
+
+Ajdi čaka.
+
+A nisi rekel?
+
+Nisem še rekel, imel sem dramatično pavzo.
+
+Dokler bo dolga da sem.
+
+Ja jaz si mogel zapolniti šino.
+
+Ni bila ona tišina ta zoprna, ampak prav tako sem se počutil.
+53:33
+
+A veš?
+
+Ja ja.
+
+Neke razumne se, lepo je bilo.
+
+Lepo si povedal, da smo na dvesto pritegnili, čeprav slavko bi rekel, da ni dvesto, dokler napiše dvesto, ampak glej, če prešteješ, jih je.
+
+To polje poslal, katerih merilih ne.
+53:51
+
+Ker on šteje.
+
+Napišem 198.
+
+Epizoda dvesto.
+
+A.
+
+Z besedami.
+
+A.
+
+Ta naj bi bila sploh.
+
+To bo.
+54:07
+
+To naredila.
+
+Bije mu božiča, beremo božič.
+
+Arehu bo on je bil tudi ni bil.
+
+Božič.
+54:27
+
+Svarožič z leš.
+
+Božič.
+
+Ares.
+
+Samo on je bil pa kar za vse.
+
+Svarog svarog.
+
+A si ne biva tudi če.
+
+Tu sem jaz še enkrat idejo, da bi šel to gledat.
+
+A veš?
+
+Kaj.
+54:43
+
+Staroverce imaš prav neke modele, ki so pač staro vertine.
+
+A kaj ljudje ali?
+
+Kaj.
+
+J ja.
+
+###### 197
 ## Agradžagovo slovo
 
 ##### 0:09
@@ -1491,7 +4790,1482 @@ Deluje zakaj?
 
 Ampak dobro.
 
-### 195 
+###### 196
+## S svojim kurcem po koprivah
+
+0:08
+
+Kaj ja glej.
+
+Otroške bolezni.
+
+Zdaj pa res nisem videl zlo če.
+
+Napaka ni dobro ne slišim vaju.
+
+Ja pa še enkrat govori, da dobite mikrofon še enkrat.
+
+Še enkrat kaj reči pa dobiš mike.
+0:24
+
+Samo nimam.
+
+Sam res so kabli, mogoče veš, ker nimamo, ker nimamo asistenta, da bi zdaj skočil po mikrofone, pa ne naštimu za gostom mikrofone za 2 gosta ne ena oziroma živo publiko tako.
+0:42
+
+AA publika.
+
+To zdaj bomo dali malo več uvedbo multipliciral.
+
+Ali bom pa vzel d od izvedbe ali veš koliko se kdo pa bere, se noben od poslušalcev ni bil tam nevem, kako jih čeprav mogoče pa kdo bil pa z veseljem kakšno poročilo slišimo.
+1:05
+
+Ne.
+
+Poročilo.
+
+Ja če je bil kdo novembru nakvynei h.
+
+Ja valda.
+
+Ja, zdaj se še malo bližje, manjka, da bomo bom lažje.
+
+On ne vidim na telefon.
+
+To tematiko pa saj še ni zabil.
+1:21
+
+Zdaj že intro kaj bom še kar direkt noter ali kaj?
+
+A ne še.
+
+Zmeraj moramo povedati, da tudi ta teden imamo športno svetovanje v sosednji dvorani.
+
+Ee svetovno prvenstvo ping pong športa, da je še zmeraj traja, ne vemo pa, če imamo že sponzorje za resne tako, da danes bomo delali spina pika si v rekli ful manj kot prejšnji teden je bilo tesno, ne?
+1:43
+
+Tega ne moremo obljubiti, ne.
+
+Mi smo veliko stvari, ne moremo obljubiti.
+
+Lahko bilo to, da bomo prišli do konca.
+
+Vsaj vsaj te epizode če ne poglavja to.
+
+Pa bomo to pa.
+
+Bomo do konca.
+1:59
+
+Do konca epizode smo še zmeraj prišel.
+
+A.
+
+Veš ja to se to je tako, kot greš vsak večer spat ne.
+
+Veš ja.
+
+Zaenkrat sem še zmeraj zbudil.
+
+Ja saj enkrat se pa pol.
+2:15
+
+Ne bodi tako.
+
+Mislim, ne veš, če je to pol med spanjem.
+
+Saj ni nujno med spanjem ja to je res mislim najlepše in po mojem med spanjem če že mislim.
+
+Saj ne ve mislim, da ni še prišel nazaj, pa povedal, če je to najlepša.
+
+Je zdaj pripravlja.
+2:32
+
+Nekaj reče kot njegovi sopotniki v avtomobilu, a se je šel pa mirno v spanju.
+
+A.
+
+A ja lej lej.
+
+Mislim ziher jablano se mi zdi, da še bolj kot davki gledal kaj niso tudi ne plača.
+2:49
+
+Ne za normalne smrtnike to ni opcija.
+
+Ne za normalne, ne samo pač ena so pač izven rednih se mi.
+
+Zdi prav one majčke si si dokler so jih imeli.
+
+Ne vem, da je em.
+
+To so v angliji imeli takrat ko je.
+
+Èe.
+
+Da plačal sem več dal kakor amazona.
+3:06
+
+A ja valda no pa smo tukaj ne pa epp ima pa še.
+
+Jih je bilo.
+
+Nekatera od teh revnejših korporacij ne.
+
+Ja ali pa Trump je bil tam premierno in nekih 700 $.
+
+Se je on meni se zdi nikoli ni bil plusu.
+3:23
+
+Je plačal davka h.
+
+Ja sama pa on.
+
+Pa je bil on pa.
+
+S porabo saj veš se je on že ne vem kaj imajo oni sicer nimajo DDV ja, ampak ne če imaš ti ornk porabo, saj tako prispevaš v te široke široke ljudske množice ne veš, ker če ti kupiš ne vem neko jahto za 100 metrsko nekje menjav želite milijard ne pa 22 postelj od tega ne ja je treba odvesti na.
+3:52
+
+Varno ali.
+
+Misliš da je nakup na firmo pa pol brez davka, pa pol pa računovodje ponižno a veš.
+
+Jaz sem kupil jahto potem vrne kaj.
+
+Parketu.
+
+Zdaj pa samo lizing sam tudi lizinga moraš imet 22 postelj v glavnem.
+
+Le denar se mora vrti tako da ja.
+4:09
+
+Ja vrtet je treba to res.
+
+Ja zdaj, seveda smo zdaj že odločeni, kaj bo z naslednjo knjigo ali.
+
+Nekakšen polnoč.
+
+A.
+
+A bo to res prepre preložili na naslednji ali kaj?
+
+Mislim le.
+4:25
+
+Presenečenje a veš.
+
+Kako otroka predstava veš uno.
+
+Dramaturški lok pa to.
+
+A jo bo fant ali bo dečva ali bo ne le.
+
+Tisti, ki imajo.
+
+Pravil pa to.
+
+Ja je to zdaj še moderen.
+4:41
+
+Mislim, da sem v Ameriki, je ne pri teh zdaj pri teh.
+
+Pri tem mnoštvu spolov zdaj.
+
+Gender jih je zdaj to, kar zajebano bi zdaj veš.
+
+Včasih si naredil.
+
+V stari dojenčki še niso, ker še ne znajo govoriti pa se sam.
+
+Odloča, kaj bo.
+
+To ne vem kdaj, ampak najbrž.
+4:58
+
+Drugega spola bo.
+
+Pomoje, že kaj prej ne.
+
+A je, da se že prej odločil najbrž ne.
+
+Ja ker sem mu že prej sva ne.
+
+Skratka, dajmo malo dramatično kaj?
+
+Bomo se dramaturški lok delamo zdaj že čez 6 epizod.
+
+Bomo ne vem, kaj pomenijo me še.
+5:15
+
+Jaz tudi ne.
+
+Ej a ta muzika mora biti zares.
+
+Hvala a.
+
+Ko se mi zdi, da so zbir večjih junkar na prizorišču koncertom.
+5:32
+
+Ja gosta sta prišla ja gostov še nismo predstavili.
+
+Z nami so sta čopa uki aa ker gremo pred 14. dnevi smo bili na koncertu skupaj.
+
+Potovanje nazaj.
+
+V neki pretekli ki.
+5:48
+
+Ne mislim manj kot pred 6 dnevi, ampak dobro ja pred nekaj časa ful je bil dober koncert, totalno hudo je bilo pač o se je zaljubil spet.
+
+A zdaj se ti zdi kot napovedovanje prihodnosti, potem pa nazaj poslušal pa.
+6:06
+
+Poslušaj to čez 14 dni boš boš rekel pi zapeljemo prav dobre, ali bo pa boš rekel, a veš zmotil se je.
+
+Od tega bo, a bo pa kaj vmes bomo poročali pol.
+
+Veš ko sem se zadnjič pogovarjala, da bodo morate imeti, ne moremo imeti neke rubrike.
+6:27
+
+Imamo novo rubriko nocoj ven mesec, ko so jo ljubezensko stanje.
+
+Se.
+
+A to je višja tako kot.
+
+Vsakič ne pokličemo pa se javiš pa poveš, kakšno je zdaj stanje, ali je kaj ali kaj ali je vmes ali si zaljubljena ni zaljubljen pa to ne aunga.
+6:47
+
+Čuki.
+
+Mano samo to da.
+
+Človek ima čut.
+
+Ima in se smeji tako da.
+
+To za naslednji epizodi v naslednji sezoni naredimo.
+
+Jamamoto tako z lahkoto kotiček.
+
+Sta.
+
+Stvar.
+
+Oblike ima tudi svoj kotiček že rubriko, tako da zdaj počasi bomo preoblikovali.
+
+Kaj odgovor enak prejšnjemu u to pa so reference to pa sva.
+7:08
+
+Tukaj bo tako veš skozi nasmeh ne bo smel več igrati malo na večjih.
+
+Kako bi rekel frontah ne, ker potem, če bo katera je poslušala.
+
+Ne bo točno vedela, da je nevaren.
+
+A.
+
+Je rekel, da se bo funkcija je dobro.
+7:23
+
+Med puncami.
+
+Še, zdaj si mogoče tisto, kako bi rekel časovne linije se malo ne poklopi tako kot ga.
+
+Je dobro da imamo mi ne sama veš glede na to, da imamo mi 14 dnevni zamik ne mestoma ee jasna.
+7:39
+
+To ful podreti koncept.
+
+Mogoče mogoče sta skupaj s katarino že hodita pa sploh ne vesta.
+
+A veš?
+
+Ne ne.
+
+Jaz imata ful dober saj že skoraj preselila k tebi.
+
+Pa veš ali pa.
+
+Tih najino da nam da nam zdaj ne.
+7:57
+
+Mislim da drugi v lattea.
+
+G način da veš.
+
+Zdaj bi pa imel mikrofone.
+
+Zdaj bi ga pa.
+
+Ja pa ti lahko.
+
+Greš k, ker nimamo dosti podpore ne hvala za vse ribe.
+8:12
+
+Pika si moramo še odločit gostov, tako da dragi poslušalci in poslušalke daj mi.
+
+Dajte dajte čuj glas.
+
+H.
+
+Ker ga moramo tudi unijo tudi kanalov vmešal, ki nimamo dagan od pripeljemo, če ga bomo klicali, razumeš, tega ne bo dosegel, noben slišal.
+8:28
+
+Pa spet morajo vini pride do vse to pa je konfigurirana.
+
+A dvesto 60 € že vidim a piknika na fletu spati če bomo imeli rubriko tole šuštarič.
+
+On imaš oblike.
+
+Zato zajema.
+
+Lahko na piknik.
+
+Prideš, če je navdušen jaz.
+
+Sem prav bomo premislili, ker preveč navdušen, zato mislim, da bi šlo tole je pa.
+8:46
+
+Mogoče bi vi ni malo spustil ceno glede na to, da tudi če jo poznava še.
+
+Pride zastonj samo na koncu dražje kot vodovodar.
+
+J ja.
+9:02
+
+Iz tega jebe se problem.
+
+Ali pa če ti poslušaš lenin in ivili nič ne spije samo ena.
+
+Vini pa ni tako.
+
+Da to halo, mislim.
+
+Moramo nehati.
+
+A.
+
+Tanek led leta takoj bom nazaj.
+9:19
+
+V šolo a.
+
+A.
+
+A zdaj poslušalke poslušalci bi se večkrat ne slišijo niti ukiniti, če je mislil, da bomo namišljene prijatelje.
+
+Ne.
+
+Mislim mislijo, saj ga je slišala prevoza dnk ja.
+9:37
+
+Sigurno sem ga slišal, da ga bolj na glas.
+
+Tako da.
+
+To bo ziher dober ja v glavnem.
+
+Glavno ne vidiš lej, kako se organsko bo zrasla nova a se drug 6 epizoda.
+
+Šesti sezone se opravičujem, mogoče bomo pa potem šele v sedmi šesto knjigo delali.
+9:55
+
+A zdaj bomo najprej trač ali kaj?
+
+A to lahko pa tudi kakšen ljubezenske nasvete, da bo glej, mislim ali pa ne nasvete.
+
+To je še boljše.
+
+Veš kaj naredit.
+
+Al jo je s ta belim pogledal tako da mogoče ne.
+10:15
+
+Ne ne saj za filozofirat smo zmeraj.
+
+Tuje probleme, ful lažje rešiš na.
+
+Svoje a veš jaz?
+
+Zato bi si vzeli.
+
+Tudi pofafala se vsaj. 3 piramide je pa.
+
+Razložil pa pol, se pa še težkih stvari lotimo kot palestinska kriza pa tako naprej.
+10:33
+
+Med istima po 6.
+
+Šestorček mora biti.
+
+Še tako, da se začne.
+
+A ni magičnih.
+
+Zdaj pa najprej domačo politično sceno, obdelamo pa.
+
+Trdno peto pa šesto.
+
+Pa pol se pa da.
+
+A.
+10:51
+
+Da boste.
+
+Ja nič.
+
+Kaj gremo na wizu.
+
+Zdaj smo v ena klubu.
+
+Madona saj da še zmeraj ful klubska cena.
+
+Ena.
+
+Tudi tukaj pri nas mislim, da se malce bolj slišau, ki je paco je to res zanimiv?
+11:09
+
+Ja to je zanimivo ja.
+
+Tako da mislim ful folka da zdaj počasi bo res že čas, da pride tudi živa publika.
+
+Sam se moramo zmeniti, da ne bo ping ponga pol, a ne samo v studiu ali pa bo pol, bodo lahko v režiji lahko tudi krat c pri.
+
+Fantje no.
+11:27
+
+Fantje ne tega, ne tega, to ste živeli, to morate ste že imeli.
+
+Milan evo, to je bilo to, boš zdaj že v prejšnjem prehitevam ne stop z lakoto kotiček in kotiček za našega sponzorja della spina, ker če bi jaz imel ta očala, ne bi zdaj mogel se premakniti monitorju.
+11:44
+
+Izum in.
+
+Kdaj bomo imeli mi tako kot huberman veš, da 15 minut.
+
+Samo ne razlagaš kaj ti nuca, kaj si pojedel, kjer je prehranska dopolnila ješ na kateri postelji spiš, kjer je očala nosiš ne?
+
+Drug teden bomo imeli katera očala nosiš, bomo pa tolk cajta govorili o teh očalih k huberman vsem tem drugem.
+12:05
+
+Tako da.
+
+Torej slavkota kotiček.
+
+Jaz pa smo šli spet naprej.
+
+Zum in.
+
+Še malo pa bo 12 minut.
+
+Hitro smo nosili madona.
+
+Taka da malce hitreje.
+
+Izolacija 2 * 6 ne veš.
+
+Kar je 12 ker je pol deliš in.
+12:22
+
+Pride zato je 2 6 točka, tako da sva zdaj smo že bi on.
+
+Klical 24, potem pa se.
+
+Krog pa je.
+
+Zakaj je to jasno?
+
+Matematično dokazano.
+
+Čaka, zdaj smo že rekli avizo avizo.
+12:57
+
+Hm.
+
+Čaki.
+
+Grem po mikec.
+
+Za koga?
+
+S gosta?
+
+Zdravo štopanje in štoparji to je podkast opravičujemo se za vse nevšečnosti.
+13:13
+
+Podkast o življenju vesolju in sploh vsem, predvsem pa to ni podcast.
+
+O no, ne vem, če ni podkastu politike, ker smo glihkar.
+
+Meloni nyaung.
+
+No, včasih pa pač kakšno konstruktivno razdremo.
+
+Tudi v tej tej temi, ne takoj.
+13:29
+
+A ker se kljub manjku 6 petkov.
+
+Pač čutimo poklicane.
+
+Ja seveda.
+
+Tudi vemo, da je.
+
+Politika usposobljene tako kot.
+
+Zdaj smo na Twitterju, saj smo usposobljeni za vse.
+
+Seveda mislim.
+
+Tukaj.
+
+Gledaš usposobljenost politikov se tudi èe.
+13:47
+
+Imamo vse reference, da smo sposobni.
+
+Absolutno vsako leto bolj se mi zdi.
+
+Preveč policajev generacijo politikov smo mi bolj usposobljeni.
+
+Sem se preveč kvalificirani, da bom preveč.
+
+Imamo zdaj sem ugotovil, da podmladek že tisti že tisti podmladek, ki so včasih z nami popivali tam v metropolu em.
+14:09
+
+Znal kakšnega.
+
+Kajne, ker se nobenega ne spomnim, ker imam slab spomin, pa tudi kregali se.
+
+Malo ne nismo jih ima ne tako, nismo jih marali zato, ker smo vedeli, da je napisana, ne na stranko.
+
+Mi smo bili po slabi plačniki, tako kot pač vse življenje, ne pa pa ne maraš teh ne.
+14:28
+
+Saj ne vem, če bi jih prebral, kar sem nekaj z opisom, bi se malo zoprni na trenutke vsaj meni.
+
+No.
+
+Ampak za sami sebi so se z vsakim kozarcem zdelo bolj velepomembni.
+
+Hudi v rupi so si izgledal.
+
+Ja in tudi zato so tudi naglas povedala ja, ja, ja tako mislim.
+14:49
+
+Jaz sem huda sem hudič.
+
+Upirali so se tako, kako naj rečem, da ne bom prej grdo rekel, ker ne vem.
+
+Ma nima veze v glavnem ni se mi zdel kader, ki bo kdaj bo prinesel kaj lepega v slovensko politiko in zdaj se kaže, da bo temu res tako tako da.
+15:04
+
+Zdaj to ta kader zdaj bili ropala.
+
+Ja ja seveda.
+
+Mogoče lahko vprašam našega prijatelja ronnija, ko je bil trezen, pa se spomnim, kateri so bili teli ki.
+
+Mislim da on obračunava z njimi vsakodnevno, a?
+15:22
+
+On itak vse bi pač kjer.
+
+Je.
+
+Kjer bo pride pod pod tipkovnica.
+
+To je lažje veš, kakor da bi dobre novice opisane.
+
+Mislim to pa ljudje.
+
+Kar ne moreš, ki jih ni.
+
+Mislim nisem.
+15:38
+
+Dobro, ali vsekakor so ne sam pač niso več moderne.
+
+Ja pa ni jih toliko slabih ne?
+
+Bo oseb ali ne.
+
+Mislim, glej.
+
+Nk ja a ni čudno da z vsemi tem sranjem napolnijo zmeraj vsak dan glih en cajtng.
+15:56
+
+Ja vsi vsakega mislim vsak svojega ja.
+
+Tako ja vsak v bistvu dejansko vsak.
+
+Svojega.
+
+Pa še kakšno reklamo imajo placu me sprint notne.
+
+Če.
+
+Pade pade če pade pade ampak.
+
+Veš tisti časi ko kaj smo naredili.
+16:15
+
+Ja tisti časi so bili že davno mimo.
+
+To smo smo jih že oblikovali, kajne?
+
+Zdaj se sam podirajo stvari.
+
+Čeprav ne šele zdaj sem.
+
+Že kaj naredi ne, ampak sam ni interesa, da bi se o tem poročali, pa da bi, da bi se to izpostavil ali ne nekako.
+16:31
+
+Ja čakal mi smo sredi zaostala oziroma svet intra.
+
+Smo še ni, bila je bil in.
+
+Ostal, če gremo čez kos, govorimo, če gremo naprej.
+
+Mi?
+
+Smo pa še vedno.
+
+Aja ja to.
+
+Ja mi smo pa še vedno.
+
+Ja aljo ja.
+16:48
+
+Peli ja to pa slabi sta pa čopa ukipa banca pa oni drugi modeli.
+
+Ker ne smete govoriti lahko.
+
+Govorite sam lahko govori, lahko narediš sam je bil zato le ta lahko hvalila.
+
+Da morata biti glasna fejst.
+17:05
+
+Èe tako da ja to.
+
+Če pa noče nič reči.
+
+Če bo nočejo, da češko se boji, da bo rubrika ratu.
+
+Čo kot rubrika.
+
+Ja.
+
+Jap a 5 a si poper za članka.
+17:27
+
+Včasih bo.
+
+Ampak ampak to je to vse to se je slišalo kot ponudba, ki je ne moreš odkloni, da ne.
+
+Samo zapiše, kaj boš, pa bomo mi častila.
+
+Bomo hvala za storitve pika si glihkar seča stilu, ki je pač moja enpir tako da hvala lepa ne ne to bom jaz čas ureja.
+17:46
+
+Hvala za podporo.
+
+Ashlee a veš?
+
+To je moj stavek.
+
+Zdaj to je zdaj moj.
+
+Zato to tako, hvala za podporo.
+
+Hvala pa tudi, ker nas poslušate tudi v teh težkih časih, ko se zlagoma približujemo koncu.
+
+Zlagamo sem spet uporabila.
+18:02
+
+Stavku.
+
+Ja zadnjič sem spet poslušal te glasovi svetov in oni radi uporabljajo to.
+
+Mhm lepa beseda.
+
+Lepa.
+
+Tako da.
+
+Lahko gremo pogledat, kaj smo delali prejšnji epizodi.
+
+R, bili smo v klubu.
+18:26
+
+Tako začel se je.
+
+Kot smo že napovedala.
+
+Saj a.
+
+Ni ampak je.
+
+Nekaj mm, toda njim imel strašno.
+
+Nation ker nisem izklopil ta molk.
+18:46
+
+Ja v prejšnji prizori, torej v klubu.
+
+Artur je srečal ena k se ga je spomnil ford ford, ni bilo nič jasno.
+
+To je bilo pa toliko.
+
+Ampak ni moglo ni neki nista vedela, čisto se poznata, saj ne vem.
+
+Ali je bilo to da tebe že.
+19:01
+
+Poznam z ena pokimaš pa pol po mojem nobeno ne vedo kam bi kam bi koga ne.
+
+Ja, kjer gledalkam ja, pa nekdo je šel na wc.
+
+Ja pol leta na wc se ne motim, to je bilo, pa to ne gre.
+19:18
+
+Smo pa ostali kaj?
+
+Ja.
+
+Dobro kaj pokvari nikaragva.
+
+Kaj pa čmo?
+
+A.
+
+A.
+19:35
+
+A.
+
+Dober.
+
+Nič nismo poklicali, kjer smo stali, tako da zdaj iščem m.
+
+Skratka, random je bila zelo razburjena.
+
+Ne, ne, na stranišču smo ostali.
+19:51
+
+On je šel na stranišče.
+
+Aa rednem je pa vmes bila zelo razburjena.
+
+Zelo je bila tako preko elementu.
+
+Pa tudi arturja ne je to srečanje z unim tipom ga je, kar ga je.
+
+Kar malo pretresla iz tira.
+
+Ga je vrgel, pa ni ni vedel kaj zakaj, zakaj je živčen?
+20:09
+
+Ne ja.
+
+Zanimivo je bilo to, da je v bistvu on ne po vseh teh letih iskanja v bistvu sanjah v zemlji nazaj, da bi prišel nazaj domov ne kakor ne da zdaj je pa kar naenkrat pogrešal to svojo kočo na lomu.
+
+E linea veš.
+20:25
+
+Ja lej.
+
+Pa nože pa sendvič je pa to.
+
+Mislim, da veš tam se je on res našel ne.
+
+Ja to je res.
+
+Celo starega barge je pogrešal stare m.
+
+Vem ne, ampak on se je na lamu eli.
+
+Končno mislim, da prvič v življenju, ne glede na svoje, na svoj AA.
+20:43
+
+Na svoje delo ne vem na radiu, kjerkoli se je prvič počutil kompetentnega, pa koristnega.
+
+In panela mu jaz se prav in tudi cenjenega ja in tudi in to dejansko je v bistvu po mojem to kar vsak človek, ki še ne ja.
+21:00
+
+Ja saj pol, v bistvu je to boljši dom kondom, ker sem mislil, da ga, da si ga zdaj želiš, ne ja.
+
+Ja in tukaj ves jok tega ne iskanja samega sebe ne.
+
+Ja v bistvu hm.
+21:17
+
+Dom je tam kjer si ti miren sam s sabo.
+
+Ja uf.
+
+Lepa.
+
+Ja.
+
+Mater smo tole smo pa zašpila, to je pa daj to je.
+
+Pa.
+
+Ja saj smo že pri 20.
+21:32
+
+Minuti lahko, a zdaj na to v glavnem da še, da je še barge pogreša.
+
+To je bilo, to je bilo lepo.
+
+No.
+
+A veš kaj res ni bilo videti, da bi, da bi bila ful franta ne barbi pač ne je bilo na svoje fore.
+
+Artur ga je po uspešno in ledu.
+21:47
+
+Kaj je tisti avto?
+
+To je zraven.
+
+No in pol je bilo pa artur z 2 strani ne stereo tehnika, ker od enkratne in se aung po enih štenga hitreje tekla 3 leta in po drugih štengah.
+
+Bila je oni super zmečkani z.
+22:06
+
+Finola ne vem.
+
+Ženskam ne ee in na drugi strani je bila patria oziroma 3 šane in sta bila kar obe 2 a to se lahko zgodi, da se srečaš s svojim izpelje njegovo svojo očitno za.
+
+Nesreča.
+22:21
+
+Tm to je razlika.
+
+Ja pač, da bi sebe iz preteklosti izbira prihodnosti.
+
+To je paradoks.
+
+Se potem zgodi?
+
+Ne.
+
+Ne moreš sebe sreča ne v recimo.
+22:37
+
+V istem vesolju.
+
+Jati kot iz preteklosti tebe v prihodnosti ne tam.
+
+Pa kontra.
+
+Ali pa kontra.
+
+Seveda.
+
+Si je pa ja saj mislim za ena je.
+
+Izbirati si ti ne?
+
+Bi on ga je sebe iz preteklosti ni bilo malo naroda.
+22:56
+
+Saj si ti ne.
+
+Sami kaj si kaj rekel?
+
+Mislim, da sem že rekel.
+
+Glej saj naj bi si verjel a veš?
+
+Ne ne, ne moreš on glej, vsak mora pač on svojo on, svoj drek morajo odkidati in ne letim.
+23:15
+
+So nam te stari govoril stvari, ki zdaj rečeš pista, mislim pa si že vmes rekel mater, a veš saj ja, tukaj pa je bilo nekaj, zdaj pa je bilo nekaj.
+
+Ne vem, kaj ti je kdo kdaj rekel, pa si pol pač probal svoje, ne pa s svojim kurcem po koprivah ne tako kot smo bili prej.
+23:34
+
+Višje manj višje puta negovanje.
+
+Včasih samo, da sem bil ziher za.
+
+Srez za.
+
+Faz.
+
+Ja večkrat večkrat.
+
+Ni bilo, a veš ni bilo čisto naključno, ne, a veš, da se res preveril, če je sploh?
+23:51
+
+Še voda, če je voda topla.
+
+Ali pa mrzla.
+
+Ja ja včasih si moral res ornk preverit se zgodi.
+
+No v glavnem random pa trillian ne random da trillian patria oziroma 3 in potem še random za 3 žo ne.
+24:10
+
+Ampak random širi oz packing.
+
+Aung pamela je divje oči in res je bila res ni bila zares je bilo videti sva prav so divje mislim prav zelo mirno.
+
+Ne, ne pravim alo.
+
+Všeč mi je.
+
+Všeč mi je, da je v to sililo napetost.
+24:25
+
+Avtor še uvedel to zgodbo, a veš v ostalih ostalih tehle em.
+
+Gostih kluba ne ker so tam od zadaj nemo pa pričakovali, kaj se bo zgodilo, se mu je zdelo, da mora malone in pol so nekaj sekund vsi stal kot okamenel.
+24:49
+
+Razen muzika iz bara je.
+
+Buford na naslonu v sobi opozoril.
+
+Ja.
+
+Ni bil sicer slone, ampak je bil je bila.
+
+Pištola samokres.
+
+Samooskrbo, kaj je res ena lepa beseda?
+
+Doktor kodre je to prevedli samokres ne vem pa kako je bilo v originalu matervola.
+25:07
+
+Nisem pogledal.
+
+Jaz sem pa tudi pozabil.
+
+Kje za boga smo najdli.
+
+Samokres.
+
+Ker sam kresal ne.
+
+Same sami jaz ne samo kresnika.
+
+Ni bilo treba krasilne onega kamna morda.
+
+To pol daš za ne vem orožje mokrimi.
+25:26
+
+Je lepa.
+
+Ali pa helebarda.
+
+Dober helebarde zaradi oblike.
+
+A je.
+
+Mislil da to delam.
+
+Le brdi stična zgleda.
+
+Ker je pač iz francoske besede bla bla.
+
+Neka.
+
+Pač pa iz tega pa ne me zdaj spet drža s.
+25:43
+
+Helebardo stiška koliko jezer na glavo razumeš, da je kakšen ta boljši?
+
+Le prišla velika.
+
+A.
+
+Čeprav delala, je prišla.
+
+A.
+
+Je, bila je bila mišljena za.
+
+Tja a ja glej.
+26:00
+
+Tako je.
+
+Tako da ja.
+
+Ja v glavnem ja kje smo bili em je no ja samokres oziroma pištole je bila.
+
+V band a 3.
+
+A bana 3 ne da naj ford je povedal, da to res res zajeban ne nevarne igračka, ne da morajo vsi ostati čisto mirni pa ne v bistvu ugotovijo, kaj je vrglo iz tira ne.
+26:25
+
+In.
+
+Random dni ni čakal elit sekunde, ki je začela tuliti ne kam spada in s tresočo v bistvu imela je tak.
+
+Malo je bila razvr a naj bi človek.
+
+Rekel eksistenčna.
+26:41
+
+Puberteti sul garda z moment.
+
+Je pač mi, jaz sem imela, saj verjetno point je imela, ker nisem vedela kam pripada, kje kaj, zakaj je tu, kajne.
+
+Čeprav kdo je, kje zgodovino nje, ki jo poznamo, in vemo, da je že pri 4 letih bolj na prvem med galaktičnem koncertu?
+26:57
+
+To je pa nikoli ni bila prav zares zares v nobenem času doma ne v resnici je imela.
+
+A veš.
+
+Veste predstavljaj si da imaš, da greš v varuško greš v drug časovni pas z dne s par ur, dokler mama ne pride on zunaj vojne poročati ali pa karkoli mislim, saj to hočem reči.
+27:17
+
+Vleče za par let ne sicer ne veš, je minilo par letal in par ur ne.
+
+Mislim zate menil parus za čas tam, kjer si ostal, je pa minilo par let.
+
+Mislim, a veš, da to ni čisto navadno odraščanje v resnici ne mislim.
+27:35
+
+Jaz sem čisto razumem, da malo tu tako lepo po diskotekah.
+
+Ne.
+
+Mislim pa da sam grozi s tem samokresom.
+
+Ne.
+
+Vidiš da te ne vejo kam čist spadajo tam po Ameriki tudi streljajo s temi samo krysia.
+27:53
+
+Saj je tudi zaradi tega je.
+
+To bojo naši veliki veliko več sreče kakor tam mislim no.
+
+Je relativno slabi človek.
+
+Ali pa kakor kdo.
+28:08
+
+Ja tega tudi ne pa štula collis ali samokresi in koliko je v redu?
+
+Ne.
+
+Priporočam ne uporabi.
+
+Ker se pol kar se zgodi se.
+
+Zgodi se zgodi, ne mislim.
+28:24
+
+Nisem narejeni zato, da ne vem, imel ti lep večer ja.
+
+Mislim ja nimajo one pozitivne pozitivne note, običajno ne.
+
+Konec ni srečen ne?
+
+Mč.
+
+Nova tukaj na robnem narobni strani stoji.
+28:41
+
+Saj.
+
+V glavnem ja random je pa s tresočo roko se spraševala, kam ne spada in ne pač u povedala je to, kar smo že ugotovili, ne da ne ve, od kje izhaja in da še lastna mati ne je ne spozna.
+29:00
+
+In pol aja uro je še ven potegnila in pol uro raztreščil tam v šank ee.
+
+In pol 3 neki proba ne malo.
+
+Razloži.
+
+Razložiti.
+
+In so bile stvari, jasne.
+
+A veš, ampak zdaj se ti dajo vlogo in ne ona čisto razumljivo h da grem poročati iz ena vojne, za katero se pol izkaže, da je sploh ni bilo, ker je bilo pač nekaj napak.
+29:25
+
+A mislim, da je bil to ta fantič da kaj ne?
+
+Zna bit saj.
+
+Je bilo to vse to povezati?
+
+Seveda je vedela, da se to dogaja, da kar se bo zgodilo, da ne bi smela biti tiho.
+
+Četudi prepriča trende pejmo kyle bo zdaj pizdarija.
+
+Ja ampak gremo gremo ja sam fora je bila po tem da data je bilo lepo avtor povedal, da ne da v bistvu ni merila na nikogar posebej, ampak na svet na splošno.
+29:51
+
+A ona je bila ona res jezen vseh svet.
+
+Jaz maratoncev a veš jaz pucal?
+
+Jaz sem pogodijo as ja spucal nazvat bomo v vas duh jaz pogodijo.
+
+Nek sploh.
+30:08
+
+To ja ja to je to.
+
+V glavnem ni hotela poslušati, kaj ne?
+
+Em v tem njenem mislim kaj 3 hotel povedati, da to ni tvoj dom in ne da ga nimaš in da ga noben nima in da.
+
+Potem se pove o, storijo v tej izgubljeni ladjine oziroma v Zagrebu loncih v resnici ne in tudi namigne, da v tem osončju, da bodo napravili nekaj zelo hudega.
+30:36
+
+Ne, ker so tako z izgubljenimi zmedeni.
+
+Ne, jaz moram reči, da tega nisem do zdaj.
+
+Opaziš sem to knjigo že velikokrat prebral.
+
+Da so greblon te zlovešče napovedi nisem opazil, bom rekel tako, da me je zelo, zelo me je.
+30:53
+
+Zelo me je presenetila, čeprav oni stolpiči so neki izdajali par par poglavjem zdaj, ampak glej nisem.
+
+Am.
+
+No in pol v bistvu 3 še naprej govori, da pač bosta mogli.
+31:09
+
+Da bo ta morda nekaj morata jesti, pa ne vesta kaj morata iti, ampak da tukaj ziher ni dobro dajmo dajmo dajmo ne.
+
+Pol je pa artur ne kar naenkrat se oglasil in z mirnim glasom povedal, da ne glej, dokler sem jaz tukaj smo vsi v redu.
+31:27
+
+Tako suveren je bil.
+
+Ne on se kar zanaša na.
+
+Na prerokbo oziroma.
+
+Ne takoj a.
+
+Nagrad žago to ja v bistvu je bilo prerokba ne ja ja da to ja.
+
+Se kar zanaša ja m tako da.
+31:44
+
+Potem je razložil, ne, to je bilo lepo, ne da čutil, da je polno vzvišenega miru.
+
+Njegovo življenje je bilo začarano in vse okrog njega sploh ni bilo resnično.
+
+Spet si jih je dal avtor ma lepo mislim.
+
+Da je bilo treba.
+32:01
+
+Poglavje, ampak ko še zmeraj nuta veš enota lepo ne, ampak pol se pa zgodi pa oh ebro clusane x.
+
+Ti čakamo mi zdaj blažu zrihtal še za domov podcast.
+32:18
+
+Blaže za domov ja.
+
+A veš ko je bila še na discordu rekel, ne, da smo bili daljši, kakor je bila pot v službo.
+
+A.
+
+Mu zrihtamo zdaj še za domov, a veš, da je imel.
+
+Glede na pavzo.
+
+A.
+
+Na pavzo.
+32:34
+
+A se mogoče pa res lahko konča moja.
+
+Kaj je to?
+
+To je pa res lep, večino vprašalnik pa dobili naslednji teden.
+
+Kaj je to smisel?
+
+A.
+
+Mislim, lahko pa za naslednji teden potem imamo že.
+32:51
+
+Veliki finale pa pol luč bo pa določbo polnoč.
+
+Bo toliko da gremo, lahko pa že V novo epizodo mislim v šesto sezono ne.
+
+Samo mi smo rekli da bomo imeli lok jebenti.
+
+Saj bo vedel to bo lokev.
+
+Nalog da samsung bomo pa bomo skrivnosti, a bomo pol ne bomo povedali, mi bomo povedali, a še boljše skrivnost.
+33:17
+
+Jaz sem šel, enkrat smo šli z otrokom v kranjsko goro.
+
+Teta pehta nas je povabila noter in nam je povedala skrivnost.
+
+Res ja.
+
+Mislim, natočila nam jo je.
+
+A.
+33:33
+
+A.
+
+Je pa ful prijazna.
+
+Ful je lušna a?
+
+Hvala, zdrsnila mi je veš.
+
+Jaz ne vem.
+
+Pa tukaj gor.
+
+Sem pa pol skrivnosti tokom.
+
+Jaz imam polne, ne vem še kaj pove, jaz mislim, da nam še govori.
+33:51
+
+Parketu mislim da jebat ga je kekec ne jaz jaz to se ne vem kje sem slišal, da nekdo je bil to.
+
+Teorijo je teorija.
+
+Aunga.
+
+Leon se spravi na bogor staro gospo ki zdravi ljudi.
+
+Pa zelišča na.
+
+Basališče nabira mirno, živi gor v hosti lepo.
+34:10
+
+Okrog pameče ko oreh, mislim orehe.
+
+Storže kamenje.
+
+Pa pizdarije dela.
+
+Kot dogajanje pa bo danes so tudi čeprav.
+
+Dobronega reško bedanc je res mogoče, ampak kdo reče, da ga ni on spravil v ampak pripeljite pehta je ta prvine del je.
+34:29
+
+E.
+
+In a veš on sedanjost pravilne.
+
+Dokler ni pregnal, pa čeprav je v bistvu je moj cone rešila.
+
+Ta pot je šla.
+
+Mislim pa vse pa vsaj zdravljenje.
+
+Ona je samo hotela živeti primer in pa teži.
+34:45
+
+Krog sodi če, v bistvu me je zastonj, lekarno pa še zdravstvene nasvete tega in tega ni več tak oseba Aleš.
+
+Tako 50 je pa čisto majhna vrečka.
+
+A.
+35:01
+
+Še zadet niso mogoče odvisno, ampak.
+
+Kaj ti sedaj recept je tisti ne moreš dobit.
+
+Kom.
+
+X kaj?
+
+Ja.
+
+Ja kaj trikrat je bil ponudbo so ga korporacije so ga pod me tole ne, to boš prav.
+35:17
+
+Jaz pa sploh nisem.
+
+Pomislil glej prvi korporacije razumeš bajer farma je že takrat razumeš.
+
+Pregnale lokalne in terpen ur je lokal.
+
+Prišla.
+
+Lines MOL biznise.
+
+Prišel lokalni predstavnik bayerja pa je ugotovil, da je tam gor v hribih ena pehta kot zastonj, da je ne, pa je podmazal kekca zrihti.
+35:38
+
+Maslo saj veš da 5 zdaj glej, saj ni treba malo malo bomo zdaj imaš kaj denarja, če ne ti pol kar razbija do.
+
+Staršev zašle pa ni hotel veš kaj je rekel ne nog.
+
+Saj veš da ne bi tak, a veš v bistvu razloženih hotel nea ugaja.
+35:56
+
+Razgleda on je bil, malo je tudi držal vrečo ne kurc če bi.
+
+Povedal.
+
+Verjetno tudi malo sam.
+
+Ne, tudi njega se je malo prijela še drugič, ko sta šla v vas, pa je prišel tale od bajerja, ne pa je povedal, koliko koliko krajcarjev ii za ovog stojine je pa šlo, ne.
+36:17
+
+Ja tako da ja.
+
+Ja dobro nič to je to.
+
+Nič em hvala lepa, ker ste nas posluša čisto do konca epizode, v kateri sem besedo samokres uporabil večkrat, kot zdaj celo v svojem življenju.
+36:34
+
+A.
+
+A se res tokrat.
+
+A.
+
+Mislim, da sem jo dvakrat.
+
+Pa si je vsaj trikrat, ko si že zdaj le enkrat, ko si povedal neas videl, a številke nam grejo to zato ker poslušam.
+36:56
+
+Številke, to pa tudi facon.
+
+Lahko da je to sigurno, bo slavko povedal, kdo povedal, koliko ti je bilo tako, da.
+
+Em z nami lahko debatirata na vseh teh družabnih omrežjih ali pa na discordu ali pa na dopisnicah.
+37:15
+
+Opravičujem se za stene všečnosti.
+
+Litostrojska 52 a 1000, Ljubljana, cesta.
+
+Cesta seveda je.
+
+Cesta mora biti pot pot z veliko.
+
+Če ni potem pride gre nekam čisto drugam.
+
+AZ vami smo bili dal jo peli in si in če ti ta pot res všeč, ga lahko deliš oceniš ali podpreš.
+37:38
+
+Je pa čaka, pa še u ki pač ostala kačo bomo v rubriko.
+
+UK iinčev rubrika i nč osebno ali po žegnu svoja.
+
+Romanca pa svetovno prvenstvo.
+
+Tako tako da pomahajta v kipečo.
+
+Žogica, marogica a seznami.
+37:56
+
+Tako hvala za vse ribe.
+
+Pika si.
+
+Ja hvala čao čao.
+
+Čao ung.
+
+Že v redu.
+
+Si prav da si prekinil.
+
+Glej pozabil.
+
+Za čuvaja.
+
+Ja, ko sem se spomnil, da to sploh ni, to mora bit.
+38:15
+
+Tole.
+
+Sem napisal.
+
+Bila sem.
+
+Brez.
+
+Ne ne smeš ne smeš pa tudi po zakonu ne smeš ne.
+
+A veš?
+38:31
+
+Že.
+
+Ofis prej mesec ne.
+
+Mi bo s prečudovitim.
+
+Govori.
+
+Eno beau ben je bil.
+
+Nič zdaj, ko bo zdaj, ko bodo skozi gozd je pa komaj čutil.
+38:52
+
+Veliko se ti lahko kar prideš, to pa boš, bi mu dal majhno odgovoril.
+
+Vidve zdaj zadevo, ali govorimo kar o ničemer.
+
+Prav ta pravega ste mlada ljubezen.
+
+Slej saj to je tisto bo pa imamo mi govorim.
+
+Jaz sem samo dela, pa je boljša, bolj poseljen.
+39:13
+
+Pogovoril sam v tistih, ko sem se zaljubil samo.
+
+Dvakrat.
+
+Prišel a?
+
+A.
+
+A.
+
+Bolj dvakrat karkoli.
+
+Se bom pogovoril tistih, ki sem bil z njimi.
+39:35
+
+Ponuja.
+
+Kako drugo?
+
+Ligo z vami.
+
+Ja.
+
+Pol pa je.
+
+Samostojna oddaja.
+
+Jasmino.
+39:52
+
+Najboljša polka.
+
+###### 195 
 ## S tujim kurcem po koprivah
 
 0:07
@@ -4563,7 +9337,7 @@ Samostojna oddaja.
 Jasmino.
 39:52
 
-### 194
+###### 194
 ## Hipotenuzično
 
 0:10
@@ -6242,7 +11016,7 @@ Saj si itak prej jukurit a govoriti moram.
 
 44:55
 
-### 193
+###### 193
 ## Verjet' je treba
 
 0:08
@@ -7826,7 +12600,7 @@ Pozabili smo na bonus epizodo ko smo imeli brilijantno idejo to bo moral sposodi
 
 No od 7 am da hočem imeti na minut a veš ne vem 4.50 nula nula.
 
-### 192
+###### 192
 ## David Goggins
 
 0:08
@@ -9377,7 +14151,7 @@ Pusti ta podatek se.
 
 Gre super, všeč mi je, ali ker ne vem njej zdravi kakšen kakšen bo uspelo, bo folk rekel ata fazhan.
 
-### 191
+###### 191
 ## Nevladni podkast
 
 0:08
@@ -10854,7 +15628,7 @@ Ja da morebitne.
 
 Sploh ne ostani tam grem.
 
-### 190
+###### 190
 ## Razvran
 
 0:07
@@ -12866,7 +17640,7 @@ Res je gromozansko neizmerno veliko.
 
 A in kljub temu ne, da se vam mogoče zdi, da je tisto lekarna.
 
-### 189
+###### 189
 ## Švica 🇨🇭
 
 0:08
@@ -14145,7 +18919,7 @@ A kaj je dobro?
 
 Hvala lepa čao.
 
-### 188
+###### 188
 ## Kraljeva dežela
 
 0:08
@@ -15511,7 +20285,7 @@ Glej odvisno pa še trendi za.
 
 Sezonsko po mojem res ne vem.
 
-### 187
+###### 187
 ## V imenu neustavljivega dobička
 
 0:07
@@ -16609,7 +21383,7 @@ Mamina kuhinja stari.
 
 Daj.
 
-### 186
+##### 186
 ## Schrödingerjeve kartice
 
 0:08
@@ -17927,7 +22701,7 @@ Samo koliko tukaj da tukaj notri je vprašanje.
 
 Ja.
 
-### 185
+###### 185
 ## Življenje bo brez tebe kar precej manj čudno
 
 0:10
@@ -19118,7 +23892,7 @@ Hvala, hvala čao.
 
 Mater saj za best scenarije šel pa kar dobro.
 
-### 184
+###### 184
 ## Vodna postelja z zlatimi ribicami
 
 0:07
@@ -20060,7 +24834,7 @@ Pa že božič.
 
 Na modri rekli naj.
 
-### 183
+###### 183
 ## Ne spite med vožnjo
 
 0:09
@@ -21061,7 +25835,7 @@ Nekaj 183, meni se zdi ja pa še 2 za ekstra ja.
 
 Ravno to.
 
-### 182
+###### 182
 ## Revolucija v šamponu
 
 0:09
@@ -22249,7 +27023,7 @@ Narobe sem tam kode postavil, saj nisem vedel, kje smo točno na minutah.
 
 Malo smo bili až ja, dobro je.
 
-### 181
+###### 181
 ## A vi ne plešete več?
 
 0:09
@@ -23351,7 +28125,7 @@ Mislim, jaz pa smo že zverzirani na.
 
 Kapitlju ne vem nekje ali smo pa navajeni nositi isto kilometrina.
 
-### 180
+###### 180
 ## Ostajamo divje netočni
 
 0:09
@@ -24447,8 +29221,10 @@ A ne.
 
 To je glih prav stran.
 
-### 179
+
+###### 178
 ## Če je to kriza, naj traja
+
 
 0:09
 
@@ -25274,8 +30050,8 @@ Hvala lepa.
 25:52
 Čav čav.
 
-### 178
 ## Normalnost se včasih (tudi) ne posreči
+###### 178
 
 0:08
 
@@ -26399,5 +31175,5 @@ Vse je pa tole.
 
 Zdaj vi, saj bi mi tudi vsaj vemo.
 
-### 177 (https://podcasters.spotify.com/pod/dashboard/episode/e2ak308/details)
-## NI ŠE SKUPIRAN
+### [177](https://podcasters.spotify.com/pod/dashboard/episode/e2ak308/details)
+## NI ŠE SKOPIRAN, oz še ni transkrajban

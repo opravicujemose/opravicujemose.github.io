@@ -1,17 +1,17 @@
 ---
 layout: 	post
-title:  	"V prejšnji epizodi II ⏪"
-number: 	"#201 aka S05E48"
+title:  	"V prejšnji epizodi III"
+number: 	"#202 aka S05E49"
 categories:	epizode
-permalink:	/201/
+permalink:	/202/
 tagline: 	"Zdravo. Na ta praznični ponedeljek se znajdemo v drugi epizodi ."
-image:		/assets/img/201@2x.jpg
-cover:		/assets/img/cover/201 img@2x.png
+image:		/assets/img/202@2x.jpg
+cover:		/assets/img/cover/202 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/201-opr
-pocket:		https://kite.link/201-opr?open=pocketcasts
-google:		https://kite.link/201-opr?open=google
+podkite:	https://kite.link/202-opr
+pocket:		https://kite.link/202-opr?open=pocketcasts
+google:		https://kite.link/202-opr?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/eYs7SmVWcUg
