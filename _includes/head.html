@@ -2,16 +2,17 @@
   {% if jekyll.environment == 'production' and site.google_analytics %} {% include google-analytics.html %} {% endif %}
   {% include meta.html %}
   <title>{% if page.title == "Home" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.tagline }} - {{ page.tagline }}{% endif %}</title>
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/default.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/carousel.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/PodcastFont.css">
+  <!-- RSS --> 
   <link rel="alternate" type="application/rss+xml" title="Opravičujemo se za vse nevšečnosti" href="https://anchor.fm/s/22b5a500/podcast/rss" />
   <!-- Apple Podcasts mobile banner -->
   <meta content="app-id=1514750013" name="apple-itunes-app">
   <!-- Google font-->
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"> 
-  <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/default.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/carousel.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/PodcastFont.css">
   <!-- JS -->
 </head>
 
