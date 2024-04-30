@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   scrollbar-color: auto; /* thumb and track color */
-  scrollbar-width: 0px;
+  scrollbar-width: 0;
 }
 
 body {
