@@ -1,29 +1,29 @@
 ---
 layout: 	post
-title:  	"To je piramidni sistem"
-number: 	"#205 aka S06E05"
+title:  	"Kdo bi rad živel večno?"
+number: 	"#206 aka S06E03"
 categories:	epizode
-permalink:	/205/
+permalink:	/206/
 tagline: 	"Zdravo."
-image:		/assets/img/205@2x.jpg
-cover:		/assets/img/cover/205 img@2x.png
+image:		/assets/img/206@2x.jpg
+cover:		/assets/img/cover/206 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/205
-pocket:		https://kite.link/205?open=pocketcasts
-google:		https://kite.link/205?open=google
+podkite:	https://kite.link/206
+pocket:		https://kite.link/206?open=pocketcasts
+google:		https://kite.link/206?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/eYs7SmVWcUg
 published:	false
-date: 		2024-04-29 06:00 +0200
+date: 		2024-05-05 06:00 +0200
 ---
 
-Zdravo. Tokrat se zares lotimo uvoda 6. knjige, ki je pravzaprav zelo zgoščena rubrika "V prejšnji epizodi" oz. v prejšnjih petih knjigah. Zabavno branje, ki obeta zabaven zaključek trilogije v šestih delih. 
+Zdravo. Tokrat začnemo z zgodbami o šnopcu, letečih flašah, življenjskem stilu, delu, učinkovitosti in se sprašujemo, kakšen smoter ima življenje do 120. leta, če je vse, kar počneš v teh stodvajsetih letih, da treniraš in paziš, da bi živel dlje. Kakšen smisel in namen ima vse skupaj. Ne vemo vsega, vemo pa nekaj stvari o starem džanksu. 
 
-V samem štartu začutimo sevanje 5G, ki zmoti snemanje in se sprašujemo, zakaj vsi cepljeni še nismo umrli, čeprav so nas tako močno strašili in postrežemo z odgovorom, čeprav najbrž ne bo zadovoljil prav vseh. Ker so planeti v konstelaciji, tokrat obelodanimo komad tedna in se posvetimo mamilom, alkoholu in vojnam, preden Peli več kot pohvali Guinnessov brezalkoholno pivo. 
+Aljo se spomni na znano Zijevo reklo, ki pravi: "Razmišljat ni v redu" in zato ne razmišljamo več o zgoraj omenjenih rečeh. Se pa končno lotimo 1. poglavja 6. knjige, vendar ne pridemo prav daleč, ker nas prehiti čas. Zato pa si izmenjamo nekaj prvih vtisov o 6. knjigi.
 
-Preden obdelamo zgoraj omenjeni uvod nanizamo nekaj dejstev o Eoinu, 6. knjigi, Whitesnakeih in se pogovorimo o štoparskih temah kot so nogometni klubi, božanstva, starost, tehnika in o tem, da je bi Artur v 5. knjigi pravi pravcati sejalec. Ob koncu končno priznamo: ta podkast je piramidni sistem. 
+Za konec se Aljo spomni zlatega pivskega pravlila: najboljše pivo je zastonj, drugo najboljše pivo je mrzlo pivo ... in s tem se zlato pivsko pravilo konča. Čin. 🍻 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -41,3 +41,4 @@ Preden obdelamo zgoraj omenjeni uvod nanizamo nekaj dejstev o Eoinu, 6. knjigi, 
 - 🤓 []() - 
 - 🤓 []() - 
 - 🤓 []() - 
+- 🔗 (tukaj dodaj povezave)
