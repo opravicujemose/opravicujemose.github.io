@@ -22,6 +22,14 @@ body {
 }
 
 /*
+.container {
+  display: flex;
+  align-content: center;
+  margin: auto
+}
+*/
+
+/*
 @media screen and (min-width: 1440px) {
 	body {
 		max-width: 53em;
