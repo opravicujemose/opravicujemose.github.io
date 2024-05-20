@@ -1,22 +1,22 @@
 ---
 layout: 	post
-title:  	"Kdo bi rad živel večno?"
-number: 	"#207 aka S06E04"
+title:  	"Nova nova nova zaveza"
+number: 	"#208 aka S06E05"
 categories:	epizode
-permalink:	/207/
+permalink:	/208/
 tagline: 	"Zdravo."
-image:		/assets/img/207@2x.jpg
-cover:		/assets/img/cover/207 img@2x.png
+image:		/assets/img/208@2x.jpg
+cover:		/assets/img/cover/208 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/207
-pocket:		https://kite.link/207?open=pocketcasts
-google:		https://kite.link/207?open=google
+podkite:	https://kite.link/208
+pocket:		https://kite.link/208?open=pocketcasts
+google:		https://kite.link/208?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/eYs7SmVWcUg
 published:	false
-date: 		2024-05-12 06:00 +0200
+date: 		2024-05-19 06:00 +0200
 ---
 
 Zdravo. Tokrat začnemo z zgodbami o šnopcu, letečih flašah, življenjskem stilu, delu, učinkovitosti in se sprašujemo, kakšen smoter ima življenje do 120. leta, če je vse, kar počneš v teh stodvajsetih letih, da treniraš in paziš, da bi živel dlje. Kakšen smisel in namen ima vse skupaj. Ne vemo vsega, vemo pa nekaj stvari o starem džanksu. 
