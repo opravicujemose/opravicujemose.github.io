@@ -32,8 +32,8 @@ Ugotovimo tudi, kako spoznati guruje dvomljivega slovesa.
 
 #### Zapiski
 
-- 🌈 [Rollada Tye Dye](https://www.instagram.com/rollada_tie_dye/) - Tye dye izdelki slovenske izdelave, izdelani na Kanarskih otokih, tudi naše tri brisače za dan brisače so bile izdelane tam 
-- 🌞 [Čuki - Poletna](https://www.youtube.com/watch?v=DoWUet2bEQw) - tokratni #komadtedna, ki je hkrati najlepši komad te slovenske zasedbe 
+- 🤓 []() - 
+- 🤓 []() - 
 - 🤓 []() - 
 - 🤓 []() - 
 - 🤓 []() - 
