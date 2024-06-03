@@ -1,29 +1,29 @@
 ---
 layout: 	post
-title:  	"Shark tank 🦈"
-number: 	"#209 aka S06E06"
+title:  	"A sploh vemo kdo smo?"
+number: 	"#210 aka S06E07"
 categories:	epizode
-permalink:	/209/
+permalink:	/210/
 tagline: 	"Zdravo."
-image:		/assets/img/209@2x.jpg
-cover:		/assets/img/cover/209 img@2x.png
+image:		/assets/img/210@2x.jpg
+cover:		/assets/img/cover/210 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/209
-pocket:		https://kite.link/209?open=pocketcasts
-google:		https://kite.link/209?open=google
+podkite:	https://kite.link/210
+pocket:		https://kite.link/210?open=pocketcasts
+google:		https://kite.link/210?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/eYs7SmVWcUg
 published:	false
-date: 		2024-05-26 06:00 +0200
+date: 		2024-06-02 06:00 +0200
 ---
 
-Zdravo. Tokrat dobrodošli v poslovni podkast Opravičujemo se za vse nevšečnosti, kjer bomo s svojimi idejami oplemenitili vaše delo in vaš denar in vse kar morate storiti je, da nam zameno za brilijantne in brezplačne ideje, ki jih boste slišali v tokratni epizodi, donirate poljubno visok znesek na hvalazavseribe.si, da bomo lahko odprli svoj inkubator idej. 
+Zdravo. Spet smo z vami v 1. poglavju 6. knjige, vendar se, preden se posvetimo knjigi, posvetimo eminentnim članom naše družbe, Peli pove idejo za scenarij za film z naslovom "Številka 7", ki bo posnet po resničnih dogodkih, mi pa zapalavamo k veri, preverjanju, svobodi, in dejstvu, da je razmišljat težko, zato je lažje verjet'. 
 
-Seveda pa začnemo epizodo pri Jezusu in pri grehih, od Božjega sina pa kaj kmalu pridemo na poslovne ideje, kot so pogrebna torta, sendvičarna z imenom Lamuella in še bi lahko naštevali. A za to boste morali poslušati tokratno epizodo, v kateri se o knjigi skoraj ne pogovarjamo. V izteku oddaje se namesto o poglavju, pogovarjamo o primerkih lepotne kirurgije in debatiramo kdo je bolj nabildan, Brad Pitt ali Lenny Kravitz. 
+Kar nam verjemite, ker mi vemo, da imamo vsaj tri planete premalo resursov in tokrat je tudi Peli ugotovil, da smo nevzdržni. Omenimo paralelno vesolje serije For All Mankind, kjer John Lennon še živi, mi pa prek Nancy Reagan pridemo do nove poslovne ideje in tik preden bi se zakotalili v preostanek poglavja, se spomnimo na Cindy Crawford, Lindo Evangelisto in tokratni komad tedna, Freedom 90 Georga Michaela. 
 
-Ugotovimo tudi, kako spoznati guruje dvomljivega slovesa. 
+Pridemo tudi do poglavja in grebila, presenečenja, ki smo ga obljubili prejšnji teden. Potem pa je počasi konec epizode, ker pridemo do baterije in z njo pečinaobešalnika. 
 
 {% include player.html %}
 {% include poslusaj.html %}
