@@ -9,18 +9,18 @@ layout: default
     <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% assign m = page.date | date: "%-m" %}{{ page.date | date: "%-d." }} {% case m %} {% when '1' %}januar {% when '2' %}februar {% when '3' %}marec {% when '4' %}april {% when '5' %}maj {% when '6' %}junij {% when '7' %}julij {% when '8' %}avgust {% when '9' %}september {% when '10' %}oktober {% when '11' %}november {% when '12' %}december {% endcase %}{{ page.date | date: "%Y" }}</time>
   </p>
 </header>
-
-<div class="post-content" itemprop="articleBody">
-    <h2>{{ page.title }}</h2>
-  <h6>{{ page.number }}</h6>
-  {% if page.youtube %}
+  <div class="post-content" itemprop="articleBody">
+      {% if page.youtube %}
   <a href="{{ page.youtube }}" title="{{ page.title }} - oglej si video na YouTubeu" target="_blank"><img src="{{ page.cover }}" alt="{{ page.title }}" /></a>
   {% elsif page.cover %}
   <img src="{{ page.cover }}" alt="{{ page.title }}" />
   {% endif %}
-  <br class="clear" />
+
+  <h2>{{ page.title }}</h2>
+  <h6>{{ page.number }}</h6>
   <!-- CONTENT POST HTML -->
   {{ content }}
+  <br class="clear" />
   <!-- END CONTENT POST HTML -->
 <!-- </div> -->
 </div>

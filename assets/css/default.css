@@ -340,7 +340,7 @@ div.readMore {
 }
 
 .post-content {
-	margin-bottom: 2.5em;
+	display: flow-root;
 }
 
 .post-content iframe {
@@ -351,12 +351,19 @@ div.readMore {
 	float: right;
 	width: 30%;
 	padding: 0 0 0;
-	margin: -0.7em -2em 0 0;
+	margin: 0 -2em 0 0;
+}
+
+.post-content h2 {
+  display: block;
+  min-width: 70%;
+  max-width: 100%;
+  heigth:auto;
 }
 
 @media screen and (max-width: 600px) {
 	.post-content img {
-		margin: -1.8em -1.1em 0 0;
+		margin: 0 -1em 0 0;
 		width: 40%;
 	}
 }
