@@ -320,6 +320,7 @@ article time, .readMore a {
 div.readMore {
     text-align: right;
     margin-top: 20px;
+    height: 80px;
 }
 
 @media screen and (max-width: 600px) {
@@ -351,7 +352,11 @@ div.readMore {
 	float: right;
 	width: 30%;
 	padding: 0 0 0;
-	margin: 0 -2em 0 0;
+	margin: -1em -2em 0 0;
+}
+
+.post-content img:after {
+	clear: left;
 }
 
 .post-content h2 {
