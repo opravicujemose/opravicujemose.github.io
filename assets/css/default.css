@@ -640,11 +640,11 @@ div.pagination {
 }
 
 .Peli {
-	background: url(https://pbs.twimg.com/profile_images/699541602394619904/FXNkMTxF_400x400.jpg) 0 0 no-repeat;
+	background: url(/assets/img/profile-pic-peli.jpg) 0 0 no-repeat;
 }
 
 .Zi {
-	background: url(https://pbs.twimg.com/profile_images/794133683783561216/gPWLH0q4_400x400.jpg) 0 0 no-repeat;
+	background: url(/assets/img/profile-pic-zi.jpg) 0 0 no-repeat;
 }
 
 .Aljo, .Peli, .Zi {
