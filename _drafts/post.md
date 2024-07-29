@@ -1,22 +1,22 @@
 ---
 layout: 	post
-title:  	"Ne kadit' črvov (niti čričkov)"
-number: 	"#217 aka S06E14"
+title:  	"Venezuela 🇻🇪"
+number: 	"#218 aka S06E15"
 categories:	epizode
-permalink:	/217/
+permalink:	/218/
 tagline: 	"Zdravo."
-image:		/assets/img/217@2x.jpg
-cover:		/assets/img/cover/217 img@2x.png
+image:		/assets/img/218@2x.jpg
+cover:		/assets/img/cover/218 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/217
-pocket:		https://kite.link/217?open=pocketcasts
-google:		https://kite.link/217?open=google
+podkite:	https://kite.link/218
+pocket:		https://kite.link/218?open=pocketcasts
+google:		https://kite.link/2187?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
 published:	false
-date: 		2024-07-07 06:00 +0200
+date: 		2024-07-28 06:00 +0200
 ---
 
 Zdravo. Tokrat vam svetujemo, da ne hodite trezni naokoli, posvetimo se brezalkoholni smeri, se sprašujemo, kdaj bo kakšnen spletni gigant imel v svoji ponudbi naročnino za atomsko bombo, se pogovarjamo o dolgovih držav in iščemo ekonomistke ali ekonomiste, ki bi nam ta fenomen razložili na nivoju triletnikov. 
@@ -30,7 +30,7 @@ Tudi o tem kako se ohladiti v vročih poletnih dneh. Začnemo s 3. poglavjem 6. 
 
 #### Zapiski
 
-- 🤓 [Göbekli Tepe]() - 
+- 🇻🇪 [Drago Mlinarec - Caracas](https://www.youtube.com/watch?v=fYCMBE_Pl5s) - ker se mudimo v Venezueli je več kot jasno, da je popevka Draga Mlinarca iz leta 1977 edina prava izbira za tokratni komad tedna 
 - 🤓 []() - 
 - 🤓 []() - 
 - 🤓 []() - 
