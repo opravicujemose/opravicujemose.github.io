@@ -1,17 +1,17 @@
 ---
 layout: 	post
-title:  	"Venezuela 🇻🇪"
-number: 	"#218 aka S06E15"
+title:  	"Do jahte je še daleč 🛥️"
+number: 	"#219 aka S06E16"
 categories:	epizode
-permalink:	/218/
+permalink:	/219/
 tagline: 	"Zdravo."
-image:		/assets/img/218@2x.jpg
-cover:		/assets/img/cover/218 img@2x.png
+image:		/assets/img/219@2x.jpg
+cover:		/assets/img/cover/219 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/218
-pocket:		https://kite.link/218?open=pocketcasts
-google:		https://kite.link/2187?open=google
+podkite:	https://kite.link/219
+pocket:		https://kite.link/219?open=pocketcasts
+google:		https://kite.link/219?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
