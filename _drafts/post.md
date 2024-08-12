@@ -1,17 +1,17 @@
 ---
 layout: 	post
-title:  	"Do jahte je še daleč 🛥️"
-number: 	"#219 aka S06E16"
+title:  	"Čez tri mesece zamenjajte gume 🛞"
+number: 	"#220 aka S06E17"
 categories:	epizode
-permalink:	/219/
+permalink:	/220/
 tagline: 	"Zdravo."
-image:		/assets/img/219@2x.jpg
-cover:		/assets/img/cover/219 img@2x.png
+image:		/assets/img/220@2x.jpg
+cover:		/assets/img/cover/220 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/219
-pocket:		https://kite.link/219?open=pocketcasts
-google:		https://kite.link/219?open=google
+podkite:	https://kite.link/220
+pocket:		https://kite.link/220?open=pocketcasts
+google:		https://kite.link/220?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
@@ -19,9 +19,9 @@ published:	false
 date: 		2024-07-28 06:00 +0200
 ---
 
-Zdravo. Tokrat vam svetujemo, da ne hodite trezni naokoli, posvetimo se brezalkoholni smeri, se sprašujemo, kdaj bo kakšnen spletni gigant imel v svoji ponudbi naročnino za atomsko bombo, se pogovarjamo o dolgovih držav in iščemo ekonomistke ali ekonomiste, ki bi nam ta fenomen razložili na nivoju triletnikov. 
+Zdravo. Naslov tokratne epizode bi moral biti "En jošk za drugim", vendar "umetna inteligenca" ni hotela sodelovati pri kreiranju naslovnice za tokratno epizodo. Ko pa smo v navodilu namesto treh prsi napisali "tri pištole" je skreilrala sliko, kot da so tri pištole manj nevarne kot recimo triprsa vlačuga z Erotikona VI, Eccentrica Gallumbits. Mogoče njen primer ni najbolj na mestu, pa vseeno. 
 
-Tudi o tem kako se ohladiti v vročih poletnih dneh. Začnemo s 3. poglavjem 6. knjige, se posvetimo močvirskemu albino črvu in svetujemo, da ne kadit črvov, niti čričkov. Vprašamo pa vas tudi, katera je najbolj čudna pijača, ki ste jo kadarkoli pili. 
+V epizodi se pogovarjamo o rečeh, ki so na tak ali drugačen način povezane z našo osnovno temo šeste sezone: o življenju vesolju in sploh vsem. Tudi o tem, da bo treba že čez tri mesece na vašem jeklenem konjičku zamenjati letne gume za zimske. Da slučajno ne pozabite. 
 
 {% include player.html %}
 {% include poslusaj.html %}
