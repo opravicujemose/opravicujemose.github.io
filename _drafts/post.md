@@ -1,17 +1,17 @@
 ---
 layout: 	post
-title:  	"Glava v steklenici"
-number: 	"#222 aka S06E19"
+title:  	"Vroča politična jesen 🍂"
+number: 	"#223 aka S06E20"
 categories:	epizode
-permalink:	/222/
+permalink:	/223/
 tagline: 	"Zdravo."
-image:		/assets/img/222@2x.jpg
-cover:		/assets/img/cover/222 img@2x.png
+image:		/assets/img/223@2x.jpg
+cover:		/assets/img/cover/223 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/222
-pocket:		https://kite.link/222?open=pocketcasts
-google:		https://kite.link/222?open=google
+podkite:	https://kite.link/223
+pocket:		https://kite.link/223?open=pocketcasts
+google:		https://kite.link/223?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
