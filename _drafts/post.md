@@ -1,22 +1,22 @@
 ---
 layout: 	post
-title:  	"Vroča politična jesen 🍂"
-number: 	"#223 aka S06E20"
+title:  	"Ne pretirano bistri potomci strahopetcev"
+number: 	"#224 aka S06E21"
 categories:	epizode
-permalink:	/223/
+permalink:	/224/
 tagline: 	"Zdravo."
-image:		/assets/img/223@2x.jpg
-cover:		/assets/img/cover/223 img@2x.png
+image:		/assets/img/224@2x.jpg
+cover:		/assets/img/cover/224 img@2x.png
 apple:		
 overcast:	
-podkite:	https://kite.link/223
-pocket:		https://kite.link/223?open=pocketcasts
-google:		https://kite.link/223?open=google
+podkite:	https://kite.link/224
+pocket:		https://kite.link/224?open=pocketcasts
+google:		https://kite.link/224?open=google
 anchor:		
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
 published:	false
-date: 		2024-07-28 06:00 +0200
+date: 		2024-09-08 06:00 +0200
 ---
 
 Zdravo. Ta teden predvidevamo, da je večina naših poslušalk in poslušalcev že prišla z dopusta in vas pozdravljamo, zdaj ko ste nazaj. Še vedno nam lahko pošljete kartice ali dopisnice na naš dobro znani naslov. Medtem se za hipec preselimo na Bali, a le doker ne ugotovimo, da je ene sorte Portorož za Avstralce, zato se raje preselimo na Madeiro, kjer se končno začnemo pogovarjati o suženjstvu. 
