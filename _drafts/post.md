@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Čez gorske studence 🏔️"
-number: 	"#231 aka S06E28"
+title:  	"Basen o lisici in kislem grozdju 🦊"
+number: 	"#232 aka S06E29"
 categories:	epizode
-permalink:	/231/
+permalink:	/232/
 tagline: 	"Zdravo. ♦️"
-image:		/assets/img/231@2x.jpg
-cover:		/assets/img/cover/231 img@2x.png
+image:		/assets/img/232@2x.jpg
+cover:		/assets/img/cover/232 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -16,12 +16,16 @@ anchor:
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
 published:	false
-date: 		2024-10-06 06:00 +0200
+date: 		2024-11-03 06:00 +0200
 ---
 
-Zdravo, dobrodošli v epizodi, kjer se pogovarjamo o tem, kako bi bilo, če bi ponoči, rahlo okajeni, medtem ko se vračate iz svojega priljubljenega kluba, mimo hotela Lev srečali leva, ali krdelo levov. Peli pove, kako je bilo na Avdiofestivalu (fino, naslednje leto pridite tudi vi), mi pa sanjarim oo tem, kako bi bilo imeti urednika. Dali bi mu ime Bojan in govoril nam bi v slušalko. 
+Zdravo. Tokrat začnemo epizodo z rubriko Zadnjih 30, kjer se pogovarjamo o humorističnih TV serijah, ki si jih je vredno ogledati. Nato se znajdemo na travniku s klopco, kjer razmišljamo o svobodi in omenimo vsakodnevna opravičila Slovenskih železnic, ki jih lahko slišite na premnogih železniških postajah širom po Sloveniji. 
 
-Sicer pa vabljeni k poslušanju oddaje vsi ljubitelji konjeništva, vinarstva in ostalih dejavnosti, povezanih s kmetijstvom, ter četrtič o 4. poglavju 6. knjige. Seveda tudi o birakraciji, kretenih, Vogonih, alkoholu in najbrž še čem. Za napačno poimenovanje patra Geržana (ni Pavel, ampak Karel), se že v naprej opravičujemo za vse nevšečnosti. 
+Pogovor nadaljujemo v smeri svobode, glasbe, kitar in studija, preden se že šestič posvetimo 4. poglavje 6. knjigerazpravljamo o sanjah, letenju in travniku, omenimo pa tudi basen o lisici in kislem grozdju. Za konec se posvetimo konceptu resnične virtualne resničnosti in hiši na travniku. Epizodo zaključimo z željo, da se tudi ta teden lepo imejte. 
+
+Spodaj basen o lisici in kislem grozdju, ki pred več kot dvemi tisočletji napisal [Ezop](https://sl.wikipedia.org/wiki/Ezop) 
+
+> Lisico je mučila lakota, zato se je odpravila v bližnji vinograd. Bila je pozna jesen in lisici so se cedile sline ob pogledu na veje, ki so se šibile pod težkimi grozdi. Toda njeno veselje ni dolgo trajalo, kajti grozdi so bili previsoko in lisica jih ni dosegla. Nekajkrat se je vzpela na zadnje noge, toda naposled je morala priznati poraz. Odpravila se je iz vinograda in si govorila: »Naj grozdje obere, kdor ga hoče. Zame je preveč zeleno in kislo. Tudi če mi ga prinesejo na pladnju, se ga ne dotaknem.« 
 
 {% include player.html %}
 {% include poslusaj.html %}
