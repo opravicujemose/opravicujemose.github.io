@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Prava bomba si 💣"
-number: 	"#233 aka S06E30"
+title:  	"Mir na svetu 🕊️"
+number: 	"#234 aka S06E31"
 categories:	epizode
 permalink:	/233/
 tagline: 	"Zdravo. ♦️"
-image:		/assets/img/232@2x.jpg
-cover:		/assets/img/cover/232 img@2x.png
+image:		/assets/img/234@2x.jpg
+cover:		/assets/img/cover/234 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -15,13 +15,11 @@ google:		https://music.youtube.com/watch?v=
 anchor:		
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
-published:	false
-date: 		2024-11-11 06:00 +0200
 ---
 
-Zdravo. Tokrat se posvetimo izumom prihodnosti, kot je telesni optimizator, še pred tem pa se spomnimo teksta popevke skupine Power Dancers, pozdravimo sončni november in se sprašujemo, če bi bile mogoče bolje kostanjeve, kot krompirjeve počitnice, glede na to, da se vsi spomnimo, da se krompir ne pobira konec oktobra ali začetek novembra. 
+Zdravo. Čeprav tokrat začnemo s tarokom tretjim življenjskim obdobjem, se hitro posvetimo raketam za mir in sanjamo o lepšem svetu. Vprašamo se, kako bi bilo lahkona svetu manj vojn in ugotovimo, da bi bilo brez držav, narodov, religij in denarja precej lažje videti mir na koncu tunela, kot sedaj, ko za to ni "prave politične volje". 
 
-Mimo Darwinovih nagrad preidemo na tretje življensko obdobje, humor v težkih situacijah, staranje, pesmi, ki se zataknejo v glavi in kako jih je težko spraviti iz glave, še posebej če spiš. Nekaj malega o 4. poglavju 6. knjige uspemo spraviti skupaj, preden se spomnimo druge pesmi Powerk, ki pa govori o tem, da si ti bomba! 
+Ker o tem poje pesem **Johna Lennona** *Imagine*, je brez dvoma komad tedna, čeprav imamo ta teden v konkurenci še popevke Brucea Springsteena in Jacka Antonoffa, pa tudi dva napeva Henčkov se spomnimo. Tudi na podložena ramena ne pozabimo, o knjigi pa spet nič ne govorimo. Za na konec vam kličemo lepo se imejte in predvsem radi se imejte. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -30,10 +28,12 @@ Mimo Darwinovih nagrad preidemo na tretje življensko obdobje, humor v težkih s
 
 #### Zapiski
 
-- 🎬 [Power Dancers - Ni še konec](https://www.youtube.com/watch?v=wf6EpmIHruU) - štiklc, ki ga deklamirata Aljo in Zi v začetu nosi naslov Ni še konec in jo najdete na njihovem četrtem albumu iz leta 1999, ki nosi isti naslov, kot singel, ki se ga nismo spomnili na začetku epizode ...
-- 🌰 [Zakaj so krompirjeve počitnice krompirjeve in ne kostanjeve](https://n1info.si/magazin/jesenske-pocitnice-so-tu-zakaj-jih-imenujemo-krompirjeve/) - so se imenujejo krompirjeve le zaradi zgodovinske zabolode iz dežele Nemške. Če v zmešnjavo dodate proste dni, ki jih imajo nemški otroci že v septembru, ki se imenujejo Kartoffelferien, zdomce iz 80ih in 90ih, ki so izraz prinesli k nam in vse manjše razumevanje kmečkih opravil, se lahko po 30 letih zgodi takšna zabloda, da počitnicam, ki so bližje kostanju kot krompirju, rečemo, kot jim rečemo 
-- 🪚 [Lisičji rep](https://sl.wikipedia.org/wiki/%C5%BDaga) - žaga je orodje, s katerim se reže (oz. žaga) les in druge materiale, glavni sestavni del žage je nazobčano ali valovito rezilo, ki je pritrjeno na nosilec. V nekaterih kulturah se ročne žage tipa lisičji rep uporablja tudi kot glasbilo. 
-- 🧬 [Darwinove nagrade](https://darwinawards.com/) - za osvojitev Darwinove nagrade morajo tekmovalci s svojo smrtjo bistveno izboljšati genski material človeštva. Kako? Umreti morajo na tako bizaren način, da že s samim načinom smrti dokažejo, da je evolucija človeštva z njihovo smrtjo preskočila na višjo stopničko. Sliši se težko, vendar je premnogim uspelo. 
-- 📼 [Power Dancers - intevju v Videospotnicah](https://www.youtube.com/watch?v=26CkYqwUHxc) - ki ga je s Špelo in Natko ob prelomu tisočletja (ali tam nekje) izvedel Blaž Gregorin 
-- 💣 [Power Dancers - Bomba](https://www.youtube.com/watch?v=NhzE_qURE4s) - prvi hit Powerk iz daljnega leta 1996, ki je bil tudi inspiracija za naslov tokratne epizode 
-- 👯‍♀️ [Velika vrnitev Power Dancers](https://www.rtvslo.si/zabava-in-slog/glasba/po-vec-kot-20-letih-se-na-oder-vracajo-power-dancers-nic-pritiska-ni-samo-uzivanje/725174) - Natka Geržina, Špela Tratnik Peklar, Cvetana Rozman in Sergeja Brdnik po 22 letih spet skupaj na odrih ... bodite pozorni 
+- [Bleachers - I Miss Those Days](https://www.youtube.com/watch?v=qQy12GH1Fl4) - pesem, v kateri pesnik poje: "I was lost, but I miss those days" in govori o dobrih starih časih 
+- [Bruce Springsteen - Glory Days](https://www.youtube.com/watch?v=6vQpW9XRiyM) - druga pesem, ki govori o dobrih starih časih
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
