@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Mir na svetu 🕊️"
-number: 	"#234 aka S06E31"
+title:  	"Od zunaj rdeč, od znotraj bel ... kot redkvica"
+number: 	"#235 aka S06E32"
 categories:	epizode
-permalink:	/233/
+permalink:	/235/
 tagline: 	"Zdravo. ♦️"
-image:		/assets/img/234@2x.jpg
-cover:		/assets/img/cover/234 img@2x.png
+image:		/assets/img/235@2x.jpg
+cover:		/assets/img/cover/235 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -15,11 +15,13 @@ google:		https://music.youtube.com/watch?v=
 anchor:		
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
+published:	false
+date: 		2024-11-24 06:00 +0200
 ---
 
-Zdravo. Čeprav tokrat začnemo s tarokom tretjim življenjskim obdobjem, se hitro posvetimo raketam za mir in sanjamo o lepšem svetu. Vprašamo se, kako bi bilo lahkona svetu manj vojn in ugotovimo, da bi bilo brez držav, narodov, religij in denarja precej lažje videti mir na koncu tunela, kot sedaj, ko za to ni "prave politične volje". 
+Zdravo. Ta teden se sprašujemo, kako zapolniti praznino v sebi in najdemo nekaj odgovorov, od katerih vsi stremijo v smeri neustavljivega napredka in bogatijo kitajski BDP. Ugotovimo tudi, da je pitje te dni precej stigmatizirano in da je bil včasih smisel praznikov, da kaj spiješ (in ne da se srečaš z družino), danes pa temu ni tako. 
 
-Ker o tem poje pesem **Johna Lennona** *Imagine*, je brez dvoma komad tedna, čeprav imamo ta teden v konkurenci še popevke Brucea Springsteena in Jacka Antonoffa, pa tudi dva napeva Henčkov se spomnimo. Tudi na podložena ramena ne pozabimo, o knjigi pa spet nič ne govorimo. Za na konec vam kličemo lepo se imejte in predvsem radi se imejte. 
+Seveda govorimo tudi o črnem petku, kibernetičnem ponedeljku, reikiju, lučkah v ljubljani, nesmrtnosti, Ovečenem Velepotežu (tokrat tudi o 4. poglavju 6. knjige), o tem, kdo bi zares rad bil nesmrten, o tem da nas vse povozi čas in naročninah, pretočnih storitvah in potroštništvu. Kdo je kot redkvica, od zunaj rdeč, znotraj pa bel, ... pa boste izvedeli v epizodi. 
 
 {% include player.html %}
 {% include poslusaj.html %}
