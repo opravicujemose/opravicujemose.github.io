@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Od zunaj rdeč, od znotraj bel ... kot redkvica"
-number: 	"#235 aka S06E32"
+title:  	"Na obisku na temni strani lune 🌘"
+number: 	"#236 aka S06E33"
 categories:	epizode
-permalink:	/235/
+permalink:	/236/
 tagline: 	"Zdravo. ♦️"
-image:		/assets/img/235@2x.jpg
-cover:		/assets/img/cover/235 img@2x.png
+image:		/assets/img/236@2x.jpg
+cover:		/assets/img/cover/236 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -16,12 +16,12 @@ anchor:
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
 published:	false
-date: 		2024-11-24 06:00 +0200
+date: 		2024-12-01 06:00 +0200
 ---
 
-Zdravo. Ta teden se sprašujemo, kako zapolniti praznino v sebi in najdemo nekaj odgovorov, od katerih vsi stremijo v smeri neustavljivega napredka in bogatijo kitajski BDP. Ugotovimo tudi, da je pitje te dni precej stigmatizirano in da je bil včasih smisel praznikov, da kaj spiješ (in ne da se srečaš z družino), danes pa temu ni tako. 
+Zdravo! Ta teden smo gostje v prvem slovenskem astronomskem podkastu, kjer v 42. epizodi govorimo bolj o Štoparcu kot o astronomiji, čeprav presenetljivo dolgo vztrajamo v vesolju. Dunja in Maruša sta si naše gostovanje zamislili kot kviz, kjer, za razliko od klasičnih kvizov, iščemo vprašanja namesto odgovorov. 
 
-Seveda govorimo tudi o črnem petku, kibernetičnem ponedeljku, reikiju, lučkah v ljubljani, nesmrtnosti, Ovečenem Velepotežu (tokrat tudi o 4. poglavju 6. knjige), o tem, kdo bi zares rad bil nesmrten, o tem da nas vse povozi čas in naročninah, pretočnih storitvah in potroštništvu. Kdo je kot redkvica, od zunaj rdeč, znotraj pa bel, ... pa boste izvedeli v epizodi. 
+Med vprašanji (in odgovori) zaidemo na teme, kot so iskanje smisla, različne teorije o vesoljih, delovanje potovanja po vesolju in še marsikaj. Prva štiri vprašanja so v naši epizodi, druge štiri pa najdete v današnji epizodi podkasta Temna stran Lune. 
 
 {% include player.html %}
 {% include poslusaj.html %}
