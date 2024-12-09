@@ -1,9 +1,9 @@
 ---
 layout: 	post
-title:  	"Na obisku na temni strani lune 🌘"
-number: 	"#236 aka S06E33"
+title:  	"Mislite nase, kupite vsa darila zase 🎁"
+number: 	"#237 aka S06E34"
 categories:	epizode
-permalink:	/236/
+permalink:	/237/
 tagline: 	"Zdravo. ♦️"
 image:		/assets/img/236@2x.jpg
 cover:		/assets/img/cover/236 img@2x.png
@@ -19,9 +19,9 @@ published:	false
 date: 		2024-12-01 06:00 +0200
 ---
 
-Zdravo! Ta teden smo gostje v prvem slovenskem astronomskem podkastu, kjer v 42. epizodi govorimo bolj o Štoparcu kot o astronomiji, čeprav presenetljivo dolgo vztrajamo v vesolju. Dunja in Maruša sta si naše gostovanje zamislili kot kviz, kjer, za razliko od klasičnih kvizov, iščemo vprašanja namesto odgovorov. 
+V tokratni epizodi štartamo z debato o modrem in belem e-Golfu, v kader padeta kit in lonec petunij, kar pričara pravo štoparsko žurersko vzdušje, medtem ko se prepotenim mislim prileže finska savna. Ključni pripomoček za preživetje v galaksiji je zopet zvita brisača, željo pa tokrat pošljemo daleč, daleč stran. 
 
-Med vprašanji (in odgovori) zaidemo na teme, kot so iskanje smisla, različne teorije o vesoljih, delovanje potovanja po vesolju in še marsikaj. Prva štiri vprašanja so v naši epizodi, druge štiri pa najdete v današnji epizodi podkasta Temna stran Lune. 
+Kmalu za tem, ko se spomnimo preteklih podvigov, ugotovimo, da je kaos v nas samih ter se zatečemo h knjigam za samopomoč, za konec pa vam želimo da se imate lepo in da se imate radi ... in da tokrat mislite nase in kupite vsa darila zase! 
 
 {% include player.html %}
 {% include poslusaj.html %}
