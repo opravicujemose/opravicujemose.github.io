@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Mislite nase, kupite vsa darila zase 🎁"
-number: 	"#237 aka S06E34"
+title:  	"Najboljši pangalaktični grlorez na svetu 🍸"
+number: 	"#238 aka S06E35"
 categories:	epizode
-permalink:	/237/
-tagline: 	"Zdravo. ♦️"
-image:		/assets/img/236@2x.jpg
-cover:		/assets/img/cover/236 img@2x.png
+permalink:	/238/
+tagline: 	"Zdravo. Tokrat se spomnimo, kje lahko izkusite naboljši pangalaktični grlorez na svetu. Blizu je, v Grčiji, na otoku Ios, v Slammer baru."
+image:		/assets/img/238@2x.jpg
+cover:		/assets/img/cover/238 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -16,12 +16,12 @@ anchor:
 listen:		
 youtube:	https://youtu.be/2g9pSSOCo7s
 published:	false
-date: 		2024-12-01 06:00 +0200
+date: 		2024-12-15 06:00 +0200
 ---
 
-V tokratni epizodi štartamo z debato o modrem in belem e-Golfu, v kader padeta kit in lonec petunij, kar pričara pravo štoparsko žurersko vzdušje, medtem ko se prepotenim mislim prileže finska savna. Ključni pripomoček za preživetje v galaksiji je zopet zvita brisača, željo pa tokrat pošljemo daleč, daleč stran. 
+Zdravo, tokrat začnemo z Martinom Strelom in njegovimi podvigi, a se kaj kmalu posvetimo božičnem in novoletnem spektaklu, ki v vaša ušesa prihaja v izteku letošnjega leta. Letošnja zadnji dve bosta očitno res nekaj posebnega, zato ju komaj čakamo tudi mi. Glasba. Ples. Odlične gostje, tudi gostje. Vrhunski voditelji. Gostujoči komiki. 
 
-Kmalu za tem, ko se spomnimo preteklih podvigov, ugotovimo, da je kaos v nas samih ter se zatečemo h knjigam za samopomoč, za konec pa vam želimo da se imate lepo in da se imate radi ... in da tokrat mislite nase in kupite vsa darila zase! 
+Po čudnem naključju se namesto o 4. poglavju 6. knjige (o njem letos že desetič) raje pogovarjamo o najboljšem zemeljskem približku pangalaktičnemu grlorezu, Aljo pove kako je bilo in kje je bilo to čudovito srečanje s kladivom (ne opeko, ampak blizu). Govorimo tudi o zmajskem dihu, kar pa zagotovo nima nobene zveze s Keithom Richardsom. Richards ne pride v novoletno oddajo. Mogoče Ronnie Wood. Mogoče. 
 
 {% include player.html %}
 {% include poslusaj.html %}
