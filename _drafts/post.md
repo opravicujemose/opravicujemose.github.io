@@ -32,10 +32,10 @@ Pristavimo še nekaj misli o božični romantiki, ki se v družinskem krogu pogo
 
 - [Bleachers - I Miss Those Days](https://www.youtube.com/watch?v=qQy12GH1Fl4) - pesem, v kateri pesnik poje: "I was lost, but I miss those days" in govori o dobrih starih časih 
 - [Bruce Springsteen - Glory Days](https://www.youtube.com/watch?v=6vQpW9XRiyM) - druga pesem, ki govori o dobrih starih časih
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
