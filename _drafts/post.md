@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Najboljši pangalaktični grlorez na svetu 🍸"
-number: 	"#238 aka S06E35"
+title:  	"Božič v družinskem krogu 🎄"
+number: 	"#239 aka S06E36"
 categories:	epizode
-permalink:	/238/
-tagline: 	"Zdravo. Tokrat se spomnimo, kje lahko izkusite naboljši pangalaktični grlorez na svetu. Blizu je, v Grčiji, na otoku Ios, v Slammer baru."
-image:		/assets/img/238@2x.jpg
-cover:		/assets/img/cover/238 img@2x.png
+permalink:	/239/
+tagline: 	"Zdravo. V izteku decembra se spomnimo na “Boga Potrošnika” in kitajski BDP, dotaknemo se družinskih ran, ki se ob praznikih pogosto prepletajo z alkoholom, ter napovemo prihajajočo novoletno oddajo."
+image:		/assets/img/239@2x.jpg
+cover:		/assets/img/cover/239 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -19,9 +19,9 @@ published:	false
 date: 		2024-12-15 06:00 +0200
 ---
 
-Zdravo, tokrat začnemo z Martinom Strelom in njegovimi podvigi, a se kaj kmalu posvetimo božičnem in novoletnem spektaklu, ki v vaša ušesa prihaja v izteku letošnjega leta. Letošnja zadnji dve bosta očitno res nekaj posebnega, zato ju komaj čakamo tudi mi. Glasba. Ples. Odlične gostje, tudi gostje. Vrhunski voditelji. Gostujoči komiki. 
+Zdravo. Tokrat se spustimo globoko v decembrsko vzdušje, ki sicer diši po prasketanju ognja, darilih in denarju, a se nam zdi, da je naporni mesec že končno za nami, čeprav smo (nekateri) decembersko utrujenost čutili že od avgusta. Pogovarjamo se o tem, kako nas od kapitalizma vsiljeni "Bog Potrošnik" sili v neskončni nakupovalni vrtiljak, vse to zaradi neustavljivega napredka ali z drugimi besedami: za kitajski BDP gre. 
 
-Po čudnem naključju se namesto o 4. poglavju 6. knjige (o njem letos že desetič) raje pogovarjamo o najboljšem zemeljskem približku pangalaktičnemu grlorezu, Aljo pove kako je bilo in kje je bilo to čudovito srečanje s kladivom (ne opeko, ampak blizu). Govorimo tudi o zmajskem dihu, kar pa zagotovo nima nobene zveze s Keithom Richardsom. Richards ne pride v novoletno oddajo. Mogoče Ronnie Wood. Mogoče. 
+Pristavimo še nekaj misli o božični romantiki, ki se v družinskem krogu pogosto preplete z alkoholom in (na žalost) družinskimi ranami, ker vemo, da je težko najti družino, ki ne nosi vsaj kakšne družinske brazgotine. Še enkrat napovemo novoletno oddajo, ki prihaja naslednji teden in zadnjič govorimo o 4. poglavju 6. knjige. 
 
 {% include player.html %}
 {% include poslusaj.html %}
