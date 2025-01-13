@@ -1,19 +1,19 @@
 ---
 layout: 	post
-title:  	"Gašper, Melhior in Boltežar 👑"
-number: 	"#241 aka S06E38"
+title:  	"Mokra majica in skrite misli 💭"
+number: 	"#242 aka S06E39"
 categories:	epizode
-permalink:	/241/
+permalink:	/242/
 tagline: 	"Zdravo. \\\\\\\\\\" 
-image:		/assets/img/241@2x.jpg
-cover:		/assets/img/cover/241 img@2x.png
+image:		/assets/img/242@2x.jpg
+cover:		/assets/img/cover/242 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
 pocket:		
 google:		https://music.youtube.com/channel/UCIEeoGykzM542RWLwgCDoJw
 # google:	https://music.youtube.com/watch?v=_oPGyT56S7M
-anchor:		https://creators.spotify.com/pod/show/opravicujemose/episodes/Gaper--Melhior-in-Boltear-e2t3eks
+anchor:		
 listen:		
 youtube:	https://youtu.be/@opravicujemose
 published:	false
