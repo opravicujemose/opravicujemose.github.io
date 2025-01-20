@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Mokra majica in skrite misli 💭"
-number: 	"#242 aka S06E39"
+title:  	"To se bo končalo v solzah 😢"
+number: 	"#243 aka S06E40"
 categories:	epizode
-permalink:	/242/
+permalink:	/243/
 tagline: 	"Zdravo. \\\\\\\\\\" 
-image:		/assets/img/242@2x.jpg
-cover:		/assets/img/cover/242 img@2x.png
+image:		/assets/img/243@2x.jpg
+cover:		/assets/img/cover/243 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -17,12 +17,14 @@ anchor:
 listen:		
 youtube:	https://youtu.be/@opravicujemose
 published:	false
-date: 		2025-01-13 06:00 +0200
+date: 		2025-01-20 06:00 +0200
 ---
 
-Zdravo. V prvi epizodi v letu 2025 smo z vami Gašper, Melhior in Bolteržar, ki se tokrat pogovarjamo o vitezih, stripih in novoletnih zaobljubah. Povemo vam, da boste tudi letos preveč zapravali za zaobljube, ki jih ne boste držali, zato predlagamo pol ure hoje dnevno in poslušanje podkastov vmes. Spet govorimo o domačih živalih, Zi pove, katere pasme kinologi odsvetujejo, dodamo pa še, da ne kupujte psa kot darilo, oz. če da se pred nakupom živega bitja preizkusite s kakšno lončnico (ali dvainštiridesetimi). 
+Zdravo! V tokratni epizodi se najprej z nostalgijo ozremo na različne načine shranjevanja podatkov – od disket in papirja do sodobnih trdih diskov. Kmalu pa se spomnimo, da je prav danes »najbolj depresiven ponedeljek v letu« in upamo, da ga ob poslušanju naših (rahlo zmedenih) razglabljanj o življenju, vesolju in sploh vsem preživljate vsaj malce bolj veselo. 
 
-Ker smo v začetku leta, povemo, da piknik letos bo. Govorimo tudi o številki 988 in tetekstu, koncu sveta (ki, če pride, naj pride zjutraj ali čez vikend, da človeku ne bo treba po nepotrebnem v službo) in vam želimo leto polno ljubezni (rad' se 'mejte), sreče (lepo se 'mejte) in mirnosti (samo brez panike). 
+Med drugim se poigravamo z idejo, ali bi prihodnje tehnologije morda lahko omilile negativna čustva ali celo pomagale pri zdravljenju depresije. Omenimo tudi smučarske skakalnice, solze, Marvina, pajke, metamorfoze, morje in še marsikaj.
+
+Če potrebujete pomoč ali le pogovor, se obrnite na nekoga, ki mu zaupate – in ne pozabite, da tudi na najsivšem dnevu lahko najdete kanček svetlobe. 
 
 {% include player.html %}
 {% include poslusaj.html %}
