@@ -8,6 +8,8 @@ permalink: /transkript/
 
 
 [Epizoda 199](#199) • [Epizoda 198](#198) • [Epizoda 197](#197) • [Epizoda 196](#196) • [Epizoda 195](#195) • [Epizoda 194](#194) • [Epizoda 193](#193) • [Epizoda 192](#192) • [Epizoda 191](#191) • [Epizoda 190](#190) • [Epizoda 189](#189) • [Epizoda 188](#188) • [Epizoda 187](#187) • [Epizoda 186](#186) • [Epizoda 185](#185) • [Epizoda 179](#184) • [Epizoda 183](#183) • [Epizoda 182](#182) • [Epizoda 181](#181) • [Epizoda 180](#180) • [Epizoda 179](#179) • [Epizoda 178](#178)
+---
+[Epizoda 000](#000)
 
 #### Transkripti iz Spotifya, če je treba kej poiskat. ;)
 
@@ -31177,3 +31179,403 @@ Zdaj vi, saj bi mi tudi vsaj vemo.
 
 ### [177](https://podcasters.spotify.com/pod/dashboard/episode/e2ak308/details)
 ## NI ŠE SKOPIRAN, oz še ni transkrajban
+
+
+### [177](https://podcasters.spotify.com/pod/dashboard/episode/e2ak308/details)
+##
+
+## Normalnost se včasih (tudi) ne posreči
+###### 178
+
+## Uvod, v katerem smo našli ime
+###### 000
+
+A smo, a snemamo snemamo recording.
+
+A že snemamo?
+
+Ja, ja, ja,
+
+ja. Jaz tudi snemam. Evo,
+
+snemamo vsi.
+
+Daj po pa samo en No, ti imaš intro, začni.
+
+Ja, ok. Jaz imam intro. Živijo. Poslušate podcast o eni knjigi, enem planetu, ki bo šel kmalu po gobe, vsaj po zgodbi te knjige in zgodbi o tej knjigi. Knjigo beremo in se o njej pogovarjamo trije na ogljiku zasnovanih humanoidi. Mi smo
+
+Aljo,
+
+Zi
+
+in Peli. Kakor ste najbrž ugotovili, se bomo pogovarjali o edini trilogiji v petih oziroma šestih delih. Čeprav a šesti del, ki ga je un ta drugi model napisal, to šteje?
+
+Jaz nekako ne priznavam, ne.
+
+Ne zamijem, da je OK. V petih delih knjiga se ni začela kot knjiga, ampak kot radijska igra. Napisal je Douglas Adams v danih 70. Vmes je postala TV serija računalniška igra ne igrica, še kar zanič film in kot knjiga prerasla v kult. Am bje pa da bo tudi TV serija samo Res.
+
+Ja. Ja. Hulu jo snema.
+
+Res
+
+samo zdaj je meni se zdi post pond, ker pač korona.
+
+Aha. Ok.
+
+Ja, vsak teden obdelamo približno eno poglavje oziroma kakor nam bo sed nekje. In ker en poglavje na teden res ni veliko. Lahko tisti, ki še niste brali knjige, najbrž vas ni veliko, berete z nami. Tisti, ki pa vas že, ki pa že dolgo cajta niste brali knjige, pa lahko še enkrat berete z nami. Po bomo pa mi vsak teden kakšno komentirali pa kakšno pametno ali pa nepametno rekli. Če ti je ta podcast všeč, ga lahko deliš, oceniš ali podpreš. Več informacij na hvala zavoser ribbe.si.
+
+Pod prvo se moramo najprej zedinit glede imena, ne, ker ga še vedno nimamo.
+
+Dajmo.
+
+Ja, pač mora biti nekaj prepoznavanega v zvezi s knjigo, ne.
+
+Ja, se strinjam.
+
+Da da tudi tisti, ki pač niso nikoli bili v stiku zo, da nekako na prvo žogo bi se povezavo s knjigo najli. Ne.
+
+Ja, to sejam.
+
+Tudi jaz. Tvoj predlog
+
+brez panike recimo je najbolj znan slogan te knjige bi bil recimo zanimiv.
+
+Ja, jaz če bi če bi šli na brez panik, brez panike bi ga podaljšal samo brez panike, ker se ko je lepši prevod. Aloj Alojus je prevedel povedat, da da smo da smo Aloza po mailali, mislim po mail vprašali, kako se mu zdi, pa je rekel, da lahko Ampak da moramo vprašat, če je založbo Pivec, ki trenutno ima avtorske pravice čez za štoparca. Tako da,
+
+če še niste brali knjige, si jo kupite pri založbi Pivec ali si jo pa sposodite na Biblusu, ker je v okviru knjižnice jo lahko tudi vsi sposodite na vaših napravah. Tako da to je to.
+
+Tako da, če kdo posluša od založbe Pivec, mi tudi kaj rabimo. No, imamo sicer, ampak le ko ne bi se brali novih izvodov,
+
+no. Ta stare imamo, ne, samo to so tehničke založbe.
+
+Ja, to je ziher kaj narobe ampak res, res ne vem. Kako zgleda ta novi, ampak ta stari, jaz ko sem jih bral kot muc, so mi bili fonti dosti veliki. Zdaj pa, če preb, a veš, če primem tole, ne,
+
+ampak točno to. Jaz sem tudi zdaj prejel,
+
+če pridem tole mater, da moram malo na daleč gledat, ne. A veš, prvo poglavje. Ja, brez očalka sem.
+
+Ti imaš to ti imaš to v knjigah,
+
+kaj
+
+nimaš ono, ki je bila ena, ena knjiga, mislim, ki so bile vse iz
+
+Aha, ti imaš teš,
+
+ker jaz imam pač uno, ki je od tehniške založbe, ki je bila
+
+ena iz tako mislim, jaz jo imam kot na nočni umar Tako kot Biblijo, a veš, ko si daš lahko trakce noter, pa če te prideš do kakšnega problema v življenju, lahko odpreš na strani pa dobiš odgovor ven.
+
+Ja,
+
+ki si ga lahko apliciraš na sodobno življenje, ne, in na vse skupaj. Tako kot imajo recimo, ko v hotelu dobiš Biblijo, ne, da si pol zvečer kakšno vrstico prebereš. Tle pri meni je v bistvu štopert. To to
+
+to je kar dobro. Ja, v bistvu, ker jaz, če hočem ne kakšen odgovor najt moram si moram izbrat knjigo.
+
+Je v kateri knjigi? V kateri že to, a veš, so
+
+kje, kje je sendviče delaci na koncu vesolja ali se b
+
+to bi mogla založba tudi razmislit, da bi to spravili v v en format pač malo debelje.
+
+To je res, ker kakor vem, imajo oni knjigo po knjigo, ne?
+
+Ja, isto is tiste k ki so stare
+
+se pravi bi mogli v bistvu naš predlog založbi pivce je, da naredijo še en ta kompleten trilogij petih delih, ne.
+
+Ker zmer nismo imena izbrali, razen OK. Samo brez panike oziroma brez panike o življenju, vesolju nasploh vsemu. 42.
+
+Ja.
+
+Am
+
+No, pretežno neškodljiva.
+
+Pretežno neškodljiva. Tudi ena opcija
+
+pač opis zemlje, ki je, ki jo je pač
+
+štoparski vodnik nudil.
+
+Tako mogoče tudi to ne.
+
+Ja. A ni bilo, a ni bilo v v v prvem opisu?
+
+Je bila neškodljiva, ampak potem je potem je Ford Perfectu v v svojem bivanju na zemlji je to blazno razširil na pretežno neškodljivo.
+
+Tako da ja.
+
+Ja. Ja. OK. To je tudi ena opcija. Čeprav No, meni se še zmeraj zdi ime o življenju, vesolu in sploh vsem je tako fajn, ker mogoče, če nas pa kdaj zanese, da se ne pogovarja samo o knjigi, ne. A veš, je je pa tako širok, da
+
+se lahko tudi o čem drugem pogovarjaš.
+
+Ja,
+
+ja, saj pol imaš pa tle že spet, a veš, zdaj to bi bil pa res čisto spoiler alert, ne? To bomo pustili. To brezveze.
+
+Zakaj? Saj se lahko rečemo spojerat pa je sva rešena.
+
+Ja, a ne, da bi pač konec knjige, kjer so oznanjene stvarnikove besede, ne oprav Pripličujem se vam za vse nevšečnosti, ne? Ker to so,
+
+ko so romali gledat, kaj je stvarnik pač
+
+povedal, ne. In je
+
+ta bil neonski napis. Opravičujemo se vam za vse nevšečnosti, ne. To,
+
+to je v bistvu ne, ker je Bog zajebal, saj se je opravičil, ne? Saj
+
+ja, je rekel, lej, sorry. Lej,
+
+mislim lej, saj ne moreš pričakovat od nekega tipa, ki kao vse zna vse naredil, da da bo res čisto brez napake vse skupaj naredil, ne. Ja, absolutno. Ja, saj mogoče pa to res ni tako švoht, ne.
+
+Torej, predlogi so 42 o življenju ves, vesolju nasploh vsem.
+
+Pretežno neškodljiva.
+
+Pretežno neškodljiva. Opravičujemo se za vse nešečnosti.
+
+Čeprav p****, opravičujemo za se za vse. Ah, p****. Zajebate se izgovorit težko reč.
+
+Opravičujemo se za vse. Ne, a ne? Dejan, da ti probaj.
+
+To je podcast. Opravičujemo se vam za vse nevšečnosti.
+
+Verjetno
+
+mislim. se v končni fazi pa tudi kar se tega podcasta tiče sem že vnaprej vse nešečnosti, ki bi sledile.
+
+Ja, to je tudi res. Jaz sem kar zao.
+
+Ja, lahko. Ja, če če če smo vsi zaza, če smo vsi za.
+
+Zaj bi mogli Ja, zdaj če bi hoteli čisto, bi mogli it to v knjigo pogledat najbrž, če je čisto,
+
+če res nim tako
+
+ne je je, sigurno je, ampak koliko točno koliko točno je je pa to citat pa ne bi vedel. No,
+
+saj mogoče je pa še boljše, da ni čisto citat.
+
+Mhm.
+
+Ne, meni se ni to kul.
+
+To to je to v bistvu nad o življenju vesolju in sploh vsem, a veš. To je
+
+res.
+
+Ja, da v bistvu
+
+bitje, ki je po vseh, ki je po vseh knjigah in po vseh pričevanjih je nezmotljivo, ne, se je v bistvu opravičil, ne. Sorry.
+
+Gj.
+
+To to je tisto, kar daje življenju
+
+to je to. Ja
+
+nekaj, ne.
+
+Ja.
+
+Sisel, ne. Ja. Ne, pa tudi, a ne, saj to je pač čisto človeško, ne. Mislim in človeško in vse skupaj, ne. Ja, seveda. Saj Bog
+
+Bog je pač ustvarjen po člove oziroma ne pustimo,
+
+ne. Ja, ne. V bistvu Bog je ustvarjen pri človeški podobi. Se strinjam.
+
+Ja, je pač ne motit, motit se je človeško in
+
+ali božansko, mislim
+
+tako. In je pač lepo, da se pač opravičiš. Če nekaj narobe narediš, je lepo, da se opravičaš. In tudi lepo, da se pač z njegove strani, da se je opravičil, ne, za tole, ker
+
+imamo
+
+e
+
+OK, imamo ga. Opravičujemo se za vse nevšečnosti. Se pravi, naš Twitter handle bo najbrž, če ni, če ni že zaseden. Opravičujemo se.
+
+U leta
+
+ne, to ni, to ni prav pogost človeški izraz, tako da ne bo zasedenje se.
+
+Ja, se pravi bo domeno. Opravičujemo se.si tudi in na tem mestu še enkrat polagam. na srce, če nas hočete, hočete podpret, ocenit ali pa kakorkoli, pojdite pa na drugo domeno. Hvala za vse ribe.si. Tako da to je to. Prv prvi del smo oddelali. Zdaj gremo pa na gospoda, ki je to napisal, ne?
+
+Da glas Adamc.
+
+Mhm. Noben, noben. V zapiskih nimam, kdaj se je rodil, ampak kakor se spomnim, se je rodil en leto eno leto preden so ugotovili, da DNA nekaj je. se je na zemlji. To vemo.
+
+Ja. Ok. Ja,
+
+v Cambridgeu leta 52 bom rekel tako na hitro.
+
+Daj malo da ti bodo odpustili to nedosledno.
+
+Ne zavlačujem, ker s pomočjo interneta lahko najdemo to informacijo. Zdaj
+
+ne, ker boo pol videli, da smo bili nepripravljeni.
+
+52
+
+O
+
+52 iz prve. Iz prve. Iz prve. Ja, ja, ja.
+
+Letnik mojega fla kar.
+
+Na žalost je že premenil, ne?
+
+Ja, na žalost.
+
+Na žalost je res premenljiv. Baj, da je bil zelo velik možakar, ne? Jaz sem samo podatek v v fitih najdel,
+
+ja.
+
+Jaz sem 6,4, kar pomeni, da je više od mene.
+
+196 je.
+
+s***. A bom jaz res vso to poved vso to zgodovino povedal, ki sem jo danes prebral? Ne, ne bom.
+
+Ne.
+
+V glavnem, ko je bil majhen, je bil pač torast mulc. Ampak eno stvar je imel pa ena stvar si je pa zapomnil, da je, da da mu je res dobro šla in to je bila pisanja. Pol, ko je končal šolo, je šel malo štopat po Evropi in s sabo je vzel, ne, oziroma ni vzel, ukradel je štoparski vodnik po Evropi.
+
+A si ni sposodil? Ukradel je in nikoli ni lagal, da da si ga izposodil, ker lahko bi rekel, da bi si da si ga izposodil, ampak lej, enostavno je priznal, saj 5 funtov je bil, samo 5 funtov je bilo takrat veliko, ne.
+
+Ja.
+
+Ja, saj to vidiš, ne. Recimo, ko imaš v knjigi, ne, ko sta ko sta šla na pivo, ne, on je naročil šest vrčkov piva, ne, in plačal s petimi funti in Kelnerju rekel, naj obdrži drobiš.
+
+In Kelar je bil zelo ves
+
+in Kelner je bil ful vesel, ne. In to iz tega vidiš, da je znanstvena fantastika, ne. Da ti v Angliji recimo plačaš šest šest vrčkov piva s petimi funti, pol veš, da je nekaj narobe, ne.
+
+Če zdaj to ratal, vsvaka čast.
+
+To je res fantastika. Ja, v glavnem in pol je blodil po Evropi in enkrat je bil prebit kot Kanta nekje v Insbroku na nekem travniku in je gledal zvezde. To smo že zadnjič ugotavljali, da najbrž ni samo ne bil sam alkoholiziran, da niso bili samo vrčki piva.
+
+Niso bili samo vrčki piva, ne. In je razmišljal, nekdo bi mel napisat štoparski vodnik po goreji, ne. To je bilo leta 71, ne. Pol je pa rabil še nekaj cajta, da je nekako ugotovil, da tega drugega nekdo ne bo, ne, kot da bo on sam. Baj, da je začel je pisat knjige. knjigo, ki ni bila knjiga, ampak je bila radijska igra in po radijski igri je kar na hitro se star obrnila in kar naenkrat je prešel v legendo.
+
+M
+
+kaj kje smo zdaj?
+
+Ja, nič. Zdaj imaš še dva dni za zrezat.
+
+Ja. OK. Ena zanimiva trivija, ki sem jo, ki sem jo našdel, da je bil v nekem čudnem naključju, ne? Ful dober v Kriketu, ampak
+
+ja, ki ga v bistvu v knjigi opisuje kot totalno nezanimivega, ne.
+
+Se pravi pol z te ki ga je dal noter, ki se mu je res zdelo kul.
+
+Ko sem ja, ker očitno je nekaj očitno vem. Samoz jaz jaz sem šel enkrat gledat Kriket in sem ga dojel tako, kot on ga opisuje v knjigi kot nezanimivega.
+
+Ja. Ja, res
+
+imaš premore vmes za čaj.
+
+Jaz moraš biti anglež.
+
+Če imaš premore za čaj pa sendviče, ti že vse pove. No
+
+ampak si je pa pri ragbyju en trening ragbija je imel in si je sam razbil nos na lastnem kolenu na prvem prvem in zadnjem treningu v Ragu.
+
+Douglasu je pol ratalo, ne? Prvo knjigo mu je res ratalo, pol je prišel A a ni bilo tako, da je prve tri kar na hitro naklestal skupaj v roku dveh let eno za drugo, četrta je prišla pa z z daljšim zamikom, ne?
+
+Tako.
+
+In ko smo bili glih pri četrtih, pojdimo na naslednji razdelek, kako smo se srečali z Douglasom, ker jaz sem se namreč srečal s četrto knjigo.
+
+OK.
+
+Po nekem čudnem naključju sem prišel v šolo in je ena moja sošolka brala eno knjigo, ki je imela en čuden cover gor, ta od tehniške založbe. Kaj pa ti to bereš? S Primor, s Primorske je bila Douglas. O kako kul sem si sposodil in sem mislim sem rekel daj malo pogledat super je nek science fiction in sem začel brat v ne vem katerem poglavju ampak poglavje je bil točno se spomnim Rob Mcena je bil čisto nevarni voznik tovornjaka
+
+Bog Dežja
+
+ja in meni se je lej in po sem v bistvu sem zaplenil ji knjigo in prebral celo četrto knjigo po sem šel pa v knjižnico prebrat še za prve tri in pol to ponavljal še naslednjih, ne vem, 10 let ziher. Pa vidva.
+
+Ja, meni je to en jaz sem drugače nisem glih nek fan tega te znanstvene fantastike, ampak mi je sodelavec v službi mi je pač razlagal o nekih zgodbah iz te knjige, ki so bile med določeno populacijo že kar ponarodele, ne. In sem rekel, ok, pa to moram jaz zdaj res, če je to res tako hudo, moram jaz to nekaj prebrat. In sem si šel pač v knjižnico sposodit in Na prvo žogo me je bolj pritegnil v bistvu njegov stil pisanja, ki mi je bil pač ta na kakršen način na začetku je knjiga napisana, mi je bila turbo smešna in sem pol vztrajal, no in potem ko si pač vse te stvari si te stvari začneš majčkeno z drugačnimi očmi gledat, mi je bila knjiga top in potem je večkrat prišlo branje in to je to to.
+
+Ja, jaz pa v bistvu pri Bogu sem spomnim no pri Bob mogoče si tudi Alo ti rekel mi da je kul knjiga. Pa sem pol rekel u spomnim se, da sem šel v knjižnico.
+
+Zna bitno sem šel v knjižnico in sem si jo sposodil. To to je dejstvo. Več pa ne vem. Mislim verjetno sem nekje slišal. No, zdaj pa nimam neke take kul zgodbe. Zaplenil sem sošolki ali
+
+Mislim saj ne vem, če sem zares zaplenil. Saj a veš k samo meni se je zdelo, da sem da sem tisto, da sem jo kar pograbil pa ne nehal brat, ker ne. Ja,
+
+vsak po svoje se je srečal s knjigo, ne. Ampak pri vsakemu je pa pustila velik pečap, ne. Jaz pol, ko sem enkrat začel brat od začetka, ne, me je že ta uvod v bistvu, ki ni prvo poglavje, ampak
+
+ne, ker je samo uvod.
+
+Samo uvod je.
+
+Zaradi tega, ko to prebereš pa če ti je pač ta slog všeč, lej, bereš naprej.
+
+Mhm.
+
+Ja, točno to.
+
+In mi smo se odločili, da bom, da bi kar se enih teh lepih delov knjige povabili tudi poslušalcem in pos poslušalke, da preberejo kakšen del knjige, nam ga pošljejo na email, ki ga bomo objavili v naslednj oziroma bo ne bo v zapiskih. Bo v zapiskih, zapiski za to epizodo pa nimamo nobenega, ne a čemo prosit kakšnega pisatelja, da nam da nam prebere uvod?
+
+Hvala. Pisatelj.
+
+To me, to me zdaj spomne, ko sem na ko sem na dedka Mraza čakal, ko sem bil majhen. A čemo poklicat dedka Mraza?
+
+Dedek Mraz,
+
+dajmo pokličimo otroci dedka Mraza. A pa dedek v s pižamo?
+
+Dobro, ni še siv. Ni še siv.
+
+Ni še siv. Ne bi si pižamo tako shujšil, da sploh ni več dedek vz samo en park.
+
+s***. To smo slabo zaparali.
+
+Super je bilo. To je to. To mora iti vse not.
+
+V glavnem, pižama, a nam lahko prebereš uvod v štoparski po galaksiji? Prosim.
+
+O, boste vi videli fantje? ki vas bo en parkel decembra sketno okoli jagov. Ampak ja, najlepša hvala za povabilo in z veseljem preberem uvod v štoparski vodnik po galaksiji iz izvoda štoparskega vodnika po galaksiji, ki ga je podpisal ma Aloj Kodre. Ne da bi se hvalil, ampak ja, pojdmo tam zunaj v neraziskanih zaploth nekega popolnoma nemodernega predela galaksije onkraj zahodnega spiralnega rokava plava majhno neugledno rumeno sonce. Okrog njega kroži v razdalji kakih 92 milijonov milj skrajno nepomemben modrozelen planetič, katerega iz opic izvirajoče življenjske oblike so tako obupno zaostale, da se jim zdijo digitalne zapestne ure kar bistra pogruntavščina. S tem planetom je bolje rečeno je bilo nekaj narobe. Večina ljudi na njem je bila večinoma nesrečna. Seveda so se številni prebivalci planeta spoprejeli s tem problemom. V rešitvah, ki so jih predlagali, pa je vedno znova šlo za premetavanje majhnih zelenih koščkov papirja, kar je čudno. Saj Navsezadnje ti zeleni papirčki niso bili prav nič nesrečni in tako je težava ostajala. Precej ljudi je bilo hudobnih in večina nesrečnih, tudi tisti z digitalnimi urami. Čedalje številnejši so bili tisti, ki so videli poglavitno napako v odločitvi, da je treba zleesti iz dreves na trdna tla. Nekateri so trdili celo, da je bil položaj zavožen že na drevju in da predvsem nihče ne bi smel zlezti iz morja. In potem je nekega četrtka, skoraj 2000 let po tistem, ko so nekega človeka pribili na drevo, ker je govoril Hm, kako lepo bi bilo, če bi bili za spremembo prijazni med seboj. Neko dekle, ki je samo sedelo v majhni kavarni v Rickmworthu, nenadoma spoznalo, kaj je bilo ves čas narobe. Posvetilo se ji je, kako bi lahko spremenili svet v prijazen in srečen kraj. Tokrat je bila rešitev prava, popolnoma izvedljiva in po vrhu ne bi bilo treba nikogar nikamor pribiti. Še preden pa je mogla svojo zamisel komu sporočiti, se je na žalost pripetila strašna bedasta katastrofa in rešitev je bila zavedno izgubljena. Tole ni zgodba o dekletu, je pa zgodba o tej strašni bedasti katastrofi in nekaterih njenih posledicah. Je tudi zgodba o knjigi, o knjigi z naslovom Štoparski vodnik po galaksiji. To ni zemeljska knjiga. Na zemlji nikoli ni izšla in do te strašne katastrofe noben zemljan ni vedel zanjo. Pa kljub temu kar pomembna knjiga. Prej ko ne najpomembnejša knjiga, kar jih je prišlo iz velikih založniških hiš malega voza, o katerih prav tako noben zemljan še ni nič slišal. Ni le skrajno pomembna knjiga. je tudi veličastna uspešnica, bolj priljubljena od nebesnega priročnika za domačo rabo, bolj iskana kot še 53 reči, ki jih lahko počnete v breztežnosti in bolj izzivalna kakor trilogija filozofičnih potikan Uluna Kulhupida. Kje se je Bog zmotil? Še nekaj največjih božjih napak in kdo pa sploh je ta Bog. V številnih bolj sproščenih civilizacijah zunanjega vzhodnega roba galaksije je štoparski vodnik že izpodrinil veliko enciklopedijo galaktiko v vlogi standardnega odlagališča. znanja in modrosti. Kajti čeprav je marsikje pomanjkljiv in vsebuje precej apokrifnega ali pa vsaj divje netočnega, prednjači pred starejšimi poljudnejšimi deli v dveh pogledih. Prvič je malo cenejši in drugič na platnicah nosi v velikih prijaznih črkah napis samo brez panike. Vendar se zgodba o tem strašnem bedastem četrtku, zgodba o njegovih izjemno hudih posledicah in o tem, kako so te posledice nerazrešljivo prepletene s to pomembno knjigo, začne prav preprosto. Začne se s hišo.
+
+Hvala, pižama. Mene samo zanima, kaj je ta deklica si izmislila zdaj po ne 2000 letih, ko so ungga a modela na križ prebili, ne? To bi bilo zanimivo vedet, ne? Mislim, a je mislil kaj, da je vedel, ne? Ali je samo vrgel to foro noter, ker vemo, da bo pač zemljo glihkar razneslo, ne? Mislim, ne, ne vemo še vsi spoler alert pa ne. Ne, ne, saj ona je prišla do enostavne rešitve, ne.
+
+Ja. In mene je zmeraj zanimalo, kaj je ta enostavna rešitev, a veš.
+
+Ja, saj to je to, ne.
+
+Saj si si, saj si si na koncu knjige prebral pač am si prebral tiste, ki je bila na koncu napisan, kaj je ne v bistvu iz iz katere iz katere stvari se edine Douglas Adams v tej knjigi ne norčuje in to je ljubezen.
+
+To je res. Ja.
+
+In to je to je tista stvar do katere je mogoče ta punca prišla, do katere je tudi Jezus prišel, recimo ta, ki so ga pribili pred 2000 leti na križ, ne, da če bi se imeli radi, mogoče pač ne bi bilo veliko tega sranja, ne.
+
+Pol pol teh pizderine je bilo, kar jih imamo zdaj, pa levo pa desno, pa
+
+tako, da je verjetno prišla do istega do istega odgovora, ki pač ta tip in spet se je nekaj spižalo, ne.
+
+Ja, samo v bistvu imela prav, ne. Tako da dajmo končat z ljubeznijo. To je to. Am Ljubezen bo zmagala vse.
+
+Aja, sor. Sem mis druga serija. Ljubezen nam je vsemu pokupil. Druga serija.
+
+Se mislil hotel kaj zapeljat. Jaz ne vem. A
+
+ja ja, saj saj. Ok. Ne, samo v bistvu imaš prav. Ja ne. Ja, v bistvu najbrž upam, da je imela v glavi ljubezen, ne. Spoštovanje do človeka, vse te stvari, ki lahko naredijo svet lepši, ne. Tako, dajmo se imeti radi pa dajmo brisačo okrog ramena ruknit vsaj 25. maja, če ne tudi če kakšen drug dan. Baje prav pride brisača tudi na morju.
+
+Baje sem slišal.
+
+Ja, sicer ne vem kako bo letos z morjem, ampaknici.
+
+Zdaj boš naredil avtro.
+
+U, jebemi. Kaj pa ne rečem, najlepša hvala za poslušanje in nasvidenje.
+
+Živijo.
+
+Ajde. Živijo.
+
+Hvala za vse ribe.si. A to imamo že domen a je ziher
+
+kupit morja ok mislim mis valda ja ok
