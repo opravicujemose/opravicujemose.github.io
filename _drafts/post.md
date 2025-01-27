@@ -15,7 +15,8 @@ google:		https://music.youtube.com/channel/UCIEeoGykzM542RWLwgCDoJw
 # google:	https://music.youtube.com/watch?v=_oPGyT56S7M
 anchor:		
 listen:		
-youtube:	https://youtu.be/@opravicujemose
+youtube:	https://www.youtube.com/@opravicujemose
+# youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
 date: 		2025-01-20 06:00 +0200
 ---
@@ -31,6 +32,8 @@ V epizodi boste lahko slišali tudi o koči na plaži, Milgramovem testu, vegans
 
 #### Zapiski
 
+- []() - 
+- []() - 
 - []() - 
 - []() - 
 - []() - 
