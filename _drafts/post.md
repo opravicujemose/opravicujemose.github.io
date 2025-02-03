@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Kondomi za večkratno uporabo 🚀"
-number: 	"#244 aka S06E41"
+title:  	"Španski borci 🇪🇸"
+number: 	"#245 aka S06E42"
 categories:	epizode
-permalink:	/244/
+permalink:	/245/
 tagline: 	"Zdravo. ///////////////////////////" 
-image:		/assets/img/244@2x.jpg
-cover:		/assets/img/cover/244 img@2x.png
+image:		/assets/img/245@2x.jpg
+cover:		/assets/img/cover/245 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
