@@ -21,9 +21,10 @@ published:	false
 date: 		2025-01-20 06:00 +0200
 ---
 
-Zdravo. Živahni klepet o življenju, vesolju in sploh vsem tokrat začnemo z glasnostjo, nadaljujemo z misijo na Mars, ki nas čaka v svetleči prihodnosti, ki se jo tako želimo. Opozarjamo, da kondomi NISO za večkratno uporabo, zato je tokratni naslov epizode še bolj zavajajoč (še posebej, ker se spet pogovarjamo o mokrih maijcah). 
+Zdravo. Tokrat razglabljamo o tem, kako slišati umetno ustvarjene posnetke, ki jih generira umetna inteligenca, ne moremo mimo ideje o dvoglavem in triokem predsedniku vlade in se ustavimo na družabnih omrežjih. Aljo ugotovi, da kljub temu, da si na internetu v svoji anonimnosti lahko kdorkoli, se večina ljudi odloči, da bodo kreteni. 
 
-V epizodi boste lahko slišali tudi o koči na plaži, Milgramovem testu, veganske usnju, kljub zabavi in divjim štosom je vredno ponoviti: varna spolnost je zelo pomembna in je vredno biti pozoren če jo raziskujete na tem planetu ali na sosednjih. Aja, še to: če so vas ugrabili vesoljci, se nam javite. Discord, dopisnice ali družabna omrežja čakajo, da se nam oglasite. Hvala! 
+Od družabnih omrežij, ki bi jih lahko poimeovali *Velepoteževo*, se pogovor preseli k vprašanjem patriotizma, naroda in ostalih konceptov, ki smo si jih ljudje dobesedno izmislili, za dalj časa pa se ustavimo pri hipotetičnem vprašanju, ali bi bili pripravljeni iti v vojno za svojo državo. 
+
 
 {% include player.html %}
 {% include poslusaj.html %}
