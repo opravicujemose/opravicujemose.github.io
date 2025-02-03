@@ -1,0 +1,18 @@
+current directory: /Users/davorinpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/davorinpavlica/.rubies/ruby-3.4.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/davorinpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250203-26384-r1ap6y sitelibdir\=./.gem.20250203-26384-r1ap6y clean
+
+current directory: /Users/davorinpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250203-26384-r1ap6y sitelibdir\=./.gem.20250203-26384-r1ap6y
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/davorinpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250203-26384-r1ap6y sitelibdir\=./.gem.20250203-26384-r1ap6y install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20250203-26384-r1ap6y/racc
+
+current directory: /Users/davorinpavlica/Documents/GitHub/opravicujemose.github.io/vendor/bundle/ruby/3.4.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20250203-26384-r1ap6y sitelibdir\=./.gem.20250203-26384-r1ap6y clean
