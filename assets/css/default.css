@@ -102,6 +102,10 @@ h4, .page-heading, .pagination span {
   h4, .page-heading {
     color: rgba(255,255,255, 0.67);
   }
+  .pagination span {
+    color: rgba(255,255,255, 0.67);
+    font-weight: lighter;
+  }
 }
 
 
@@ -568,6 +572,11 @@ hr {
   .listen>a, .listen i {
     color: rgba(255,255,255, 0.42);
   }
+
+  .listen a:hover {
+	color: rgba(255,255,255, 0.84);
+  }
+
 }
 
 h4.listens {
@@ -654,4 +663,26 @@ div.pagination {
 
 .user:hover {
 	box-shadow: 0 6px 10px rgb(0 0 0 / 0.3), 0 4px 24px rgb(0 0 0 / 0.1), 0 0 2px rgb(0 0 0 / 0.9);	
+}
+
+
+@media screen and (prefers-color-scheme: dark) {
+
+  .pagination em {
+	background: rgba(255,255,255, 0.84);
+	color: #000;
+  }
+
+  .pagination a {
+	background: rgba(255,255,255,0.1);
+  }
+
+  .pagination .prevnext {
+	color: rgba(255,255,255, 0.67);
+  }
+
+  .alert-link {
+    color: rgba(255,255,255, 0.67) !important;
+  }
+
 }
