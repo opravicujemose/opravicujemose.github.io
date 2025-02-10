@@ -12,9 +12,5 @@ plugins:
   - jekyll-redirect-from
   - jekyll-paginate
 
-collections:
-  tags:
-    output: true
-
 paginate: 21
 paginate_path: "/stran-:num/"
