@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Španski borci 🇪🇸"
-number: 	"#245 aka S06E42"
+title:  	"Slon v sosedstvu 🐘"
+number: 	"#246 aka S06E43"
 categories:	epizode
-permalink:	/245/
+permalink:	/246/
 tagline: 	"Zdravo. ///////////////////////////" 
-image:		/assets/img/245@2x.jpg
-cover:		/assets/img/cover/245 img@2x.png
+image:		/assets/img/246@2x.jpg
+cover:		/assets/img/cover/246 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -18,7 +18,7 @@ listen:
 youtube:	https://www.youtube.com/@opravicujemose
 # youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
-date: 		2025-01-20 06:00 +0200
+date: 		2025-02-09 06:00 +0200
 ---
 
 Zdravo. Tokrat razglabljamo o tem, kako slišati umetno ustvarjene posnetke, ki jih generira umetna inteligenca, ne moremo mimo ideje o dvoglavem in triokem predsedniku vlade in se ustavimo na družabnih omrežjih. Aljo ugotovi, da kljub temu, da si na internetu v svoji anonimnosti lahko kdorkoli, se večina ljudi odloči, da bodo kreteni. 
