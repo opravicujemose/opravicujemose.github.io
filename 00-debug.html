@@ -1,0 +1,16 @@
+---
+layout: default
+title: Debug Tags
+permalink: /debug/
+---
+
+<h1>Debugging Tags</h1>
+
+<h2>Site Tags:</h2>
+<ul>
+  {% for tag in site.tags %}
+    <li>{{ tag[0] }} ({{ tag[1].size }} posts)</li>
+  {% else %}
+    <li>⚠️ No tags found!</li>
+  {% endfor %}
+</ul>

@@ -18,14 +18,11 @@ layout: default
 <!-- END CONTENT POST HTML -->
 <!-- </div> -->
 </div>
-<!-- <span> 🏷️
-{% for tag in page.tags %}
-  {% capture tag_name %}{{ tag | slugify }}{% endcapture %}
-  <a href="{{ site.baseurl }}/tag/{{ tag_name }}/">
-    <code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>
-  </a>&nbsp;
-{% endfor %}
-</span> -->
-
-</article>
+<!-- <span>🏷️ [
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
+ --></article>
 <!-- END POST -->

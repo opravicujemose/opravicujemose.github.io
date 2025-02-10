@@ -11,11 +11,6 @@ twitter_username: "davorinpavlica"
 plugins:
   - jekyll-redirect-from
   - jekyll-paginate
-  - jekyll-tagging
-
-tag_page_layout: tag
-tag_page_dir: tag
-tag_permalink_style: pretty
 
 collections:
   tags:
