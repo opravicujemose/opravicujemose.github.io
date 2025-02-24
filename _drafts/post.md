@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Dotaknite se zvočnika 🔊"
-number: 	"#247 aka S06E44"
+title:  	"Ko niti bog ne dobi službe 🏛️"
+number: 	"#248 aka S06E45"
 categories:	epizode
-permalink:	/247/
+permalink:	/248/
 tagline: 	"Zdravo. ///////////////////////////" 
-image:		/assets/img/247@2x.jpg
-cover:		/assets/img/cover/247 img@2x.png
+image:		/assets/img/248@2x.jpg
+cover:		/assets/img/cover/248 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -18,14 +18,12 @@ listen:
 youtube:	https://www.youtube.com/@opravicujemose
 # youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
-date: 		2025-02-23 06:00 +0200
+date: 		2025-03-02 06:00 +0200
 ---
 
-Zdravo. V tokratni epizodi se spomnimo na tisto jezero, ki se je delalo da je gin s tonikom (iz 2. poglavja 3. knjige, ki smo ga obdelali v 72. epizodi našega malega podkasta). Govorimo tudi o predigri, korporativnih kazalcih uspešnosti, vaši podpori, kako si zapomniti notne črte in še marsičem. 
+Zdravo. V tokratni epizodi se sprašujemo, kaj bo s svetom, če bomo do konca desetletja dobili pet triljarderjev, če bo peščica ultrabogoatašev dejansko lahko (ali celo bo) posedovala ves svet in se sprašujemo o dejanski vrednosti denarja. Nato se posvetimo avtomobilizmu (električnim avtomobilom) in izumimo dodatno turistično ponudbo za čakajoče na postajališču Lom. 
 
-Vržemo se tudi v 6. poglavje 6. knjige, odpotujemo na planet Nano, na katerem debatiramo o birokraciji, kapitalizmu, veri in na koncu celo ustanovimo religijo, ki zapoveduje proste dni od četrtka do ponedeljka! Vse kar morate storiti, da se nam pridružite je, da se dotaknete zvočnika in se nam pridružite. 
-
-Nedoganljiva je Njegova volja! 
+V drugem delu se posvetimo 6. poglavju 6. knjige, kjer spremljamo intervju za boga na planetu Nano, nato pa se nam utrne ideja, da je mogoče tudi naš bog že davno pokojen, le da tega nihče ne ve (ali pa da nam to dobro skrivajo) in tako izumimo lastno teorijo zarote. 
 
 {% include player.html %}
 {% include poslusaj.html %}
