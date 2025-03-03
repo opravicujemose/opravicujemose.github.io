@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Ko niti bog ne dobi službe 🏛️"
-number: 	"#248 aka S06E45"
+title:  	"Bog je Schrödingerjeva mačka 🐈‍⬛"
+number: 	"#249 aka S06E46"
 categories:	epizode
-permalink:	/248/
-tagline: 	"Zdravo. ///////////////////////////" 
-image:		/assets/img/248@2x.jpg
-cover:		/assets/img/cover/248 img@2x.png
+permalink:	/249/
+tagline: 	"Zdravo. Od ugotovitve, da je Bog že davno pokojni pridemo do ugotivitve, da je Bog pravzaprav Schrödingerjeva mačka" 
+image:		/assets/img/249@2x.jpg
+cover:		/assets/img/cover/249 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -21,9 +21,11 @@ published:	false
 date: 		2025-03-02 06:00 +0200
 ---
 
-Zdravo. V tokratni epizodi se sprašujemo, kaj bo s svetom, če bomo do konca desetletja dobili pet triljarderjev, če bo peščica ultrabogoatašev dejansko lahko (ali celo bo) posedovala ves svet in se sprašujemo o dejanski vrednosti denarja. Nato se posvetimo avtomobilizmu (električnim avtomobilom) in izumimo dodatno turistično ponudbo za čakajoče na postajališču Lom. 
+Zdravo. V tokratni epizodi se lotimo ideje, ki smo jo načeli že v prejšnji epizodi in to je, da je naš Bog (več kot očitno) že davno pokojen. Študiramo tudi, da se je najbrž skril že davno, preden je šel na oni svet. Več kot očitno namreč je, da ga ni. 
 
-V drugem delu se posvetimo 6. poglavju 6. knjige, kjer spremljamo intervju za boga na planetu Nano, nato pa se nam utrne ideja, da je mogoče tudi naš bog že davno pokojen, le da tega nihče ne ve (ali pa da nam to dobro skrivajo) in tako izumimo lastno teorijo zarote. 
+Zato debato razširimo na veter in šnopc in se bolj kot ne ognemo 6. poglavja, za na konec pa ugotovimo, da je Bog v bistvu Schrödingerjeva mačka: hkrati živ in mrtev, odvisno od tega, ali verjamemo vanj. 
+
+Ne pozabite pa, da bi bilo na svetu veliko bolje, če bi vsak verjel v svojega Boga in ne težil drugim s to intimno izbiro. 
 
 {% include player.html %}
 {% include poslusaj.html %}
