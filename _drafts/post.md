@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Drežnica"
-number: 	"#250 aka S06E47"
+title:  	"Dvelovnik 🗓️"
+number: 	"#251 aka S06E48"
 categories:	epizode
-permalink:	/250/
-tagline: 	"Zdravo. Zakaj je naslov tokratne epizode Drežnica in ne recimo Sam', da nau bol', nam ni jasno, ampak včasih se zgodi, da izberemo tak naslov." 
-image:		/assets/img/250@2x.jpg
-cover:		/assets/img/cover/250 img@2x.png
+permalink:	/251/
+tagline: 	"Zdravo. Dvelovnik." 
+image:		/assets/img/251@2x.jpg
+cover:		/assets/img/cover/251 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -21,9 +21,11 @@ published:	false
 date: 		2025-03-09 06:00 +0200
 ---
 
-Zdravo. Tokrat se spomnimo na slušne aparate, Hano Suralovo in sklenemo, da kljub novi digitalni uri nismo nesrečni. Ker je ura (seveda) kitajske izdelave, se ne izognemo mednarodni in domači politiki, od tam pa do osamosvojitvenih junaščin pa ni daleč. 
+Zdravo. Tokrat se lotimo revolucionarne ideje: petdnevnega vikenda - ali bolje rečeno, uvedbe dvelovnika. Ker se ljudje brez strukturiranega prostega časa hitro znajdejo v težavah, predlagamo sistemski pristop k podaljšanemu vikendu: več hobijev, več druženja, več pogovorov, obvezna praksa v gostinstvu, turizmu in med ključnimi poklici. 
 
-Spomnimo se načela "Sam', da nau bol'" in priznamo, da bi bilo včasih bolje ne spremljati dnevnih novic. V 6. poglavju 6. knjige pridemo na Asgard, spoznamo Heimdalla in dejstvo, da vikingške čelade z rogovi niso zares vikingške in sklenemo, da so bile v bitki prvič uporabljene 6. januarja 2021. 
+Debatiramo tudi, kako bo to vplivalo na državo – predlagamo veliko idejo, od načrtnega raziskovanja Slovenije preko pohodniških izzivov in potencialnega razporejanja delovnih terminov. Zaphod je še vedno na Asgardu, mi pa na poti v boljšo prihodnost. 
+
+Če ti je ideja dvelovnika blizu, nas podpri na hvalazavseribe.si! 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -32,7 +34,7 @@ Spomnimo se načela "Sam', da nau bol'" in priznamo, da bi bilo včasih bolje ne
 
 #### Zapiski
 
-- []() - 
+- [Nezaposlen um je hudičeva delavnica](https://opravicujemo.se/086/) - 
 - []() - 
 - []() - 
 - []() - 
