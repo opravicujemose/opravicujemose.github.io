@@ -34,7 +34,8 @@ Debatiramo tudi, kako bo to vplivalo na državo – predlagamo veliko idejo, od 
 
 #### Zapiski
 
-- [Nezaposlen um je hudičeva delavnica](https://opravicujemo.se/086/) - 
+- []() - 
+- []() - 
 - []() - 
 - []() - 
 - []() - 
