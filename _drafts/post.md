@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Quelle katalog 🎉"
-number: 	"#255 aka S06E52"
+title:  	"Ne razmišljat, ljudje 🤔"
+number: 	"#256 aka S06E53"
 categories:	epizode
-permalink:	/255/
-tagline: 	"Zdravo."
-image:		/assets/img/255@2x.jpg
-cover:		/assets/img/cover/255 img@2x.png
+permalink:	/256/
+tagline: 	"Zdravo. Od Alzheimerja do betonskega mešalca – filozofiramo, ne razmišljamo, in planiramo najbolj žur v galaksiji."
+image:		/assets/img/256@2x.jpg
+cover:		/assets/img/cover/256 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -18,12 +18,14 @@ listen:
 youtube:	https://www.youtube.com/@opravicujemose
 # youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
-date: 		2025-04-13 06:00 +0200
+date: 		2025-04-19 06:00 +0200
 ---
 
-Zdravo. Ob koncu retrogradnega Merkurja se spomnimo na Appleove slušalke, ki režejo visoke tone, in ugotovimo, da dvelovnik postaja resna politična platforma. Če bi kdo dvelovniku dodal še kabino za zdravljenje, ki jo občudujemo že celo 6. knjigo, bi volili tudi politično opcijo, ki je na nasprotni strani od tovar’ša Kordiša. 
+Zdravo. Tokratno epizodo začnemo z pozabljivim Nemcem (Alzheimer), končamo pa z betonskim mešalcem, v katerem na fantovščini ali kakšni podobni zabavi mešamo beton (torej: šnopc in pivo), skozi klasično vesoljski vrtiljak idej tokrat pridemo do zaključka: “Ne razmišljat, ljudje.” 
 
-V zadnjem delu 7. poglavja spremljamo Zaphoda, ki se je znašel na mavričnem mostu: nad njim so zmaji, za njim topovi, Zaphod pa kot mojster visoko stresnih situacij precej srečno pride skoraj do konca mostu, ko ga Helheim ustavi. Na pomoč prihiti zvita palica, Zaphod pa konča z mislijo, ki vsebuje tudi mistično “eno pivo”. 
+Sicer pa se filozofsko lotimo naroda, denarja in ostalih izmišljenih stvari, delimo globoke misli o tem, kako trenirat pozitivnost, izumimo najboljši piknik, ki je enotedenski žur na Betelgezi, kjer pangalaktični grlorez delajo ekskluzivno v mešalcu za beton. Pa tudi o poglavju govorimo. Malo.
+
+Aja: piknik bo. Beton se že meša. ;) 
 
 {% include player.html %}
 {% include poslusaj.html %}
