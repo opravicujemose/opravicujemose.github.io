@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Ne razmišljat, ljudje 🤔"
-number: 	"#256 aka S06E53"
+title:  	"Malo večja rit 🍑"
+number: 	"#257 aka S06E54"
 categories:	epizode
-permalink:	/256/
-tagline: 	"Zdravo. Od Alzheimerja do betonskega mešalca – filozofiramo, ne razmišljamo, in planiramo najbolj žur v galaksiji."
-image:		/assets/img/256@2x.jpg
-cover:		/assets/img/cover/256 img@2x.png
+permalink:	/257/
+tagline: 	"Zdravo. V tokratni epizodi ugotovimo, da je refrem pesmi Pojdi z menoj v toplice že dolga leta napačen. Predvsem tisti del, ki govori o velikosti. Ideal se je spremenil že pred mnogimi leti."
+image:		/assets/img/257@2x.jpg
+cover:		/assets/img/cover/257 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -18,7 +18,7 @@ listen:
 youtube:	https://www.youtube.com/@opravicujemose
 # youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
-date: 		2025-04-19 06:00 +0200
+date: 		2025-04-27 06:00 +0200
 ---
 
 Zdravo. Tokratno epizodo začnemo z pozabljivim Nemcem (Alzheimer), končamo pa z betonskim mešalcem, v katerem na fantovščini ali kakšni podobni zabavi mešamo beton (torej: šnopc in pivo), skozi klasično vesoljski vrtiljak idej tokrat pridemo do zaključka: “Ne razmišljat, ljudje.” 
