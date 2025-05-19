@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Ministrstvo za dolgcajt ⌛️"
-number: 	"#259 aka S06E56"
+title:  	"Jest ne grem, ker bo gužva 🚦"
+number: 	"#260 aka S06E57"
 categories:	epizode
-permalink:	/259/
-tagline: 	"Zdravo."
-image:		/assets/img/259@2x.jpg
-cover:		/assets/img/cover/259 img@2x.png
+permalink:	/260/
+tagline: 	"Zdravo. Tokrat se Zi se spopade z uro, ekipa načrtuje obisk Innsbrucka, medtem pa tudi Ford preživi eksistencialno krizo. ;)"
+image:		/assets/img/260@2x.jpg
+cover:		/assets/img/cover/260 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -18,12 +18,12 @@ listen:
 youtube:	https://www.youtube.com/@opravicujemose
 # youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
-date: 		2025-05-11 06:00 +0200
+date: 		2025-05-18 06:00 +0200
 ---
 
-Zdravo. Tokrat začnemo z modrostjo, da vam nihče ne more toliko dati, kot vam mi lahko obljubimo, nadaljujemo z še večjo modrostjo, da v prihodnosti delal’ ne bomo več, ker prihaja dvelovnik. A ne skrbite, ne da bomo imeli samo ministrstvo za prosti čas, mi bomo imeli tudi ministrstvo za dolgčas. 
+Zdravo. V epizodi, kjer se napetost stopnjuje že v predigri (novi rubriki za naše naročnike), izbruhne pa v epskem dvoboju med Zijem in uro, se začne odštevanje do dneva brisače, ki bo tokrat, pozor, v nedeljo. Razmišljamo, če bi bil to zadost' dober razlog za kolektivno romanje v Innsbruck, ... a ne gremo, preden se nas ne nabere točno 42. 
 
-Rešitev imamo tudi za dvomljivce tipa ja kdo bo pa delal: obvezno služenje mladine v storitvenem sektorju. Na mladih svet stoji. Rešitev imamo tudi za regeneracijo in za brezskrbno pot domov: leteči avti, robotski pomagači še marsikaj. Tudi o miljarderjih, ki imajo svojo religijo govorimo, da ne bo kdo rekel, da nismo nič o veri. 
+Po logistično-brisačnih dilemah skočimo globoko v deveto poglavje 6. knjige, kjer vsi junaki razen  Forda doživijo globoko čustveno razmišljanje v objemu temne snovi. Trillian se sprašuje o tem, ka je sploh ljubezen, Velepotež, če ni morda le odsotnost gnusa, Randam bi rada Velepotežu izpolniža željo, Ford pa postavi rekord v nemežikanju in napiše novo geslo za Štoparski vodnik po Galaksiji. Frudi. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -32,10 +32,8 @@ Rešitev imamo tudi za dvomljivce tipa ja kdo bo pa delal: obvezno služenje mla
 
 #### Zapiski
 
-- [Whoop](https://www.whoop.com/eu/en/) - minimalistična zapestnica brez zaslona, zasnovana za športnike in moderne ljudi, ki želijo poglobljeno spremljati svoje telo: vse podatke, kot so srčni utrip,HRV, spanje, obremenitev in regeneracija, spremljaš izključno prek aplikacije ... letna naročnina za "storitev" od 200 do 400 €
-- [Oura Ring](https://ouraring.com/) - pameten prstan, ki spremlja vaše spanje, regeneracijo, srčni utrip in druge biometrične podatke, kot Whoop in prav tako naročnino, vendar je manj opazen in bolj diskreten in prav tako drag 
-- []() - 
-- []() - 
+- 🚍 [Štoparski izlet v Innsbruck](https://forms.gle/WBEiJ8VGMZeNg2Qc7) - kot smo rekli: gremo, ko nas bo 42, gremo 25. maja, na Dan brisače (če bi radi šli enkrat poleti, med počitnicami, izberite ustrezen odgovor, ... mnogo ljudi ima maja več gužve kot poleti) i ngremo, tudi če bo gužva.
+- 🛝 [Za nove in stare podpornike](https://hvalazavseribe.si/) - hvala za vse ribe pika si, vsaka podpornica ali podpornik ekstra epizodo pred redno epizodo dobi, naštimaš si jo pred redno epizodo in uživaš v predigri ;) 
 - []() - 
 - []() - 
 - []() - 
