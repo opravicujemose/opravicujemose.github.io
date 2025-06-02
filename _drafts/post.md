@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Devetinšestdeset"
-number: 	"#261 aka S06E58"
+title:  	"Do nafte 🛢️"
+number: 	"#262 aka S06E59"
 categories:	epizode
-permalink:	/261/
-tagline: 	"Zdravo. Ko svetilnost doseže sedem, sekunde šibajo s snerom, krave pa prosijo za medium rare."
-image:		/assets/img/260@2x.jpg
-cover:		/assets/img/cover/260 img@2x.png
+permalink:	/262/
+tagline: 	"Zdravo."
+image:		/assets/img/262@2x.jpg
+cover:		/assets/img/cover/262 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -18,12 +18,12 @@ listen:
 youtube:	https://www.youtube.com/@opravicujemose
 # youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
-date: 		2025-05-18 06:00 +0200
+date: 		2025-06-01 06:00 +0200
 ---
 
-Zdravo. V epizodi, kjer nas svetilnost kitajske ure pošteno vrže iz tira, brezsramno preigramo vse od Esmeralde, Jezusa, otrokom prijaznih jaht (ker za otroke gre in tudi bogati otroci si zaslužijo lepo otroštvo), do tega, da številka devetinšestdeset (69) že dolgo ni več smešna. 
+Zdravo. V epizodi, ki jo snemamo na (skrivnostni) praznik razglabljamo o čaščenju praznikov in o tem, kdo ima in kdo nina vikenda v Kranjski Gori in ali so Triglav oz. ostali staroslovanski bogovi bolj hupi od njihovih nordijskih kolegov. 
 
-Tudi 9. poglavje dodatka trilogije v petih delih obdelamo. V njem se pojavijo nore krave, take, ki si res želijo biti pojedene. Ugotovimo, da ima Zaphod v tej knjigi res močno podjetniško žilico, vse pa se pripravlja na bitko med Thorom in Ovečenim Velepotežem. 
+Zakopljemo se v 10. poglavje 6. knjige in obdelamo prvorazredne bogove, leteče kure, nesmrtnost, ljubezen, dvome, kozmetičarke in fitnesače, nato pa se posvetimo Thoru, ki se v gladiatorskem stilu pripravlja na obračun z Velepotežem. Epizodo zaključimo tam, kjer Thor zabije Velepoteža "do nafte". 
 
 {% include player.html %}
 {% include poslusaj.html %}
