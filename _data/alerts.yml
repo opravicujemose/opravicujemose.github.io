@@ -11,16 +11,16 @@
   number: 02
   class:  alert-success
   text:   "Podpreš nas lahko tako, da za nas poveš še komu ali "
-  link:   na Patreonu, Paypalu ali Ko-fiju
+  link:   na hvalazavseribe.si
   end:    ". Hvala!"  
-  url:    https://hvalazavseribe.si/#-podpri-nas
+  url:    https://hvalazavseribe.si/
 - type:   pi pi-coins
   number: 03
   class:  alert-warning
   text:   Naš podkast lahko podpreš 
-  link:   tudi na Patreonu
+  link:   tudi na Supercastu
   end:    "! Imamo bonus epizode. Hvala za vse ribe. 🐟"
-  url:    https://www.patreon.com/opravicujemose
+  url:    https://hvalazavseribe.supercast.com/
 - type:   pi pi-tag-funding
   number: 04
   class:  alert-danger
