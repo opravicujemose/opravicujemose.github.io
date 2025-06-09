@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Do nafte 🛢️"
-number: 	"#262 aka S06E59"
+title:  	"Namesto v službo, na Brnik 🛫"
+number: 	"#263 aka S06E60"
 categories:	epizode
-permalink:	/262/
+permalink:	/263/
 tagline: 	"Zdravo."
-image:		/assets/img/262@2x.jpg
-cover:		/assets/img/cover/262 img@2x.png
+image:		/assets/img/263@2x.jpg
+cover:		/assets/img/cover/263 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -21,9 +21,9 @@ published:	false
 date: 		2025-06-01 06:00 +0200
 ---
 
-Zdravo. V epizodi, ki jo snemamo na (skrivnostni) praznik razglabljamo o čaščenju praznikov in o tem, kdo ima in kdo nina vikenda v Kranjski Gori in ali so Triglav oz. ostali staroslovanski bogovi bolj hupi od njihovih nordijskih kolegov. 
+Zdravo. Od dileme, ali pojesti sirov žepek, nas hitro katapultira v časovno-prostorsko superpozicijo, zato se sprašujemo, ali je ta Schrödingerjev ponedeljek v resnici torek, sreda, četrtek, petek ali mogoče celo vikend. Ali pa je ponedeljek in hkrati ni ponedeljek. Če je temu tako, svetujemo, da namesto v službo zavijete na Brnik in odletite neznano kam ter nam od tam pošljete kartico na naš dobro znani naslov. 
 
-Zakopljemo se v 10. poglavje 6. knjige in obdelamo prvorazredne bogove, leteče kure, nesmrtnost, ljubezen, dvome, kozmetičarke in fitnesače, nato pa se posvetimo Thoru, ki se v gladiatorskem stilu pripravlja na obračun z Velepotežem. Epizodo zaključimo tam, kjer Thor zabije Velepoteža "do nafte". 
+Kar se 6. knjige tiče, se 10. poglavje nadaljuje: poštna ladja uBid pripelje zadnji paket, Thor poizkusi z drugim udarcem, Trillian omedli, Artur pa ostane Artur. Za poslušalce in poslušalke ustanovimo platinasti oz. diamantni klub. 
 
 {% include player.html %}
 {% include poslusaj.html %}
