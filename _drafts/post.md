@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Kdo sploh je ta Bog? 👁️"
-number: 	"#267 aka S06E64"
+title:  	"Žimnica nikoli ne ostane dolgo suha 🛌"
+number: 	"#268 aka S06E65"
 categories:	epizode
-permalink:	/267/
+permalink:	/268/
 tagline: 	"Zdravo.👋"
-image:		/assets/img/267@2x.jpg
-cover:		/assets/img/cover/267 img@2x.png
+image:		/assets/img/268@2x.jpg
+cover:		/assets/img/cover/268 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -18,12 +18,12 @@ listen:
 youtube:	https://www.youtube.com/@opravicujemose
 # youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
-date: 		2025-07-02 06:00 +0200
+date: 		2025-07-13 06:00 +0200
 ---
 
-Zdravo. Naravnajte si ure na stare čase, medtem ko se mi sprašujemo o formatu osme sezone (ali bomo zares brali Biblijo?) in o tem, zakaj mišja teorija zarote ni tako dobro sprejeta kot reptilske. Med pogovorom o svetih knjigah ugotovimo, da ena knjiga še manjka in da jo je treba napisati. Dogodivščine mladega Boga? Kdo je sploh ta Bog? Hvala, Oolon.  
+Zdravo. Tokrat začnemo debato z natančnim merjenjem časa na belih strmihan, se prestavimo v filozofsko smučino, kjer se vse vrti okol' j****e sredine in srečnih koncev. Ali ni srečen konec odvisen od časovnega okvirja in gledišča opazovalca? Na koncu koncev bo konec le za redke res srečen. 
 
-Pridemo do konca 12. poglavja: Thor se v veliki vesoljski bitki bojuje z žužki v zobeh, birokratski zasuki so vredni pridevnika vogonski, mi pa kaj hitro presedlamo na zgodbe, ki jih piše življenje: tamal’ per, Hot Horse, neumnost v politiki in bazen Ilirija. 
+Vmes pa razmišljamo in debatiramo o pohoti, kozlih, zakramentih za odrasle, tetki Agati in moji teti Mari, ter o treh apostolih. Nekje med sakralnim in profanim, kot se za podkast naše baže spodobi. Tudi o zadnjem poglavju in dejstvu, da vse žimnice poznajo rek o suhosti žimnic!  
 
 {% include player.html %}
 {% include poslusaj.html %}
