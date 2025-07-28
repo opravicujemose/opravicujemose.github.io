@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Žimnica nikoli ne ostane dolgo suha 🛌"
-number: 	"#268 aka S06E65"
+title:  	"Klitoralna pismenost 🌸"
+number: 	"#270 aka S06E67"
 categories:	epizode
-permalink:	/268/
+permalink:	/270/
 tagline: 	"Zdravo.👋"
-image:		/assets/img/268@2x.jpg
-cover:		/assets/img/cover/268 img@2x.png
+image:		/assets/img/270@2x.jpg
+cover:		/assets/img/cover/270 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -18,12 +18,13 @@ listen:
 youtube:	https://www.youtube.com/@opravicujemose
 # youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
-date: 		2025-07-13 06:00 +0200
+date: 		2025-07-27 06:00 +0200
 ---
 
-Zdravo. Tokrat začnemo debato z natančnim merjenjem časa na belih strmihan, se prestavimo v filozofsko smučino, kjer se vse vrti okol' j****e sredine in srečnih koncev. Ali ni srečen konec odvisen od časovnega okvirja in gledišča opazovalca? Na koncu koncev bo konec le za redke res srečen. 
+Zdravo. Tokrat se posvetimo izobraževanju. Ker je klitoris primarni vir orgazma za veliko večino žensk in ker tega ne ve 40-60 % moške populacije, možje, fantje, moški, dedci in kar je še teh imen, preberite zapiske. Vsaj 60-40 % tistih, ki menijo, da je penetracija najlažja pot do njenega orgazma. 
 
-Vmes pa razmišljamo in debatiramo o pohoti, kozlih, zakramentih za odrasle, tetki Agati in moji teti Mari, ter o treh apostolih. Nekje med sakralnim in profanim, kot se za podkast naše baže spodobi. Tudi o zadnjem poglavju in dejstvu, da vse žimnice poznajo rek o suhosti žimnic!  
+V epizodi skočimo v tuš kabino (saj veste katero), pomežiknemo nesmrtnim bogovom, se spomnimo na prodajalca motornih kosilnic, basistov iz Han Dold Cityja in ugotovimo, da bi namesto katoliškega molka potrebovali več spolne vzgoje, Če imate občutek, da svet drvi v neznano smer - nič hudega. Mi gremo z njim in z vami, v šlafroku ali brez njega. 
+
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -32,6 +33,7 @@ Vmes pa razmišljamo in debatiramo o pohoti, kozlih, zakramentih za odrasle, tet
 
 #### Zapiski
 
+ 
 - []() - 
 - []() - 
 - []() - 
