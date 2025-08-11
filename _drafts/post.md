@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Do bridkega konca 🎬"
-number: 	"#271 aka S06E68"
+title:  	"Orgonska bomba 💣"
+number: 	"#272 aka S07E00"
 categories:	epizode
-permalink:	/271/
+permalink:	/272/
 tagline: 	"Zdravo.👋"
-image:		/assets/img/271@2x.jpg
-cover:		/assets/img/cover/271 img@2x.png
+image:		/assets/img/272@2x.jpg
+cover:		/assets/img/cover/272 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -18,7 +18,7 @@ listen:
 youtube:	https://www.youtube.com/@opravicujemose
 # youtube:	https://youtu.be/_oPGyT56S7M
 published:	false
-date: 		2025-08-04 06:00 +0200
+date: 		2025-08-09 06:00 +0200
 ---
 
 Zdravo. Tokrat smo res prišli do bridkega konca. Končali smo zadnje poglavje 6. knjige iz trilogije v štirih delih, po vsem vesolju znane štoparske biblije. Čeprav srečnih koncev ni, vas opozarjamo, da preverite darilne bone za večerje, toplice in kar je še tega, ker zapadejo v dveh letih, lahko tudi manj. 
@@ -37,7 +37,6 @@ P.S.: Naslednji teden bo na vrsti 7. sezona našega malega podkasta in z njo knj
 <!--break-->
 
 #### Zapiski
-
  
 - []() - 
 - []() - 
