@@ -63,3 +63,20 @@ Mi pa pogledamo nevarnosti, ki jih prinašajo selfiji z nilskimi konji naravnost
 Sezono končamo z gostovanjem legendarnega prevajalca, ki je trilogijo v petih delih prevedel, z nami je bil **dr. Alojz Kodre**, ki osvetlil štoparski svet skozi prizmo fizike. 
 
 Tudi v zadnji sezoni podkast ostaja zvest svojemu slogu, ki je poln sarkazma, humorja in presenetljivih preobratov. Zato v izteku sezone poslušamo niz epizod "V prejšnji epizodi", da se lažje spomnimo vseh srečnih štoparjev, ki so v močvirjih Falije umrli od blaženosti. 
+
+### [Sezona 6](../sezona/06/)
+#### 📖 Pa še tole …
+<img class="post-content" src="/assets/img/cover/season 05 img@2x.png" alt="Opravičujemo se - 5. sezona" />
+
+V 6. sezoni smo brali šesto knjigo iz trilogije v petih delih, *Pa še tole ...*, ki jo je napisal Eoin Colfer. 
+
+Začeli smo tam, kjer se je peta končala. Ekipa se v uvodih še bolj odmika od teme in se raje posveča improviziranim poslovnim idejan, medtem ko Zaphod s svojo ladjo Zlato srce spet rešuje Zemljane pred popolnim uničenjem. Na poti do prvega milijona in nove nove nove zaveze srečamo Velepoteža, Thora, Vogone in še kakšnega boga, ki je hkrati živ in mrtev. 
+
+Tudi tokrat ni manjkalo ekskurzij po poteh življenja, vesolja, morja, Madeire, Venezuele in pot na temno strani lune. Med potjo smo razmišljali o smislu življenja, smrtnosti in o tem, zakaj ne kaditi črvov. Pogovarjali smo se o politiki, diamantih, klitoralni pismenosti, bogovih in birokraciji, pa tudi o dveh resnično pomembnih izumih: **dvelovniku** in koleku za rekreativni seks.
+
+Sezona se zaključi z bridkim koncem – in z zavedanjem, da je resničnost manj zanesljiva od Štoparskega vodnika. A čeprav ladje lebdijo nad kolibo na način, kot opeke ne, ostaja duh enak: humor, sarkazem in kaotična mešanica vsega od pangalaktičnega grloreza do davka na izdihan CO₂.
+
+### [Sezona 7](../sezona/07/)
+#### 📖 Zadnja priložnost
+
+V sedmi sezoni beremo knjigo Zadnja priložnost, ki jo je skupaj z Markom Carwardineom napisal Douglas Adams.
