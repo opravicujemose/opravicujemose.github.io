@@ -6,7 +6,7 @@ cover:      /assets/img/cover/season 01 img@2x.png
 
 ---
 
-Seznam in opisi sezon našega malega podkasta, v katerem govorimo o življenju, vesolju in sploh vsem ... in po nekem čudnem naključju tudi (skoraj) vsako epizodo o enem poglavju iz trilogije v petih delih, ki jo je pred mnogimi leti napisal [Douglas Adams](https://sl.wikipedia.org/wiki/Douglas_Adams). 
+Seznam in opisi sezon našega malega podkasta, v katerem govorimo o življenju, vesolju in sploh vsem ... in po nekem čudnem naključju tudi (skoraj) vsako epizodo o enem poglavju iz trilogije v petih oz. šestih delih, ki jo je pred mnogimi leti napisal [Douglas Adams](https://sl.wikipedia.org/wiki/Douglas_Adams), šesti del pa je trideset let po izdaji prvega dela Štoparskega vodnika po Galaksiji napisal neki [Eion Colfer](https://en.wikipedia.org/wiki/Eoin_Colfer).
 
 ### [Sezona 1](../sezona/01/)
 #### 📖 Štoparski vodnik po Galaksiji
@@ -66,11 +66,11 @@ Tudi v zadnji sezoni podkast ostaja zvest svojemu slogu, ki je poln sarkazma, hu
 
 ### [Sezona 6](../sezona/06/)
 #### 📖 Pa še tole …
-<img class="post-content" src="/assets/img/cover/season 05 img@2x.png" alt="Opravičujemo se - 5. sezona" />
+<img class="post-content" src="/assets/img/cover/season 06 img@2x.png" alt="Opravičujemo se - 6. sezona" />
 
 V 6. sezoni smo brali šesto knjigo iz trilogije v petih delih, *Pa še tole ...*, ki jo je napisal Eoin Colfer. 
 
-Začeli smo tam, kjer se je peta končala. Ekipa se v uvodih še bolj odmika od teme in se raje posveča improviziranim poslovnim idejan, medtem ko Zaphod s svojo ladjo Zlato srce spet rešuje Zemljane pred popolnim uničenjem. Na poti do prvega milijona in nove nove nove zaveze srečamo Velepoteža, Thora, Vogone in še kakšnega boga, ki je hkrati živ in mrtev. 
+Začeli smo tam, kjer se je peta knjiga končala. Ekipa se v uvodih še bolj odmika od teme in se raje posveča improviziranim poslovnim idejan, medtem ko Zaphod s svojo ladjo Zlato srce spet rešuje Zemljane pred popolnim uničenjem. Na poti do prvega milijona in nove nove nove zaveze srečamo še Ovečenega Velepoteža, Thora, Vogone in še kakšnega boga, ki je hkrati živ in mrtev. 
 
 Tudi tokrat ni manjkalo ekskurzij po poteh življenja, vesolja, morja, Madeire, Venezuele in pot na temno strani lune. Med potjo smo razmišljali o smislu življenja, smrtnosti in o tem, zakaj ne kaditi črvov. Pogovarjali smo se o politiki, diamantih, klitoralni pismenosti, bogovih in birokraciji, pa tudi o dveh resnično pomembnih izumih: **dvelovniku** in koleku za rekreativni seks.
 
@@ -78,5 +78,8 @@ Sezona se zaključi z bridkim koncem – in z zavedanjem, da je resničnost manj
 
 ### [Sezona 7](../sezona/07/)
 #### 📖 Zadnja priložnost
+<img class="post-content" src="/assets/img/cover/season 07 img@2x.png" alt="Opravičujemo se - 7. sezona" />
 
 V sedmi sezoni beremo knjigo Zadnja priložnost, ki jo je skupaj z Markom Carwardineom napisal Douglas Adams.
+
+Leta 1985 je bil Douglas Adams tako bogat, da je moral po vzoru britanskih zvezdnikov zapustiti državo. Vmes ga je neki britanski časnik, skupaj z Markom Carwardinom, poslal na Madagaskar, iskat že skoraj izumrlega lemurja aj-aja. Mark je izjemno izkušen in razgledan zoolog in je skrbel za strokovno plat odprave, Douglasu, ki o zoologiji nima pojma, pa je bila zaupana predvsem naloga, da popotovanje opiše z vidika človeka, ki ga vse, kar doživlja in vidi, spravlja v največje začudenje. Kako jima je uspelo, boste slišali v 7. sezoni našega malega podkasta! 
