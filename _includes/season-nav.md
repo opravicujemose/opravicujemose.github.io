@@ -1,4 +1,4 @@
-<h4>Sezone:
+<h4 class="season">Sezone:
 {% assign seasons = "01,02,03,04,05,06,07" | split: "," %}
 {% for n in seasons %}
   {% assign label = 'S' | append: n %}
