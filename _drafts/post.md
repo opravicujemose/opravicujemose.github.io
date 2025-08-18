@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Orgonska bomba 💣"
-number: 	"#272 aka S07E00"
+title:  	"Kitajci na Madagaskarju 🇨🇳"
+number: 	"#273 aka S07E01"
 categories:	epizode
-permalink:	/272/
-tagline: 	"Zdravo.👋"
-image:		/assets/img/272@2x.jpg
-cover:		/assets/img/cover/272 img@2x.png
+permalink:	/273/
+tagline: 	"Zdravo. Čeprav so bili Kitajci na Madagaskarju že od sredine 70-ih let, je bilo to dejstvo večini sveta skrito. Tudi dejstvo, da so se tam učili asfaltiranja cest."
+image:		/assets/img/273@2x.jpg
+cover:		/assets/img/cover/273 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -21,15 +21,9 @@ published:	false
 date: 		2025-08-09 06:00 +0200
 ---
 
-Zdravo. Tokrat smo res prišli do bridkega konca. Končali smo zadnje poglavje 6. knjige iz trilogije v štirih delih, po vsem vesolju znane štoparske biblije. Čeprav srečnih koncev ni, vas opozarjamo, da preverite darilne bone za večerje, toplice in kar je še tega, ker zapadejo v dveh letih, lahko tudi manj. 
+Zdravo. Tokrat se ogrevamo s telovadbo iz nekdanjega vzhodnega bloka in preverimo zakaj so te osnovne vaje, ki smo se jih (vsaj mi) naučili v osnovni šoli, res najboljši življenski trik. Za boljše rezultate v pogovor vmešamo še kreatin in nekaj kapljic mistične vode v obliki “tekoče smrti", da bodo rezultati res osupljivi.
 
-Namesto v Ortu in drugih gostilnah, ugotovimo, da te dni zapravljamo za raznorazne naročnine, Artur pa se odpravi na pot, kjer za trenutek sreča Fenchurch in konča na tisti njemu tako ljubi plaži. Ampak tam so (kvarnik!) že spet Vogoni. 
-
-V 68 tednih 6. sezone smo obdelali 6. knjigo, v 272 epizodah pa celotno štoparsko sago – in zdaj nas čaka samo še koktajl z rezino limone. In zlato opeko. Lepo je bilo, nekateri smo tudi jokali. 
-
-Hvala, ker ste nas poslušali čisto do konca. 
-
-P.S.: Naslednji teden bo na vrsti 7. sezona našega malega podkasta in z njo knjiga Zadnja priložnost, ki jo je skupaj z Markom Carwardineom napisal naš ljubi Douglas Adams. Se poslušamo. 
+V začetku prvega poglavja nas na Madagaskarju pričakata Douglas in Mark - brez dveh Land Roverjev, brez helikopterja in z veliko količino kaosa. Za še “večje udobje” pri ekspediciji pa so poskrbeli Kitajci, ki so se v osemdesetih letih prejšnjega tisočletja na Madagaskarju učili asfaltiranja cest. Na koncu pa ugotovimo, da so vsi ti križi in težave šele uvod v to, kar nas še čaka.
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -38,7 +32,7 @@ P.S.: Naslednji teden bo na vrsti 7. sezona našega malega podkasta in z njo knj
 
 #### Zapiski
  
-- []() - 
+- 📨 [Telegraf](https://sl.wikipedia.org/wiki/Telegraf) - električna naprava, ki z električnimi signali prenaša ali pa sprejema sporočila s pomočjo Morsejeve abecede in je bila v osemdesetih še vedno najhitrejša oblika komunikacije na Madagaskarju
 - []() - 
 - []() - 
 - []() - 
