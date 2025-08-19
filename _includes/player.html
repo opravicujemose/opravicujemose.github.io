@@ -1,1 +1,32 @@
-{% if page.listen %}<iframe src="{{ page.listen }}" height="170px" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe><div class="listenWrap">{% elsif page.spotify %}<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/{{ page.spotify }}?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><div class="listenWrapNoMargin">{% else %}<p class="coming-soon">⏳ Predvajalnika še ni (prihaja kmalu), ⏳<br />👇 medtem lahko poslušate epizodo na spodnjih povezavah! 👇</p><div class="listenWrap">{% endif %}
+{% if page.spotify %}
+  <!-- Spotify embed -->
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/{{ page.spotify }}?utm_source=generator&theme=0"
+    width="100%" height="152" frameborder="0"
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+    loading="lazy"></iframe>
+  <div class="listenWrapNoMargin">
+
+{% elsif page.embed %}
+  <!-- Apple Podcasts embed -->
+  <iframe
+    height="175" width="100%" title="Apple Podcasts player"
+    src="https://embed.podcasts.apple.com{{ page.embed | replace: 'https://podcasts.apple.com','' }}&theme=auto"
+    id="embedPlayer"
+    style="border:0;border-radius:12px;width:100%;height:175px;max-width:950px;"
+    sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation"
+    allow="autoplay *; encrypted-media *; clipboard-write">
+  </iframe>
+  <div class="listenWrapNoMargin">
+
+{% elsif page.audio_url %}
+  <!-- HTML5 audio fallback -->
+  <audio controls preload="none" style="width:100%">
+    <source src="{{ page.audio_url | escape }}" type="audio/mpeg">
+    Vaš brskalnik ne podpira `<audio>`. Poslušajte prek <a href="{{ page.audio_url | escape }}">MP3</a>.
+  </audio>
+  <div class="listenWrapNoMargin">
+
+{% else %}
+  <p class="coming-soon">⏳ Predvajalnika še ni (prihaja kmalu).</p>
+  <div class="listenWrap">
+{% endif %}
