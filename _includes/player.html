@@ -10,6 +10,26 @@
   </iframe>
   <div class="listenWrapNoMargin">
 
+{% elsif page.listen %}
+  <iframe id="ln" src="{{ page.listen }}" height="180" width="100%"
+    style="width:1px;min-width:100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+  <script>
+    // Če je blokirano, pokaži link
+    (function(){
+      const f = document.getElementById('ln');
+      let t = setTimeout(function(){
+        try { if (!f.contentWindow || f.contentWindow.length === 0) throw 0; }
+        catch(e){
+          f.insertAdjacentHTML('afterend',
+            '<p class="player-fallback">🔗 <a href="{{ page.listen }}" target="_blank" rel="noopener">Odpri epizodo na ListenNotes</a></p>');
+        }
+      }, 1200);
+      f.addEventListener('load', () => clearTimeout(t));
+    })();
+  </script>
+  <div class="listenWrap">
+
+
 {% elsif page.audio_url %}
   <!-- HTML5 audio fallback -->
   <audio controls preload="none" style="width:100%">
@@ -18,7 +38,8 @@
   </audio>
   <div class="listenWrapNoMargin">
 
+
 {% else %}
-  <p class="coming-soon">⏳ Predvajalnika še ni (prihaja kmalu).</p>
+  <p class="coming-soon">⏳ Predvajalnika še ni (prihaja kmalu). <br/> Do takrat lahko poslušaš na spodnjih povezavah. 👇</p>
   <div class="listenWrap">
 {% endif %}

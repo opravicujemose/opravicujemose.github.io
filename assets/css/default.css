@@ -552,6 +552,11 @@ hr {
 	margin: -24px 4px 0 0;
 	font-size: 0.90em;
 	vertical-align: middle;
+	border: 1px solid rgba(0,0,0,0.2);
+	border-radius: 8px;
+	padding: 8px;
+	font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
+	font-weight: 300;
 }
 
 .listen>a {
@@ -563,8 +568,20 @@ hr {
 	line-height: 1.5em;
 }
 
+
+.listen a {
+		background: #fff;
+    transition: all 0.2s cubic-bezier(0.33, 0.66, 0.66, 1) 0s;
+    text-decoration: none;
+}
+
 .listen a:hover {
 	color: #000;
+	text-decoration: none;
+}
+
+a:focus {
+	outline:thin dotted rgba(207, 40, 47, 0.4)
 }
 
 @media screen and (prefers-color-scheme: dark) {
