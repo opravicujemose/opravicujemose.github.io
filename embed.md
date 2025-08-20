@@ -1,27 +1,5 @@
-112
+95
 
-
-
-
-embed:	https://podcasts.apple.com/si/podcast/ur-kot-bistvo-obstoja-srednja-pot-po-fordu-prefectu/id1514750013?i=1000570264580
-embed:	https://podcasts.apple.com/si/podcast/basisti-so-po-dva-penija-opek/id1514750013?i=1000569485775
-embed:	https://podcasts.apple.com/si/podcast/le-streljaj-od-morja-streljaj-medcelinske-rakete/id1514750013?i=1000568694455
-embed:	https://podcasts.apple.com/si/podcast/ne-bit-leht/id1514750013?i=1000567792589
-embed:	https://podcasts.apple.com/si/podcast/rob-mckenna-je-bil-zagrenjen-pankrt-in-bog-de-ja/id1514750013?i=1000567087567
-embed:	https://podcasts.apple.com/si/podcast/mi-trije-bi-v-avstraliji-v-n-padl/id1514750013?i=1000566188022
-embed:	https://podcasts.apple.com/si/podcast/uvod-v-etro-knjigo-v-katerem-se-pogovarjamo-o-sre-nih-koncih-romanti-nih-komedij/id1514750013?i=1000565323235
-embed:	https://podcasts.apple.com/si/podcast/resnica-nas-bo-osvobodila/id1514750013?i=1000564476098
-embed:	https://podcasts.apple.com/si/podcast/prehranska-dopolnila-za-ljudi-ki-so-jih-ugrabili-vesoljci-v-ivo/id1514750013?i=1000563210417
-embed:	https://podcasts.apple.com/si/podcast/iv-av-generacija-vsebuje-sledi-ara-idov/id1514750013?i=1000561516754
-embed:	https://podcasts.apple.com/si/podcast/prvi-ra-unalnik-v-oblaku/id1514750013?i=1000560009054
-embed:	https://podcasts.apple.com/si/podcast/strici-iz-ozadja-marvinova-poezija-in-pesem-o-tesli/id1514750013?i=1000559291787
-embed:	https://podcasts.apple.com/si/podcast/za-robote-gre-idioti-so-blazno-sigurni-vase/id1514750013?i=1000558563820
-embed:	https://podcasts.apple.com/si/podcast/peljite-me-h-godlerju/id1514750013?i=1000557878602
-embed:	https://podcasts.apple.com/si/podcast/pangalakti-ni-grlorez-v-me-alcu-za-beton/id1514750013?i=1000556940535
-embed:	https://podcasts.apple.com/si/podcast/predvolilna-pivska-igrica-ali-prvoaprilsko-gostovanje-v-podkastu-ld-gd/id1514750013?i=1000556140874
-embed:	https://podcasts.apple.com/si/podcast/tud-mizo-bi-sam-da-ma-noge/id1514750013?i=1000555912936
-embed:	https://podcasts.apple.com/si/podcast/zakloni-e-ob-koncu-sveta/id1514750013?i=1000555416608
-embed:	https://podcasts.apple.com/si/podcast/dolenjski-superman/id1514750013?i=1000554681721
 embed:	https://podcasts.apple.com/si/podcast/krompirjevi-ocvrtki/id1514750013?i=1000553905837
 embed:	https://podcasts.apple.com/si/podcast/joda-e-nismo-vzel/id1514750013?i=1000553126852
 embed:	https://podcasts.apple.com/si/podcast/nagrada-za-najbolj-brezzvezno-rabo-besede-fuk-v-resnem-scenariju/id1514750013?i=1000552404106
