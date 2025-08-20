@@ -542,6 +542,11 @@ hr {
 	margin: 0 0 0 0;
 }
 
+.listen, h4.listens {
+	font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
+	font-weight: 300;
+}
+
 .listen {
 /*    padding: 12px 12px;
     border: 1px #ccc solid;
@@ -555,8 +560,6 @@ hr {
 	border: 1px solid rgba(0,0,0,0.2);
 	border-radius: 8px;
 	padding: 8px;
-	font-family: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
-	font-weight: 300;
 }
 
 .listen>a {
@@ -595,10 +598,26 @@ a:focus {
 
 }
 
+@media screen and (max-width: 600px) {
+.listen {
+	border: none;
+	padding: 16px 16px;
+}
+}
+
+@media screen and (max-width: 980px) {
+.listen {
+	border: none;
+	padding: 16px 16px;
+}
+}
+
+
+
 h4.listens {
 	margin: 0.4em 0 1em 0;
-    color: rgba(0,0,0, 0.67)
-
+  color: rgba(0,0,0, 0.67);
+  font-size: 0.8em;
 }
 @media screen and (prefers-color-scheme: dark) {
   h4.listens {
