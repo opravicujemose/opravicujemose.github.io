@@ -706,7 +706,6 @@ div.pagination {
 
 
 @media screen and (prefers-color-scheme: dark) {
-
   .pagination em {
 	background: rgba(255,255,255, 0.84);
 	color: #000;
@@ -723,5 +722,20 @@ div.pagination {
   .alert-link {
     color: rgba(255,255,255, 0.67) !important;
   }
+}
 
+
+.hero-image-wrapper {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.hero-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  border-radius: 12px;
 }
