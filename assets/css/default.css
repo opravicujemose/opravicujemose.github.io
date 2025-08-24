@@ -5,14 +5,14 @@
 }
 
 body {
-    font-family: 'Lora', serif;
+	font-family: 'Lora', serif;
 	background: #fff;
 	color: rgba(0,0,0, 0.85);
 	font-size: 1.2em;
 	line-height: 1.4em;
-	max-width: 72rem;
+	max-width: 88rem;
 	margin: auto; 
-	padding: 0 5%;
+	padding: 0 10%;
 }
 @media screen and (prefers-color-scheme: dark) {
   body {
@@ -20,6 +20,14 @@ body {
     color: rgba(255,255,255, 0.85);
   }
 }
+
+@media screen and (min-width: 1280px) {
+body {
+	max-width: 80rem;
+	padding: 0 5%;
+	}
+}
+
 
 /*
 .container {
@@ -534,12 +542,10 @@ hr {
   }
 }
 
-.listenWrap {
-	margin: -32px 0 0 0;
-}
-
-.listenWrapNoMargin {
-	margin: 0 0 0 0;
+.listenWrapNoMargin, .listenWrap {
+  display: flex;
+  flex-wrap: wrap;   /* omogoči prelom v novo vrstico */
+  gap: 0.58rem;       /* razmik med gumbi */
 }
 
 .listen, h4.listens {
@@ -548,9 +554,18 @@ hr {
 }
 
 .listen {
-/*    padding: 12px 12px;
+  display: flex;
+  align-items: center;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 8px 8px;
+  margin: 0px 0;      /* malo prostora navpično */
+  white-space: nowrap; /* da se tekst ne lomi znotraj gumba */
+}
+
+/*.listen {
+    padding: 12px 12px;
     border: 1px #ccc solid;
-*/  
 	display: inline-flex;
 	flex-flow: row;
 	flex-direction: row;
@@ -561,7 +576,7 @@ hr {
 	border-radius: 8px;
 	padding: 8px;
 }
-
+*/
 .listen>a {
 	color: #042042;
 }
@@ -598,30 +613,19 @@ a:focus {
 
 }
 
-@media screen and (max-width: 600px) {
-.listen {
-	border: none;
-	padding: 16px 16px;
-}
-}
-
-@media screen and (max-width: 980px) {
-.listen {
-	border: none;
-	padding: 16px 16px;
-}
-}
-
-
-
 h4.listens {
-	margin: 0.4em 0 1em 0;
+	margin: 2em 0 0 0;
   color: rgba(0,0,0, 0.67);
   font-size: 0.8em;
+  line-height: 0.8em;
+	display: flex;
+	flex-basis: 100%;
+
 }
+
 @media screen and (prefers-color-scheme: dark) {
   h4.listens {
-    color: rgba(255,255,255, 0.42);
+    color: rgba(0,0,0, 0.42);
   }
 }
 
