@@ -1,0 +1,58 @@
+{% assign total = paginator.total_pages %}
+{% assign current = paginator.page %}
+
+{% if total > 1 %}
+<div class="pagination"><span>Stran:</span>
+
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="prevnext">&laquo; nazaj</a>
+  {% endif %}
+
+  {% assign range_start = current | minus: 2 %}
+  {% assign range_end = current | plus: 2 %}
+
+  {% if range_start < 2 %}
+    {% assign range_start = 2 %}
+  {% endif %}
+  {% if range_end > total | minus: 1 %}
+    {% assign range_end = total | minus: 1 %}
+  {% endif %}
+
+  {%- assign shown = "" | split: "," -%}
+
+  {%- for i in (1..total) -%}
+    {% assign show = false %}
+
+    {% if i == 1 or i == total %}
+      {% assign show = true %}
+    {% elsif i >= range_start and i <= range_end %}
+      {% assign show = true %}
+    {% endif %}
+
+    {% if show %}
+      {% unless shown contains i %}
+        {% assign last_shown = shown | last %}
+        {% assign gap = i | minus: last_shown | minus: 1 %}
+        {% if last_shown and gap > 0 %}
+          <span class="dots">…</span>
+        {% endif %}
+
+        {% if i == current %}
+          <em>{{ i }}</em>
+        {% elsif i == 1 %}
+          <a href="{{ '/' | relative_url }}">1</a>
+        {% else %}
+          <a href="{{ site.paginate_path | relative_url | replace: ':num', i }}">{{ i }}</a>
+        {% endif %}
+
+        {% assign shown = shown | push: i %}
+      {% endunless %}
+    {% endif %}
+  {%- endfor -%}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="prevnext">naprej &raquo;</a>
+  {% endif %}
+
+</div>
+{% endif %}
