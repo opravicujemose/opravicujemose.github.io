@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"V imenu neustavljivega napredka 🚀"
-number: 	"#274 aka S07E02"
+title:  	"Telovadec.si 💪"
+number: 	"#275 aka S07E03"
 categories:	epizode
-permalink:	/274/
-tagline: 	"Zdravo. Tokrat se sprašujemo zakaj zahodni svet prostovoljno leze v ledene kadi, na puščavske triatlone in ostale moderne tipe trpinčenja lastnega telesa in duha. Vse to imenu zdravja in neustavljivega napredka?"
-image:		/assets/img/274@2x.jpg
-cover:		/assets/img/cover/274 img@2x.png
+permalink:	/275/
+tagline: 	"Zdravo. V epizodi, ki vas razmiga, nasmeje in pouči: telovadec.si, ledene kopeli, goli tek, aj-aj na Madagaskarju in najbrž še kaj."
+image:		/assets/img/275@2x.jpg
+cover:		/assets/img/cover/275 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -17,12 +17,14 @@ listen:
 youtube:	https://youtu.be/_oPGyT56S7M
 *embed:		https://podcasts.apple.com/si/podcast/kitajci-na-madagaskarju/id1514750013?i=1000722353056*
 published:	false
-date: 		2025-08-09 06:00 +0200
+date: 		2025-08-31 06:00 +0200
 ---
 
-Zdravo. V epizodi na trdem stolu razmišljamo, kako smo iz (pre)obilja, v katerem živimo, prostovoljno zgradili in splezali v ledene kadi trpljenja in zakaj, zdaj ko “imamo vse”, silimo sami sebe v plavanje v mrzli vodi ali pa v puščavske triatlone, gorske ultramaratone in kar je še teh. V imenu rasti, zdravja, boljše različice sebe … ali pa samo zato, ker je naš ego še vedno večji od nas samih? 
+Zdravo telovadke in telovadci, raziskovalke in raziskovalci ter štoparke in štoparji. Tokrat (bo)ste priča izumu novega telovadnega podkasta telovadec.si, kjer vas bomo vsak dan (ali teden) motivirali, da se boste gibali vsaj 5 minut tudi vi. Poslušali boste lahko tudi nasvete kot so: ali je ledena kopel zdrava ali pomaga samo proizvajalcem in prodajalcem. Izvedeli boste tudi, da je gluteus maximus največja mišica v telesu in kako preprečiti ponovitev plantarnega fascitisa. 
 
-Preden nadaljujemo z dogodivščinami Douglasa in Marka, ki spita kar na betonu, zaidemo tudi k vse večjem oboroževanju in govoru o vojni. Mogoče bi bilo dobro, da govorimo tudi o miru. Da bi vsaj več govorili o miru kot o vojni. Beseda nanese tudi na splošni ljudski odpor, investiranje v orožarska podjetja, učenje otrok streljanja, francoski kolonializem in še kaj. 
+Pozor: če boste pred poslušanjem sedli v avto, ne delajte telovadnih vaj med vožnjo! 
+
+Mi pa smo v epizodi obdelali tudi novi Pelijev heroin, nizkocenovna očala, goli tek in njegove slabosti in pa tudi zadnji del 1. poglavja knjige, kjer spet obiščemo Madagaskar in tokrat celo uzremo aj-aja. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -31,9 +33,10 @@ Preden nadaljujemo z dogodivščinami Douglasa in Marka, ki spita kar na betonu,
 
 #### Zapiski
  
-- 📨 [Telegraf](https://sl.wikipedia.org/wiki/Telegraf) - električna naprava, ki z električnimi signali prenaša ali pa sprejema sporočila s pomočjo Morsejeve abecede in je bila v osemdesetih še vedno najhitrejša oblika komunikacije na Madagaskarju
-- []() - 
-- []() - 
+- 🧊 [Ledena kopel](https://telovadec.substack.com/) - Ali res pomaga ali samo zebe? Trenutek, ko si do pasu v mrzli vodi in začneš dvomit o vseh življenjskih odločitvah, a ti telovadec Marko pravi, da je to zdravo. Samo brez panike! 
+- 💪 [telovadec.si](https://telovadec.substack.com/) - Ali res pomaga ali samo zebe? Trenutek, 💪ko si do pasu v mrzli vodi in začneš dvomit o vseh življenjskih odločitvah, a ti telovadec Marko pravi, da je to zdravo. Samo brez panike! 
+- 🍫 [Browniji Karim Atelier x Mlinotest](https://www.mlinotest.si/izdelki/mlinotest/sladke-dobrote/slascice/#brownies-200-g) - čokoladna poslastica za vse poznavalce vrhunskih slaščic, ljubitelje sladic in ostale čokoholike, znana tudi kot Pelijev zadnji čokoladni heroin. Brownieji vas bodo popeljali v drugo galaksiju, če jih pred uporabo za eno uro vzamete iz hladilnika ... in uživate! 
+- 🌞 [ShadeMap](https://shademap.app/) - aplikacija za vse, ki želite izvedeti, kam zjutraj med bloki postaviti ledeno kopel, da boste lahko obsijani s sončnim vzhodom. Direktno gledanje v sonce odsvetujemo, ker je nevarno za vaše oči. 
 - []() - 
 - []() - 
 - []() - 
