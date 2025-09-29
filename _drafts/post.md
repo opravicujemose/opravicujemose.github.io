@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Ne se pogovarjat s Chat GPT-jem 💬"
-number: 	"#278 aka S07E06"
+title:  	"Beton, štanga in Air Uganda 🛬"
+number: 	"#279 aka S07E07"
 categories:	epizode
-permalink:	/278/
-tagline: 	"Zdravo. Tokrat o tem, da nikoli ne moreš tako s telesom naredit, kot lahko z usti zafrkneš. Tudi o tem, zakaj Chat GPT ni najboljši naslov za življenjske nasvet."
-image:		/assets/img/278@2x.jpg
-cover:		/assets/img/cover/278 img@2x.png
+permalink:	/279/
+tagline: 	"Zdravo."
+image:		/assets/img/279@2x.jpg
+cover:		/assets/img/cover/279 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -17,12 +17,12 @@ listen:
 youtube:	https://youtu.be/_oPGyT56S7M
 embed:		https://podcasts.apple.com/si/podcast/kitajci-na-madagaskarju/id1514750013?i=1000722353056
 published:	false
-date: 		2025-09-25 06:00 +0200
+date: 		2025-09-28 06:00 +0200
 ---
 
-Zdravo. Tokrat z vami delimo nasvet največjega strokovnjaka za strupene ugrize in pike smrtonosnih živali, dr. Struana Sutherlanda, ki je bolj enostaven, kot se vam mogoče zdi. Po uvodni debati o klapah, odštevanju, pevskem zboru, videu in še čem, ustanovimo še Združenje za zaščito plena in se preselimo v Avstralijo. Tam ugotovimo, da narava ni prijazna babica, ampak bolj mačeha iz kakšne stare pravljice. 
+Zdravo. Tokrat mimo betona in štange skočimo do ideje o naši stolpnici v Londonu z velikim sijočim napisom na vrhu, Aljo se spomni na velike ognjene črke nad Innsbruckom (Innsbruck, pripravi bencin in hlode, ali pa LED-trak, odvisno od regulacij). Množični turizem mora postati bolj trajnosten in to bo za nas storil kapitalizem. To se bo zgodilo takrat, ko bo vse tako drago, da nihče od nas ne bo mogel več nikamor! 
 
-V epizodi se posvetimo drugemu delu 2. poglavja, če vam bo zmanjkalo tem za kavomat, komodski zmaj in njegove prehranske navade zagotovo rešijo zadrego. Zahvalimo se tudi za 42 ocen na Apple Podcasts in vas rotimo, da nam ne dajete več ocen, še manj pa recenzij. Hvala lepa. 
+Mi se vrnemo k knjigi, ekipa je v zraku, najprej morajo prileteti do Labuan Baja, a se zdi, da se vozijo z letali Air Uganda. Polovica kabinskih merilnikov ne dela - kar je super, ker imata pilota polovico manj skrbi, kaj bi lahko šlo narobe. Zabavajo nas tudi  letališki terminali (kolibe), pristanki in prtljaga. Še ena epizoda polna potopisnega kaosa, Douglasovega humorja in naših nebuloz. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -31,8 +31,8 @@ V epizodi se posvetimo drugemu delu 2. poglavja, če vam bo zmanjkalo tem za kav
 
 #### Zapiski
  
-- []() - 
-- []() - 
+- 🇺🇬 [Air Uganda](https://en.wikipedia.org/wiki/Uganda_Airlines_(1976%E2%80%932001)) - v času, ko je Douglas pisal to knjigo je obstajal Uganda Airlines, ki pa je po nekem čudnem naključju nehal z obratovanjem maja 2001, ravno v času, ko je naš preljubi avtor zapustil obličje tega sveta ... očitno z 
+- ✈️ [Finnair tehta potnike](https://apnews.com/article/finland-airline-weighing-passengers-finnair-2ac0d63432a362b08c555a7384ee1dbc) - na letališču v Helsinkih so začeli prostovoljno tehtanje potnikov z ročno prtljago, da bi dobili bolj realne številke za izračun teže in balansa letala. Samo brez panike: podatki so anonimni in brez povezave z osebnimi podatki, vsak prostovoljec pa dobi še majhno nagrado. Projekt bo služil kot osnova za uradne varnostne izračune do leta 2030. 
 - []() - 
 - []() - 
 - []() - 
