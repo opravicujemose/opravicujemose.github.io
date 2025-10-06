@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Beton, štanga in Air Uganda 🛬"
-number: 	"#279 aka S07E07"
+title:  	"Oglasni blok 🧃"
+number: 	"#280 aka S07E08"
 categories:	epizode
-permalink:	/279/
+permalink:	/280/
 tagline: 	"Zdravo."
-image:		/assets/img/279@2x.jpg
-cover:		/assets/img/cover/279 img@2x.png
+image:		/assets/img/280@2x.jpg
+cover:		/assets/img/cover/280 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -17,12 +17,14 @@ listen:
 youtube:	https://youtu.be/_oPGyT56S7M
 embed:		https://podcasts.apple.com/si/podcast/kitajci-na-madagaskarju/id1514750013?i=1000722353056
 published:	false
-date: 		2025-09-28 06:00 +0200
+date: 		2025-10-05 06:00 +0200
 ---
 
-Zdravo. Tokrat mimo betona in štange skočimo do ideje o naši stolpnici v Londonu z velikim sijočim napisom na vrhu, Aljo se spomni na velike ognjene črke nad Innsbruckom (Innsbruck, pripravi bencin in hlode, ali pa LED-trak, odvisno od regulacij). Množični turizem mora postati bolj trajnosten in to bo za nas storil kapitalizem. To se bo zgodilo takrat, ko bo vse tako drago, da nihče od nas ne bo mogel več nikamor! 
+Zdravo. Tokrat snemamo v “črni sobi”, brez glasbene podlage, v težkih pogojih, ki so podobni snemanju igralcev pred “green screenom” in tudi mi čutimo podobne vrste pritiske. Medtem ko se navajamo na nov studio, elegantno zdrsnemo v oglasni blok (prijazno vas povabimo na hvalazavseribe.si). 
 
-Mi se vrnemo k knjigi, ekipa je v zraku, najprej morajo prileteti do Labuan Baja, a se zdi, da se vozijo z letali Air Uganda. Polovica kabinskih merilnikov ne dela - kar je super, ker imata pilota polovico manj skrbi, kaj bi lahko šlo narobe. Zabavajo nas tudi  letališki terminali (kolibe), pristanki in prtljaga. Še ena epizoda polna potopisnega kaosa, Douglasovega humorja in naših nebuloz. 
+Sledi poročilo iz Berlina: navijači na steroidih, medalja z leskom in taktični izračun, kako maraton preživiš z malo teka in veliko ponosa. Nato se čudimo letalski logiki iz Floresa, štejemo tovornjake in še vedno čakamo tisti famozni “šalter” za potnike, ki so zgrešili Avstralijo. Tudi o Zadnji priložnosti: Kiri, Moose (ne los!) in večno zamujajoči gospod Čondo, piščanci namesto koz ter soba, ki se izkaže za … hodnik. 
+
+Komodo? Še ne še. Najprej spanje, naslednjič pa zmaji.
 
 {% include player.html %}
 {% include poslusaj.html %}
