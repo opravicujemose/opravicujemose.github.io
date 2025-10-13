@@ -158,7 +158,8 @@ a {
 }
 @media screen and (prefers-color-scheme: dark) {
   a {
-    color: #00BBFF;
+    /*color: #00BBFF;*/
+    color: #00adec;
   }
 }
 
@@ -317,8 +318,8 @@ article time, .readMore a {
 }
 @media screen and (prefers-color-scheme: dark) {
   article time, .readMore a {
-    background: rgba(255,255,255, 0.42);
-    color: rgba(0,0,0, 0.84);
+    background: rgba(255,255,255, 0.11);
+    color: rgba(255,255,255, 0.42);
   }
 }
 
@@ -604,11 +605,12 @@ a:focus {
 
 @media screen and (prefers-color-scheme: dark) {
   .listen>a, .listen i {
-    color: rgba(255,255,255, 0.42);
+    color: rgba(255,255,255, 0.54);
+    background: #333333;
   }
 
   .listen a:hover {
-	color: rgba(255,255,255, 0.84);
+	color: rgba(255,255,255, 1);
   }
 
 }
@@ -625,7 +627,7 @@ h4.listens {
 
 @media screen and (prefers-color-scheme: dark) {
   h4.listens {
-    color: rgba(0,0,0, 0.42);
+    color: rgba(255,255,255, 0.42);
   }
 }
 
