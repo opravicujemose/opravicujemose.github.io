@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Oglasni blok 🧃"
-number: 	"#280 aka S07E08"
+title:  	"Čustvenčki 🍐🍑🍆"
+number: 	"#281 aka S07E09"
 categories:	epizode
-permalink:	/280/
+permalink:	/281/
 tagline: 	"Zdravo."
-image:		/assets/img/280@2x.jpg
-cover:		/assets/img/cover/280 img@2x.png
+image:		/assets/img/281@2x.jpg
+cover:		/assets/img/cover/281 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -17,14 +17,18 @@ listen:
 youtube:	https://youtu.be/_oPGyT56S7M
 embed:		https://podcasts.apple.com/si/podcast/kitajci-na-madagaskarju/id1514750013?i=1000722353056
 published:	false
-date: 		2025-10-05 06:00 +0200
+date: 		2025-10-12 06:00 +0200
 ---
 
-Zdravo. Tokrat snemamo v “črni sobi”, brez glasbene podlage, v težkih pogojih, ki so podobni snemanju igralcev pred “green screenom” in tudi mi čutimo podobne vrste pritiske. Medtem ko se navajamo na nov studio, elegantno zdrsnemo v oglasni blok (prijazno vas povabimo na hvalazavseribe.si). 
+Zdravo. Tokratno epizodo z vami delimo v celoti, ker v Predigri (bonusi epizod, ki jih pred glavno epizodo ponavadi dobijo naši podporniki) na vse pretege temeljito znanstveno analiziramo čustvenčke, predvsem za najljubše kose "zelenjave" in kako se prikazujejo na katerem od mobilnih operacijskih sistemov. 
 
-Sledi poročilo iz Berlina: navijači na steroidih, medalja z leskom in taktični izračun, kako maraton preživiš z malo teka in veliko ponosa. Nato se čudimo letalski logiki iz Floresa, štejemo tovornjake in še vedno čakamo tisti famozni “šalter” za potnike, ki so zgrešili Avstralijo. Tudi o Zadnji priložnosti: Kiri, Moose (ne los!) in večno zamujajoči gospod Čondo, piščanci namesto koz ter soba, ki se izkaže za … hodnik. 
+Čudoviti svet čustvenčkov prekine dejstvo, da je do rojstnega dneva Billa Gatesa še dobra dva tedna (15 dni). Za nepoučene: to je dan, ko bomo vsi cepljeni proti COVID-19 končno končali tostransko trpljenje. Za tiste ki ga ne bi, imamo nasvete: uporaba kisa in aluminijaste folije kot zaščite pred 5G žarki, ter bunker vaj 7 metrov pod zemljo, 
 
-Komodo? Še ne še. Najprej spanje, naslednjič pa zmaji.
+Sovoditelji se dotaknejo tudi nasvetov iz podkasta, v katerem je gostoval Andrew Huberman o gledanju v sonce (zjutraj!) in razpravljajo o dvomljivi učinkovitosti kreme za sončenje. Potem končno odrinejo v Ladin gaj, kjer zveri pojejo v noč, morje je nenavadno mirno, na obzorju pa Komodo. Vmes razmišljamo o izgubljenem občutku čudenja.
+
+Končamo z apelom: več prijaznosti, hvaležnosti in uživajte, dokler lahko. 
+
+Naslednjih 14 dni bo ključnih. ;) 
 
 {% include player.html %}
 {% include poslusaj.html %}
