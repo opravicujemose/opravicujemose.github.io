@@ -156,6 +156,11 @@ h6.post-number {
 a {
     color: #042402; 
 }
+
+h6 a {
+	color: rgba(0,0,0, 0.42);
+}
+
 @media screen and (prefers-color-scheme: dark) {
   a {
     /*color: #00BBFF;*/

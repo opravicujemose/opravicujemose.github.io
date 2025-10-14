@@ -12,7 +12,27 @@ layout: default
 <div class="post-content" itemprop="articleBody">
 {% if page.youtube %}<a href="{{ page.youtube }}" title="{{ page.title }} - oglej si video na YouTubeu" target="_blank"><img src="{{ page.cover }}" alt="{{ page.title }}" /></a>{% elsif page.cover %}<img src="{{ page.cover }}" alt="{{ page.title }}" />{% endif %}
 <h2>{{ page.title }}</h2>
-<h6>{{ page.number }}</h6>
+<!-- <h6>{{ page.number }}</h6> -->
+{% assign raw_number = page.number %}
+{% assign parts = raw_number | split: ' ' %}
+{% assign season_episode = '' %}
+
+{% for part in parts %}
+  {% if part contains 'S' and part contains 'E' %}
+    {% assign season_episode = part %}
+  {% endif %}
+{% endfor %}
+
+{% if season_episode != '' %}
+  {% assign season = season_episode | slice: 0, 3 %}
+  {% assign season_num = season | remove: 'S' %}
+  {% assign episode = season_episode | slice: 3, season_episode.size | strip %}
+  {% assign link = "<a href='/sezona/" | append: season_num | append: "/'>" | append: season | append: "</a>" %}
+  {% assign linked_se = link | append: episode %}
+  <h6>{{ raw_number | replace: season_episode, linked_se }}</h6>
+{% else %}
+  <h6>{{ raw_number }}</h6>
+{% endif %}
 <!-- CONTENT POST HTML -->
 {{ content }}
 <!-- END CONTENT POST HTML -->
