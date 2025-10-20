@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Čustvenčki 🍐🍑🍆"
-number: 	"#281 aka S07E09"
+title:  	"Ko je umrl Bowie, je šlo vse v … 👨‍🎤"
+number: 	"#282 aka S07E10"
 categories:	epizode
-permalink:	/281/
+permalink:	/282/
 tagline: 	"Zdravo."
-image:		/assets/img/281@2x.jpg
-cover:		/assets/img/cover/281 img@2x.png
+image:		/assets/img/282@2x.jpg
+cover:		/assets/img/cover/282 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/
@@ -17,18 +17,12 @@ listen:
 youtube:	https://youtu.be/_oPGyT56S7M
 embed:		https://podcasts.apple.com/si/podcast/kitajci-na-madagaskarju/id1514750013?i=1000722353056
 published:	false
-date: 		2025-10-12 06:00 +0200
+date: 		2025-10-19 06:00 +0200
 ---
 
-Zdravo. Tokratno epizodo z vami delimo v celoti, ker v Predigri (bonusi epizod, ki jih pred glavno epizodo ponavadi dobijo naši podporniki) na vse pretege temeljito znanstveno analiziramo čustvenčke, predvsem za najljubše kose "zelenjave" in kako se prikazujejo na katerem od mobilnih operacijskih sistemov. 
+Zdravo. Tokrat začnemo s filozofsko razpravo o tem, če je svet res padel s tečajev, odkar nas je zapustil David Bowie?! Vmes so se zgodili Trump 1, COVID, Ukrajina, Gaza, Trump 2, Bill Gates pa za 2/3 planeta 28. oktobra planira očarljiv skupinski samomor. Mi pa nadaljujemo s kapitalizmom, distribucijo hrane in razmišljamo o vplivu medijev na človeško psihologijo in pogled na svet nasploh.
 
-Čudoviti svet čustvenčkov prekine dejstvo, da je do rojstnega dneva Billa Gatesa še dobra dva tedna (15 dni). Za nepoučene: to je dan, ko bomo vsi cepljeni proti COVID-19 končno končali tostransko trpljenje. Za tiste ki ga ne bi, imamo nasvete: uporaba kisa in aluminijaste folije kot zaščite pred 5G žarki, ter bunker vaj 7 metrov pod zemljo, 
-
-Sovoditelji se dotaknejo tudi nasvetov iz podkasta, v katerem je gostoval Andrew Huberman o gledanju v sonce (zjutraj!) in razpravljajo o dvomljivi učinkovitosti kreme za sončenje. Potem končno odrinejo v Ladin gaj, kjer zveri pojejo v noč, morje je nenavadno mirno, na obzorju pa Komodo. Vmes razmišljamo o izgubljenem občutku čudenja.
-
-Končamo z apelom: več prijaznosti, hvaležnosti in uživajte, dokler lahko. 
-
-Naslednjih 14 dni bo ključnih. ;) 
+Sledi razglas o dvelovniku: našli smo trgovino, ki odprta LE dva dni na teden. Bravo. Potem pa preidemo k razpravi o delavskem razredu, plačah, malicah in tem, zakaj bi moral imeti tudi direktor pravico do sendviča. Na koncu se vse skupaj nežno zlije v basen o klanju zajca, svetovni politiki in Revolutu.
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -37,9 +31,10 @@ Naslednjih 14 dni bo ključnih. ;)
 
 #### Zapiski
  
-- 🇺🇬 [Air Uganda](https://en.wikipedia.org/wiki/Uganda_Airlines_(1976%E2%80%932001)) - v času, ko je Douglas pisal to knjigo je obstajal Uganda Airlines, ki pa je po nekem čudnem naključju nehal z obratovanjem maja 2001, ravno v času, ko je naš preljubi avtor zapustil obličje tega sveta ... očitno z 
-- ✈️ [Finnair tehta potnike](https://apnews.com/article/finland-airline-weighing-passengers-finnair-2ac0d63432a362b08c555a7384ee1dbc) - na letališču v Helsinkih so začeli prostovoljno tehtanje potnikov z ročno prtljago, da bi dobili bolj realne številke za izračun teže in balansa letala. Samo brez panike: podatki so anonimni in brez povezave z osebnimi podatki, vsak prostovoljec pa dobi še majhno nagrado. Projekt bo služil kot osnova za uradne varnostne izračune do leta 2030. 
-- []() - 
+- 🖤 [Črna lepotica](https://www.youtube.com/watch?v=axkjKW7ENDg) – Lotusov bulid iz leta 1979: črna lepotica, ki je z aerodinamično nadgradnjo spremenila Formulo 1. Lotus 79 je Mariu Andretti prinesel naslov svetovnega prvaka leta 1978, ekipi pa konstruktorski pokal. Eleganca, moč in zvok pravega inženirskega presežka zlate dobe F1.
+- 🏎️ [Lotus](https://en.wikipedia.org/wiki/Team_Lotus) - legendarna britanska ekipa, ki je v 60. in 70. letih postavila temelje sodobne Formule 1. V 80. pa so v svoje avte inštalirali Renaultove 12-valjne turbo motorje, v teh letih so zanje dirkali med drugim tudi Elio de Angelis, Nigel Mansell in Ayrton Senna 
+- ✌️ [Dvelovnik](https://opravicujemo.se/251/) - Epizoda, v kateri izumimo dvelovnik - revolucionarna ideja o sistemu, kjer ima vsak teden petdnevni vikend in dva delovna dneva. Manj stresa, več pogovorov, več hobijev in obvezna praksa v gostinstvu. Govorimo tudi o vplivu na državo: od pohodniških izzivov do novega razporejanja delovnih terminov.
+- 🍺 [Tovar'š Kordiš](https://opravicujemo.se/253/) - Epizoda, v kateri Guinness 0.0 s svojo dušikovo kroglico dobi politično noto, dvelovnik pa ideološkega zaveznika. Ustanovimo Društvo za zaščito gostilniškega življenja in še bolj razmišljamo o dvelovniku. Sklelemo, da eni imajo stranke, mi pa ideje. 
 - []() - 
 - []() - 
 - []() - 
