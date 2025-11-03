@@ -1,28 +1,30 @@
 ---
 layout: 	post
-title:  	"Kartica je pri vratarju 🪪"
-number: 	"#283 aka S07E11"
+title:  	"Posebna Nobelova in Darwinove nagrade 🏆"
+number: 	"#284 aka S07E12"
 categories:	epizode
-permalink:	/283/
-tagline: 	"Zdravo. Tokrat z Apostoli žura, bogovi in zmaji čakamo konec sveta, medtem ko Bill Gates praznuje rojstni dan in Komodo dokazuje, da je narava bolj brutalna od simulacije. Kartica je, jasno, pri vratarju."
-image:		/assets/img/283@2x.jpg
-cover:		/assets/img/cover/283 img@2x.png
-apple:		https://apple.co/4qpyUD3
-overcast:	https://overcast.fm/+beHg47ztM
-podkite:	https://pod.link/opr/episode/Nzc2NjViZDMtYjA0MS00OTJhLWJiOTQtMzc5MzU2NTYwNjUx
-pocket:		https://pca.st/jo4mz6m7
-google:		https://music.youtube.com/watch?v=IZ_AeIds1kY
+permalink:	/284/
+tagline: 	"Zdravo. 👋"
+image:		/assets/img/284@2x.jpg
+cover:		/assets/img/cover/284 img@2x.png
+apple:		
+overcast:	
+podkite:	https://pod.link/opr/episode/
+pocket:		
+google:		https://music.youtube.com/watch?v=________
 anchor:		
 listen:		
-youtube:	https://youtu.be/IZ_AeIds1kY
-embed:		https://podcasts.apple.com/si/podcast/kartica-je-pri-vratarju/id1514750013?i=1000733635748
+youtube:	https://youtu.be/________
+embed:		https://podcasts.apple.com/si/podcast/________
+published:	false
+date: 		2025-11-02 06:00 +0200
 ---
 
-Zdravo. Tokrat se z Apostoli žura, bogovi, zmaji, Branetom, bogom lubezni in ostalimi mnogoboštvi pripravljamo na epski konec sveta, ki vas vse, ki smo / ste bili cepljeni proti COVID-u 19, čaka jutri, ko bo, če verjamete dobro znani teoriji zarote, na svoj rojstni dan, Bill Gates, lastnoročno pomoril dve tretjini prebivalstva planeta. 
+Zdravo. Tokrat smo z vami Gustl, Lojz in Štef, a konca sveta vseeno nismo dočakali! Smo pa začeli epizodo z razpravo nesmrtnosti duše in o tem, kaj se z njo zgodi ob teleportu, ter ugotovili, da je demenca najbrž razkrajanje duše. Spomnimo se tudi na novico, da tudi v cerkve prihajajo POS terminali in brezgotovinsko poslovanje. 
 
-Hvala, ker ste nas poslušali do bridkega konca. 💥 
+Švedski akademiji, ki podeljuje Nobelove nagrade predlagamo, da za oranžnega zeta izumi posebno priznanje: Nobelovo nagrado za Trumpa. Take nagrade nima in je ne bo imel nihče drug. Naj bo to najlepša nagrada in najbolj velika. Večja kot navadne Nobelove nagrade. In bolj zlata. In bolj unikatna. Enkratna. 
 
-Aha, celo na Komodo pridemo, kjer ugotovimo, kaj se zgodi s piščanci, potem pa spet skrenemo v debato o tem, da nas v sredo morda ne čaka smrt, ampak simulacija. Če se ne slišimo prihodnji teden, vedite: kartico smo pustili pri vratarju. 
+Seveda ne pozabimo na Komodo, na zmaje in na kačo, ki je padla z nadstreška, spomnimo pa se tudi na slikanje s tigri (tega raje ne počnite) in posledično na Darwinove nagrade! 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -31,10 +33,16 @@ Aha, celo na Komodo pridemo, kjer ugotovimo, kaj se zgodi s piščanci, potem pa
 
 #### Zapiski
  
-- 🧞 [Mnogoboštvo ali politeizem](https://sl.wikipedia.org/wiki/Politeizem) - Včasih je bolj smiselno imeti boga za veter, boga za vino in boga za WI-FI, kot pa vse staviti na enega. Mogoče bi bilo bolje, če bi imeli boga za vsak problem. 
-- 🖤 [Bog lubezni](https://sl.wikipedia.org/wiki/Grega_Sko%C4%8Dir) - samo en je Grega Skočir, samo en je Bog ljubezni. 
-- 🌷 [Big Foot Mama - Črn tulipan](https://www.youtube.com/watch?v=Ndrh6hcVip8) - pesem o strasti, bolečini in lepoti, ki cveti tudi v temi. In pesem, ki vam pove, kdo je Bog ljubezni. 
-- 🎆 [Don’t Look Up (Netflix)](https://www.netflix.com/title/81252357) – film, ki je preblizu resnici in ravno prav absurden, da bi ga morali gledat večkrat, še posebej tik pred koncem. Danes, jutri!? 
+- 🧩 [Če moram tja po koščkih](https://opravicujemo.se/058/) - 58. epizoda našega malega podkasta, v kateri se pogovarjamo o pasteh teleporta, kot jih je v 22. poglavju 2. knijge razkril avtor 
+- 📎 [Clippy](https://www.artsy.net/article/artsy-editorial-life-death-microsoft-clippy-paper-clip-loved-hate) - tista sponka iz MS Worda, ki smo jo v 2000-ih sovražili, zdaj pa jo imamo raje kot Siri 
+- 🏆 [Darwin Awards](https://darwinawards.com/) - nagrade za najbolj izvirno in domiselno izločitev iz evolucijskega cikla ... včasih naravna selekcija ne potrebuje prav dosti pomoči
+- 🚗 [Dvojni skok v smrt](https://darwinawards.com/darwin/darwin2019-09.html) – ko se petek zvečer v Louisiani spremeni v smrtonosen podvig: dva Teksačana sta skušala poleteti čez most Bayou Bridge, a sta poletela naravnost k stvarniku ter si prislužila dvojno zmago Darwinovih nagrad za leto 2019
+- [Cerkev s POS terminalom](https://n1info.si/novice/slovenija/tudi-v-cerkev-v-slovenskih-goricah-postavili-velik-pos-terminal/) - mežnarjem in klasični pušci bo kmalu odzvonilo 
+- 💣 [Prava bomba si](https://opravicujemo.se/233/) - 233. epizoda podkasta v kateri smo se pogovarjali o Darwin awards
+- 🐅 [Zakaj se ne smeš slikati z divjimi živalmi](https://www.sbs.com.au/news/article/why-you-shouldnt-take-selfies-with-tigers/cd462t5x9) – ker tigrov "nasmeh" na tvoji sliki zanj pomeni stres, zakaj tudi jahanje slonov ni okej ... in drugi primeri, zakaj divjih živali ne bi smeli izkoriščati za nabiranje človeških všečkov 
+- []() - 
+- []() - 
+- []() - 
 - []() - 
 - []() - 
 - []() - 
