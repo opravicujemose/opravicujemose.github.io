@@ -1,30 +1,30 @@
 ---
 layout: 	post
-title:  	"Posebna Nobelova in Darwinove nagrade 🏆"
-number: 	"#284 aka S07E12"
+title:  	"Zlata vrata 🚪"
+number: 	"#285 aka S07E13"
 categories:	epizode
-permalink:	/284/
+permalink:	/285/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/284@2x.jpg
-cover:		/assets/img/cover/284 img@2x.png
+image:		/assets/img/285@2x.jpg
+cover:		/assets/img/cover/285 img@2x.png
 apple:		
 overcast:	
-podkite:	https://pod.link/opr/episode/
+podkite:	https://pod.link/opr/episode/__________
 pocket:		
 google:		https://music.youtube.com/watch?v=________
 anchor:		
 listen:		
 youtube:	https://youtu.be/________
-embed:		https://podcasts.apple.com/si/podcast/________
+embed:		https://podcasts.apple.com/si/podcast/____________
 published:	false
-date: 		2025-11-02 06:00 +0200
+date: 		2025-11-10 06:00 +0200
 ---
 
-Zdravo. Tokrat smo z vami Gustl, Lojz in Štef, a konca sveta vseeno nismo dočakali! Smo pa začeli epizodo z razpravo nesmrtnosti duše in o tem, kaj se z njo zgodi ob teleportu, ter ugotovili, da je demenca najbrž razkrajanje duše. Spomnimo se tudi na novico, da tudi v cerkve prihajajo POS terminali in brezgotovinsko poslovanje. 
+Zdravo. Epizodo začnemo s predvolilnimi temami, kot so božičnica, regres, november in veselje do dela. Izvemo, da je za uspeh na delovnem mestu bistveno predvsem veselje do dela. Ko obdelamo litostrojske štrajke v 90-ih, skočimo k ortodoksnim martinovalcem in napovemo našo bodočo selitev v klet na Trstenjakovo. 
 
-Švedski akademiji, ki podeljuje Nobelove nagrade predlagamo, da za oranžnega zeta izumi posebno priznanje: Nobelovo nagrado za Trumpa. Take nagrade nima in je ne bo imel nihče drug. Naj bo to najlepša nagrada in najbolj velika. Večja kot navadne Nobelove nagrade. In bolj zlata. In bolj unikatna. Enkratna. 
+Namesto na Komodo se preselimo v Rim, kjer najdemo zlata (sveta) vrata. Tam ti odpustijo vse grehe, še posebej, če še nisi krščen. Spoznamo tudi megapoda, letečo kuro, ki ne želi sedeti na jajcih. Douglas pove, da rad programira, čeprav traja programiranje precej dlje, kot če bi stvari izračunal "na peš". 
 
-Seveda ne pozabimo na Komodo, na zmaje in na kačo, ki je padla z nadstreška, spomnimo pa se tudi na slikanje s tigri (tega raje ne počnite) in posledično na Darwinove nagrade! 
+Ampak saj veste: važno je predvsem veselje do dela! 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -33,13 +33,16 @@ Seveda ne pozabimo na Komodo, na zmaje in na kačo, ki je padla z nadstreška, s
 
 #### Zapiski
  
-- 🧩 [Če moram tja po koščkih](https://opravicujemo.se/058/) - 58. epizoda našega malega podkasta, v kateri se pogovarjamo o pasteh teleporta, kot jih je v 22. poglavju 2. knijge razkril avtor 
-- 📎 [Clippy](https://www.artsy.net/article/artsy-editorial-life-death-microsoft-clippy-paper-clip-loved-hate) - tista sponka iz MS Worda, ki smo jo v 2000-ih sovražili, zdaj pa jo imamo raje kot Siri 
-- 🏆 [Darwin Awards](https://darwinawards.com/) - nagrade za najbolj izvirno in domiselno izločitev iz evolucijskega cikla ... včasih naravna selekcija ne potrebuje prav dosti pomoči
-- 🚗 [Dvojni skok v smrt](https://darwinawards.com/darwin/darwin2019-09.html) – ko se petek zvečer v Louisiani spremeni v smrtonosen podvig: dva Teksačana sta skušala poleteti čez most Bayou Bridge, a sta poletela naravnost k stvarniku ter si prislužila dvojno zmago Darwinovih nagrad za leto 2019
-- [Cerkev s POS terminalom](https://n1info.si/novice/slovenija/tudi-v-cerkev-v-slovenskih-goricah-postavili-velik-pos-terminal/) - mežnarjem in klasični pušci bo kmalu odzvonilo 
-- 💣 [Prava bomba si](https://opravicujemo.se/233/) - 233. epizoda podkasta v kateri smo se pogovarjali o Darwin awards
-- 🐅 [Zakaj se ne smeš slikati z divjimi živalmi](https://www.sbs.com.au/news/article/why-you-shouldnt-take-selfies-with-tigers/cd462t5x9) – ker tigrov "nasmeh" na tvoji sliki zanj pomeni stres, zakaj tudi jahanje slonov ni okej ... in drugi primeri, zakaj divjih živali ne bi smeli izkoriščati za nabiranje človeških všečkov 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
 - []() - 
 - []() - 
 - []() - 
