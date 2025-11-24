@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Deloholizem 💼"
-number: 	"#286 aka S07E14"
+title:  	"Črni petek letos odpade zaradi retrogradnega Merkurja 🪐"
+number: 	"#287 aka S07E15"
 categories:	epizode
-permalink:	/286/
+permalink:	/287/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/286@2x.jpg
-cover:		/assets/img/cover/286 img@2x.png
+image:		/assets/img/287@2x.jpg
+cover:		/assets/img/cover/287 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -20,9 +20,11 @@ published:	false
 date: 		2025-11-10 06:00 +0200
 ---
 
-Zdravo. Za začetek ugotovimo, da je deloholizem družbeno sprejemljivejši od alkoholizma, trpljenje družin enih ali drugih pa je več kot primerljivo. Ne pričakujte doprsnega kipa v preddverju. Tokratno (revolucionarno) Aljotovo dejstvo se glasi: "v službi delaj ravno toliko, da te ne odpustijo. Ker ravno toliko te tudi plačujejo." 
+Zdravo. Stvar je tokrat resna. Retrogradni Merkur bo tokrat onemogočil mirno in sproščeno zapravljanje na Črni petek. Ker vemo, da ko je Merkur retrograden, ni priporočljivo opravljati večjih nakupov, vam bo denarnica več kot hvaležna! 
 
-Presedlamo na debato o simulaciji in božjem Tinder (OnlyFans) profilu, potem pa končno skočimo na Komodo. Tam ugotovimo da se opazovanje komodskih zmajev sprevrže v ceneno, a krvavo turistično atrakcijo. Zvonček, drobovje, mačeta, ... vse to privede do debate o smiselnosti tovrstne turistične ponudbe. 
+Mi pa tudi. Za vas smo tokrat pripravili poseben črnopetkasti popust (-17% in brezplačni preizkus za vse). hvalazavseribe.si
+
+V epizodi tudi o kričeči tišini, odločbi, ki pride v najslabšem času, Pelijevem obisku policijske postaje in sodno obravnavo, spomnimo se tudi na balkansko omaro, dnevno sobo in kuhinjo, risanje ure, plesne korake in to, da smo v resnici čredica strahopetnih zdravorazumskih goven. Ne pozabimo niti na leteče ribe, kokos in boga. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -31,8 +33,6 @@ Presedlamo na debato o simulaciji in božjem Tinder (OnlyFans) profilu, potem pa
 
 #### Zapiski
  
-- [📚 Deloholizem￼](https://sl.wikipedia.org/wiki/Deloholizem) - zakaj v službi nekateri delajo več, kot vas plačajo, in zakaj vas za to nihče ne bo nagradil s kipom v preddverju firme. Deloholiki pri tem dobijo občutek izpopolnitve, notranjo potrebo po delu in tisto čustveno vzburjenje, ki ga lahko prinese samo trdo delo. 
-- [Fredlene grumblajde](https://opravicujemo.se/007/) - 7. epizoda našega malega podkasta, v katerem smo prvič omenili kratki film *Koza je preživela* in kjer je v zapiskih tudi povezava do filma na YouTubeu 
 - []() - 
 - []() - 
 - []() - 
