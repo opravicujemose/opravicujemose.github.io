@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Črni petek letos odpade zaradi retrogradnega Merkurja 🪐"
-number: 	"#287 aka S07E15"
+title:  	"Globalni direktor logistike 🧳"
+number: 	"#288 aka S07E16"
 categories:	epizode
-permalink:	/287/
+permalink:	/288/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/287@2x.jpg
-cover:		/assets/img/cover/287 img@2x.png
+image:		/assets/img/288@2x.jpg
+cover:		/assets/img/cover/288 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -17,14 +17,14 @@ listen:
 youtube:	https://youtu.be/________
 embed:		https://podcasts.apple.com/si/podcast/____________
 published:	false
-date: 		2025-11-10 06:00 +0200
+date: 		2025-11-30 06:00 +0200
 ---
 
-Zdravo. Stvar je tokrat resna. Retrogradni Merkur bo tokrat onemogočil mirno in sproščeno zapravljanje na Črni petek. Ker vemo, da ko je Merkur retrograden, ni priporočljivo opravljati večjih nakupov, vam bo denarnica več kot hvaležna! 
+Zdravo. Tokrat se iz nedolžnega 3,5 konektorja rodi nova nagrada (Zlati Toni). Ugotavljamo ali je 30 centimetrov res 30 centimetrov, sprehodimo se do starega dobrega analognega Netflixa (videoteka pr' cerkvi) in se spomnimo, da prihaja čas, ko bomo spet poslušali Mariah Carey. 
 
-Mi pa tudi. Za vas smo tokrat pripravili poseben črnopetkasti popust (-17% in brezplačni preizkus za vse). hvalazavseribe.si
+Kar se tiče *Zadnje priložnosti*, smo pri 3. poglavju in misijonarjih, spomnimo se tudi na Hararija in njegovo štorijo o skupnih pravljicah, skupnih zgodbah, prek katerih pridemo do afriške birokracije, leopardovega klobučka in se odpravimo na pot proti gorskim gorilam in skoraj izumrlim severnim belim nosorogom. 
 
-V epizodi tudi o kričeči tišini, odločbi, ki pride v najslabšem času, Pelijevem obisku policijske postaje in sodno obravnavo, spomnimo se tudi na balkansko omaro, dnevno sobo in kuhinjo, risanje ure, plesne korake in to, da smo v resnici čredica strahopetnih zdravorazumskih goven. Ne pozabimo niti na leteče ribe, kokos in boga. 
+Globalnega direktorja logistike že imamo, regionalne direktorje pa še iščemo. Oglasite se na Discordu!
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -33,10 +33,10 @@ V epizodi tudi o kričeči tišini, odločbi, ki pride v najslabšem času, Peli
 
 #### Zapiski
  
-- []() - 
-- []() - 
-- []() - 
-- []() - 
+- 🎄 [Mariah Carey - All I Want For Christmas Is You](https://www.youtube.com/watch?v=yXQViqx6GMY) - štiklc, ki vsako leto vstane iz zimskega spanja, zavrti ekonomijo in Mariah verjetno že sam odpre nov bančni račun.
+- 💸 [Yuval Noah Harari - Sapiens: kratka zgodovina človeštva](https://www.dobreknjige.si/knjige/sapiens-kratka-zgodovina-clovestva/) - Harari nas popelje skozi fascinantno pot človeške vrste: od skupin radovednih nabiralcev do graditeljev mest, bogov, držav in korporacij. Prikaže, kako so izmišljene zgodbe (religije, narodi, denar, zakoni, ...) postale sile, ki usmerjajo naše življenje bolj kot biologija in kako je prehod iz lovsko-nabiralskih skupnosti v kmetovalce oblikoval svet, v katerem živimo še danes! 
+- 📚 [Ljudje smo živali, ki pripovedujemo zgodbe](https://www.youtube.com/watch?v=WieZ4qmaDM8) - ljudje ne živimo le v svetu dejstev, ampak v svetu zgodb - od starodavnih mitov preko kapitalizma, komunizma do modernih ideologij - milijarde nas sledijo skupnim pravljicam, ki smo si jih izmislili in jih vzeli za resničnost.
+- 🐆 [Bob Dylan - Leopard-Skin Pill-Box Hat](https://www.youtube.com/watch?v=lOCYQtrm19s) - Dylanova zajedljiva, udrihajoča blues šala na račun gospe z leopardjim klobučkom, ki bi ga nosila tudi baronesa, če bi imela malo več poguma (in malo manj okusa) ... nosil ga bo pa tudi junak tega poglavja, k kateremu pridemo malce kasneje, najverjetneje drugo leto 
 - []() - 
 - []() - 
 - []() - 
