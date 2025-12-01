@@ -4,12 +4,13 @@
   display: flex;
   justify-content: center;
   margin-top: -3px;
+  font-size: 0.95em;
 }
 
 .slider__nav {
   width: 12px;
   height: 12px;
-  margin: 3.25rem 0.5rem 1rem 0.5rem;
+  margin: 3.25rem 0.4rem 1rem 0.4rem;
   border-radius: 50%;
   z-index: 1;
   outline: 6px solid #ccc;

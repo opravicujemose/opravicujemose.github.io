@@ -246,7 +246,7 @@ small, small a, small a:hover, small a:focus {
 
 .about {
 	background: #eee;
-	padding: 0.1em 0.5em; 
+	padding: 0; 
 	margin-top: -1.33em;
 	font-weight: 100;
 	color: rgba(0,0,0,0.84);
@@ -260,9 +260,13 @@ small, small a, small a:hover, small a:focus {
 }
 
 .about p {
-	font-size: 1em;
+	font-size: 0.95em;
 	line-height: 1.3em;
-	padding: 0 0.5em;
+	padding: 0 0.1em;
+	color: #042402;
+	padding: 12px;
+	color: rgba(0, 0, 0, 0.63);
+	margin: 0;
 }
 
 .about p strong {font-weight: 700;}
