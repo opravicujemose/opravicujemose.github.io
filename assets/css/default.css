@@ -6,7 +6,7 @@
 
 body {
 	font-family: 'Lora', serif;
-	background: #fff;
+	background: #EAEAEA;
 	color: rgba(0,0,0, 0.85);
 	font-size: 1.2em;
 	line-height: 1.4em;
@@ -363,6 +363,12 @@ div.readMore {
 
 .post-content {
 	display: flow-root;
+	background: rgba(255, 255, 255, 0.7);
+/*	box-shadow: 0 0 55px #fff;
+	box-shadow: 0 0 50px #eee;
+*/
+	padding: 16px;
+	/*margin: 40px;*/
 }
 
 .post-content iframe {
