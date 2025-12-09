@@ -6,7 +6,7 @@
 
 body {
 	font-family: 'Lora', serif;
-	background: #fff;
+	background: #EAEAEA;
 	color: rgba(0,0,0, 0.85);
 	font-size: 1.2em;
 	line-height: 1.4em;
@@ -27,7 +27,6 @@ body {
 	padding: 0 5%;
 	}
 }
-
 
 /*
 .container {
@@ -67,7 +66,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	font-size: 2em;
-	line-height: 1em;
 	text-transform: uppercase;
 	border-bottom: 1px solid #ccc;
 	padding: 0.2em 0 0.6em 0;
@@ -84,6 +82,24 @@ h1 a {
 	text-decoration: none;
 }
 
+h1.post-title {
+	font-size: 80px;
+	line-height: 40px;
+	height: 80px;
+	display: inline-flex;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+h1.post-title:hover {
+	font-size: 42px;
+  transition: all 0.4s cubic-bezier(0.33, 0.66, 0.66, 1) 0s;
+  height: 80px;
+  line-height: 80px;
+}
+
 h2 {
 	font-size: 2em;
 	line-height: 2.4rem;
@@ -97,7 +113,6 @@ h3:first {
     background: rgba(0,0,0, 0.21);
   }
 }
-
 
 h4, .page-heading, .pagination span {
     color: rgba(0,0,0, 0.67);
@@ -115,9 +130,12 @@ h4, .page-heading, .pagination span {
     font-weight: lighter;
   }
 }
-
 .page-heading {
 	letter-spacing: 1px;
+}
+
+h4.latest {
+	margin: 0;
 }
 
 h3 {
@@ -245,13 +263,19 @@ small, small a, small a:hover, small a:focus {
 }
 
 .about {
-	background: #eee;
+	background: rgba(255, 255, 255, 0.21);
 	padding: 0; 
-	margin-top: -1.33em;
+	margin-top: 0;
 	font-weight: 100;
-	color: rgba(0,0,0,0.84);
-    border-radius: 0 0 4px 4px;
+	color: rgba(0,0,0,0.92);
+  border-radius: 0 0 4px 4px;
 }
+
+.subscribe{
+	padding-top: 24px;
+	background: rgba(255, 255, 255, 0.42);
+}
+
 @media screen and (prefers-color-scheme: dark) {
   .about {
     background: rgba(255, 255, 255, 0.12);
@@ -264,7 +288,7 @@ small, small a, small a:hover, small a:focus {
 	line-height: 1.3em;
 	padding: 0 0.1em;
 	color: #042402;
-	padding: 12px;
+	padding: 0px 12px;
 	color: rgba(0, 0, 0, 0.63);
 	margin: 0;
 }
@@ -341,7 +365,7 @@ article time, .readMore a {
 div.readMore {
     text-align: right;
     margin-top: 20px;
-    height: 80px;
+    margin-bottom: 0;
 }
 
 @media screen and (max-width: 600px) {
@@ -363,6 +387,9 @@ div.readMore {
 
 .post-content {
 	display: flow-root;
+	background: rgba(255, 255, 255, 0.84);
+	padding: 16px;
+	margin: -32px 0 0 0;
 }
 
 .post-content iframe {
@@ -373,7 +400,7 @@ div.readMore {
 	float: right;
 	width: 30%;
 	padding: 0 0 0;
-	margin: -1em -2em 0 0;
+	margin: -1.5em -2em 0 0;
 }
 
 .post-content img:after {
@@ -385,7 +412,7 @@ div.readMore {
   min-width: 70%;
   max-width: 100%;
   heigth:auto;
-  margin: 0.2em 0 0.8em 0 ;
+  margin: 0.6em 0 0.8em 0;
 }
 
 @media screen and (max-width: 600px) {
@@ -546,6 +573,7 @@ article.post {
 hr {
 	border: 1px solid #ccc;
 }
+
 @media screen and (prefers-color-scheme: dark) {
   hr {
     border: 1px solid rgba(255,255,255, 0.3);
@@ -564,13 +592,15 @@ hr {
 }
 
 .listen {
+	color: #042042;
   display: flex;
   align-items: center;
-  border: 1px solid #ccc;
+  border: 1px solid #042;
   border-radius: 8px;
   padding: 8px 8px;
   margin: 0px 0;      /* malo prostora navpično */
   white-space: nowrap; /* da se tekst ne lomi znotraj gumba */
+	background: #fff;
 }
 
 /*.listen {
@@ -587,24 +617,24 @@ hr {
 	padding: 8px;
 }
 */
-.listen>a {
-	color: #042042;
-}
 
 .listen i {
 	color: #042042;;
 	line-height: 1.5em;
 }
 
-
-.listen a {
-		background: #fff;
-    transition: all 0.2s cubic-bezier(0.33, 0.66, 0.66, 1) 0s;
-    text-decoration: none;
+.listen:hover i, .listen:hover a {
+	color: rgba(255, 255, 255, 0.9);
 }
 
-.listen a:hover {
-	color: #000;
+.listen a {
+    transition: all 0.2s cubic-bezier(0.33, 0.66, 0.66, 1) 0s;
+    text-decoration: none;
+    color: #042042;
+}
+
+.listen:hover {
+	background: #036;
 	text-decoration: none;
 }
 
