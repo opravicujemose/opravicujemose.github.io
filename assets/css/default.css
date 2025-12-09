@@ -91,13 +91,15 @@ h1.post-title {
 	padding: 0;
 	margin: 0;
 	width: 100%;
+  transition: all 0.3s cubic-bezier(0.33, 0.66, 0.66, 1) 0s;
+  color: rgba(0, 0, 0, 0.42);
 }
 
 h1.post-title:hover {
 	font-size: 42px;
-  transition: all 0.4s cubic-bezier(0.33, 0.66, 0.66, 1) 0s;
   height: 80px;
   line-height: 80px;
+  color: rgba(0, 0, 0, 0.84);
 }
 
 h2 {
