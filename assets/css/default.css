@@ -83,6 +83,11 @@ h1 a {
 }
 
 h1.post-title {
+	padding: 0;
+	margin: 0;
+}
+
+h1.post-title a {
 	font-size: 80px;
 	line-height: 40px;
 	height: 80px;
@@ -92,10 +97,10 @@ h1.post-title {
 	margin: 0;
 	width: 100%;
   transition: all 0.3s cubic-bezier(0.33, 0.66, 0.66, 1) 0s;
-  color: rgba(0, 0, 0, 0.42);
+  color: rgba(0, 0, 0, 0.60);
 }
 
-h1.post-title:hover {
+h1.post-title a:hover {
 	font-size: 42px;
   height: 80px;
   line-height: 80px;
