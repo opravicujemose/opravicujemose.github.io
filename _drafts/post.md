@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Kako rešiti Staro celino 🍻"
-number: 	"#289 aka S07E17"
+title:  	"Teorija prahu 🌪️"
+number: 	"#290 aka S07E18"
 categories:	epizode
-permalink:	/289/
+permalink:	/290/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/289@2x.jpg
-cover:		/assets/img/cover/289 img@2x.png
+image:		/assets/img/290@2x.jpg
+cover:		/assets/img/cover/290 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -20,9 +20,11 @@ published:	false
 date: 		2025-12-08 06:00 +0200
 ---
 
-Zdravo. Kitajci trkajo na vrata, Rusi rožljajo z orožjem, mi pa najdemo rešitev, ki bo Evropo rešila pred gotovim propadom. Rešitev je preprostejša, kot bi se razmišljujočemu zdelo, mi pa ugotovimo tudi, da mladina ne pije več (oz. pije bistveno manj), manj je socialna in je vedno več na mobilnih telefonih. 
+Zdravo. Tokrat začnemo z gumbi ZX Spectruma, anekdoto o ekvatorju in "dejstvu", da je Zemlja ravna in resničnem dejstvu, da je Festivus, praznik za vse nas, navdihnjen po resničnih dogodkih. Ne pozabimo niti na decembersko dozo žurov, utrujenosti in se sprašujemo, kakšna bo novoletna epizoda letos. Gala obleke, da ali ne? 
 
-Zato je čisto logično, da predlagamo evropski renesančni program, ki vključuje pednevni vikend, pivkse ekskurzije, tečaji zmernega pitja alkohola in podobne stvari. V nadaljevanju poglavja se naši junaki znajdejo v kavlju 22 afriške birokracije. 
+Tokrat se tretjič vrnemo k 3. poglavju knjige, kjer pristanemo v Zairu. Obdelamo kartice za pospeševanje turizma, ki jih domačini ne znajo prebrati, brutalne številke, spoznamo teorijo prahu, humanoidno Roombo, leopardov klobuk maršala Mobutuja, prečrtane obrazce in carinike, ki jim je bolj všeč avtomobilska revija kot računalnik. 
+
+Zaključimo z razmislekom o časopisih, retro momentih in vprašanjem, ali se kdaj vrnejo, tako kot so se plošče in kasete. 
 
 {% include player.html %}
 {% include poslusaj.html %}
