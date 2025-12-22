@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% assign clean_tag = page.tag | replace: ']', '' | strip %}
+
+<h1>{{ clean_tag }}</h1>
+
+<ul>
+{% assign seen = "" %}
+{% for post in site.tags[clean_tag] %}
+  {% unless seen contains post.url %}
+    {% assign seen = seen | append: post.url | append: "|" %}
+
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <h6 class="tags">{% if post.number %}
+        ({{ post.number }}{% if post.season and post.episode %} aka S{{ post.season }}E{{ post.episode }}{% endif %})
+      {% endif %}</h6>
+    </li>
+
+  {% endunless %}
+{% endfor %}
+</ul>

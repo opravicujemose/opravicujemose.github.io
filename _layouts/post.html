@@ -28,8 +28,28 @@ layout: default
 <!-- CONTENT POST HTML -->
 {{ content }}
 <!-- END CONTENT POST HTML -->
+
+<!-- TAGS -->
+{% if page.tags and page.tags.size > 0 %}
+  <h4>Ključne besede</h4>
+  <div class="post-tags">
+    {% for tag in page.tags %}
+      {% assign slug = tag
+        | downcase
+        | replace: 'č','c'
+        | replace: 'š','s'
+        | replace: 'ž','z'
+        | replace: 'ć','c'
+        | replace: 'đ','d'
+        | replace: ' ','-'
+      %}
+      <a class="tag" href="/tag/{{ slug }}/">{{ tag }}</a>
+    {% endfor %}
+  </div>
+{% endif %}
 <!-- </div> -->
 </div>
-<!-- TAG (not here) -->
 </article>
 <!-- END POST -->
+
+
