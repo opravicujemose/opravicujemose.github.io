@@ -1,12 +1,12 @@
 ---
 layout: 	post
 title:  	"Teorija prahu 🌪️"
-number: 	"#290 aka S07E18"
+number: 	"#291 aka S07E19"
 categories:	epizode
-permalink:	/290/
+permalink:	/291/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/290@2x.jpg
-cover:		/assets/img/cover/290 img@2x.png
+image:		/assets/img/291@2x.jpg
+cover:		/assets/img/cover/291 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -17,7 +17,7 @@ listen:
 youtube:	https://youtu.be/________
 embed:		https://podcasts.apple.com/si/podcast/____________
 published:	false
-date: 		2025-12-08 06:00 +0200
+date: 		2025-12-21 06:00 +0200
 ---
 
 Zdravo. Tokrat začnemo z gumbi ZX Spectruma, anekdoto o ekvatorju in "dejstvu", da je Zemlja ravna in resničnem dejstvu, da je Festivus, praznik za vse nas, navdihnjen po resničnih dogodkih. Ne pozabimo niti na decembersko dozo žurov, utrujenosti in se sprašujemo, kakšna bo novoletna epizoda letos. Gala obleke, da ali ne? 
