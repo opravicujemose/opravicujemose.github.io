@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: "Darwinove nagrade"
+tag: "darwinove nagrade"
 permalink: /tag/darwinove-nagrade/
 ---

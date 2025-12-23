@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: "Električni avtomobili"
+tag: "električni avtomobili"
 permalink: /tag/elektricni-avtomobili/
 ---
