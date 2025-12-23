@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: "Biblija"
+tag: "biblija"
 permalink: /tag/biblija/
 ---
