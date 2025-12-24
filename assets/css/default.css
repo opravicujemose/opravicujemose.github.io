@@ -804,36 +804,68 @@ div.pagination {
   border-radius: 12px;
 }
 
-/* TAGS */
+/* TAGS – značke z "luknjo" */
 
 .post-tags {
-  margin: 1.2rem 0 2.5rem;
+  margin: 1.2rem 0 2.8rem;
 }
 
+/* posamezna značka */
 .post-tags .tag {
+  position: relative;
   display: inline-block;
-  padding: 0.24rem 0.6rem;
-  margin: 0 0.24rem 0.4rem 0;
+  padding: 0.28rem 0.7rem 0.28rem 1.4rem; /* več prostora levo za luknjo */
+  margin: 0 0.3rem 0.5rem 0;
   font-size: 0.7rem;
   font-weight: 300;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   line-height: 1.6;
   text-decoration: none;
-  color: #2f2f2f;
-  background-color: rgba(0, 0, 0, 0.02);
-  border: 1px solid #d8d8d8;
-  border-radius: 8px;
+  color: #3a3a3a;
+  background-color: rgba(0, 0, 0, 0.07);
+
+  /* rahla senca */
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.1),
+    0 2px 4px rgba(0, 0, 0, 0.05);
+
   transition:
     background-color 0.15s ease,
     border-color 0.15s ease,
+    box-shadow 0.15s ease,
     color 0.15s ease;
 }
 
+/* luknja / bullet – prava luknja */
+.post-tags .tag::before {
+  content: "";
+  position: absolute;
+  left: 0.60rem;
+  top: 50%;
+  transform: translateY(-50%);
+
+  width: 0.5rem;
+  height: 0.5rem;
+  border-radius: 50%;
+
+  /* barva ozadja strani */
+  background: #f2f2f2;
+
+  /* inset senca → luknja */
+  box-shadow:
+    inset 0 1px 2px rgba(0, 0, 0, 0.20),
+    inset 0 -1px 1px rgba(255, 255, 255, 0.4);
+}
+
+/* hover – subtilno */
 .post-tags .tag:hover {
-  background-color: rgba(0, 0, 0, 0.04);
+  background-color: #fafafa;
   border-color: #cfcfcf;
   color: #1a1a1a;
+  box-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.1),
+    0 4px 8px rgba(0, 0, 0, 0.05);
   text-decoration: none;
 }
 
