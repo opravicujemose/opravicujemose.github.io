@@ -1,5 +1,5 @@
 ---
 layout: tag
-tag: "Štoparski vodnik"
+tag: "štoparski vodnik"
 permalink: /tag/stoparski-vodnik/
 ---
