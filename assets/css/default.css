@@ -811,7 +811,7 @@ div.pagination {
 /* TAGS – značke z "luknjo" */
 
 .post-tags {
-  margin: 1.2rem 0 2.8rem;
+  margin: 1.2rem 0 1.2rem 0;
 }
 
 /* posamezna značka */
