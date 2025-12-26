@@ -6,14 +6,15 @@ permalink: /tag/
 
 <h2>Ključne besede</h2>
 <h4>v podkastu Opravičujemo se za vse nevšečnosti</h4>
-
 <p>Seznam ključnih besed v najbolj divje netočnem podkastu <a href="../">Opravičujemo se za vse nevšečnosti</a>, v katerem se že skoraj 300 epizod prepletajo Douglas Adams, politika, družba, religija, znanost, tehnologija in alkohol (predvsem pivo), ob tem pa še vsakdanje malenkosti, humor, nostalgija in debate od kapitalizma do teorij zarot, od Vsemogočnega Boba do čajnih bogatih.</p>
 
 <!-- KODA ZA TAGE -->
 
 {% assign book_tags = "Štoparski vodnik po Galaksiji, Restavracija ob koncu Vesolja, O življenju vesolju in sploh vsem, Zbogom in hvala za vse ribe, Pretežno neškodljiva, Pa še tole, Zadnja priložnost" | split: ", " %}
 
-{% assign character_tags = "Artur Dent, Ford Prefect, Fenchurch, Zaphod Beeblebrox, Tricia McMillan, gospod Prosser, Trillian, Random Dent, Slartibartfast, Ovečeni Velepotež, Hillman Hunter, Marvin, Vogoni" | split: ", " %}
+{% assign character_tags = "Artur Dent, Ford Prefect, Zaphod Beeblebrox, Fenchurch, Tricia McMillan, Trillian,  gospod Prosser, Random Dent, Slartibartfast, Ovečeni Velepotež, Hillman Hunter, Marvin, Rob McKenna, Vogoni" | split: ", " %}
+
+{% assign excluded_tags = "komad tedna" | split: ", " %}
 
 {%- capture temptags -%}
   {%- for tag in site.tags -%}
@@ -97,7 +98,7 @@ permalink: /tag/
   {%- assign name = name_and_count[0] | strip -%}
   {%- assign count = name_and_count[1] | plus: 0 -%}
 
-  {%- unless book_tags contains name or character_tags contains name -%}
+  {%- unless book_tags contains name or character_tags contains name or excluded_tags contains name -%}
     {%- if comma_needed -%}, {% endif -%}
     {%- assign slug = name | downcase | replace: 'č','c' | replace: 'š','s' | replace: 'ž','z' | replace: ' ','-' -%}
     {%- assign weight = count | times: 1.0 | divided_by: max_count -%}
