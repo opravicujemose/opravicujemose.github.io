@@ -148,7 +148,8 @@ h4.latest {
 }
 
 h4.tags-heading {
-	margin: 1em 0 0;
+	margin: 1rem 0 -2em 0;
+	display: inline-block;
 }
 
 h3 {
@@ -367,7 +368,7 @@ article {
 	
 }
 
-article time, .readMore a {
+article time, .readMore a, h4.tags-heading {
 	background: #042042;
 	padding: 0.3em;
 	margin-left: -2em;
