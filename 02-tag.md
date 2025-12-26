@@ -5,11 +5,11 @@ permalink: /tag/
 ---
 
 <h2>Ključne besede</h2>
-<h4>v oddaji Opravičujemo se za vse nevšečnosti</h4>
+<h4>v podkastu Opravičujemo se za vse nevšečnosti</h4>
 
-<p>
-Seznam ključnih besed v najbolj divje netočnem podkastu <a href="../">Opravičujemo se za vse nevšečnosti</a>, v kateri se že skoraj 300 epizod prepletajo Douglas Adams, politika, družba, religija, znanost, tehnologija in alkohol (predvsem pivo).
-</p>
+<p>Seznam ključnih besed v najbolj divje netočnem podkastu <a href="../">Opravičujemo se za vse nevšečnosti</a>, v katerem se že skoraj 300 epizod prepletajo Douglas Adams, politika, družba, religija, znanost, tehnologija in alkohol (predvsem pivo), ob tem pa še vsakdanje malenkosti, humor, nostalgija in debate od kapitalizma do teorij zarot, od Vsemogočnega Boba do čajnih bogatih.</p>
+
+<!-- KODA ZA TAGE -->
 
 {% assign book_tags = "Štoparski vodnik po Galaksiji, Restavracija ob koncu Vesolja, O življenju vesolju in sploh vsem, Zbogom in hvala za vse ribe, Pretežno neškodljiva, Pa še tole, Zadnja priložnost" | split: ", " %}
 
