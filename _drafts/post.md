@@ -1,6 +1,6 @@
 ---
 layout: 	post
-title:  	"Teorija prahu 🌪️"
+title:  	"Zakaj je stvarnik izumil goloto (in silikonske joške) 🎉"
 number: 	"#291 aka S07E19"
 categories:	epizode
 permalink:	/291/
@@ -20,11 +20,9 @@ published:	false
 date: 		2025-12-21 06:00 +0200
 ---
 
-Zdravo. Tokrat začnemo z gumbi ZX Spectruma, anekdoto o ekvatorju in "dejstvu", da je Zemlja ravna in resničnem dejstvu, da je Festivus, praznik za vse nas, navdihnjen po resničnih dogodkih. Ne pozabimo niti na decembersko dozo žurov, utrujenosti in se sprašujemo, kakšna bo novoletna epizoda letos. Gala obleke, da ali ne? 
+Zdravo. V letošnji novoletni epizodi se z vso resnostjo lotimo (prvega dela) pregleda leta in ga skozi epizodo sami tudi pridno sabotiramo. Začnemo z goloto, silikonskimi joški, kraguljčki, nadaljujemo z optimizmom, depresijo, svetlečo prihodnostjo, električno mobilnostjo in se ustavimo pri jezeru, ki se je delalo, da je gin s tonikom.
 
-Tokrat se tretjič vrnemo k 3. poglavju knjige, kjer pristanemo v Zairu. Obdelamo kartice za pospeševanje turizma, ki jih domačini ne znajo prebrati, brutalne številke, spoznamo teorijo prahu, humanoidno Roombo, leopardov klobuk maršala Mobutuja, prečrtane obrazce in carinike, ki jim je bolj všeč avtomobilska revija kot računalnik. 
-
-Zaključimo z razmislekom o časopisih, retro momentih in vprašanjem, ali se kdaj vrnejo, tako kot so se plošče in kasete. 
+Aljo razkrije šokantno novico: verjame v Tjašo in parkirne angelčke, mi pa nadaljujemo s teorijami zarote, birokracijo, religijo, svetlečo prihodnostjo  in ostalimi letošnjimi temami. Spomnimo se tudi delovnega nasveta za leto 2026: manj delaš, manj zajebeš. Radi se imejte in hvala, ker ste bili tudi letos z nami. In ne pozabite na brisačo. 
 
 {% include player.html %}
 {% include poslusaj.html %}
