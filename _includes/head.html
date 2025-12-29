@@ -1,4 +1,14 @@
 <head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17840043276"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17840043276');
+</script>
+<!-- END gtag.js --> 
   {% include meta.html %}
   <title>{% if page.title == "Home" %}{{ site.title }} - {{ site.tagline }}{% else %}{{ page.title }} - {{ site.tagline }} - {{ page.tagline }}{% endif %}</title>
   <!-- CSS -->
