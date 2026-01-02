@@ -6,7 +6,7 @@ permalink: /tag/
 
 <h2>Ključne besede</h2>
 <h4>v podkastu Opravičujemo se za vse nevšečnosti</h4>
-<p>Seznam ključnih besed v najbolj divje netočnem podkastu <a href="../">Opravičujemo se za vse nevšečnosti</a>, v katerem se že skoraj 300 epizod prepletajo Douglas Adams, politika, družba, religija, znanost, tehnologija in alkohol (predvsem pivo), ob tem pa še vsakdanje malenkosti, humor, nostalgija in debate od kapitalizma do teorij zarot, od Vsemogočnega Boba do čajnih bogatih.</p>
+<p>Seznam ključnih besed podkasta <a href="../">Opravičujemo se za vse nevšečnosti</a>, v katerem se v {{ site.posts | size }} epizodah prepletajo Douglas Adams, politika, družba, religija, znanost, tehnologija in alkohol (predvsem pivo), ob tem pa še vsakdanje malenkosti, humor, nostalgija in debate od kapitalizma do teorij zarot, od Vsemogočnega Boba do čajnih bogatih.</p>
 
 <!-- KODA ZA TAGE -->
 

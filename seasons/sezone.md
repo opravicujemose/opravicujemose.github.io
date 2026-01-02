@@ -14,7 +14,7 @@ Seznam in opisi sezon našega malega podkasta, v katerem govorimo o življenju, 
 
 Podkast se začne z iskanjem imena, ki ga najdemo v ničti epizodi in se tako hitro posvetimo 1. knjigi "Štoparski vodnik po galaksiji", njenim likom in idejam, medtem ko se poglabljamo v teme, kot so alkohol, predsednik Galaksije, Vogoni, zabave (tudi v Islingtonu) in še marsikaj. 
 
-Vsaka epizoda prinaša nove vpoglede v galaktični svet Douglasa Adamsa, pogosto z zanimivimi citati, ki jih preberejo citat-o-gostje in citat-o-gostje. V nadaljevanju sezone se dotaknejo tudi drugih tem, kot so depresija, bajeslovni planeti, dvojna sonca, vesoljske bajke, politika, poslovne priložnosti, alternativni poteki zgodbe in še več.
+Vsaka epizoda prinaša nove vpoglede v galaktični svet Douglasa Adamsa, pogosto z zanimivimi citati, ki jih preberejo citat-o-gostje in citat-o-gostje. V nadaljevanju sezone se dotaknemo tudi drugih tem, kot so depresija, bajeslovni planeti, dvojna sonca, vesoljske bajke, politika, poslovne priložnosti, alternativni poteki zgodbe in še več.
 
 Skozi epizode odkrivamo nove plasti in zaplete, ki jih prinaša Adamsovo delo, ter jih povezuje z različnimi vidiki življenja, od vsakdanjih situacij do globljih filozofskih vprašanj in vprašanj o obstoju boga. Sledijo številne razprave o glavnih temah, ki jih predstavlja knjiga, pa tudi o aktualnih dogodkih in družbenih vprašanjih, vse skupaj pa začinjajo s ščepcem humorja in izvirnosti.
 
@@ -28,19 +28,15 @@ Epizode raziskujejo tudi življenje, smisel in absurdnosti skozi primerjavo Gala
 
 Pogosto epizode zabelimo s humornim pridihom in, skozi sezono pa se razkrivajo nove plati in zapleti, ki jih prinaša Adamsovo delo, in povezujejo z različnimi vidiki človeškega življenja, od vsakdanjih situacij do globljih filozofskih vprašanj.
 
-
-<!-- *GPT* Epizode se dotikajo letenja, stripovskih junakov, Balkana, robotskih zabav, matematičnih paradoksov in družabnih omrežij, med drugim. V ospredju so tudi humor, filozofske razprave in spomini na zgodovinske dogodke, kot so vojne, politični režimi in tehnološki napredki. Skozi številne citate, prebrane s strani različnih gostov, poslušalci vstopajo v raznolik svet Douglasa Adamsa, ki navdihuje razmišljanje o smislu življenja in univerzuma. Vsaka epizoda prinaša svež vpogled v galaktični svet in hkrati spodbuja k razmisleku o človeški eksistenci in družbenih izzivih. -->
-
-
 ### [Sezona 3](../sezona/03/)
 #### 📖 O življenju, vesolju in sploh vsem
 <img class="post-content" src="/assets/img/cover/season 03 img@2x.png" alt="Opravičujemo se - 3. sezona" />
 
 V tretji sezoni podkasta se odpravimo na planet Krikkit, katerega prebivalci so naveličani nočnega neba nad svojimi glavami, zato se odločijo, da ga bodo uničili. Mi pa spoznamo Ovečenega Velepoteža, naučimo se leteti, se spočijemo na česterfildski zofi, pojemo sendvič, za tem skočimo na Balkan in se ustavimo na robotski sindikalni zabavi.
 
-Skozi epizode raziščemo bistromatični pogon, ugotovimo, kdo je Pablo Escvobar socialnih omrežij, obiščemo planet žimnic, kjer sopznamo zgodnjo galaktično zgodovino, lepe pesmi in prav prisrčne in res fejst fante. Ker vemo, da je nezaposlen um hudičeva delavnica, se igramo Monopoly in se z Edigsom in sadnim jogurtom odpravimo na časovna potovanja.
+Skozi epizode raziščemo bistromatični pogon, ugotovimo, kdo je Pablo Escobar socialnih omrežij, obiščemo planet žimnic, kjer sopznamo zgodnjo galaktično zgodovino, lepe pesmi in prav prisrčne in res fejst fante. Ker vemo, da je nezaposlen um hudičeva delavnica, se igramo Monopoly in se z Edigsom in sadnim jogurtom odpravimo na časovna potovanja.
 
-Ker tudi v tretji sezoni ne izostanejo debate o bogu, smislu življenja in središču človekovega življenja (ki je kosilo) in prvič v treh sezonah se posvetimo seksu. Seksu in divjim zabavam, krompirjevim ocvrtkom, zaklonišču ob koncu sveta, izumimo pangalaktični grlorez v mešalcu za beton in še marsikaj. Na koncu sezone ugotovimo, da nas bo resnica osvobodila. 
+Ker tudi v tretji sezoni ne izostanejo debate o bogu, smislu življenja in središču človekovega življenja (ki je kosilo) in prvič v treh sezonah se posvetimo <a href="../tag/seks/">seksu</a>. Seksu in <a href="../tag/leteca-zabava/">divjim zabavam</a>, krompirjevim ocvrtkom, zaklonišču ob koncu sveta, izumimo <a href="../tag/pangalakticni-grlorez/">pangalaktični grlorez</a> v <a href="../tag/mesalec-za-beton/">mešalcu za beton</a> in še marsikaj. Na koncu sezone ugotovimo, da nas bo resnica osvobodila. 
 
 ### [Sezona 4](../sezona/04/)
 #### 📖 Zbogom in hvala za vse ribe

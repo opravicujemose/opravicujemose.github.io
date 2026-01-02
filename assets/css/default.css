@@ -28,6 +28,21 @@ body {
 	}
 }
 
+/* Za telefone do max 768px) je 5% padding */
+@media screen and (max-width: 768px) {
+	body {
+		padding: 0 5%;
+	}
+}
+
+/* Tvoj obstoječi media query za desktop (nad 1280px) */
+@media screen and (min-width: 1280px) {
+    body {
+        max-width: 78rem;
+        padding: 0 5%;
+    }
+}
+
 /*
 .container {
   display: flex;
@@ -71,13 +86,6 @@ h1 {
 	padding: 0.2em 0 0.6em 0;
 }
 
-@media screen and (max-width: 600px) {
-h1 {
-	font-size: 1.5em;
-	line-height: 0.9em;
-	}
-}
-
 h1 a {
 	text-decoration: none;
 }
@@ -107,6 +115,17 @@ h1.post-title a:hover {
   line-height: 80px;
   color: rgba(0, 0, 0, 0.84);
   text-shadow: 0px 2px 4px rgba(0, 0, 0, 0,84);
+}
+
+
+@media screen and (max-width: 600px) {
+	h1.post-title {
+		height: 60px;
+	}
+	h1.post-title a {
+		font-size: 0.8em;
+		line-height: 0.8em;
+	}
 }
 
 h2 {
@@ -159,7 +178,10 @@ h3 {
 
 
 @media screen and (max-width: 600px) {
-h2 { line-height: 1.0em }
+	h2 {
+		font-size: 1.8em;
+		line-height: 1.0em
+	}
 }
 
 h6,
@@ -214,6 +236,13 @@ p {
 	padding: 0 0 0 1em;
 }
 
+@media screen and (max-width: 768px) {
+	p {
+		padding: 0 0 0 0.2rem
+	}
+}
+
+
 p.coming-soon {
 	text-transform: uppercase;
 	padding: 1em;
@@ -239,8 +268,12 @@ ul, ol {
 
 @media screen and (max-width: 600px) {
 	ul, ol {
-		padding: 0 0 0 2em;
+		padding: 0 0 0 1.1em;
+		font-size: 1.1rem;
+		line-height: 1.3rem;
 	}
+
+	li {margin-bottom: 5px;}
 }
 
 
@@ -383,7 +416,7 @@ article time, .readMore a, h4.tags-heading {
 
 @media screen and (max-width: 600px) {
 	article time {
-		margin-left: -2.1em;
+		margin-left: -1.2em;
 	}
 }
 
@@ -398,7 +431,7 @@ div.readMore {
 	    display: flex;
 	    justify-content: flex-end;
 	    width: 180px;
-	    margin: 0 0 -15px auto;
+	    margin: 0px -35px -36px auto;
 	    padding: 10px 0 20px 0;
 	}
 
@@ -445,7 +478,7 @@ header.post-header {margin-bottom: -32px}
 
 @media screen and (max-width: 600px) {
 	.post-content img {
-		margin: 0 -1em 0 0;
+		margin: -2.5em -1.5em 0 0;
 		width: 40%;
 	}
 }
@@ -631,21 +664,6 @@ hr {
 	background: #fff;
 }
 
-/*.listen {
-    padding: 12px 12px;
-    border: 1px #ccc solid;
-	display: inline-flex;
-	flex-flow: row;
-	flex-direction: row;
-	margin: -24px 4px 0 0;
-	font-size: 0.90em;
-	vertical-align: middle;
-	border: 1px solid rgba(0,0,0,0.2);
-	border-radius: 8px;
-	padding: 8px;
-}
-*/
-
 .listen i {
 	color: #042042;;
 	line-height: 1.5em;
@@ -664,6 +682,20 @@ hr {
 .listen:hover {
 	background: #036;
 	text-decoration: none;
+}
+
+/* Za telefone do max 768px */
+@media screen and (max-width: 768px) {
+	.listen {
+	  border-radius: 4px;
+	  padding: 4px 4px;
+	}
+	.listen i {
+		line-height: 1.1em;
+	}
+	.listen a {
+	  font-size: 0.8em;
+	}
 }
 
 a:focus {
