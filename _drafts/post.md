@@ -1,12 +1,13 @@
 ---
 layout: 	post
-title:  	"Zakaj je stvarnik izumil goloto (in silikonske joške) 🎉"
-number: 	"#291 aka S07E19"
+title:  	"Gužva je v glavi 🦄"
+number: 	"#293 aka S07E21"
 categories:	epizode
-permalink:	/291/
+permalink:	/293/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/291@2x.jpg
-cover:		/assets/img/cover/291 img@2x.png
+image:		/assets/img/293@2x.jpg
+cover:		/assets/img/cover/293 img@2x.png
+cover:		/assets/img/cover/000 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -20,9 +21,11 @@ published:	false
 date: 		2025-12-21 06:00 +0200
 ---
 
-Zdravo. V letošnji novoletni epizodi se z vso resnostjo lotimo (prvega dela) pregleda leta in ga skozi epizodo sami tudi pridno sabotiramo. Začnemo z goloto, silikonskimi joški, kraguljčki, nadaljujemo z optimizmom, depresijo, svetlečo prihodnostjo, električno mobilnostjo in se ustavimo pri jezeru, ki se je delalo, da je gin s tonikom.
+Zdravo. V prvi epizodi novega leta ugotovimo, da med politični komentatorji in komiki praktično ni več razlike, da so politični bonbončki večni in da je gužva predvsem v glavi. Obelodanimo kdaj bo letos "svetil" retrogradni Merkur, se pogovorimo o suhem januarju in o tem, zakaj je povsem legitimno, da božične smreke sploh ne pospraviš. 
 
-Aljo razkrije šokantno novico: verjame v Tjašo in parkirne angelčke, mi pa nadaljujemo s teorijami zarote, birokracijo, religijo, svetlečo prihodnostjo  in ostalimi letošnjimi temami. Spomnimo se tudi delovnega nasveta za leto 2026: manj delaš, manj zajebeš. Radi se imejte in hvala, ker ste bili tudi letos z nami. In ne pozabite na brisačo. 
+Lotimo se tudi drugega dela pregleda leta 2025: resničnost se zatika, bogovi in birokracija sta tudi letos priljubljeni temi. Zaključimo s spoznanjam, da je pesimizem najboljša življenjska strategija in da se svet sicer že dodobra maje, ampak še stoji. 
+
+Da bo svet malce lepši, potrebuješ brisačo, sočloveka (za pogovor ali topel objem) in malo potrpežljivosti. Hvala, ker ste z nami. Radi se imejte. 💙
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -31,9 +34,12 @@ Aljo razkrije šokantno novico: verjame v Tjašo in parkirne angelčke, mi pa na
 
 #### Zapiski
  
-- 🍷[Društvo za zaščito gostilnišega življenja](https://www.youtube.com/watch?v=UUcPnBuqR08&t=160s) - idejo smo obelodanili v epizodi št. 253, ko smo tovarišu Kordišu hoteli "prodati" dvelovnik
-- []() - 
-- []() - 
+- Retrogradni Merkur v letu 2026
+	- 26. februar – 20. marec 2026 (retrogradnost v znamenju rib) 
+	- 29. junij – 23. julij 2026 (retrogradnost v znamenju raka
+	- 24. oktober – 13. november 2026 (retrogradnost v znamenju škorpijona)
+- 🛑 [Raje izberite suhi februar kot suhi januar](https://opravicujemo.se/242/) - smo vam povedali tudi v epizodi #242 _Mokra majica in skrite misli 💭_
+- 🤑 [Ni politične volje](https://opravicujemo.se/264/) - epizoda, v kateri definiramo termin "ni politične volje" in vam povemo v katere kriptovalute (ne) vlagati 
 - []() - 
 - []() - 
 - []() - 
