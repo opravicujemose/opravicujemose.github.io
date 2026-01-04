@@ -944,31 +944,45 @@ div.pagination {
 
 .songs-list {
   background: #fff;
-  padding: 1.6rem 1.8rem;
+  padding: 1.6rem 1.6rem;
 }
 
-.songs-list .song-item{
-  margin: 1.6rem 0 2.2rem;
+/* posamezen zapis */
+.songs-list .song-item {
+  margin: 0;
+  padding: 0 16px 16px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* razmik med zapisi */
+.songs-list .song-item + .song-item {
+  margin-top: 16px;
+}
+
+/* brez črte pri zadnjem */
+.songs-list .song-item:last-child {
+  border-bottom: none;
 }
 
 /* NASLOV – nad vsem */
-.songs-list .song-title{
-  margin: 0 0 0.6rem;
+.songs-list .song-title {
+  margin: 0 0 1rem 0;
   line-height: 1.25;
 }
 
 /* BODY: thumb + meta */
-.songs-list .song-body{
+.songs-list .song-body {
   display: grid;
-  grid-template-columns: 120px 1fr; /* levo thumb, desno tekst */
+  grid-template-columns: 160px 1fr; /* levo thumb, desno tekst */
   gap: 18px;
   align-items: start;
 }
 
+
 /* THUMB */
 .songs-list .song-thumb img{
-  height: 80px;
-  width: 140px;
+  height: 90px;
+  width: 160px;
   object-fit: cover;
   display: block;
   border-radius: 6px;
