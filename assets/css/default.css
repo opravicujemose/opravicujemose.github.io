@@ -940,4 +940,55 @@ div.pagination {
   text-decoration: none;
 }
 
+/* KOMAD TEDNA */
 
+.songs-list {
+  background: #fff;
+  padding: 1.6rem 1.8rem;
+}
+
+.songs-list .song-item{
+  margin: 1.6rem 0 2.2rem;
+}
+
+/* NASLOV – nad vsem */
+.songs-list .song-title{
+  margin: 0 0 0.6rem;
+  line-height: 1.25;
+}
+
+/* BODY: thumb + meta */
+.songs-list .song-body{
+  display: grid;
+  grid-template-columns: 120px 1fr; /* levo thumb, desno tekst */
+  gap: 18px;
+  align-items: start;
+}
+
+/* THUMB */
+.songs-list .song-thumb img{
+  height: 80px;
+  width: 140px;
+  object-fit: cover;
+  display: block;
+  border-radius: 6px;
+  margin: 0;
+  padding: 4px;
+  border: 4px solid rgba(255,255,255, 0.3);
+}
+
+/* META */
+.songs-list .song-note{
+  margin: 0 0 0.5rem;
+}
+
+.songs-list .song-episode{
+  margin: 0;
+}
+
+.songs-counter {
+  margin: 0 0 1.5rem;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  opacity: 0.75;
+}
