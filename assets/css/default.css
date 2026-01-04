@@ -216,13 +216,19 @@ h6.tags {
   padding: 0;
 }
 
-
 a {
     color: #042402; 
 }
 
 h6 a {
 	color: rgba(0,0,0, 0.42);
+}
+
+.inline {
+	 display: inline-block;
+	 line-height: 1rem;
+	 margin: 0 0 1rem 0;
+	 padding: 0;
 }
 
 @media screen and (prefers-color-scheme: dark) {
@@ -933,3 +939,5 @@ div.pagination {
   color: #000;
   text-decoration: none;
 }
+
+

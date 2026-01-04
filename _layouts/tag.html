@@ -4,21 +4,53 @@ layout: default
 
 {% assign clean_tag = page.tag | replace: ']', '' | strip %}
 
-<h1>{{ clean_tag }}</h1>
+<h2 style="line-height: 1em;">Ključna beseda</h2>
+<h4 class="inline">Epizode s ključno besedo:</h4> <h3 class="inline">"{{ clean_tag }}"</h3>
 
-<ul>
-{% assign seen = "" %}
-{% for post in site.tags[clean_tag] %}
-  {% unless seen contains post.url %}
-    {% assign seen = seen | append: post.url | append: "|" %}
+{% if site.tags[clean_tag] %}
+<div class="post-content">
+  <ul class="post-list">
+    {% for post in site.tags[clean_tag] reversed %}
 
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <h6 class="tags">{% if post.number %}
-        ({{ post.number }}{% if post.season and post.episode %} aka S{{ post.season }}E{{ post.episode }}{% endif %})
-      {% endif %}</h6>
-    </li>
+      <time class="post-meta">
+        {% assign m = post.date | date: "%-m" %}
+        {{ post.date | date: "%-d. " }}
+        {% case m %}
+          {% when '1' %}januar
+          {% when '2' %}februar
+          {% when '3' %}marec
+          {% when '4' %}april
+          {% when '5' %}maj
+          {% when '6' %}junij
+          {% when '7' %}julij
+          {% when '8' %}avgust
+          {% when '9' %}september
+          {% when '10' %}oktober
+          {% when '11' %}november
+          {% when '12' %}december
+        {% endcase %}
+        {{ post.date | date: " %Y" }}
+      </time>
 
-  {% endunless %}
-{% endfor %}
-</ul>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+
+      {% if post.number %}
+        <h6 class="post-number">{{ post.number }}</h6>
+      {% endif %}
+
+      {% if post.tagline %}
+        <p>{{ post.tagline }}</p>
+      {% endif %}
+
+      {% if site.show_excerpts %}
+        {{ post.excerpt }}
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
