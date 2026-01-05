@@ -12,7 +12,7 @@ permalink: /tag/
 
 {% assign book_tags = "Štoparski vodnik po Galaksiji, Restavracija ob koncu Vesolja, O življenju vesolju in sploh vsem, Zbogom in hvala za vse ribe, Pretežno neškodljiva, Pa še tole, Zadnja priložnost" | split: ", " %}
 
-{% assign character_tags = "Artur Dent, Ford Prefect, Zaphod Beeblebrox, Fenchurch, Tricia McMillan, Trillian,  gospod Prosser, Random Dent, Slartibartfast, Ovečeni Velepotež, Hillman Hunter, Marvin, Rob McKenna, Vogoni, Thor, Vročečrni Desiato, Zarniwoop" | split: ", " %}
+{% assign character_tags = "Artur Dent, Ford Prefect, Zaphod Beeblebrox, Fenchurch, Tricia McMillan, Trillian,  gospod Prosser, Random Dent, Slartibartfast, Ovečeni Velepotež, Hillman Hunter, Marvin, Rob McKenna, Vogoni, Thor, Vročečrni Desiato, Zarniwoop, gospod Prosser" | split: ", " %}
 
 {% assign excluded_tags = "komad tedna" | split: ", " %}
 
