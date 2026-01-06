@@ -14,3 +14,5 @@ plugins:
 
 paginate: 21
 paginate_path: "/stran-:num/"
+
+cache_dir: .jekyll-cache

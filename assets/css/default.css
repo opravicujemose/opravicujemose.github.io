@@ -4,6 +4,21 @@
   scrollbar-width: 0;
 }
 
+:root {
+  --opr-blue-100: #EAF2F6; /* skoraj bel, hladen */
+  --opr-blue-200: #D6E5EE; /* light info background */
+  --opr-blue-300: #BFD4E2; /* outline, subtle fill */
+
+  --opr-blue-500: #0E3A66; /* svetlejša, hover / secondary */
+  --opr-blue-600: #06315A; /* rahlo svetlejša */
+
+  --opr-blue: #042042;		 /* osnovna OPR modra */
+
+  --opr-blue-800: #031835; /* temnnejša */
+  --opr-blue-900: #020F24; /* zelo temna, active / bg */
+
+}
+
 body {
 	font-family: 'Lora', serif;
 	background: #EAEAEA;
@@ -217,7 +232,7 @@ h6.tags {
 }
 
 a {
-    color: #042402; 
+    color: var(--opr-blue); 
 }
 
 h6 a {
@@ -332,7 +347,7 @@ small, small a, small a:hover, small a:focus {
 
 .about {
 	background: rgba(255, 255, 255, 0.21);
-	padding: 8px 0; 
+	padding: 16px 0; 
 	margin-top: 0;
 	font-weight: 100;
 	color: rgba(0,0,0,0.92);
@@ -351,7 +366,7 @@ small, small a, small a:hover, small a:focus {
 	font-size: 0.95em;
 	line-height: 1.3em;
 	padding: 0 0.1em;
-	color: #042402;
+	color: var(--opr-blue);
 	padding: 0px 12px;
 	color: rgba(0, 0, 0, 0.63);
 	margin: 0;
@@ -408,7 +423,7 @@ article {
 }
 
 article time, .readMore a, h4.tags-heading {
-	background: #042042;
+	background: var(--opr-blue);
 	padding: 0.3em;
 	margin-left: -2em;
 	color: #fff;
@@ -427,9 +442,11 @@ article time, .readMore a, h4.tags-heading {
 }
 
 div.readMore {
-    text-align: right;
-    margin-top: 20px;
-    margin-bottom: 0;
+		display: flex;
+		justify-content: flex-end;
+		text-align: right;
+		margin: 0px -36px -42px auto;
+    padding: 0 0 0 0;
 }
 
 @media screen and (max-width: 600px) {
@@ -437,8 +454,8 @@ div.readMore {
 	    display: flex;
 	    justify-content: flex-end;
 	    width: 180px;
-	    margin: 0px -35px -36px auto;
-	    padding: 10px 0 20px 0;
+	    margin: 16px -35px -36px auto;
+	    padding: 0 0 20px 0;
 	}
 
 }
@@ -446,7 +463,8 @@ div.readMore {
 .readMore a {
 	color: #fff;
 	text-align: right;
-	padding: 4px 12px;
+	padding: 6px 12px;
+	margin: 16px 0;
 }
 
 .post-content {
@@ -584,9 +602,9 @@ article.post {
 }
 
 .alert-info {
-    color: #31708f;
-    background-color: #d9edf7;
-    border-color: #bce8f1;
+    color: var(--opr-blue-500);
+    background-color: var(--opr-blue-200);
+    border-color: var(--opr-blue-300);
 }
 
 .alert-info hr {
@@ -659,19 +677,19 @@ hr {
 }
 
 .listen {
-	color: #042042;
+	color: var(--opr-blue);
   display: flex;
   align-items: center;
   border: 1px solid #042;
   border-radius: 8px;
-  padding: 8px 8px;
+  padding: 6px 8px;
   margin: 0px 0;      /* malo prostora navpično */
   white-space: nowrap; /* da se tekst ne lomi znotraj gumba */
 	background: #fff;
 }
 
 .listen i {
-	color: #042042;;
+	color: var(--opr-blue);;
 	line-height: 1.5em;
 }
 
@@ -686,7 +704,7 @@ hr {
 }
 
 .listen:hover {
-	background: #036;
+	background: var(--opr-blue);
 	text-decoration: none;
 }
 
@@ -850,7 +868,7 @@ div.pagination {
 /* TAGS – značke z "luknjo" */
 
 .post-tags {
-  margin: 1.2rem 0 1.2rem 0;
+  margin: 1.2rem 0 0 0;
 }
 
 /* posamezna značka */
@@ -977,7 +995,6 @@ div.pagination {
   gap: 18px;
   align-items: start;
 }
-
 
 /* THUMB */
 .songs-list .song-thumb img{
