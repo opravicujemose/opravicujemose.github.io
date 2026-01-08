@@ -14,10 +14,10 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 <!-- PRVA STRAN -->
 
   <!-- INDEX CONTENT -->
-{% if paginator.page == 1 %}
-    {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-    {% include latest.html %}
+  {% if paginator.page == 1 %}
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include latest.html %}
   <!-- END INDEX CONTENT -->
 
   <div class="about subscribe">

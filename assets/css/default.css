@@ -340,11 +340,6 @@ small, small a, small a:hover, small a:focus {
 	}
 }
 
-.subscribe{
-	padding-top: 24px;
-	background: rgba(255, 255, 255, 0.42);
-}
-
 .about {
 	background: rgba(255, 255, 255, 0.21);
 	padding: 16px 0; 
@@ -352,6 +347,13 @@ small, small a, small a:hover, small a:focus {
 	font-weight: 100;
 	color: rgba(0,0,0,0.92);
   border-radius: 0 0 4px 4px;
+}
+
+.subscribe{
+	padding-top: 24px;
+	background: rgba(255, 255, 255, 0.42);
+	/*background: var(--opr-blue-100);*/
+	padding: 16px 0;
 }
 
 
@@ -553,7 +555,7 @@ article.post {
     margin-bottom: 20px;
     border: 1px solid transparent;
     border-radius: 4px;
-	margin-top: -4px;
+		margin-top: -4px;
 }
 
 .alert h4 {
@@ -603,8 +605,8 @@ article.post {
 
 .alert-info {
     color: var(--opr-blue-500);
-    background-color: var(--opr-blue-200);
-    border-color: var(--opr-blue-300);
+    background-color: var(--opr-blue-100);
+    border-color: var(--opr-blue-200);
 }
 
 .alert-info hr {
