@@ -351,8 +351,7 @@ small, small a, small a:hover, small a:focus {
 .subscribe{
 	padding-top: 24px;
 	background: rgba(255, 255, 255, 0.42);
-	background: var(--opr-blue-100);
-	padding: 16px 0;
+	padding: 16px;
 }
 
 @media screen and (prefers-color-scheme: dark) {
@@ -364,7 +363,7 @@ small, small a, small a:hover, small a:focus {
 
 .about p {
 	font-size: 0.95em;
-	line-height: 1.3em;
+	line-height: 1.5em;
 	padding: 0 0.1em;
 	color: var(--opr-blue);
 	padding: 0px 12px;
