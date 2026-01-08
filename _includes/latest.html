@@ -5,7 +5,6 @@
 <header class="post-header">
   <p class="post-meta">
     <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{% assign m = post.date | date: "%-m" %}{{ post.date | date: "%-d." }} {% case m %} {% when '1' %}januar {% when '2' %}februar {% when '3' %}marec {% when '4' %}april {% when '5' %}maj {% when '6' %}junij {% when '7' %}julij {% when '8' %}avgust {% when '9' %}september {% when '10' %}oktober {% when '11' %}november {% when '12' %}december {% endcase %}{{ post.date | date: "%Y" }}</time>
-    </time>
   </p>
 </header>
 

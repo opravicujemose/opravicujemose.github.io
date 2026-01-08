@@ -16,7 +16,6 @@
 
   --opr-blue-800: #031835; /* temnnejša */
   --opr-blue-900: #020F24; /* zelo temna, active / bg */
-
 }
 
 body {
@@ -352,10 +351,9 @@ small, small a, small a:hover, small a:focus {
 .subscribe{
 	padding-top: 24px;
 	background: rgba(255, 255, 255, 0.42);
-	/*background: var(--opr-blue-100);*/
+	background: var(--opr-blue-100);
 	padding: 16px 0;
 }
-
 
 @media screen and (prefers-color-scheme: dark) {
   .about {
