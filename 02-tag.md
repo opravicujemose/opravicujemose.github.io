@@ -2,6 +2,7 @@
 layout: default
 title: Ključne besede - seznam
 permalink: /tag/
+image:  /assets/img/opr-tag-cloud@2x.jpg
 ---
 
 <h2>Ključne besede</h2>
