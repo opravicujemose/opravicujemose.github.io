@@ -3,9 +3,7 @@ layout: default
 title: Komadi tedna
 permalink: /komad-tedna/
 image:  /assets/img/opr-komad-tedna@2x.jpg
-description: >
-  Komadi tedna iz podkasta Opravičujemo se za vse nevšečnosti.
-  Glasbeni odkloni, ki nimajo poslovnega smisla, imajo pa dušo.
+description: Seznam komadov tedna, ki so se pojavili v podkastu Opravičujemo se za vse nevšečnosti. Seznam, ki nima posebnega smisla, ima pa dušo.
 ---
 
 <h2>Komadi tedna</h2>
