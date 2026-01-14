@@ -1,11 +1,8 @@
 <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width">
-  <meta name="author" content="@davorinpavlica">
-{% assign meta_description =
-  page.description
+  <meta name="author" content="@davorinpavlica">{% assign meta_description = page.description
   | default: page.excerpt
-  | default: site.description
-%}
+  | default: site.description %}
   <meta name="description" content="{{ meta_description | strip_html | strip_newlines | truncate: 320 }}">
   {% include twitter-card.html %}
   {% include fb-open-graph.html %}
