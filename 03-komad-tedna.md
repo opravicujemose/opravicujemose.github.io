@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Komadi tedna
+title: Komad tedna - Opravičujemo se za vse nevšečnosti
 permalink: /komad-tedna/
 image:  /assets/img/opr-komad-tedna@2x.jpg
 description: Seznam komadov tedna, ki so se pojavili v podkastu Opravičujemo se za vse nevšečnosti. Seznam, ki nima posebnega smisla, ima pa dušo.

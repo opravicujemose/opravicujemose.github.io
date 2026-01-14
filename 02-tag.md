@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ključne besede - seznam
+title: Ključne besede - Opravičujemo se za vse nevšečnosti - podkast
 permalink: /tag/
 image:  /assets/img/opr-tag-cloud@2x.jpg
 description: Seznam ključnih besed podkasta Opravičujemo se za vse nevšečnosti, kjer se prepletajo pivo, Douglas Adams, politika, družba, religija, znanost, tehnologija in alkohol, ob tem pa še vsakdanje malenkosti, humor, nostalgija in debate od kapitalizma do teorij zarot, od Vsemogočnega Boba do čajnih bogatih.
