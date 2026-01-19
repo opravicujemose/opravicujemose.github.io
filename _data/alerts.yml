@@ -11,8 +11,8 @@
   number: 02
   class:  alert-success
   text:   "Podpri nas "
-  link:   na hvalazavseribe.si
-  end:    ", 💸 ali pa povej še komu za nas. Kako? Pošlji 📱, pokliči ☎️ oz. povej naprej. 💬"
+  link:   na 💸 hvalazavseribe.si
+  end:    ", ali pa povej še komu za nas. Pošlji 📱, pokliči ☎️ oz. povej naprej. 💬"
   url:    https://hvalazavseribe.si/
 - type:   pi pi-file
   number: 03

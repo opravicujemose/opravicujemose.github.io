@@ -1,10 +1,11 @@
 .slider {
-  position: relative;
-  overflow: hidden;
-  display: flex;
-  justify-content: center;
-  margin-top: -3px;
-  font-size: 0.95em;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    /* Ta 1px paddinga bo naredil prostor za robove alertov znotraj */
+    padding-top: 1px; 
+    margin-top: -1px; /* To izniči padding, da ostane poravnava ista */
 }
 
 .slider__nav {
@@ -53,6 +54,14 @@
   flex: 1;
   flex-flow: column nowrap;
   justify-content: center;
+}
+
+.slider__contents .alert {
+    margin-top: 0;       /* Odstranimo morebiten negativen margin */
+    border-top-width: 1px; 
+    border-top-style: solid;
+    /* Doda 1px prostora zgoraj, da overflow:hidden ne "pohrusta" roba */
+    padding-top: 16px;   /* Namesto tvojih 15px damo 16px */
 }
 
 @-webkit-keyframes check {

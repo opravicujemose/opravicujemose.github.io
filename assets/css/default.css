@@ -552,7 +552,7 @@ article.post {
 /* ALERTS */
 
 .alert {
-    padding: 15px;
+    padding: 15px 25px 15px 15px;
     margin-bottom: 20px;
     border: 1px solid transparent;
     border-radius: 4px;
@@ -1041,37 +1041,37 @@ div.pagination {
 }
 .close-btn:hover { color: #000; }
 
-/* Kontejner sliderja mora imeti relative, da absolute znotraj njega dela pravilno */
-.slider {
-    position: relative;
-    clear: both;
-}
-
 /* Posoda za i v krogu */
-/* Posoda za info gumb */
+/* Posoda za info gumb - spremenjena v flex */
 .info-toggle-circle {
-    display: none;
-    text-align: right;
-    width: 100%;
-    /* Povečamo negativen margin, da slider pride malo višje, 
-       ali zmanjšamo, da ikona pade nižje. Poskusi s -28px: */
-    margin-bottom: -34px; 
-    position: relative;
-    z-index: 9999;
+    display: none;             /* JS to preklopi na flex */
+    justify-content: flex-end; /* Potisne vsebino povsem desno */
+    width: auto;               /* Se skrči na velikost ikone */
+    float: right;              /* Alternativa za stabilnost */
+    margin-bottom: -30px;      
+    position: relative;        
+    z-index: 9999;             
     padding-right: 10px;
+    pointer-events: none;      /* KLJUČNO: Klik gre skozi prazno posodo */
 }
 
-/* Stil za sam znak ⓘ */
+/* Sam krog okoli i - ponovno omogočimo klike */
 .info-toggle-circle span {
+    pointer-events: auto;      /* Klik dela samo na ikoni */
     cursor: pointer;
     font-size: 20px;
     line-height: 1;
     color: #888;
     display: inline-block;
-    /* Ta padding-top bo ikono potisnil tistih nekaj pikslov dol */
     padding-top: 10px; 
     transition: color 0.2s ease;
     user-select: none;
+}
+
+/* Clearfix, da slider ve, kje se začne */
+.slider {
+    position: relative;
+    clear: both; 
 }
 
 .info-toggle-circle span:hover {
