@@ -32,39 +32,43 @@
   refreshVisibility();
 
   // SLIDER ANIM
-// Nastavitve za avtomatski slider
-let slideInterval;
-const slideDelay = 5000; // 5 sekund na slide
 
-function startAutoSlide() {
-  slideInterval = setInterval(() => {
-    // Poiščemo vse radio gumbe sliderja
-    const radios = document.querySelectorAll('input[name="slider"]');
-    if (radios.length === 0) return;
+  // Nastavitve za avtomatski slider z omejitvijo
+  let slideInterval;
+  const slideDelay = 5000;    // 5 sekund na slide
+  let transitionCount = 0;    // Števec preklopov
+  const maxTransitions = 5;  // 1 obrati po 4 slajde = 5 + 1 da ostanemo na 1. slajdu
 
-    // Najdemo trenutno označenega
-    let currentIndex = Array.from(radios).findIndex(r => r.checked);
-    
-    // Izračunamo naslednjega (če smo na zadnjem, gremo na prvega)
-    let nextIndex = (currentIndex + 1) % radios.length;
-    
-    // Preklopimo
-    radios[nextIndex].checked = true;
-  }, slideDelay);
-}
+  function startAutoSlide() {
+    slideInterval = setInterval(() => {
+      const radios = document.querySelectorAll('input[name="slider"]');
+      if (radios.length === 0) return;
 
-// Ustavimo premikanje, če uporabnik sam klikne na krogce
-function stopAutoSlide() {
-  clearInterval(slideInterval);
-}
+      let currentIndex = Array.from(radios).findIndex(r => r.checked);
+      let nextIndex = (currentIndex + 1) % radios.length;
+      
+      radios[nextIndex].checked = true;
+      
+      // Povečamo števec in preverimo omejitev
+      transitionCount++;
+      if (transitionCount >= maxTransitions) {
+        stopAutoSlide();
+        console.log("Avtomatsko rotiranje ustavljeno po 4 obratih.");
+      }
+    }, slideDelay);
+  }
 
-// Zaženemo avtomatiko
-startAutoSlide();
+  function stopAutoSlide() {
+    clearInterval(slideInterval);
+  }
 
-// Dodamo poslušalce, da ustavimo avtomatiko ob ročnem kliku
-document.querySelectorAll('.slider__nav').forEach(nav => {
-  nav.addEventListener('click', stopAutoSlide);
-});
+  // Zaženemo avtomatiko
+  startAutoSlide();
+
+  // Če uporabnik sam klikne na navigacijo, takoj ustavimo avtomatiko
+  document.querySelectorAll('.slider__nav').forEach(nav => {
+    nav.addEventListener('click', stopAutoSlide);
+  });
 </script>
 
 <footer class="footer">

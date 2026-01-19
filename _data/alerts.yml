@@ -5,29 +5,29 @@
   class:  alert-info
   text:   Pridruži se nam na Discordu. 🎉 Debatiramo o
   link:   življenju, vesolju in sploh vsem
-  end:    . 💬
+  end:    ". 💬"
   url:    https://opravicujemo.se/discord
 - type:   pi pi-rocket
   number: 02
   class:  alert-success
-  text:   "Podpreš nas lahko tako, da za nas poveš še komu ali "
+  text:   "Podpreš nas lahko "
   link:   na hvalazavseribe.si
-  end:    ". Hvala!"  
+  end:    ", ali pa poveš še komu za nas. 💸 Kako? Pošlji 📱, pokliči ☎️ oz. povej naprej. 💬"
   url:    https://hvalazavseribe.si/
 - type:   pi pi-file
   number: 03
   class:  alert-warning
   text:   Naš podkast lahko spremljaš 
   link:   tudi na Substacku
-  end:    "! Za vse ki radi berete zapiske. In radi berete. 📚"
+  end:    "! 📚 Za vse ki radi berete zapiske. In radi berete."
   url:    https://opravicujemose.substack.com/
 - type:   pi pi-bravo
   number: 04
   class:  alert-danger
-  text:   Bi imel/a majico 
-  link:   Opravičujemo se za vse nevšečnosti
-  end:    " 👈 Klik za (pred)naročilo."
-  url:    https://forms.gle/UvJpTiRhMWHiskeL8
+  text:   Bi imel/a 
+  link:   brisačo ali majico OPR (ali kak drug mèrč)
+  end:    "? 👈 Klikni in se pofočkaj!"
+  url:    https://forms.gle/MuLGeUk5dKUov4QV7
 # - type:   fas fa-podcast
 #   number: 04
 #   class:  alert-danger
@@ -35,5 +35,3 @@
 #   link:   hvalazvseribe.si
 #   end:    "! Hvala! 🙏🐬"
 #   url:    https://hvalazavseribe.si/#-naroči-se-in-nas-oceni
-
-
