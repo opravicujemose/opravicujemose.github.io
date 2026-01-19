@@ -1,4 +1,72 @@
-<!-- </section> -->
+<div id="show-about-btn" class="close-btn info-toggle-circle" onclick="showAbout()" title="Prikaži opis podkasta" style="display: none;">
+  <span>ⓘ</span>
+</div>
+
+<script>
+  function refreshVisibility() {
+    // Ponovno poiščemo elemente, da zagotovimo, da so v DOM-u
+    var aboutSection = document.getElementById('about-section');
+    var showBtn = document.getElementById('show-about-btn');
+    var isHidden = localStorage.getItem('aboutHidden') === 'true';
+
+    if (aboutSection) {
+      aboutSection.style.display = isHidden ? 'none' : 'block';
+    }
+    
+    if (showBtn) {
+      showBtn.style.display = isHidden ? 'block' : 'none';
+    }
+  }
+
+  function hideAbout() {
+    localStorage.setItem('aboutHidden', 'true');
+    refreshVisibility();
+  }
+
+  function showAbout() {
+    localStorage.removeItem('aboutHidden');
+    refreshVisibility();
+  }
+
+  // Zaženemo takoj ob nalaganju strani
+  refreshVisibility();
+
+  // SLIDER ANIM
+// Nastavitve za avtomatski slider
+let slideInterval;
+const slideDelay = 5000; // 5 sekund na slide
+
+function startAutoSlide() {
+  slideInterval = setInterval(() => {
+    // Poiščemo vse radio gumbe sliderja
+    const radios = document.querySelectorAll('input[name="slider"]');
+    if (radios.length === 0) return;
+
+    // Najdemo trenutno označenega
+    let currentIndex = Array.from(radios).findIndex(r => r.checked);
+    
+    // Izračunamo naslednjega (če smo na zadnjem, gremo na prvega)
+    let nextIndex = (currentIndex + 1) % radios.length;
+    
+    // Preklopimo
+    radios[nextIndex].checked = true;
+  }, slideDelay);
+}
+
+// Ustavimo premikanje, če uporabnik sam klikne na krogce
+function stopAutoSlide() {
+  clearInterval(slideInterval);
+}
+
+// Zaženemo avtomatiko
+startAutoSlide();
+
+// Dodamo poslušalce, da ustavimo avtomatiko ob ročnem kliku
+document.querySelectorAll('.slider__nav').forEach(nav => {
+  nav.addEventListener('click', stopAutoSlide);
+});
+</script>
+
 <footer class="footer">
   <hr />
   <div>&copy; 2020-<time datetime="{{ site.time | date_to_xmlschema }}">{{ site.time | date: '%Y' }}</time> Opravičujemo se za vse nevšečnosti</div>

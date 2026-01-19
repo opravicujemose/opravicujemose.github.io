@@ -14,14 +14,14 @@
   link:   na hvalazavseribe.si
   end:    ". Hvala!"  
   url:    https://hvalazavseribe.si/
-- type:   pi pi-coins
+- type:   pi pi-file
   number: 03
   class:  alert-warning
-  text:   Naš podkast lahko podpreš 
-  link:   tudi na Supercastu
-  end:    "! Imamo bonus epizode. Hvala za vse ribe. 🐟"
-  url:    https://hvalazavseribe.supercast.com/
-- type:   pi pi-tag-funding
+  text:   Naš podkast lahko spremljaš 
+  link:   tudi na Substacku
+  end:    "! Za vse ki radi berete zapiske. In radi berete. 📚"
+  url:    https://opravicujemose.substack.com/
+- type:   pi pi-bravo
   number: 04
   class:  alert-danger
   text:   Bi imel/a majico 

@@ -446,6 +446,8 @@ div.readMore {
 		text-align: right;
 		margin: 0px -36px -42px auto;
     padding: 0 0 0 0;
+    z-index: 1000;
+    position: relative;
 }
 
 @media screen and (max-width: 600px) {
@@ -1022,4 +1024,64 @@ div.pagination {
   font-size: 0.9rem;
   line-height: 1.4;
   opacity: 0.75;
+}
+
+.about { position: relative; } /* Nujno za pravilno postavitev gumba */
+
+.close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 1;
+    color: #888;
+}
+.close-btn:hover { color: #000; }
+
+/* Kontejner sliderja mora imeti relative, da absolute znotraj njega dela pravilno */
+.slider {
+    position: relative;
+    clear: both;
+}
+
+/* Posoda za i v krogu */
+/* Posoda za info gumb */
+.info-toggle-circle {
+    display: none;
+    text-align: right;
+    width: 100%;
+    /* Povečamo negativen margin, da slider pride malo višje, 
+       ali zmanjšamo, da ikona pade nižje. Poskusi s -28px: */
+    margin-bottom: -34px; 
+    position: relative;
+    z-index: 9999;
+    padding-right: 10px;
+}
+
+/* Stil za sam znak ⓘ */
+.info-toggle-circle span {
+    cursor: pointer;
+    font-size: 20px;
+    line-height: 1;
+    color: #888;
+    display: inline-block;
+    /* Ta padding-top bo ikono potisnil tistih nekaj pikslov dol */
+    padding-top: 10px; 
+    transition: color 0.2s ease;
+    user-select: none;
+}
+
+.info-toggle-circle span:hover {
+    color: #000;
+}
+
+/* Temni način */
+@media screen and (prefers-color-scheme: dark) {
+    .info-toggle-circle span {
+        color: rgba(255,255,255, 0.4);
+    }
+    .info-toggle-circle span:hover {
+        color: #fff;
+    }
 }

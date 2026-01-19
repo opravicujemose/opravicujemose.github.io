@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Dabistal in dnevnik hvaležnosti 🚀"
-number: 	"#294 aka S07E22"
+title:  	"Dnevnik hvaležnosti in digitalne ure ⌚️"
+number: 	"#295 aka S07E23"
 categories:	epizode
-permalink:	/294/
+permalink:	/295/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/294@2x.jpg
-cover:		/assets/img/cover/294 img@2x.png
+image:		/assets/img/295@2x.jpg
+cover:		/assets/img/cover/295 img@2x.png
 cover:		/assets/img/cover/000 img@2x.png
 apple:		
 overcast:	
@@ -21,9 +21,9 @@ published:	false
 date: 		2026-01-11 06:00 +0200
 ---
 
-Zdravo. Tokrat slalomiramo med vojno, starimi slovenskimi pregovori, šefi in predelom, kjer hrbet zgubi svoje pošteno ime in dejstvom, da je treba biti tudi za živahen metabolizen hvaležen. Vsekakor je praksa dnevnika hvaležnosti nekaj, za kar bi nedvomno lahko bili hvaležni. 
+Zdravo. Začnemo v bunkerju, dobesedno in metaforično, se pogovarjamo o korporacijah, ki prodajajo strah pred vojno in o prihodnosti, ki ni več tako daleč, kot se morda zdi. Razdelamo tudi razliko med hvaležnostjo in srečo, izumimo priprošnjavanje in ugotovimo, da dnevnik hvaležnosti deluje tudi po apokalipsi. 
 
-Potem se pa preselimo v Afriko, na poti proti našim najližjim sorodnikom, gorilam. Ne izostane niti birokracija, evropski Balkanci in čudežna zdravila. Zakaj človeštvo bolj skrbi, da so rakete pokončne, kot če vrste izumirajo. O tem in o ščurkovi zadnji desni nogi tudi v tej epizodi. 
+Ko se prebijemo k 3. poglavju, se tokrat posvetimo nosačem, ki nosijo kupe Dickensovih knjig in dvema preveč poštirkanima študentoma. Avtor pravi, da sta latvijska, mi pa vemo, da sta nemška. Nadaljujemo z geografijo, geni, ponosom, stereotipi in končamo pri šotorih in ljubezni, ki je tudi tokrat odgovor na vse. 
 
 {% include player.html %}
 {% include poslusaj.html %}

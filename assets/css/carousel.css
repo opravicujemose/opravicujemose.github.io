@@ -76,3 +76,8 @@
     box-shadow: 0 0 0 0 #333, 0 0 0 0 rgba(51, 51, 51, 0);
   }
 }
+
+
+.slider__inner {
+    transition: left 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+}
