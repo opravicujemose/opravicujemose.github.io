@@ -5,6 +5,7 @@
 }
 
 :root {
+  --opr-blue-50: rgba(4, 32, 66, 0.04); /* skoraj bel, hladen */
   --opr-blue-100: #EAF2F6; /* skoraj bel, hladen */
   --opr-blue-200: #D6E5EE; /* light info background */
   --opr-blue-300: #BFD4E2; /* outline, subtle fill */
@@ -350,7 +351,8 @@ small, small a, small a:hover, small a:focus {
 
 .subscribe{
 	padding-top: 24px;
-	background: rgba(255, 255, 255, 0.42);
+	background: #fff;
+	background: var(--opr-blue-50);
 	padding: 16px;
 }
 
