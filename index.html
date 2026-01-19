@@ -75,3 +75,77 @@ image:  /assets/img/opravicujemo-se-za-vse-nevsecnosti-pod-card.png
 </ul>
 
 <p>Lahko nam pošlješ tudi e-pošto, vsako pismo preberemo in smo ga zelo veseli!. Najbolje na e-naslov <strong><a href="javascript:location='mailto:\u0068\u0076\u0061\u006c\u0061\u007a\u0061\u0076\u0073\u0065\u0072\u0069\u0062\u0065\u0040\u007a\u0076\u0070\u006c\u002e\u0063\u006f\u006d';void 0">hvalazavseribe [afna] zvpl pika com</a></strong> ali pa <strong>opravicujemose [afna] zvpl pika com</strong>. Res hvala. 🙏</p> 
+
+<!-- ABOUT IN INFO -->
+<div id="show-about-btn" class="close-btn info-toggle-circle" onclick="showAbout()" title="Prikaži opis podkasta" style="display: none;">
+  <span>ⓘ</span>
+</div>
+
+<script>
+  function refreshVisibility() {
+    // Ponovno poiščemo elemente, da zagotovimo, da so v DOM-u
+    var aboutSection = document.getElementById('about-section');
+    var showBtn = document.getElementById('show-about-btn');
+    var isHidden = localStorage.getItem('aboutHidden') === 'true';
+
+    if (aboutSection) {
+      aboutSection.style.display = isHidden ? 'none' : 'block';
+    }
+    
+    if (showBtn) {
+      showBtn.style.display = isHidden ? 'block' : 'none';
+    }
+  }
+
+  function hideAbout() {
+    localStorage.setItem('aboutHidden', 'true');
+    refreshVisibility();
+  }
+
+  function showAbout() {
+    localStorage.removeItem('aboutHidden');
+    refreshVisibility();
+  }
+
+  // Zaženemo takoj ob nalaganju strani
+  refreshVisibility();
+
+  // SLIDER ANIM
+
+  // Nastavitve za avtomatski slider z omejitvijo
+  let slideInterval;
+  const slideDelay = 5000;    // 5 sekund na slide
+  let transitionCount = 0;    // Števec preklopov
+  const maxTransitions = 5;  // 1 obrati po 4 slajde = 5 + 1 da ostanemo na 1. slajdu
+
+  function startAutoSlide() {
+    slideInterval = setInterval(() => {
+      const radios = document.querySelectorAll('input[name="slider"]');
+      if (radios.length === 0) return;
+
+      let currentIndex = Array.from(radios).findIndex(r => r.checked);
+      let nextIndex = (currentIndex + 1) % radios.length;
+      
+      radios[nextIndex].checked = true;
+      
+      // Povečamo števec in preverimo omejitev
+      transitionCount++;
+      if (transitionCount >= maxTransitions) {
+        stopAutoSlide();
+        console.log("Avtomatsko rotiranje ustavljeno po 4 obratih.");
+      }
+    }, slideDelay);
+  }
+
+  function stopAutoSlide() {
+    clearInterval(slideInterval);
+  }
+
+  // Zaženemo avtomatiko
+  startAutoSlide();
+
+  // Če uporabnik sam klikne na navigacijo, takoj ustavimo avtomatiko
+  document.querySelectorAll('.slider__nav').forEach(nav => {
+    nav.addEventListener('click', stopAutoSlide);
+  });
+</script>
