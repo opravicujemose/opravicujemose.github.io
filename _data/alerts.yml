@@ -10,9 +10,9 @@
 - type:   pi pi-rocket
   number: 02
   class:  alert-success
-  text:   "Podpreš nas lahko "
+  text:   "Podpri nas "
   link:   na hvalazavseribe.si
-  end:    ", ali pa poveš še komu za nas. 💸 Kako? Pošlji 📱, pokliči ☎️ oz. povej naprej. 💬"
+  end:    ", 💸 ali pa povej še komu za nas. Kako? Pošlji 📱, pokliči ☎️ oz. povej naprej. 💬"
   url:    https://hvalazavseribe.si/
 - type:   pi pi-file
   number: 03
