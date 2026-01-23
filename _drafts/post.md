@@ -7,7 +7,7 @@ permalink:	/295/
 tagline: 	"Zdravo. 👋"
 image:		/assets/img/295@2x.jpg
 cover:		/assets/img/cover/295 img@2x.png
-cover:		/assets/img/cover/000 img@2x.png
+cover:		/assets/img/cover/00 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
