@@ -1,6 +1,6 @@
 ---
 layout: season
-title: Seznam sezon podkasta Opravičujemo se za vse nevšečnosti
+title: Seznam sezon podkasta Opravičujemo se za vse nevšečnosti v katerem beremo trilogijo v petih (šestih) delih Douglasa Adamsa Štoparski vodnik po Galaksiji 
 permalink:  /sezona/
 cover:      /assets/img/cover/season 01 img@2x.png
 
