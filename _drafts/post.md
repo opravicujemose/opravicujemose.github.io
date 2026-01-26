@@ -1,9 +1,9 @@
 ---
 layout: 	post
-title:  	"Dnevnik hvaležnosti in digitalne ure ⌚️"
-number: 	"#295 aka S07E23"
+title:  	"Društvo ljubiteljev Excela 📊"
+number: 	"#296 aka S07E24"
 categories:	epizode
-permalink:	/295/
+permalink:	/296/
 tagline: 	"Zdravo. 👋"
 image:		/assets/img/295@2x.jpg
 cover:		/assets/img/cover/295 img@2x.png
@@ -21,9 +21,9 @@ published:	false
 date: 		2026-01-11 06:00 +0200
 ---
 
-Zdravo. Začnemo v bunkerju, dobesedno in metaforično, se pogovarjamo o korporacijah, ki prodajajo strah pred vojno in o prihodnosti, ki ni več tako daleč, kot se morda zdi. Razdelamo tudi razliko med hvaležnostjo in srečo, izumimo priprošnjavanje in ugotovimo, da dnevnik hvaležnosti deluje tudi po apokalipsi. 
+Zdravo. Tokrat začnemo s klubom 3000 milijarderjev, svetovnimi valutami in občutkom, da nas kuhajo počasi, kot žabo. Vmes obdelamo obcestne politične plakate, naredimo plan za napad na Ciper in nacionalizacijo njihovih bank, ker te stvari že znamo. 
 
-Ko se prebijemo k 3. poglavju, se tokrat posvetimo nosačem, ki nosijo kupe Dickensovih knjig in dvema preveč poštirkanima študentoma. Avtor pravi, da sta latvijska, mi pa vemo, da sta nemška. Nadaljujemo z geografijo, geni, ponosom, stereotipi in končamo pri šotorih in ljubezni, ki je tudi tokrat odgovor na vse. 
+Preden se vrnemo h gorilam iz 3. poglavja, Helmutu in Kurtu, mačetám in tipom gozda, slišimo tudi Pelijevo izpoved o ljubezni do Excela – orodja, ki ga je izpopolnil predvsem v oziru kalkulacij količin tvarin za dober žur. Nato pridemo do prve sledi goril (njihovo posteljo), skupaj z znanstveno razlago, kje in zakaj gorile puščajo, kar pač puščajo. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -32,7 +32,7 @@ Ko se prebijemo k 3. poglavju, se tokrat posvetimo nosačem, ki nosijo kupe Dick
 
 #### Zapiski
  
-- []() - 
+- 💸 [12 najbogatejših ima več premoženja kot polovica sveta]() – poročilo organizacije Oxfam, kjer zvemo, da ima klub milijarderjev že 3000 članov, ...
 - []() - 
 - []() - 
 - []() - 
