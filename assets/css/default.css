@@ -402,7 +402,7 @@ ul.post-list, .noUl {
 }
 
 
-ul.post-list .post-meta {
+article time, ul.post-list .post-meta {
 	background: rgba(0,0,0,0.1);
 	padding: 0.3em;
 	margin-left: -2em;
@@ -413,6 +413,11 @@ ul.post-list .post-meta {
     background: rgba(255,255,255,0.1);
     color: rgba(255,255,255, 0.42);
   }
+}
+
+article time {
+	backdrop-filter: blur(4px);
+	-webkit-backdrop-filter: blur(4px);
 }
 
 @media screen and (max-width: 600px) {
@@ -434,16 +439,31 @@ article {
 	
 }
 
-article time, .readMore a, h4.tags-heading {
+.readMore a, h4.tags-heading {
 	background: var(--opr-blue);
 	padding: 0.3em;
 	margin-left: -2em;
 	color: #fff;
 }
+
+.readMore a {
+	color: #fff;
+	text-align: right;
+	padding: 6px 12px;
+	margin: 16px 0;
+}
+
 @media screen and (prefers-color-scheme: dark) {
-  article time, .readMore a {
+  article time {
     background: rgba(255,255,255, 0.11);
     color: rgba(255,255,255, 0.42);
+  }
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  .readMore a {
+    background: #00adec;
+    color: rgba(0,0,0, 0.84);
   }
 }
 
@@ -472,13 +492,6 @@ div.readMore {
 	    padding: 0 0 20px 0;
 	}
 
-}
-
-.readMore a {
-	color: #fff;
-	text-align: right;
-	padding: 6px 12px;
-	margin: 16px 0;
 }
 
 .post-content {
@@ -668,11 +681,10 @@ article.post {
 }
 
 @media screen and (prefers-color-scheme: dark) {
-  .alert-success, .alert-danger,  .alert-warning, .alert-info {
+  .alert-success, .alert-danger, .alert-warning, .alert-info {
     background: rgba(255, 255, 255, 0.21);
     color: rgba(255, 255, 255, 0.55);
     border-color: rgba(255, 255, 255, 0.1);
-    border:  none;
   }
   .alert-link {
     color: #fff;
@@ -871,7 +883,7 @@ div.pagination {
 
 @media screen and (prefers-color-scheme: dark) {
   .pagination em {
-	background: rgba(255,255,255, 0.84);
+	background: rgba(255,255,255, 0.63);
 	color: #000;
   }
 
