@@ -422,7 +422,7 @@ article time {
 
 @media screen and (max-width: 600px) {
 	ul.post-list .post-meta {
-		margin-left: 0em;
+		margin-left: -1.2em;
 	}
 
 	ul.post-list {
@@ -487,11 +487,10 @@ div.readMore {
 	div.readMore {
 	    display: flex;
 	    justify-content: flex-end;
-	    width: 180px;
-	    margin: 16px -35px -36px auto;
+	    width: 220px;
+	    margin: -8px -35px -62px auto;
 	    padding: 0 0 20px 0;
 	}
-
 }
 
 .post-content {
@@ -537,13 +536,27 @@ header.post-header {margin-bottom: -32px}
   margin: 0.6em 0 0.8em 0;
 }
 
+@media screen and (max-width: 768px) {
+  /* Samo za preview na vstopni strani */
+  .post-content.post-preview p:first-of-type {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .post-content.post-preview p:not(:first-of-type) {
+    display: none;
+  }
+}
+
 @media screen and (max-width: 600px) {
 	.post-content img {
 		margin: -2.5em -1.5em 0 0;
 		width: 40%;
 	}
 }
-
 
 .prev-next-post-wrapper:after {
  content:"";
