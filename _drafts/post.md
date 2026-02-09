@@ -1,13 +1,13 @@
 ---
 layout: 	post
-title:  	"Nova ameriška zastava 🇺🇸"
-number: 	"#297 aka S07E25"
+title:  	"Nikol' ne moreš tolk' z nogam' nardit', kukr lahk' z gobcem zajebeš"
+number: 	"#298 aka S07E26"
 categories:	epizode
-permalink:	/297/
+permalink:	/298/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/297@2x.jpg
-cover:		/assets/img/cover/297 img@2x.png
-cover:		/assets/img/cover/00 img@2x.png
+image:		/assets/img/298@2x.jpg
+cover:		/assets/img/cover/298 img@2x.png
+cover:		/assets/img/cover/000 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -34,8 +34,10 @@ Skratka klasična epizoda o življenju, vesolju in sploh vsem.
 
 #### Zapiski
  
-- 🦛 [Ne delajte selfijev z nilskimi konji](https://opravicujemo.se/159/) - epizoda pod zap. št. #159, kjer smo vam povedali, da je kokos še vedno bolj nevaren kot komarji, ali večja nevarnost preti, če delate selfije (z nilskimi konji ali brez). Ugotovili smo tudi, da so morski psi res najmanj nevarni, vsaj statistično gledano. Pazite se kokosa, komarjev in … predvsem ljudi. Človek je še vedno najbolj nevarna žival na planetu. 
-- 🎯 [Nove igre lakote](https://www.euronews.com/culture/2025/12/19/donald-trumps-new-patriot-games-compared-to-the-hunger-games-online?utm_source=chatgpt.com) - decembra 2025 je predsednik ZDA napovedal športno tekmovanje z imenom “Patriot Games”, ki bo del praznovanja 250. obletnice države. Po formatu – ena deklica in en deček iz vsake države – so ga nekateri opazovalci takoj primerjali z znano distopično zgodbo *Igre lakote* 
+- []() - 
+- []() - 
+- []() - 
+- []() - 
 - []() - 
 - []() - 
 - []() - 
