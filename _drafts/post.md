@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Nikol' ne moreš tolk' z nogam' nardit', kukr lahk' z gobcem zajebeš"
-number: 	"#298 aka S07E26"
+title:  	"Melanija: trnova pot iz čudovite dežele tam dalež stran! 🎬"
+number: 	"#299 aka S07E27"
 categories:	epizode
-permalink:	/298/
+permalink:	/299/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/298@2x.jpg
-cover:		/assets/img/cover/298 img@2x.png
+image:		/assets/img/299@2x.jpg
+cover:		/assets/img/cover/299 img@2x.png
 cover:		/assets/img/cover/000 img@2x.png
 apple:		
 overcast:	
@@ -18,14 +18,12 @@ listen:
 youtube:	https://youtu.be/________
 embed:		https://podcasts.apple.com/si/podcast/____________
 published:	false
-date: 		2026-01-31 06:00 +0200
+date: 		2026-02-14 06:00 +0200
 ---
 
-Zdravo. V tokratni epizodi se zapletemo v kulinarično filozofsko razpravo marcipanu, grozinah in jagodni čokoladi. Ugotovimo tudi, da je najboljša študentska hrana vodka, ker je najbolj poceni alkohol in ne vsebuje oreščkov. Nato preidemo na geopolitične debate in se spomnimo na ameriško zastavo, ki bo kmalu potrebovala prostor za dodatne zvezdice. 
+Zdravo, tokrat se na humoren način lotimo sodobne politike, družbenih razmer in pop kulture. V osrednjem delu s kančkom domišlije izumimo filmski scenarij o "dramatičnem pobegu" Melanie Trump iz komunistične Jugoslavije v "svobodni" svet, pri čemer ironično prepletamo zgodovinska dejstva s klasičnimi filmskimi akcijskimi elementi. 
 
-V drugem delu pa se resno lotimo poglavja. Douglas in ekipa končno ugledajo gorsko gorilo, mi pa tudi o pozitivnih učinkih goriljega turizma, kolonialnih muzejih in preživetja planeta.
-
-Skratka klasična epizoda o življenju, vesolju in sploh vsem. 
+Razprava se dotika tudi propada politične realnosti, kjer omenimo tudi Sokrata in Trumpa in populizem kot grožnjo demokraciji, hkrati pa kritično analiziramo vlogo nevladnih organizacij in bogastvo Elona Muska. Celotna epizoda ni nič drugega kot družbena kritika, ki skozi komično prizmo in neformalni, gostilniški dialog, vzpodbuja poslušalce k udeležbi na volitvah in kritičnemu razmišljanju o svetu. 
 
 {% include player.html %}
 {% include poslusaj.html %}
