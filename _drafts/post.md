@@ -1,13 +1,12 @@
 ---
 layout: 	post
-title:  	"Melanija: trnova pot iz čudovite dežele tam dalež stran! 🎬"
-number: 	"#299 aka S07E27"
+title:  	"O nosorogih, Afriki in sploh vsem, tudi o zadnjih dveh 🦏 - Maja Prijatelj Videmšek in Boštjan Videmšek o knjigi Zadnji dve"
+number: 	"#300 aka S07E28"
 categories:	epizode
-permalink:	/299/
+permalink:	/300/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/299@2x.jpg
-cover:		/assets/img/cover/299 img@2x.png
-cover:		/assets/img/cover/000 img@2x.png
+image:		/assets/img/300@2x.jpg
+cover:		/assets/img/cover/300 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -21,9 +20,11 @@ published:	false
 date: 		2026-02-14 06:00 +0200
 ---
 
-Zdravo, tokrat se na humoren način lotimo sodobne politike, družbenih razmer in pop kulture. V osrednjem delu s kančkom domišlije izumimo filmski scenarij o "dramatičnem pobegu" Melanie Trump iz komunistične Jugoslavije v "svobodni" svet, pri čemer ironično prepletamo zgodovinska dejstva s klasičnimi filmskimi akcijskimi elementi. 
+Zdravo! V 300. epizodi sta nas obiskala Maja Prijatelj Videmšek in Boštjan Videmšek, ki sta nam skozi usodo Najin in Fatu (zadnjih dveh severnih belih nosoroginj) servirala brutalno lekcijo iz geopolitike skozi klavnice našega napredka. 
 
-Razprava se dotika tudi propada politične realnosti, kjer omenimo tudi Sokrata in Trumpa in populizem kot grožnjo demokraciji, hkrati pa kritično analiziramo vlogo nevladnih organizacij in bogastvo Elona Muska. Celotna epizoda ni nič drugega kot družbena kritika, ki skozi komično prizmo in neformalni, gostilniški dialog, vzpodbuja poslušalce k udeležbi na volitvah in kritičnemu razmišljanju o svetu. 
+Izvedeli smo, kako češki AK-47 in kitajske vraže o čudežnem prahu zlijejo v koktajl, ki je izbrisal eno življenjsko vrsto in na desetine milijonov ljudi, medtem ko znanstveniki v laboratorijih upajo na biotehnološki čudež. 
+
+Za konec pa preprost plan za preživetje: beri, sprejemaj naravo in ne jej mesa. 
 
 {% include player.html %}
 {% include poslusaj.html %}
