@@ -588,7 +588,8 @@ header.post-header {margin-bottom: -32px}
 }
 .prev-next-post-col-2 {
  width:-webkit-calc(50% - (30px / 2));
- width:calc(50% - (30px / 2))
+ width:calc(50% - (30px / 2));
+ text-align: right;
 }
 
 article.post {
