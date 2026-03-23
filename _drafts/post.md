@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Lonec petunij in slovenska politika (gost Aljaž Pengov Bitenc)"
-number: 	"#302 aka S07E30"
+title:  	"Zmagal' smo, al' so pa volitve ukradene"
+number: 	"#304 aka S07E32"
 categories:	epizode
-permalink:	/302/
+permalink:	/304/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/302@2x.jpg
-cover:		/assets/img/cover/302 img@2x.png
+image:		/assets/img/304@2x.jpg
+cover:		/assets/img/cover/304 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -20,11 +20,11 @@ published:	false
 date: 		2026-03-08 06:00 +0200
 ---
 
-Zdravo! Tokrat gostimo Aljaža Pengova Bitenca, politologa, novinarja, trekija in velikega hupi fruda, ki vedno ve, kje ima brisačo. Pot nas vodi iz Bolivije, kjer se spomnimo na kače in Che Guevaro do modre lune in Smrkcev, potem pa se končno vržemo v politično sceno in s tremi ščepci humorja prevedemo v štoparščino. 
+Zdravo! Tokrat analiziramo volilne rezultate, čeprav v času snemanja nismo vedeli, kdo je (oziroma ni) zmagovalec letošnjih parlamentarnih volitev. 
 
-Izvedeli boste, da je sovenski volilec pravzaprav Artur Dent, ki odpre hladilnik, pogleda kateri dve stvari imata najmanj brade in ju razglasi za zajtrk. Razpravljali smo tudi o zakaj desnica vedno ponudi enostavno rešitev za kompleksen problem, levica pa se pri tem spotakne ob lastna načela in iskali najbolj štoparsko prispodobo za slovensko politično sceno. 
+Pričakujemo zmago desnice in posledično takojšnje znižanje davkov in seveda občutno zvišanje plač delavcev. Govorimo seveda tudi o korupciji, prisluhih, Titaniku, volilnih kampanjah, Mosadovem Wi-Fiju in geslu, se poklonimo komadu Čreva na plot in razmišljamo, zakaj Slovenija ne more imeti belgijskega scenarija. 
 
-> “Oh ne, nikar že spet”.
+Za knjigo ostane ravno toliko časa, da **Boštjan Videmšek** prebere citat o Kes, preden zaključimo, da dokler ne bo konca te volilne drame, na družabna omrežja raje ne sploh hodite.
 
 {% include player.html %}
 {% include poslusaj.html %}
