@@ -1,12 +1,12 @@
 ---
 layout: 	post
 title:  	"Zmagal' smo, al' so pa volitve ukradene"
-number: 	"#304 aka S07E32"
+number: 	"#305 aka S07E33"
 categories:	epizode
-permalink:	/304/
+permalink:	/305/
 tagline: 	"Zdravo. 👋"
-image:		/assets/img/304@2x.jpg
-cover:		/assets/img/cover/304 img@2x.png
+image:		/assets/img/305@2x.jpg
+cover:		/assets/img/cover/305 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -41,3 +41,7 @@ Za knjigo ostane ravno toliko časa, da **Boštjan Videmšek** prebere citat o K
 - []() - 
 - []() - 
 - []() - 
+
+
+Zdravo. Kart za Našo kri še nismo dobili, ampak pokličete na 113 in vam jih pošljejo, ker to spada pod nacionalno varnost. Politično komentiramo brez enega samega podatka, ugotovimo da je Logar novi Pahor (Freudan slip), da je Black Cube potrdil sestanek ampak se datuma ne spomni, in da bi najboljšo volilno kampanjo izpeljali z zumčkom na šanku in stotko za točeno. Vmes se spomnimo na revijo Družina z indijančkom na zadnji strani in ugotovimo, da je Udba zbirala naročnike.
+V knjigi končno pristanemo v bazi Narodnega parka Garamba, ki je eden najbogatejših parkov v Afriki, a ga ne obišče nihče, ker je od najbližjega letališča oddaljen tri dni vožnje. Charles Mackie nas pobere s cessno, pristajalna steza je samo ravna travnata zaplata, vmes pa se spomnimo na avstralsko dingo ograjo. Končamo pri Kes in Fraserju na večerji, kjer so krokodili na koncu vrta, o čemer pa več naslednjič.
