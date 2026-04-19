@@ -41,6 +41,7 @@ layout: default
         | replace: 'ž','z'
         | replace: 'ć','c'
         | replace: 'đ','d'
+        | replace: '.', '-'
         | replace: ' ','-'
       %}
       <a class="tag" href="/tag/{{ slug }}/">{{ tag }}</a>

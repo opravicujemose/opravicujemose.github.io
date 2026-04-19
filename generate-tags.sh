@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 set -e
-
 mkdir -p tag
-
 awk '
   /^---[[:space:]]*$/ { fm = !fm; next }
   fm && /^[[:space:]]*tags:[[:space:]]*\[/ {
@@ -17,7 +15,6 @@ awk '
 | sed '/^$/d' \
 | sort -u \
 | while read -r tag; do
-
   slug=$(echo "$tag" \
     | tr '[:upper:]' '[:lower:]' \
     | sed \
@@ -26,13 +23,12 @@ awk '
       -e 's/ž/z/g' \
       -e 's/ć/c/g' \
       -e 's/đ/d/g' \
+      -e 's/\./-/g' \
       -e 's/[^a-z0-9]/-/g' \
       -e 's/--*/-/g' \
       -e 's/^-//' \
       -e 's/-$//')
-
   file="tag/$slug.md"
-
   if [ ! -f "$file" ]; then
     cat > "$file" <<EOF
 ---
@@ -43,5 +39,4 @@ permalink: /tag/$slug/
 ---
 EOF
   fi
-
 done
