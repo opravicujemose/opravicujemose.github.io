@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Janez Janša je imel prav: volitve so bile ukradene 🗳️"
-number: 	"#308 aka S07E36"
+title:  	"Entrepreneurji 🚀"
+number: 	"#309 aka S07E37"
 categories:	epizode
-permalink:	/308/
-tagline: 	"Zdravo. 20. april nekateri praznujejo rojstni dan enega najbolj znanih avstrijskih slikarjev, mi pa ugotovimo, da je imel Janez Janša prav, da je Douglas Adams v Garambi še uspel prešteti 22 severnih belih nosorogov in da bo piknik s troglasnim petjem."
-image:		/assets/img/308@2x.jpg
-cover:		/assets/img/cover/308 img@2x.png
+permalink:	/309/
+tagline: 	"Zdravo. Tokrat revidiramo zgodovino, ugotovimo, da smo hujši kot Žižek, in obudimo protiimperialistično fronto, preden se lotimo entrepreneurjev in vprašanja, ali so menedžerji preveč plačani ali smo mi premalo."
+image:		/assets/img/309@2x.jpg
+cover:		/assets/img/cover/309 img@2x.png
 apple:		
 overcast:	
 podkite:	https://pod.link/opr/episode/__________
@@ -17,12 +17,13 @@ listen:
 youtube:	https://youtu.be/________
 embed:		https://podcasts.apple.com/si/podcast/____________
 published:	false
-date: 		2026-04-19 06:00 +0200
+date: 		2026-04-29 06:00 +0200
+tags: [Zadnja priložnost, revizija zgodovine, Slavoj Žižek, komad tedna, davki, Kočevski rog, koza, umetna inteligenca, kapitalizem, prihodnost, plačilne liste, imperializem, osvobodilna fronta, protiimperialistična fronta, dvelovnik]
 ---
 
-Zdravo! Tokratna epizoda je mešanica političnega prerokovanja, literarne obnove in organizacije piknika, skozi katero s ščepcem cinizma komentiramo trenutno dogajanje na povolilnem parketu. Razmišljamo tako o usodi severnih belih nosorogov, kot o usodi naše male države. Bomo spet štiri leta kolesarili? 
+Zdravo. Tokrat začnemo z revizijo zgodovine (za obe svetovni vojni so krivi Avstrijci) in ker je ravno tak dan, spet obudimo protiimperialistično fronto, ki je bila pred OF tudi uradno ime gibanja, dokler se vmes niso vpletli komunisti in pobrali žoge. Ugotovimo, da smo hujši k Žižek, tokratni komad tedna je Ritem človeštva, obdelamo vojaške tehnologije v civilni rabi in znižanje davkov, zaradi katerega bo, kot vemo, vse bolje.
 
-Ko tako slalomiramo med Garambo, travnatim letališčem, družbenim aktivizmom in nostalgičnimi utrinki ugotavljamo, zakaj je resnica vedno nekoliko odvisna od zornega kota (in trenutne oblasti) ter kako lahko troglasno petje na pikniku reši več kot marsikateri protest. Ali pa vsaj razpoloženje. 
+V Garambi obiščemo nilske konje, ki ni so bili nevarni, razen tistega, leva, ki je 14 dni kasneje nekoga pojedel, zato se mi posvetimo entrepizračuna, da je avstrijska plača s tridnevnim delovnikom za menedžerja ravno toliko preveč, kolikor je za delavca premalo, in skleneta solidarnostni pakt: če smo mi premalo plačani, so tudi oni, in obratno. Prihodnost je svetla.
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -31,11 +32,9 @@ Ko tako slalomiramo med Garambo, travnatim letališčem, družbenim aktivizmom i
 
 #### Zapiski
  
-- 🗳️ [Bo Janez Janša postal novi predsednik vlade?](https://napovej.com/politika/bo-janez-jansa-postal-novi-predsednik-vlade-ud4k) - napovej.com napoveduje pozitivni odgovor na to vprašanje z kar 89% verjetnostjo 
-- 🤝 [Obljubil si, da ne boš prodal glasu za položaj, ampak za vsebino](https://n1info.si/novice/slovenija/vidna-clanica-resnice-pise-stevanovicu-in-jansi-dragi-zoran-obljubil-si-da-ne-bos-prodal-glasu-za-polozaj-ampak-za-vsebino) - vidna članica Resnice Sabina Senčar piše Stevanoviću in Janši, da je Resnica zrasla na nasprotovanju Janševi vladi, zdaj pa podpirajo njegovo vlado 
-- 🎂 [Adolf Hitler](https://en.wikipedia.org/wiki/Adolf_Hitler) - avstrijski slikar, ki je postal politik in veliki diktator, ki ima (spet) vedno več vidnih privržencev, je bil rojen 20. aprila 1889 
-- []() - 
-- []() - 
+- 🗳️ [Osvobodilna fronta slovenskega naroda](https://sl.wikipedia.org/wiki/Osvobodilna_fronta_slovenskega_naroda) - 27. aprila je bila v Vidmarjevi vili ustanovljena Protiimperialistična fronta, ne Osvobodilna fronta 
+- 🎙️ [Slavoj Žižek vs. Jordan Peterson](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) - Spomin na znameniti soočanje Žižka in Petersona; gostje se šalijo, da so "hujš' k Žižek".
+- 🎂 [Dan upora proti okupatorju](https://sl.wikipedia.org/wiki/Dan_upora_proti_okupatorju) - Praznik 27. aprila, ob katerem ekipa snema epizodo s sloganom "Smrt fašizmu — svoboda narodu".
 - []() - 
 - []() - 
 - []() - 
