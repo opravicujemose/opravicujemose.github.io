@@ -1,9 +1,7 @@
 #!/usr/bin/env bash
 set -e
-
 mkdir -p tag
 rm -f tag/*.md
-
 awk '
   /^---[[:space:]]*$/ { fm = !fm; next }
   fm && /^[[:space:]]*tags:[[:space:]]*\[/ {
@@ -18,7 +16,6 @@ awk '
 | sed '/^$/d' \
 | sort -u \
 | while read -r tag; do
-
   slug=$(echo "$tag" \
     | tr '[:upper:]' '[:lower:]' \
     | sed \
@@ -27,11 +24,11 @@ awk '
       -e 's/ž/z/g' \
       -e 's/ć/c/g' \
       -e 's/đ/d/g' \
+      -e 's/\./-/g' \
       -e 's/[^a-z0-9]/-/g' \
       -e 's/--*/-/g' \
       -e 's/^-//' \
       -e 's/-$//')
-
   cat > "tag/$slug.md" <<EOF
 ---
 layout: tag
@@ -40,5 +37,4 @@ title: "$tag - ključna beseda v podkastu Opravičujemo se za vse nevšečnosti"
 permalink: /tag/$slug/
 ---
 EOF
-
 done

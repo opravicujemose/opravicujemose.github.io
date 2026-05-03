@@ -1,10 +1,10 @@
 ---
 layout: 	post
-title:  	"Entrepreneurji 🚀"
-number: 	"#309 aka S07E37"
+title:  	"Festival domoljubnih pesmi 🇸🇮"
+number: 	"#310 aka S07E38"
 categories:	epizode
-permalink:	/309/
-tagline: 	"Zdravo. Tokrat revidiramo zgodovino, ugotovimo, da smo hujši kot Žižek, in obudimo protiimperialistično fronto, preden se lotimo entrepreneurjev in vprašanja, ali so menedžerji preveč plačani ali smo mi premalo."
+permalink:	/310/
+tagline: 	"Zdravo. Tokrat ugotovimo, da je vse odvisno od tega, kako zelo si odvisen, najdemo zid za revolucijo na bunkerju in razmišljamo, kdo gre prvi predenj: zavarovalničarji, borzni mešetarji ali kot smo dogovorjeni, marketingarji. "
 image:		/assets/img/309@2x.jpg
 cover:		/assets/img/cover/309 img@2x.png
 apple:		
@@ -17,13 +17,14 @@ listen:
 youtube:	https://youtu.be/________
 embed:		https://podcasts.apple.com/si/podcast/____________
 published:	false
-date: 		2026-04-29 06:00 +0200
-tags: [Zadnja priložnost, revizija zgodovine, Slavoj Žižek, komad tedna, davki, Kočevski rog, koza, umetna inteligenca, kapitalizem, prihodnost, plačilne liste, imperializem, osvobodilna fronta, protiimperialistična fronta, dvelovnik]
+date: 		2026-05-03 06:00 +0200
+tags: [Zadnja priložnost, festival domoljubnih pesmi, digitalne ure, odvisnosti, dopamin, družbena omrežja, algoritmi, nosorogi, zid za revolucijo, prvi pred zid, Mehika, pivo, doručak]
 ---
 
-Zdravo. Tokrat začnemo z revizijo zgodovine (za obe svetovni vojni so krivi Avstrijci) in ker je ravno tak dan, spet obudimo protiimperialistično fronto, ki je bila pred OF tudi uradno ime gibanja, dokler se vmes niso vpletli komunisti in pobrali žoge. Ugotovimo, da smo hujši k Žižek, tokratni komad tedna je Ritem človeštva, obdelamo vojaške tehnologije v civilni rabi in znižanje davkov, zaradi katerega bo, kot vemo, vse bolje.
+Zdravo. Tokrat začnemo z odvisnostjo, ki je odvisna od tega, kako odvisen si, se preselimo k amazonskim plemenom, ki še do včeraj niso poznala niti digitalnih ur, kaj šele črnih ogledal in mehiškim plemenom, ko so ob prelomu tisočletja, otroke umikali pred fotoaparatom, da jim ne bi ukradel duše. Razmišljamo o tem, zakaj večja kot je razlika med notranjim in zunanjim svetom, več odvodov potrebuješ. 
 
-V Garambi obiščemo nilske konje, ki ni so bili nevarni, razen tistega, leva, ki je 14 dni kasneje nekoga pojedel, zato se mi posvetimo entrepizračuna, da je avstrijska plača s tridnevnim delovnikom za menedžerja ravno toliko preveč, kolikor je za delavca premalo, in skleneta solidarnostni pakt: če smo mi premalo plačani, so tudi oni, in obratno. Prihodnost je svetla.
+Veselimo se tudi festivala domoljubnih pesmi, kjer bo vnuk končno zaigral slovenske komade, Pirkovič pa bo morda napisal tekst za Na Golici. V 3. poglavju knjige Zadnja priložnost si privoščimo doručak, pogledamo nosoroge, ob koncu najdemo zid za revolucijo, izbor, kdo gre prvi predenj, pa prepuščamo vam, kdo gre prvi pred zid, [glasujte na Discordu](https://opravicujemo.se/discord/). 
+
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -32,11 +33,9 @@ V Garambi obiščemo nilske konje, ki ni so bili nevarni, razen tistega, leva, k
 
 #### Zapiski
  
-- 🗳️ [Osvobodilna fronta slovenskega naroda](https://sl.wikipedia.org/wiki/Osvobodilna_fronta_slovenskega_naroda) - 27. aprila je bila v Vidmarjevi vili ustanovljena Protiimperialistična fronta, ne Osvobodilna fronta 
-- 🎙️ [Slavoj Žižek vs. Jordan Peterson](https://en.wikipedia.org/wiki/Slavoj_%C5%BDi%C5%BEek) - Spomin na znameniti soočanje Žižka in Petersona; gostje se šalijo, da so "hujš' k Žižek".
-- 🎂 [Dan upora proti okupatorju](https://sl.wikipedia.org/wiki/Dan_upora_proti_okupatorju) - Praznik 27. aprila, ob katerem ekipa snema epizodo s sloganom "Smrt fašizmu — svoboda narodu".
-- []() - 
-- []() - 
-- []() - 
-- []() - 
-- []() - 
+- 🌳 [Nekontaktirana plemena Amazonije](https://en.wikipedia.org/wiki/Uncontacted_peoples) - plemena v Amazoniji, ki še niso prišla v stik s civilizacijo, a tista, do katerih pride "rumena stvar", takoj posvojijo digitalne naprave (in ne več digitalnih ur, kot so to delali pred nekaj desetletji)
+- 📷 [Komandante Marcos in zapatisti](https://en.wikipedia.org/wiki/Subcomandante_Marcos) - vodja zapatističnega gibanja v Mehiki, kjer so domačini še v 2001 verjeli, da fotoaparat ukrade dušo, in otroke umikali pred objektivom 
+- 🎵 [Na Golici](https://en.wikipedia.org/wiki/Slavko_Avsenik) - najbolj predvajana slovenska instrumentalna polka Slavka Avsenika, ki naj bi ji Pirkovič končno napisal besedilo, da bi ljudje lahko peli kaj bolj globokega namesto "tr, tr, rt-tt, tr, tr, rt-tt, tr, tr, rt-tt-tt"
+- 🎶 [Festival domoljubnih pesmi](https://sl.wikipedia.org/wiki/Festival_slovenske_domoljubne_pesmi_Mati_Domovina) - dogodek, ki ga organizira Tone Krkovič, kjer bo vaš vnuk še vedno lahko igral slovenske pesmi
+- 🎸 [Ljubljana je bulana](https://en.wikipedia.org/wiki/Pankrti) - komad, Pankrtov, ki smo jim hoteli ukrasti idejo za nov punk komad o zidu za revolucijo, 1, 2, 3, 4, ... 
+- ⚖️ [Meta in YouTube potrjeno zasvojljiva](https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict) - kalifornijska porota je marca 2026 v prelomni razsodbi prvič rekla, da krivda ne tiči v vsebini, ampak v sami arhitekturi platform: neskončno listanje, samodejno predvajanje, lepotni filtri in obvestila so po njihovem mnenju "digitalna igralnica", zaradi katere uporabnik ne odmakne prstov zlahka. Šest milijonov dolarjev odškodnine eni 20-letni tožnici, kmalu zatem vrhovno sodišče Massachusettsa odpre vrata še podobni tožbi proti Meti, v vrsti pa še okoli 2000 čakajočih primerov, ki jih pravniki primerjajo z razpadom tobačne industrije devetdesetih. 

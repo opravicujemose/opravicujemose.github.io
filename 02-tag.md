@@ -59,7 +59,7 @@ description: Seznam ključnih besed podkasta Opravičujemo se za vse nevšečnos
 
   {%- if book_tags contains name and name != "Pretežno neškodljiva" -%}
     {%- if comma_needed -%}, {% endif -%}
-    {%- assign slug = name | downcase | replace: 'č','c' | replace: 'š','s' | replace: 'ž','z' | replace: '.', '-' | replace: ' ','-' -%}
+    {%- assign slug = name | downcase | replace: 'č','c' | replace: 'š','s' | replace: 'ž','z' | replace: '.', '-' | replace: ' ','-' | replace: '--', '-' -%}
     {%- assign weight = count | times: 1.0 | divided_by: max_count -%}
     {%- assign font_size = 0.3 | times: weight | plus: 0.9 -%}
 
@@ -81,7 +81,7 @@ description: Seznam ključnih besed podkasta Opravičujemo se za vse nevšečnos
 
   {%- if character_tags contains name -%}
     {%- if comma_needed -%}, {% endif -%}
-    {%- assign slug = name | downcase | replace: 'č','c' | replace: 'š','s' | replace: 'ž','z' | replace: '.', '-' | replace: ' ','-' -%}
+    {%- assign slug = name | downcase | replace: 'č','c' | replace: 'š','s' | replace: 'ž','z' | replace: '.', '-' | replace: ' ','-' | replace: '--', '-' -%}
     {%- assign weight = count | times: 1.0 | divided_by: max_count -%}
     {%- assign font_size = 0.6 | times: weight | plus: 1.0 -%}
 
@@ -102,7 +102,7 @@ description: Seznam ključnih besed podkasta Opravičujemo se za vse nevšečnos
 
   {%- unless book_tags contains name or character_tags contains name or excluded_tags contains name -%}
     {%- if comma_needed -%}, {% endif -%}
-    {%- assign slug = name | downcase | replace: 'č','c' | replace: 'š','s' | replace: 'ž','z' | replace: '.', '-' | replace: ' ','-' -%}
+    {%- assign slug = name | downcase | replace: 'č','c' | replace: 'š','s' | replace: 'ž','z' | replace: '.', '-' | replace: ' ','-' | replace: '--', '-' -%}
     {%- assign weight = count | times: 1.0 | divided_by: max_count -%}
     {%- assign font_size = 1.0 | times: weight | plus: 1.0 -%}
 
