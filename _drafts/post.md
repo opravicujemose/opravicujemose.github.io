@@ -1,12 +1,12 @@
 ---
 layout: 	post
 title:  	"Niso migranti tisti, ki prihajajo po naše službe 🤖"
-number: 	"#311"
+number: 	"#312"
 categories:	epizode
-permalink:	/311/
+permalink:	/312/
 tagline: 	"Zdravo. Tokrat ugotavljamo, da po naše službe ne prihajajo migranti, ampak kapitalisti z Excelom in AI-jem, vmes pa od Napoleonovega pisma Josephine prek goriljega vohanja prispemo do vprašanja, kaj v resnici posluša naš veliki vodja."
-image:		/assets/img/311@2x.jpg
-cover:		/assets/img/cover/311 img@2x.png
+image:		/assets/img/312@2x.jpg
+cover:		/assets/img/cover/312 img@2x.png
 apple:		
 overcast:	
 podkite:	
@@ -17,8 +17,8 @@ listen:
 youtube:	
 embed:		
 published:	false
-date: 		2026-05-10 06:00 +0200
-tags: [Zadnja priložnost, umetna inteligenca, kapitalizem, migranti, Excel, Louis Vuitton, Samsonite, Slavkov kotiček, Janez Janša, Severna Koreja, Douglas Adams, Mark Carwardine, nosorogi, nosorogov rog, Napoleon, Josephine, krompir, antibiotiki, pesimizem, hvalazavseribe.si]
+date: 		2026-05-17 06:00 +0200
+tags: []
 ---
 
 Zdravo. Tokrat ugotovimo, da niso migranti tisti, ki prihajajo po naše službe, ampak kapitalisti z Excelom in podporo umetne inteligence. Vmes obdelamo krompir, antibiotike, leve agitatorje, ugotovimo, da je pesimizem najlepši pogled na svet (ker te realnost lahko samo še prijetno preseneti) in da kapital hodi po robu.
@@ -38,4 +38,4 @@ V šestnajstem obisku 3. poglavja knjige Zadnja priložnost se končno približa
 - 👑 [Napoleon in Joséphine](https://en.wikipedia.org/wiki/Empress_Joséphine) - Napoleonova prva žena, ki naj bi ji v legendarnem pismu napisal "Ne umivaj se, domov prihajam"
 - 🎭 [Josephine Mutzenbacher](https://en.wikipedia.org/wiki/Josefine_Mutzenbacher) - dunajski erotični roman iz leta 1906, ki ga ne smemo zamenjati s pravo Joséphine
 - 🧳 [Louis Vuitton vs Samsonite](https://en.wikipedia.org/wiki/Louis_Vuitton) - luksuzna znamka, katere kovček po vsej verjetnosti ni nič boljši od Samsonita, a stane bistveno več
-- 🌞 [Presvetlo sonce 21. stoletja](https://en.wikipedia.org/wiki/Kim_Jong_Un) - severnokorejski vodja Kim Jong Un, po katerem bi si Janša lahko sposodil kakšno PR idejo
+- 🌞 [Presvetlo sonce 21. stoletja](https://en.wikipedia.org/wiki/Kim_Jong_Un) - severnokorejski vodja Kim Jong Un, po katerem bi si Janša lahko sposodil kakšno PR idejo 
