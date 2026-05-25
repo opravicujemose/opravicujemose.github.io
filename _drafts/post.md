@@ -1,12 +1,12 @@
 ---
 layout: 	post
 title:  	"Niso migranti tisti, ki prihajajo po naše službe 🤖"
-number: 	"#312"
+number: 	"#313"
 categories:	epizode
-permalink:	/312/
-tagline: 	"Zdravo. Tokrat ugotavljamo, da po naše službe ne prihajajo migranti, ampak kapitalisti z Excelom in AI-jem, vmes pa od Napoleonovega pisma Josephine prek goriljega vohanja prispemo do vprašanja, kaj v resnici posluša naš veliki vodja."
-image:		/assets/img/312@2x.jpg
-cover:		/assets/img/cover/312 img@2x.png
+permalink:	/313/
+tagline: 	"Zdravo. Ta teden praznujemo šesto obletnico podkasta, ugotovimo da je Mozart pravzaprav pop, gremo s culico iz Šavne peči v Širje, pa še sliko predsednika za v pisarno najdemo."
+image:		/assets/img/313@2x.jpg
+cover:		/assets/img/cover/313 img@2x.png
 apple:		
 overcast:	
 podkite:	
@@ -17,13 +17,13 @@ listen:
 youtube:	
 embed:		
 published:	false
-date: 		2026-05-17 06:00 +0200
-tags: []
+date: 		2026-05-24 06:00 +0200
+tags: [Zadnja priložnost, Adolf Hitler, Alvorada, Anton Sovre, Chat GPT, Dan brisače, Janez Janša, kava, Mozart, pošta, umetna inteligenca, upor hladilnikov, Winston Churchill, Šavna Peč, Širje, šola]
 ---
 
-Zdravo. Tokrat ugotovimo, da niso migranti tisti, ki prihajajo po naše službe, ampak kapitalisti z Excelom in podporo umetne inteligence. Vmes obdelamo krompir, antibiotike, leve agitatorje, ugotovimo, da je pesimizem najlepši pogled na svet (ker te realnost lahko samo še prijetno preseneti) in da kapital hodi po robu.
+Zdravo. Tokrat začnemo z uporom hladilnikov in rumb, ki bodo nekega dne zavladale svetu, ko bo (tista taprava) umetna inteligenca ugotovila, da res nismo prijazni. Vmes obdelamo še hipotetično vprašanje, kaj bi bilo, če bi Hitlerja sprejeli na Dunajsko akademijo (najbrž bi slikal akvarele za turiste v Piranu), proslavimo šesto obletnico podkasta in ugotovimo, da gre planet po gobe, pošte pa ukinjajo.
 
-V šestnajstem obisku 3. poglavja knjige Zadnja priložnost se končno približamo nosorogu in se naučimo lekcije, ki velja tudi za ostale živali: gibaj se stran od vetra, drugače te zavoha. Spomnimo se na Napoleona in Josephine potem pa snujemo še 20 vprašanj za našega presvetlega vodjo. Ne o politiki, prosim, o glasbi, filmu, televizijih, knjigah in še čem.
+Končno končamo tudi 3. poglavje knjige Zadnja priložnost, devetnajstič, mi pa še prej obdelamo dolgo pot v šolo iz Šavne peči v Širje, kjer je bil doma Anton Sovre, dobro kavo po Birkotovo in sliko predsednika za v pisarno. Razmislimo tudi, da na stara leta rabiš več mišic, da počasneje propadaš, in da je za treba začeti pisati in pošiljati kartice in dopisnice, sicer bodo naš prijatelji poštarji ostali brez službe. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -32,10 +32,11 @@ V šestnajstem obisku 3. poglavja knjige Zadnja priložnost se končno približa
 
 #### Zapiski
  
-- 🥔 [Kim Kardashian se uči saditi krompir](https://www.24ur.com/popin/tujina/kim-kardashian-na-kmetiji-ucila-se-je-saditi-krompir.html) - milijarderka, ki je v reality šovu pokazala, kako se sadi krompir, kar je sprožilo val posmeha
-- 📖 [Zadnja priložnost, da jih vidimo](https://emka.si/webapp/wcs/stores/servlet/sl/emkasi/zadnja-priloznost-da-jih-vidimo-2401157-pdp) - knjiga Douglasa Adamsa in Marka Carwardina, ki jo ekipa prebira in komentira
-- 🦏 [Črni nosorog](https://en.wikipedia.org/wiki/Black_rhinoceros) - afriški nosorog z izjemnim vohom, h kateremu se moraš približevati proti vetru, da te ne zavoha
-- 👑 [Napoleon in Joséphine](https://en.wikipedia.org/wiki/Empress_Joséphine) - Napoleonova prva žena, ki naj bi ji v legendarnem pismu napisal "Ne umivaj se, domov prihajam"
-- 🎭 [Josephine Mutzenbacher](https://en.wikipedia.org/wiki/Josefine_Mutzenbacher) - dunajski erotični roman iz leta 1906, ki ga ne smemo zamenjati s pravo Joséphine
-- 🧳 [Louis Vuitton vs Samsonite](https://en.wikipedia.org/wiki/Louis_Vuitton) - luksuzna znamka, katere kovček po vsej verjetnosti ni nič boljši od Samsonita, a stane bistveno več
-- 🌞 [Presvetlo sonce 21. stoletja](https://en.wikipedia.org/wiki/Kim_Jong_Un) - severnokorejski vodja Kim Jong Un, po katerem bi si Janša lahko sposodil kakšno PR idejo 
+- 🎬 [Love, Death & Robots](https://en.wikipedia.org/wiki/Love,_Death_%26_Robots) - Netflixova antologija, kjer v eni epizodi mački s pomočjo robotov prevzamejo oblast nad svetom 
+- 🎨 [Hitlerjevi akvareli](https://en.wikipedia.org/wiki/Paintings_by_Adolf_Hitler) - umetniška dela mladega Adija, ki ni bil sprejet na Dunajsko akademijo, kar je morda spremenilo tok zgodovine 
+- ⚖️ [Ignorantia juris non excusat](https://en.wikipedia.org/wiki/Ignorantia_juris_non_excusat) - latinski pravni rek, da nepoznavanje prava ne odvezuje od odgovornosti 
+- 🗺️ [Šavna Peč](https://sl.wikipedia.org/wiki/%C5%A0avna_Pe%C4%8D) - vasica v občini Hrastnik, od koder bi Peli moral pešačiti čez hribe v šolo v Širje 
+- 🚂 [Širje](https://sl.wikipedia.org/wiki/%C5%A0irje) - naselje ob Savi, kjer je stala šola, do katere Peli nikoli ni hodil 
+- 📖 [Anton Sovre](https://sl.wikipedia.org/wiki/Anton_Sovre) - slovenski klasični filolog in prevajalec, doma s tega konca 
+- ☕ [Alvorada](https://www.alvorada.si/) - tržaška kavarniška znamka s tremi različnimi kavnimi mešanicami, ki jo ekipa pozna iz mladih let 
+- 🇬🇧 [Winston Churchill](https://en.wikipedia.org/wiki/Winston_Churchill) - britanski premier, ki je rekel, da za sovražnike ne rabiš prijateljev 
