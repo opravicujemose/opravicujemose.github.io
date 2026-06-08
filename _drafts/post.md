@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Resnični krivec za nakup Patrij končno razkrit 💸"
-number: 	"#314aka S07E42"
+title:  	"Mamile v službene namene 💊"
+number: 	"#315 aka S07E43"
 categories:	epizode
-permalink:	/314/
-tagline: 	"Zdravo. Tokrat razkrijemo, kdo je v resnici kriv za (predrag) nakup Patrij, ugotovimo, da kapitalistični model 3% rasti ne deluje na gajbi piva, podebatiramo o Marxu in francoski revoluciji, nato pa s helikopterjem nad novozelandskimi fjordi pričakamo neizogibno."
-image:		/assets/img/314@2x.jpg
-cover:		/assets/img/cover/314 img@2x.png
+permalink:	/315/
+tagline: 	"Zdravo. Tokrat se spomnimo, da smo zaf***li že takrat, ko so prvi primerki zlezli iz morja, debatiramo o terorizmu kot vojni z manjšim budžetom, razdelamo drogiranje v rekreativne namene in obljubimo, da bomo naslednjič pod tivolskim drevesom preverili Amsterdamski nasvet."
+image:		/assets/img/315@2x.jpg
+cover:		/assets/img/cover/315 img@2x.png
 apple:		
 overcast:	
 podkite:	
@@ -17,13 +17,13 @@ listen:
 youtube:	
 embed:		
 published:	false
-date: 		2026-05-24 06:00 +0200
-tags: [Zadnja priložnost, Douglas Adams, fjordi, Janez Janša, kapitalizem, Karl Marx, komunizem, Nova Zelandija, parkiranje, Patria, piknik, socializem, Vojna za Slovenijo, šolstvo]
+date: 		2026-06-07 06:00 +0200
+tags: [Zadnja priložnost, alkoholiščine, depresija, diplomacija, droge, kapitalizem, Las Vegas, Marvin, narava, Nova Zelandija, olimpijske igre, prihodnost, služba, znanost]
 ---
 
-Zdravo. Tokrat začnemo z razkritjem stoletja: krivec za nakup Patrij je končno znan, in to ni Janša, ampak en opraskan Pinzgauer v Pivki sredi noči, ki ga je nekdo malo obdrgnil. Mimo šivanja gumbov, štihanja in dileme, zakaj se otroci v šoli ne učijo (vse)življenjskih veščin, nas pripeljejo do angelčkov parkiranja in do osnovnega vprašanja kapitalizma: če moraš po 23 letih popiti 100% več piva, da bi sledil triodstotni rasti, sistem očitno ne deluje. QED, dokazano na gajbi. 
+Zdravo. Tokrat ugotovimo, da nas lahko reši samo še selitev na druge planete, kjer bomo počeli iste stvari kot tu. Vmes obdelamo razliko med teroristi in borci za svobodo (terorizem je samo vojna z manjšim budžetom) in se vprašamo, ali je prihodnost farmacije v drogiranju v športne in rekreativne namene. Predlagamo tudi, da bi morali v vrhunskem športu vse skupaj odpreti, ker se bo zadeva potem že sama regulirala, ko jih bo nekaj prevrnilo.
 
-Vmes obdelamo še Marxa, ki ga večina hejta, ker ga ni brala, in razliko med idejo in tem, kar so iz nje naredili boljševiki, Stalin in ostali. Pridemo do dognanja, da je srečen človek slab potrošnik in da, če bi se dolgčasa malo navadili, bi bil svet drugačen. Pri 4. poglavju Zadnje priložnosti pa skočimo na Novo Zelandijo, kjer so fjordi lepi, ledenikov je poln, Douglas pa sedi v helikopterju, kar vemo, da nikoli ne pomeni nič dobrega. Vsaj zanj.
+Do Nove Zelandije v 4. poglavju ne uspemo priti, ker se pogovarjamo o uporabi mamil v službene ali za študijske namene in ugotovimo, da v te svrhe teh stvari res ni za jemati. Do mirnosti se da priti tudi na drugačne načine (skupnost, meditacija, dihanje). Rokenrol pa je itak boljši s tremi piri v riti, ni pa slab niti brez. 🎸 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -32,13 +32,8 @@ Vmes obdelamo še Marxa, ki ga večina hejta, ker ga ni brala, in razliko med id
 
 #### Zapiski
  
-- 🚙 [Pinzgauer](https://en.wikipedia.org/wiki/Steyr-Daimler-Puch_Pinzgauer) - avstrijsko terensko vojaško vozilo, ki je bilo v Pivki opraskano in "pripeljalo" do nakupa Patrij 
-- 🪖 [Patria AMV](https://en.wikipedia.org/wiki/Patria_AMV) - finski oklepni transporter, čigar nakup je bil eden največjih političnih škandalov v zgodovini Slovenije 
-- 📖 [Karl Marx](https://en.wikipedia.org/wiki/Karl_Marx) - nemški filozof, ki ga večina hejta, ne da bi ga prebrala, povedal pa je, da kapitalizem ni v redu
-- 🚩 [Boljševiki](https://en.wikipedia.org/wiki/Bolsheviks) - frakcija, ki je vzela Marxovo idejo in jo naredila malo po svoje 
-- 🗡️ [Francoska revolucija](https://en.wikipedia.org/wiki/French_Revolution) - dobra ideja o enakopravnosti, ki je v danem trenutku podivjala in hotela vse potamanit 
-- 🧠 [Konfucij](https://en.wikipedia.org/wiki/Confucius) - kitajski filozof, ki je domnevno spregovoril, da gužva ni nikoli ista, čeprav je vedno tam
-- 🎵 [REM - Trademark Sreča](https://www.youtube.com/watch?v=u1ZB_rGFyeU) - komad, ki ga ekipa zmotno pripiše REM-u v kontekstu, da je srečen človek slab potrošnik 
-- 🚁 [Nova Zelandija — Lord of the Rings lokacije](https://en.wikipedia.org/wiki/Filming_locations_of_The_Lord_of_the_Rings_film_series) - novozelandske fjordske pokrajine, kjer so snemali Gospodarja prstanov in kjer se Douglas v knjigi pelje s helikopterjem 
-- 👼 [(Parkirni) angelčki so ves čas na delu]() - epizoda #137 iz daljnega leta 2023, ko smo se delali norca iz parkirnih angelčkov, … zdaj vemo, da dela, če verjameš 
-- 🪩 [Zakaj je stvarnik izumil goloto (in silikonske joške)]() - epizoda #292 iz decembra 2025, ko smo prvič poročali delovanje parkirnih angelčkov v praksi 
+- 🚀 [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_(TV_series)) - znanstvenofantastična serija o tem, kako človeštvo na druge planete prinese točno iste probleme, ki jih ima na Zemlji, vključno z manipulacijo, podkupljivostjo in terorizmom 
+- 💊 [Enhanced Games](https://en.wikipedia.org/wiki/Enhanced_Games) - olimpijske igre dopingiranih športnikov, ki so bile dan pred dnevom brisače (24. maja letos) v Las Vegasu, kjer so prvi svetovni rekord v plavanju postavili na popolnoma legalen način 
+- 🏍️ [Isle of Man TT](https://en.wikipedia.org/wiki/Isle_of_Man_TT) - znamenita motociklistična dirka na otoku Man, kjer samoregulacija deluje po principu "trije so jo morali prevrnit, pa se bo umirilo" 
+- 🤖 [Marvin the Paranoid Android](https://en.wikipedia.org/wiki/Marvin_the_Paranoid_Android) - depresivni robot iz Štoparskega vodnika, v katerega stanje pade ekipa proti koncu epizode zaradi razmišljanja o stanju sveta 
+- 🌳 [Vondelpark](https://en.wikipedia.org/wiki/Vondelpark) - amsterdamski park, kjer dobronamerni prodajalec ekipi svetuje, naj gresta v naravo z naravnim sokom, ne pa s Spritom sredi mesta 

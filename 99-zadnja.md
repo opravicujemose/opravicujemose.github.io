@@ -5,5 +5,5 @@ redirect_from:
 - /zadnja/
 - /instagram/
 - /ig/
-redirect_to: https://pod.fo/e/4242a0
+redirect_to: https://pod.fo/e/42a9f5
 ---
