@@ -1,37 +1,27 @@
 ---
-layout: 	post
-title:  	"Tretja miza od šanka 🍺"
-number: 	"#316 aka S07E44"
-categories:	epizode
-permalink:	/316/
-tagline: 	"Zdravo. Tokrat se posedemo k tretji mizi od šanka in razglabljamo o nesporazumih z eDavki, robotku v mariborskem McDonald'su, ki je luškan a neuporaben, in pohvali na dan, preden Slavko obudi domoljubno pesem o gorečih gradovih."
-image:		/assets/img/316@2x.jpg
-cover:		/assets/img/cover/316 img@2x.png
-apple:		
-overcast:	
-podkite:	
-pocket:		
-google:		
-anchor:		
-listen:		
-youtube:	
-embed:		
-published:	false
-date: 		2026-06-14 06:00 +0200
-tags: [Zadnja priložnost, avto, bar, domoljubje, dopisnice, glasba, Ljubljana, Marvin, Nova Zelandija, OK Computer, radio, Radiohead, roboti, RTV Slovenija, Tretja miza od šanka, toča, vreme]
-songoftheweek:
-  - artist: "Iztok Mlakar"
-    title: "Puntarska"
-    youtube: "https://www.youtube.com/watch?v=_K6BEd4bIao"
-    year: 1992
-    note: "Puntarska Iztoka Mlakarja z legendarne kasete (albuma) <i>Štorije in baldorije</i>, štiklc o uporništvu, zgodovini in večni želji malega človeka, da bi tu in tam vrgli svet s tečajev."
+layout:   post
+title:    "Nova svetleča prihodnost ✨"
+number:   "#317 aka S07E45"
+categories: epizode
+permalink:  /317/
+tagline:  "Zdravo. Tokrat naročimo zobe na Temuju preden se podražijo, ustanovimo sindikat digitalnih delavcev (ker stojal za pivo več ni), obiščemo grad v Dravogradu in ugotovimo, da v prejšnji epizodi spet nismo povedali nič o knjigi."
+image:		/assets/img/317@2x.jpg
+cover:		/assets/img/cover/317 img@2x.png
+apple:		https://podcasts.apple.com/si/podcast/nova-svetle%C4%8Da-prihodnost/id1514750013?i=1000773669412&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000773669412
+overcast:	https://overcast.fm/+beHjQOESs
+podkite:	https://pod.link/opr/episode/YmEyZGQwM2MtZDdjNy00MzhkLTkyMWItYjA1MTNkNmMyYjYw
+pocket:		https://pca.st/episode/e14079c8-dfed-45dc-af19-1c6a141100d8
+google:		https://music.youtube.com/watch?v=WiCNApBMLX0
+anchor:		https://podcasters.spotify.com/pod/show/opravicujemose/episodes/Nova-svetlea-prihodnost-e3l36sh
+listen:		https://www.listennotes.com/podcasts/opravičujemo-se-za/nova-svetleča-prihodnost-Hf5-lP12d6J/embed/
+youtube:	https://youtu.be/WiCNApBMLX0
+embed:		https://podcasts.apple.com/si/podcast/nova-svetle%C4%8Da-prihodnost/id1514750013?i=1000773669412
+tags: [Zadnja priložnost, Bill Black, držalo za pivo, Dravograd, entrepreneurji, korporacija, poslovna ideja, protestna nota, sindikati, Slon in Sadež, Temu, toaletni papir, Triglav, zobje, zdravje]
 ---
 
-Zdravo. Tokrat začnemo z robotom v McDonald'su in se spomnimo naslov za podkast, ki ga še ni. Mogoče pa bo. Mi se sprašujemo o svetli prihodnosti, napovedujemo znižanja DDV na osnovna živila in dvig splošne stopnje. Sprašujemo se tudi zakaj davčne razbremenitve nekako praviloma pristanejo v žepih tistih, ki imajo žepe že tako globoke,  in zaključimo, da bi moralo goreti več gradov, pa bi bilo mogoče bolje. 
+Zdravo. Tokrat začnemo z vprašanjem, kdaj prihaja nova svetleča prihodnost (višjih plač še ni). Spotoma odkrijemo, kdo je današnji nesponzor, mi pa že tako ali tako naročamo zobe na Temuju, dokler je poštnina še ugodna. Po novem se ne smemo več tako fokusirati na denar (to sicer pravijo tisti, ki so za denar) in da je rešitev več dela. Vmes ustanovimo sindikat digitalnih delavcev in podkasterjev, ker so nam vzeli držala za pivo.
 
-Pozdravimo hupi fruda Primoža (in ekipo) in si zarolamo album Radioheadov, ki ima prav posebnobno mesto med hupi frudi. Dotaknemo se še problemov z metrikami in čakamo, da pride plačilni dan. Po vzoru Aleša Debeljaka se odločimo, da bomo tudi sami začeli pisati razglednice prijateljem. Čao, Daki. 
-
-{% include player.html %}
+Ko se končno spomnimo, da imamo v rokah Zadnjo priložnost, ugotovimo, da knjigo sicer beremo, o njej pa govorimo bolj malo. Tokrat smo še vedno pri četrtem poglavju in Billu Blacku. Zaključimo z razglednicami slovenskih mest in vprašanjem, ali ima Dravograd grad (ima, iz leta 1161) in zakaj se sploh tako imenuje. Sumimo, da je befel prišel iz Beograda, kar bi bilo treba nujno raziskati. Parlamentarna komisija se že ustanavlja.
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -40,9 +30,8 @@ Pozdravimo hupi fruda Primoža (in ekipo) in si zarolamo album Radioheadov, ki i
 
 #### Zapiski
  
-- 🤖 [Robot v McDonald's restavraciji](https://en.wikipedia.org/wiki/Service_robot) - servisni robot, ki ga razglasimo za neuporabnega, a luškanega, otroci pa so nad njim navdušeni 
-- 💰 [eDavki](https://edavki.durs.si/) - portal Finančne uprave RS, kjer poslušalci preverijo, ali bo letos plačilni dan ali ne 
-- 🎸 [Radiohead - OK Computer](https://www.youtube.com/watch?v=ftj9eqJgFRY) - album iz leta 1997, ki je po legendi poimenovan po Marvinu iz Štoparskega vodnika po galaksiji 
-- 📖 [Erica Johnson Debeljak](https://en.wikipedia.org/wiki/Erica_Johnson_Debeljak) - ameriško-slovenska pisateljica in prevajalka; ki je po tragični smrti moža Aleša napisala knjigo o izgubi in (so)uredila knjigo razglednic *Saj grem samo mimo – Razglednice Aleša Debeljaka* 
-- ✍️ [Aleš Debeljak](https://sl.wikipedia.org/wiki/Ale%C5%A1_Debeljak) - slovenski pesnik in esejist, ki je tragično preminil v prometni nesreči in je imel lepo navado pisanja razglednic prijateljem od koderkoli 
-- 🎵 [Iztok Mlakar - Puntarska](https://www.youtube.com/watch?v=_K6BEd4bIao) - pesem z legendarnega albuma (kasete) *Štorije in baldorije* iz leta 1992 - štiklc o zgodovinskem uporu malega človeka proti gosposki, ki opeva tiste, ki so vse pobrali, požrli in - da bi našli pot domov - še zažgali grad, ki so ga ravnokar oplenili 
+- 🦷 [Plombica.si zobozdravstvena ordinacija](https://www.bizi.si/PLOMBICA-D-O-O/) - zobo ordinacija, ki jo ekipa priporoča za reklamacijo zob naročenih s Temuja 
+- 🛒 [Temu](https://en.wikipedia.org/wiki/Temu) - kitajska spletna trgovina, kjer si od 1. julija dalje zobje za 3 EUR dražji, zato pohitite z naročilom
+- 🛡️ [Zavarovalnica Triglav — Zobozdravniki plus](https://www.triglav.si/) - zobozdravstveno dopolnilno zavarovanje, ki ga lahko uporabite kot rešitev, če zobje s Temuja ne bodo obrodili sadov 
+- 🏰 [Dravograd](https://sl.wikipedia.org/wiki/Dravograd) - koroško mesto ob Dravi, katerega srednjeveški grad je prvič omenjen leta 1161, torej pred Ljubljano
+- 🐘 [Slon in sadež](https://sl.wikipedia.org/wiki/Slon_in_sade%C5%BE) - slovenski komični duet, kjer je Lenin slon, Idrija pa je ime ta malega "sadeža"
