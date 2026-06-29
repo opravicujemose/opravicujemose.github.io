@@ -1,27 +1,31 @@
 ---
-layout:   post
-title:    "Nova svetleča prihodnost ✨"
-number:   "#317 aka S07E45"
-categories: epizode
-permalink:  /317/
-tagline:  "Zdravo. Tokrat naročimo zobe na Temuju preden se podražijo, ustanovimo sindikat digitalnih delavcev (ker stojal za pivo več ni), obiščemo grad v Dravogradu in ugotovimo, da v prejšnji epizodi spet nismo povedali nič o knjigi."
-image:		/assets/img/317@2x.jpg
-cover:		/assets/img/cover/317 img@2x.png
-apple:		https://podcasts.apple.com/si/podcast/nova-svetle%C4%8Da-prihodnost/id1514750013?i=1000773669412&itscg=30200&itsct=podcast_box&ls=1&mttnsubad=1000773669412
-overcast:	https://overcast.fm/+beHjQOESs
-podkite:	https://pod.link/opr/episode/YmEyZGQwM2MtZDdjNy00MzhkLTkyMWItYjA1MTNkNmMyYjYw
-pocket:		https://pca.st/episode/e14079c8-dfed-45dc-af19-1c6a141100d8
-google:		https://music.youtube.com/watch?v=WiCNApBMLX0
-anchor:		https://podcasters.spotify.com/pod/show/opravicujemose/episodes/Nova-svetlea-prihodnost-e3l36sh
-listen:		https://www.listennotes.com/podcasts/opravičujemo-se-za/nova-svetleča-prihodnost-Hf5-lP12d6J/embed/
-youtube:	https://youtu.be/WiCNApBMLX0
-embed:		https://podcasts.apple.com/si/podcast/nova-svetle%C4%8Da-prihodnost/id1514750013?i=1000773669412
-tags: [Zadnja priložnost, Bill Black, držalo za pivo, Dravograd, entrepreneurji, korporacija, poslovna ideja, protestna nota, sindikati, Slon in Sadež, Temu, toaletni papir, Triglav, zobje, zdravje]
+layout: 	post
+title:  	"Nočno delo na avtocestah je nateg 🚧"
+number: 	"#318 aka S07E46"
+categories:	epizode
+permalink:	/318/
+tagline: 	"Zdravo. Tokrat se ujamemo v algoritem YouTube shortsov, ugotovimo da so se žične slušalke vrnile, načrtujemo podcast srečanje jeseni, za konec pa razkrinkamo nočno delo na primorski avtocesti kot popolni nateg. Trije študentje se delajo da delajo za 9 EUR / uro."
+image:		/assets/img/318@2x.jpg
+cover:		/assets/img/cover/318 img@2x.png
+apple:		
+overcast:	
+podkite:	
+pocket:		
+google:		
+anchor:		
+listen:		
+youtube:	
+embed:		
+published:	false
+date: 		2026-06-28 06:00 +0200
+tags: [Pa še tole, Apple, Apple AirPods, Bill Black, digitalne ure, Google, Huberman Lab, kitajska ura, Red Bull, Rick Rubin, SMS, Uber, športna ura]
 ---
 
-Zdravo. Tokrat začnemo z vprašanjem, kdaj prihaja nova svetleča prihodnost (višjih plač še ni). Spotoma odkrijemo, kdo je današnji nesponzor, mi pa že tako ali tako naročamo zobe na Temuju, dokler je poštnina še ugodna. Po novem se ne smemo več tako fokusirati na denar (to sicer pravijo tisti, ki so za denar) in da je rešitev več dela. Vmes ustanovimo sindikat digitalnih delavcev in podkasterjev, ker so nam vzeli držala za pivo.
+Zdravo. Tokrat začnemo s shortsi, ki nas vsi po malo sovražimo, pa se jim ne moremo upreti, ker algoritem ve, kaj rabimo. Ugotovimo tudi, da Apple največ zasluži z dodatki in da Garmin po kapljicah dozira funkcije, ki bi jih ura tako ali tako že imela. Vmes se spomnimo na MacGyverja, ki bi danes lahko imel milijone naročnikov na YouTubu, pa na Aziza Ansarija, ki s flip telefonom živi kot rebel proti stroju (a ima verjetno pametni telefon v predalu). 
 
-Ko se končno spomnimo, da imamo v rokah Zadnjo priložnost, ugotovimo, da knjigo sicer beremo, o njej pa govorimo bolj malo. Tokrat smo še vedno pri četrtem poglavju in Billu Blacku. Zaključimo z razglednicami slovenskih mest in vprašanjem, ali ima Dravograd grad (ima, iz leta 1161) in zakaj se sploh tako imenuje. Sumimo, da je befel prišel iz Beograda, kar bi bilo treba nujno raziskati. Parlamentarna komisija se že ustanavlja.
+Piknik je bil, čeprav je bil tudi prestavljen, kljub vsemu pa zdaj že načrtujemo, kje bi naredili naslednje druženje. Gallusoa dvorana je v igri, Kino Šiška tudi, Orto bar,  bi bila the best, samo da je drago. Karte rezervirajte na hvalazavseribe.si. Na koncu razkrijemo še škandal stoletja: nočno delo na primorski avtocesti je čisti nateg. Trije študenti za 9 evrov na uro se prekladajo pod reflektorji, dela pa ne nobeden. Preverite še vi in poročajte na Discordu. 
+
+Zaključimo z mislijo, da bo treba, zdaj ko je ta vlada na oblasti, spet kolesariti. Na morje.
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -30,8 +34,10 @@ Ko se končno spomnimo, da imamo v rokah Zadnjo priložnost, ugotovimo, da knjig
 
 #### Zapiski
  
-- 🦷 [Plombica.si zobozdravstvena ordinacija](https://www.bizi.si/PLOMBICA-D-O-O/) - zobo ordinacija, ki jo ekipa priporoča za reklamacijo zob naročenih s Temuja 
-- 🛒 [Temu](https://en.wikipedia.org/wiki/Temu) - kitajska spletna trgovina, kjer si od 1. julija dalje zobje za 3 EUR dražji, zato pohitite z naročilom
-- 🛡️ [Zavarovalnica Triglav — Zobozdravniki plus](https://www.triglav.si/) - zobozdravstveno dopolnilno zavarovanje, ki ga lahko uporabite kot rešitev, če zobje s Temuja ne bodo obrodili sadov 
-- 🏰 [Dravograd](https://sl.wikipedia.org/wiki/Dravograd) - koroško mesto ob Dravi, katerega srednjeveški grad je prvič omenjen leta 1161, torej pred Ljubljano
-- 🐘 [Slon in sadež](https://sl.wikipedia.org/wiki/Slon_in_sade%C5%BE) - slovenski komični duet, kjer je Lenin slon, Idrija pa je ime ta malega "sadeža"
+- 🦸 [MacGruber](https://en.wikipedia.org/wiki/MacGruber) - SNL parodija na MacGyverja, ki jo ekipa toplo priporoča 
+- 🔧 [MacGyver](https://en.wikipedia.org/wiki/MacGyver_(1985_TV_series)) - kultna serija iz osemdesetih o iznajdljivem agentu, ki je vse rešil s švicarskim nožem 
+- 📱 [Hotel California](https://www.youtube.com/watch?v=BciS5krYL80) -  klasika Eaglesov iz 1976 in metafora za algoritemske platforme, "you can check out any time you like, but you can never leave" 
+- 🍕 [Google pizza joke](https://www.youtube.com/watch?v=RNJl9EEcsoE) - znan skeč o tem, kako bi naročanje pice izgledalo, če bi Google vedel vse o tebi 
+- 📞 [Aziz Ansari](https://en.wikipedia.org/wiki/Aziz_Ansari) - ameriški komik, ki je v intervjuju pojasnil, zakaj uporablja flip phone namesto pametnega telefona 
+- 🚁 [Bill Black](https://en.wikipedia.org/wiki/Bill_Black_(pilot)) - novozelandski helikopterski pilot in pionir lovljenja jelenov iz zraka, umrl leta 2020 
+- 🚧 [Dela na primorski avtocesti](https://www.dars.si/) - nočno delo pri Postojni je ena velikanska natega, ker naši viri poročajo, da trije študentje za 9 EUR na uro stojijo pod reflektorji in se delajo da delajo 
