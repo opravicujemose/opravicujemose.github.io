@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Kdo ti je pa tole delal!? 👷‍♂️"
-number: 	"#322"
+title:  	"Bog ali evolucija 🧬"
+number: 	"#323 aka S07E51"
 categories:	epizode
-permalink:	/322/
-tagline: 	"Zdravo. Tokrat začnemo z drobečim poletjem, nato pa v Bauhaus v rdeči srajci, ugotovimo, da je za vsega kriv Golob, ter izumimo civilno iniciativo za nuklearko na severnem tečaju, da gre svet lahko s tečajev."
-image:		/assets/img/322@2x.jpg
-cover:		/assets/img/cover/322 img@2x.png
+permalink:	/323/
+tagline: 	"Zdravo. Tokrat od travarice v kampu preko bifeja z rostfrej šankom do usodnega vprašanja, kdo bolj dela - bog ali evolucija, ter ugotovitve, da BRT ni tramvaj, ampak avtobus, ki meče pesek v oči volivcev."
+image:		/assets/img/323@2x.jpg
+cover:		/assets/img/cover/323 img@2x.png
 apple:		
 overcast:	
 podkite:	
@@ -17,13 +17,12 @@ listen:
 youtube:	
 embed:		
 published:	false
-date: 		2026-07-19 06:00 +0200
-tags: [Zadnja priložnost, evolucija, kreatin, Nova Zelandija, oglasni blok, poletje, roboti, vojne, vladanje, zdravo življenje, zlate točke]
+date: 		2026-08-02 06:00 +0200
+tags: [Zadnja priložnost, Bog, bife ob koncu travnika, Douglas Adams, evolucija, Jimi Hendrix, gostilna, knjiga, motor, kapako, srednja pot, studio, travnik, trio Oko, Zadnji dve]
 ---
+Zdravo. Tokrat začnemo z opažanjem, da je kampiranje lahko naporno. Zjutraj greš po kruh, sosed ti ponudi travarico in dan je (lahko) hitro pri koncu. Rešitev je obisk kampa, kjer ne poznaš nikogar, namesto alkohola izbereš šport in si pravi Slovenec ali Slovenka. Vmes fantaziramo o bifeju ob koncu travnika z rostfrej šankom in tretjo mizo od šanka za goste), ter razložimo, kaj točno je L.O.J.Z. (lačen, osamljen, jezen, zmatran) in zakaj Satan nikoli ni zmatran.
 
-Zdravo. Tokrat začnemo z drobečim poletjem, ki ni indijansko poletje, ampak nekaj čisto drugega: dva dni sonce, potem tri dni dežuje, vmes pa ti odnese streho. Temperature vmes nihajo, kar se da. Nadaljujemo z življenjskim nasveto za obisk trgovin z železnino: pridi v kombinezonu, pa ti nihče ne bo skušal prodat tistega, kar nočeš. Če pa si res drzen in bi rad živel polno življenje, obleci rdečo srajco in se sprehodi po Bauhausu. Poročila pošljite na Discord. 
-
-Vmes ugotovimo, da je nova plača ista kot stara, bencin pa je šel gor (za kar je seveda kriv Golob). Predlagamo tudi civilno iniciativo za ljudski nuklearni program: dva reaktorja na severnem in južnem tečaju, ki bi ju lahko sami pognali v luft, če se države, ki imajo jedrske konice začnejo zajebavati z raketami. Naj gre svet zares s tečajev! 
+Začuda se dotaknemo tudi knjige in ugotovimo, da je za izumiranje kapaka kriva menjava štafete: prvih par milijard let je imela evolucija stvari pod nadzorom in je šlo vse kar v redu, potem je zadnjih par tisoč let stopil zraven še bog in od takrat gre navzdol. Ubogi kakapo je čisto v redu shajal, dokler niso prišli v enačbo ljudje. Ugotovimo tudi, da je novi BRT pravzaprav baterijski avtobus, ki ga prodajajo kot tramvaj, in nestrpno čakamo prvo razglednico iz Bauhausa. 🚌
 
 {% include player.html %}
 {% include poslusaj.html %}
