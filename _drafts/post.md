@@ -1,36 +1,36 @@
 ---
-layout: 	post
-title:  	"Naša resnica je edina prava 💛"
-number: 	"#324 aka S07E52"
-categories:	epizode
-permalink:	/324/
-tagline: 	"Zdravo. Najprej je bil nič. Potem je bil veliki pok, mi pa se sprašujemo kateri dan je Bog naredil ptiče in ali je bil človek napaka ob koncu šihta."
-image:		/assets/img/324@2x.jpg
-cover:		/assets/img/cover/324 img@2x.png
-apple:		
-overcast:	
-podkite:	
-pocket:		
-google:		
-anchor:		
-listen:		
-youtube:	
-embed:		
-podfollow:	
-published:	false
-date: 		2026-08-09 06:00 +0200
-tags: [Zadnja priložnost, bog, Frozen, Let It Go, poletna shema, prihodnost, religija, resnica, stvarjenje sveta, umetna inteligenca, velika noč, veliki pok, Jezus, SDS, vročinski val]
+layout:   post
+title:    "Enga zmeraj lahko. 🍻"
+number:   "#325 aka S07E53"
+categories: epizode
+permalink:  /325/
+tagline:  "Zdravo. Tokrat začnemo pri enem, ki ga zmeraj lahko, nato pa skopljemo zemljanko, ugotovimo, da je blagajničar izgubil službo zaradi neponujenega sekundnega lepila, in v imenu znanosti testiramo, ali topli pir res hitreje zadane kot mrzel. "
+image:    /assets/img/325@2x.jpg
+cover:    /assets/img/cover/325 img@2x.png
+apple:    
+overcast: 
+podkite:  
+pocket:   
+google:   
+anchor:   
+listen:   
+youtube:  
+embed:    
+podfollow:  
+published:  false
+date:     2026-08-16 06:00 +0200
+tags: [Zadnja priložnost, alkoholiščine, delo, kvote, pivo, zemljanka]
 songoftheweek:
-  - artist: "Pankrti"
-    title: "Osmi dan"
-    youtube: ""
-    year: 1982
-    note: "Osmi dan je sicer že bil komad tedna, ampak ob razpravi o tem, kako je mladi Bog kreiral svet v šestih dneh in osmega zafukal, bi lahko bil še enkrat."
+  - artist: "Let 3"
+    title: "Mama ŠČ!"
+    youtube: "https://www.youtube.com/watch?v=hGuGfdEJ5Pw"
+    year: 2023
+    note: "Komad tedna z obilio šumniki, — š, č, najbrž se pa najde tudi kakšen ž. Primeren za vse vročinarke in vročinarje."
 ---
 
-Zdravo. Tokrat začnemo z opažanjem, da je kampiranje lahko naporno. Zjutraj greš po kruh, sosed ti ponudi travarico in dan je (lahko) hitro pri koncu. Rešitev je obisk kampa, kjer ne poznaš nikogar, namesto alkohola izbereš šport in si pravi Slovenec ali Slovenka. Vmes fantaziramo o bifeju ob koncu travnika z rostfrej šankom in tretjo mizo od šanka za goste, ter razložimo, kaj točno je L.O.J.Z. (lačen, osamljen, jezen, zmatran) in zakaj Satan nikoli ni zmatran. 
+Zdravo. Tokrat začnemo z ugotovitvijo, da enega zmeraj lahko, tudi če se potem ne spomniš več ... večera. V poglavju Douglas sanja o vozičku s pijačo, se prebudi na Novi Zelandiji in skupaj z Markom čakata birokratski žegen ministrstva za ohranitev živalskih vrst, preden se odpravita iskat kapaka. V zgodbo se vplete še Arab s psom Bossom, ki tujcev na svojem otoku ne mara pretirano.
 
-Začuda se dotaknemo tudi knjige in ugotovimo, da je za izumiranje kapaka kriva menjava štafete: prvih par milijard let je imela evolucija stvari pod nadzorom in je šlo vse kar v redu, potem je zadnjih par tisoč let stopil zraven še bog in od takrat gre navzdol. Ubogi kakapo je čisto v redu shajal, dokler niso prišli v enačbo ljudje. Ugotovimo tudi, da je novi BRT pravzaprav baterijski avtobus, ki ga prodajajo kot tramvaj, in nestrpno čakamo prvo razglednico iz Bauhausa. 🚌
+Za konec še eksperiment za vse, ki jih zanima omamna grenčica: ali topel pir res prej zadene kot mrzel? Poročila pričakujemo na Discordu, prosimo vsaj 42 poskusov. V imenu znanosti in neustavljivega napredka. 🍺
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -39,9 +39,26 @@ Začuda se dotaknemo tudi knjige in ugotovimo, da je za izumiranje kapaka kriva 
 
 #### Zapiski
  
-- 🍹 [Travarica](https://sl.wikipedia.org/wiki/Travarica) – dalmatinsko žganje z zelišči, ki ga v kampu ne moreš zavrniti, sploh če ti ga sosedje ponudijo že zjutraj, ti si pa že opravi vse, kar je bilo do takrat treba  
-- 🏖️ [Kamp Punat](https://kamp-punat.hr/sl/) – kamp na otoku Krku, kjer vas lahko sosed preseneti s travarico 
-- 🏍️ [Hells Angels](https://en.wikipedia.org/wiki/Hells_Angels) – najbolj znan motoristični klub, s katerim ekipa primerja slovensko različico: Satana (iz Satans Brothers), ki nikoli ni zmatran 
-- 🚌 [Bus rapid transit (BRT)](https://en.wikipedia.org/wiki/Bus_rapid_transit) – avtobusni sistem z ločenim voznim pasom, ki so ga po mnenju premnogih v Ljubljani predelali v baterijski avtobus in ga prodali kot nekaj posebnega pred volitvami 
-- 🎸 [Pink Floyd](https://en.wikipedia.org/wiki/Pink_Floyd) – legendarna britanska rock skupina, katere studijsko produkcijo v knjigi po Adamsovi primerjavi prekašajo zvočni valovi kakapa 
-- 🦜 [Kakapo](https://en.wikipedia.org/wiki/Kakapo) – novozelandska nočna papiga iz 4. poglavja Zadnje priložnosti, ki jo je evolucija pustila brez sposobnosti letenja, bog pa brez plenilcev, dokler niso prišli ljudje 
+- 🎵 [Let 3 - Mama ŠČ!](https://www.youtube.com/watch?v=hGuGfdEJ5Pw) – hrvaški bend, katerega komad je tokratni [#komadtedna](https://opravicujemo.se/komad-tedna/) zaradi obilja šumnikov in nenavadnih zlogov, primerno za vročinski val 
+- 🏛️ [Novozelandsko ministrstvo za ohranitev narave](https://en.wikipedia.org/wiki/Department_of_Conservation_(New_Zealand)) – ministrstvo, ki po Adamsovih besedah dokazuje, da Nova Zelandija nič ne zaostaja za Afriko, ko gre za birokracijo okoli ohranjanja živalskih vrst 
+
+#### ⏳ Časovni žigi
+
+⏳ Časovni žigi
+
+00:00:00 • Enga zmeri lohk' 🍻
+00:00:28 • Enga zmeri lohk
+00:02:58 • Zemljanka
+00:05:30 • Slavkov kotiček
+00:05:34 • Avizo
+00:05:58 • Intro
+00:07:28 • #komadtedna
+00:08:07 • V prejšni epizodi
+00:08:26 • Kvote
+00:11:37 • Kvarnik
+00:11:46 • 4. poglavje knjige Zadnja priložnost, devetič
+00:17:14 • Pečinaobešalnik
+00:19:02 • Omamna grenčica
+00:21:07 • Outro
+00:21:37 • Rad' se 'mejte
+

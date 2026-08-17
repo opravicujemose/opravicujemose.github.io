@@ -5,5 +5,5 @@ redirect_from:
 - /zadnja/
 - /instagram/
 - /ig/
-redirect_to: https://podfollow.com/opravicujemose/episode/8e3eb7b1e6ffa054a7105423c30ff1093b449971/view
+redirect_to: https://podfollow.com/opravicujemose/episode/e7cfc0cf3744b6cb0c0178999c3c08bfe92750cb/view
 ---
