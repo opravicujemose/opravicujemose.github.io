@@ -1,30 +1,39 @@
 ---
-layout:   post
-title:    "Epsteinov zaliv 🏝️"
-number:   "#326"
-categories: epizode
-permalink:  /326/
-tagline:  "Zdravo. Tokrat se spotaknemo ob idealno temperaturo piva, nato pa v Epsteinovem zalivu ugotovimo, da v njem ni dobro plavati, preden si pri Bangladešu izberemo parcelo za studio Republike 42. "
-image:    /assets/img/326@2x.jpg
-cover:    /assets/img/cover/326 img@2x.png
-apple:    
-overcast: 
-podkite:  
-pocket:   
-google:   
-anchor:   
-listen:   
-youtube:  
-embed:    
-podfollow:  
-published:  false
-date:     2026-08-22 06:00 +0200
-tags: [Zadnja priložnost, 42, Guinness Extra Cold, Nula Kelvina, Ivanka Trump, praštevilo, Albanija, Triglav vreme, Epsteinov zaliv, Jeffrey Epstein, pivo, hladno pivo]
+layout: 	post
+title:  	"Desni odklon ➡️"
+number: 	"#327 aka S07E55"
+categories:	epizode
+permalink:	/327/
+tagline: 	"Zdravo. Tokrat ugotovimo, da nam levičarji hočejo vzeti božič in ustanovimo Sindikat robotov, ker si tudi robot zasluži iti na Bled, ne pa cel dan garati v tovarni."
+image:		/assets/img/327@2x.jpg
+cover:		/assets/img/cover/327 img@2x.png
+apple:		
+overcast:	
+podkite:	
+pocket:		
+google:		
+anchor:		
+listen:		
+youtube:	
+embed:		
+podfollow:	
+published:	false
+date: 		2026-08-29 06:00 +0200
+tags: [Zadnja priložnost, teorije zarote, politika, Tit Andronik, roboti, kapitalizem, bog, Janez Janša, Jezus, psihologija, božič, katolištvo, Jonas, Karl Marx, ekonomija, prihodnost, samozadovoljevanje, klitoris]
+
+songoftheweek:
+  - artist: "Torpedo Marmorata"
+    title: "Cler Buster"
+    youtube: ""
+    year: 1990
+    note: "Peli je bil v 90. letih menedžer legendarnega blues metal benda, ki je predstavil demo ploščo na Radiu Študent. Vsaj dva komada sta tako v digitalnih arhivih in en je tokratni komad tedna." 
 ---
 
-Zdravo. Ker naše ideje pridejo direkt iz vesolja v drugo klet, bomo v bodoče tudi predigre objavljali za vse. Enakopravnost, pa to. Vmes izmerimo idealno temperaturo piva (5,55 °C oziroma 42 °F) in obžalujemo, da nas na fizikalne žure nikoli niso vabili. Preden se ujamemo v pogovoru o absolventih in letih, ko si prestar za mlajšo partnerko (partnerja), se pravočasno umaknemo iz Epsteinovega zaliva. 
+Zdravo. Ker so časi takšni, kot so, nas odnese v desno. Zi postane naš korespondent v novi rubriki "Novice z desnice", ugotovimo pa, da je teza, da vam bodo levičarji vzeli božič skopirana z največje desne TV mreže na svetu (Fox News), pa tudi, da je koncept božiča oz. praznovanja zimskega sončnega obrata bil znan mnogim kulturam pred krščanstvom in preden smo temu rekli božič. Tudi o samozadovoljevanju in pomoči Boga in o božjem delcu (ščegetavček, glej epizodo [Klitoralna pismenost](https://opravicujemo.se/270/)). 
 
-O knjigi zelo malo, Douglas in Mark končno prispeta na vrt in dobita čaj, mi pa ugotovimo, da bi bil v Grčiji na sporedu prej frape z ledom, šilce džina ali pivo za jutranji "hair of the dog". Vmes komentiramo Ivankino riviero pri Albaniji in ugotovimo, da je Triglav vreme najboljše vreme.
+V zgoraj predstavljeni rubriki obdelamo, kaj desnosučni tisk obdelal te dni in se spomnimo rekla, da ni vsak desničar kreten, če pa srečaš kretena, je pa ziher desničar. Vmes se spomnimo tudi legendarnega blues metal banda Torpeda Marmorate in Tita Andronika, ki ga je Jonas deklamiral na Radiu Študent pred mnogimi desetletji. 
+
+Za konec ustanovimo sindikat Robota, ker bo treba nekdo zastopati pravice robotov, preden bodo po postali depresivni kot Marvin. O knjigi tokrat nič.
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -33,10 +42,8 @@ O knjigi zelo malo, Douglas in Mark končno prispeta na vrt in dobita čaj, mi p
 
 #### Zapiski
  
-- 🍺 [Idealna temperatura piva](https://en.wikipedia.org/wiki/Beer#Serving) - po štoparsko je to 42 °F oziroma 5,55 °C 
-- ❄️ [Guinness Extra Cold](https://www.reddit.com/r/Guinness/comments/rqe0xs/extra_cold_vs_original_tempreture/) - bolj različica Guinnessa, ki se streže pri okoli 0 °C, baje je za nekatere problematična, ker pri tej temperaturi ne čutiš okusa 
-- 🔢 [Praštevilo](https://sl.wikipedia.org/wiki/Pra%C5%A1tevilo) - število, ki je deljivo le s samim sabo in z ena, kamor sodi tudi število pet
-- 🏝️ [Ivankin načrt za Albanijo](https://www.reuters.com/world/europe/albanian-opposition-protests-against-trump-family-linked-luxury-resort-plan-2025-05-13/) - družinski projekt Trupov, da iz neokrnjene narave sezidajo luksuzni resort na albanski obali, proti kateremu se Albanci upirajo ... in prav je tako 
-- 🌦️ [Triglav Vreme](https://vreme.triglav.si/) - vremenska aplikacija Zavarovalnice Triglav, ki uporablja podatke ARSO in ima po našem mnenju veliko boljši radarski prikaz kot vreme.si 
-- 🍹 [Frappé](https://en.wikipedia.org/wiki/Frapp%C3%A9_coffee) - grška ledena kavna pijača, spenjena s stresanjem espressa, sladkorja in ledu, ki bi jo Douglas Adams pil po prekrokani noči v Grčiji 
-- 🐕 [Hair of the dog](https://en.wikipedia.org/wiki/Hair_of_the_dog) - ljudsko zdravilo proti mačku z novim šilcem alkohola, ki po našem mnenju zares deluje (dokler pač ne) 
+- 🎄 [War on Christmas](https://en.wikipedia.org/wiki/War_on_Christmas) - Ameriška desničarska teorija zarote, ki jo Fox News vrti že desetletja in po kateri naj bi liberalci ukinili božič 
+- 📺 [Nova24TV](https://sl.wikipedia.org/wiki/Nova24TV) - Slovenska desna televizija in spletna stran, ki je primarni vir za našo novo rubriko Novice iz desnice 
+- 🎸 [Torpedo Marmorata](https://radiostudent.si/druzba/trakofilija/torpedo-marmorata) - Najboljši slovennski power blues metal bend iz 90ih. Na povezavi je na voljo za poslušanje še Harpoon Devil, Cler Buster pa je tokratni [#komadtedna](https://opravicujemo.se/komad-tedna/) (in ne Dwarf's Weep, kot je bivši menedžer narobe napovedal) 
+- 🎮 [Hitchhiker's Guide To The Galaxy](https://archive.org/details/HitchhikersGuideToTheGalaxyMacintosh) - interaktivna tekstovna pustolovščina po kultnem romanu Douglasa Adamsa (na voljo za prenos na Archive.org) 
+- 🎮 [Bureaucracy (1987)](https://archive.org/details/msdos_Bureaucracy_1987) - interaktivna tekstovna igra, katere kopijo najdete na Archive.org 
