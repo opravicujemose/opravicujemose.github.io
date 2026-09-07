@@ -1,39 +1,36 @@
 ---
-layout: 	post
-title:  	"Desni odklon ➡️"
-number: 	"#327 aka S07E55"
-categories:	epizode
-permalink:	/327/
-tagline: 	"Zdravo. Tokrat ugotovimo, da nam levičarji hočejo vzeti božič in ustanovimo Sindikat robotov, ker si tudi robot zasluži iti na Bled, ne pa cel dan garati v tovarni."
-image:		/assets/img/327@2x.jpg
-cover:		/assets/img/cover/327 img@2x.png
-apple:		
-overcast:	
-podkite:	
-pocket:		
-google:		
-anchor:		
-listen:		
-youtube:	
-embed:		
-podfollow:	
-published:	false
-date: 		2026-08-29 06:00 +0200
-tags: [Zadnja priložnost, teorije zarote, politika, Tit Andronik, roboti, kapitalizem, bog, Janez Janša, Jezus, psihologija, božič, katolištvo, Jonas, Karl Marx, ekonomija, prihodnost, samozadovoljevanje, klitoris]
-
+layout:   post
+title:    "Pripizdina 🚧"
+number:   "#328 aka S07E56"
+categories: epizode
+permalink:  /328/
+tagline:  "Zdravo. Tokrat od balkonov brez ograj do pripizdine, kjer boš dobil hišno številko šele, ko boš ograjo imel dejansko na balkonu, ker njeno dejansko prisotnost preverijo droni."
+image:    /assets/img/328@2x.jpg
+cover:    /assets/img/cover/328 img@2x.png
+apple:    
+overcast: 
+podkite:  
+pocket:   
+google:   
+anchor:   
+listen:   
+youtube:  
+embed:    
+podfollow:  
+published:  false
+date:     2026-09-06 06:00 +0200
+tags: [Zadnja priložnost, Aristotel, Balkan, bela stavka, blokovska stanovanja, ChatGPT, DARS, Darwinove nagrade, dobre novice, Donald Trump, dopust, korporacije, korupcija, ograje, otroštvo, Pelicon, propaganda, RTV Slovenija, samovozeči avtomobili, sindikati, Star Wars, starševstvo, stavka, umetna inteligenca, univerzalni temeljni dohodek, varnost pri delu, vrtci, šolski sistem]
 songoftheweek:
-  - artist: "Torpedo Marmorata"
-    title: "Cler Buster"
-    youtube: ""
-    year: 1990
-    note: "Peli je bil v 90. letih menedžer legendarnega blues metal benda, ki je predstavil demo ploščo na Radiu Študent. Vsaj dva komada sta tako v digitalnih arhivih in en je tokratni komad tedna." 
+  - artist: "Marko Brecelj"
+    title: "Parada"
+    youtube: "https://www.youtube.com/watch?v=xvtKOxBy-jw"
+    year: 1981
+    note: "Ko je debata nanesla na drone, s katerimi pri nas preverjajo ograje na balkonih, je Aleš ugotovil, da to ni Ukrajina ali Rusija — pridejo <i>naši</i>. In naši gredo v prvi vrsti."
 ---
 
-Zdravo. Ker so časi takšni, kot so, nas odnese v desno. Zi postane naš korespondent v novi rubriki "Novice z desnice", ugotovimo pa, da je teza, da vam bodo levičarji vzeli božič skopirana z največje desne TV mreže na svetu (Fox News), pa tudi, da je koncept božiča oz. praznovanja zimskega sončnega obrata bil znan mnogim kulturam pred krščanstvom in preden smo temu rekli božič. Tudi o samozadovoljevanju in pomoči Boga in o božjem delcu (ščegetavček, glej epizodo [Klitoralna pismenost](https://opravicujemo.se/270/)). 
+Zdravo. Tokrat začnemo v pripizdini (nekoč vukojebina) in debatiramo o ograjah (na balkonih) in o ograjah (v glavi), o zaklepanju vrat in o poročilih, ki bi morala biti vsaj ob torkih samo dobra ([o dobrih novicah](https://opravicujemo.se/tag/dobre-novice/) smo že govorili). Seveda se spotoma spomnimo tudi na reševanje RTV Slovenija, ne pozabimo pa tudi na parade, ki bi jih mogli ogranizirati ob vseh večjih dosežkih naše družbe. 
 
-V zgoraj predstavljeni rubriki obdelamo, kaj desnosučni tisk obdelal te dni in se spomnimo rekla, da ni vsak desničar kreten, če pa srečaš kretena, je pa ziher desničar. Vmes se spomnimo tudi legendarnega blues metal banda Torpeda Marmorate in Tita Andronika, ki ga je Jonas deklamiral na Radiu Študent pred mnogimi desetletji. 
-
-Za konec ustanovimo sindikat Robota, ker bo treba nekdo zastopati pravice robotov, preden bodo po postali depresivni kot Marvin. O knjigi tokrat nič.
+Tudi o hoji v šolo, hoji v šoli, umetni inteligenci, ki bo morala delati za naše plače in o tegobah obveznega 42 dni trajajočega letnega dopusta. Za konec napovemo belo stavko: na šiht pridemo, opomine pišemo, kazni pa ne. Ker imamo obvezo do poslušalcev. Pa tudi zato, ker plače že šest let ni bilo. ✊
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -42,8 +39,10 @@ Za konec ustanovimo sindikat Robota, ker bo treba nekdo zastopati pravice roboto
 
 #### Zapiski
  
-- 🎄 [War on Christmas](https://en.wikipedia.org/wiki/War_on_Christmas) - Ameriška desničarska teorija zarote, ki jo Fox News vrti že desetletja in po kateri naj bi liberalci ukinili božič 
-- 📺 [Nova24TV](https://sl.wikipedia.org/wiki/Nova24TV) - Slovenska desna televizija in spletna stran, ki je primarni vir za našo novo rubriko Novice iz desnice 
-- 🎸 [Torpedo Marmorata](https://radiostudent.si/druzba/trakofilija/torpedo-marmorata) - Najboljši slovennski power blues metal bend iz 90ih. Na povezavi je na voljo za poslušanje še Harpoon Devil, Cler Buster pa je tokratni [#komadtedna](https://opravicujemo.se/komad-tedna/) (in ne Dwarf's Weep, kot je bivši menedžer narobe napovedal) 
-- 🎮 [Hitchhiker's Guide To The Galaxy](https://archive.org/details/HitchhikersGuideToTheGalaxyMacintosh) - interaktivna tekstovna pustolovščina po kultnem romanu Douglasa Adamsa (na voljo za prenos na Archive.org) 
-- 🎮 [Bureaucracy (1987)](https://archive.org/details/msdos_Bureaucracy_1987) - interaktivna tekstovna igra, katere kopijo najdete na Archive.org 
+- 🎬 [Star Wars ograje](https://www.reddit.com/r/StarWars/comments/8gcx45/why_dont_they_have_railings_in_star_wars/) – kultna filmska saga, kjer napredna galaktična civilizacija nikakor ne zmore postaviti ograj ob prepadih in reaktorjih 
+- 🏆 [Darwin Awards](https://darwinawards.com/) – priznanja za tiste, ki si z izjemno neumnostjo prostovoljno odstranijo gene iz genskega bazena, pogosto zaradi plezanja čez ograje ali selfijev 
+- 🌉 [Nova brv čez severno obvoznico pri Dravljah](https://www.dars.si/) – nova brv z visokimi ograjami, ki nadomešča staro brv, kjer je bila ograja komaj do bokov 
+- 🖋️ [Pelikan nalivna peresa](https://www.pelikan.com/) – Pelijeva izbira nalivnih peres, ki jih redno kupuje in občasno tudi izgubi 
+- 🏛️ [Peripatetična šola](https://en.wikipedia.org/wiki/Peripatetic_school) – Aristotelova metoda poučevanja med sprehajanjem, kjer se učenci učijo v gibanju na svežem zraku, kot idealna alternativa deseturnim šolskim dnevom 
+- 🤖 [Univerzalni temeljni dohodek](https://sl.wikipedia.org/wiki/Univerzalni_temeljni_dohodek) – koncept, ki bi lahko po ekipini ideji postal ATD (avtomatski temeljni dohodek), ko bo za naše pokojnine delala umetna inteligenca 
+- 👮 [Bela stavka](https://sl.wikipedia.org/wiki/Stavka) – oblika protesta, kjer delavci prihajajo v službo in delajo profesionalno, a opozarjajo na svoje zahteve, edina možnost za OPR ekipo, ki ima obvezo do poslušalcev 
