@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Kapitalizem je kult 🕯️"
-number: 	"#331 aka S07E59"
+title:  	"Trnova pot herojev 🦸"
+number: 	"#332 aka S07E60"
 categories:	epizode
-permalink:	/331/
-tagline: 	"Zdravo. Tokrat (spet) ugotovimo, da so Bog, Jahve in Alah v resnici vsi isti Bog, razmišljamo, ali bi Štoparski vodnik po galaksiji lahko postal nova Biblija in se strinjamo, da je kapitalizem kult"
-image:		/assets/img/331@2x.jpg
-cover:		/assets/img/cover/331 img@2x.png
+permalink:	/332/
+tagline: 	"Zdravo. Tokrat ugotovimo, da vsi radi navijamo za barabe, če so le karizmatični, predlagamo preimenovanje vrste Homo Sapiens v Homo Emoticus, se čez Kongove hribe podamo na trnovo pot herojev in se strinjamo, da je treba iti volit."
+image:		/assets/img/332@2x.jpg
+cover:		/assets/img/cover/332 img@2x.png
 apple:		
 overcast:	
 podkite:	
@@ -18,13 +18,13 @@ youtube:
 embed:		
 podfollow:	
 published:	false
-date: 		2026-09-27 06:00 +0200
-tags: [Zadnja priložnost, 4000 tednov, ateizem, Baiji, Biblija, Bog, Charles Bukowski, kapitalizem, katolištvo, Kitajska, napredek, New York, oglaševanje, prosti čas, religija, Renault Clio, roboti, socializem, suženjstvo, šolstvo, tehnologija, univerzalni temeljni dohodek, vera, ZDA, zdravstvo, Zohran Mamdani]
+date: 		2026-10-04 06:00 +0200
+tags: [Zadnja priložnost, Captain Phillips, demokracija, družabna omrežja, Janez Janša, kolonializem, Kongove gore, kult osebnosti, Kurt Vonnegut, Leonardo DiCaprio, Mao Zedong, Marilyn Manson, mediji, pirati, politika, populizem, preverjanje, referendumi, struktura zgodb, Tom Hanks, Triglav, Volk z Wall Streeta, zeleni prehod]
 ---
 
-Zdravo. Tokrat se v hladnem odpiraču vprašamo: "Kam naprej?" ... naj nadaljujemo s knjigo *Zadnja priložnost*, naj se vsedem za [tretjo mizo od šanka](https://opravicujemo.se/316/) ali naj gremo v branje Svetega pisma? Vaše odgovore pričakujemo na naš dobro znani naslov ali [našem Discordu](https://discord.com/channels/869910489801572362/899738568208039957).
+Zdravo. Tokrat začnemo z ugotovitvijo, da imajo ljudje najraje zgodbe, kjer junak začne na dnu, se povzpne, pade in se spet pobere in na koncu zmaga v velikem triumfu. Zato bi morali zamenjati ime našega rodu v Homo Emoticus. Ker se veliko bolj "palimo" na emocije, kot na razum. 
 
-Rečemo bobu Bob, sprašujemo se če Boga (oz [vsemogočnega Boba](https://opravicujemo.se/172/)) še vedno potrebujemo, medtem ko se sprašujemo, zakaj se za krščanstvo odloča vse več mladih fantov. Vmes tudi o borznem odrekanju, Kitajski včeraj in danes, delfinih in kapitalizmu. 
+Ugotovimo, da je za večino gorja na svetu kriv beli človek, ne samo v Evropi in da je treba to nedeljo na volišča, sploh glede na to, da napovedujemo vrnitev rumeno modrih rutk, pionirjev in parad. Zeleni prehod se je medtem naredil kar sam, ker se naftni derivati dražijo kot nori. Drug' teden gremo na Kitajsko. 🚩
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -33,10 +33,11 @@ Rečemo bobu Bob, sprašujemo se če Boga (oz [vsemogočnega Boba](https://oprav
 
 #### Zapiski
  
-- 🚗 [Renault Clio reklama "The Test Drive"](https://www.youtube.com/watch?v=W3PYUOReVfg) - kultna reklama, kjer prodajalec dokaže, da ne moreš voditi firme deset let naprej, če voziš avto deset let nazaj 
-- 📖 [Charles Bukowski](https://en.wikipedia.org/wiki/Charles_Bukowski) - ameriški pisatelj, ki je ugotovil, da suženjstvo ni bilo nikoli odpravljeno, samo razširjeno na vse rase 
-- 💸 [Seznam držav in njihovih dolgov](https://en.wikipedia.org/wiki/List_of_countries_by_government_debt) - pregled tega, koliko so zadolžene države sveta, od rekorderjev do tistih z bolj urejenimi javnimi financami 
-- ⏳ [Four Thousand Weeks](https://www.oliverburkeman.com/books) - knjiga Oliverja Burkemana o tem, da imamo v življenju približno 4000 tednov in si moramo izbrati, čemu se bomo posvetili 
-- 🗽 [Zohran Mamdani](https://en.wikipedia.org/wiki/Zohran_Mamdani) - novoizvoljeni newyorški župan, ki je Američane presenetil z idejo, da bi lahko določene storitve bile brezplačne 
-- 🤖 [Unitree kitajski humanoidni roboti](https://www.unitree.com/) - kitajski roboti, ki skačejo gor pa dol pa levo pa desno in kažejo, kako smo mi še 20 let od zadaj 
-- 🐬 [Baiji, kitajski rečni delfin](https://en.wikipedia.org/wiki/Baiji) - delfin iz reke Jangce, ki so ga nazadnje zanesljivo videli pred desetletji in velja za funkcionalno izumrlega 
+- 📖 [Kurt Vonnegut o obliki zgodb](https://www.youtube.com/watch?v=oP3c1h8v2ZQ) - ameriški pisatelj je razlagal, zakaj linearnih zgodb nihče ne mara in zakaj je krivulja "gor-dol-gor" (hero's journey) tista, ki prodaja.
+- 🔫 [Reševanje kapitana Phillipsa — operacija Navy SEALs](https://en.wikipedia.org/wiki/Maersk_Alabama_hijacking) - trije snajperisti so simultano ustrelili tri somalijske pirate, ameriški davkoplačevalci so plačali operacijo za reševanje zasebne ladjarske družbe.
+- 🗺️ [Kongove gore (Mountains of Kong)](https://en.wikipedia.org/wiki/Mountains_of_Kong) - izmišljeno gorovje v zahodni Afriki, ki je bilo na zemljevidih skoraj 100 let, ker ga je nek kartograf prerisal od drugega, ki je prerisal od tipa z marelami in "top hatom".
+- 🏔️ [Prvi vzpon na Triglav](https://sl.wikipedia.org/wiki/Triglav#Zgodovina_vzponov) - leta 1778 so bili prvi plezalci po mnenju domačinov v gostilnah pod hribom pač čudaki, ki jim ni bilo treba gor riniti.
+- 💰 [Trumpova obljuba 5000 dolarjev Američanom](https://eu.usatoday.com/story/news/politics/2026/09/12/trump-5000-dividend-checks-midterms/91729708007/) - Trump obljublja vsakemu polnoletnemu Američanu 5 tisočakov, če republikanci zmagajo volitvah, kar seveda ni socializem, ampak "nagrada" za domoljubje 
+- ⛪ [Hélder Câmara o revnih in o komunizmu](https://en.wikipedia.org/wiki/H%C3%A9lder_C%C3%A2mara) - brazilski nadškof, ki je rekel: "Ko dam revnim hrano, me kličejo svetnik. Ko vprašam, zakaj so revni, me kličejo komunist."
+- 🚢 [The Real Maersk Alabama/Somali Pirate story (Never seen before footage)](https://www.youtube.com/watch?v=rMvGIqa-ZlM) - resnična zgodba o reševanju kapitana Phillipsa
+- 🚩 [Referendumi 2026](https://www.rtvslo.si/slovenija/referendumi-2026) - štirje referendumi v letu 2026, kaj vse nas čaka na voliščih, preverite na portalu RTV Slovenija (ker oni zagotovo bolj vedo, kot Nova 24 TV, kjer letošnjih referendumov "ne pokrivajo") 
