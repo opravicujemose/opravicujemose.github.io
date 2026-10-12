@@ -1,12 +1,12 @@
 ---
 layout: 	post
-title:  	"Trnova pot herojev 🦸"
-number: 	"#332 aka S07E60"
+title:  	"Darwin, visoke pete in konec sveta 👠"
+number: 	"#333 aka S07E61"
 categories:	epizode
-permalink:	/332/
-tagline: 	"Zdravo. Tokrat ugotovimo, da vsi radi navijamo za barabe, če so le karizmatični, predlagamo preimenovanje vrste Homo Sapiens v Homo Emoticus, se čez Kongove hribe podamo na trnovo pot herojev in se strinjamo, da je treba iti volit."
-image:		/assets/img/332@2x.jpg
-cover:		/assets/img/cover/332 img@2x.png
+permalink:	/333/
+tagline: 	"Zdravo. Tokrat med dvojnimi zapornicami v Mercatorju razglabljamo o ovcah in ovčarjih, kitajskem komunizmu, desnih komikih, Jezusu in visokih petah, nato pa še o furryjih, zmagovalcih referendumov, izumrlih rečnih delfinih in koncu sveta."
+image:		/assets/img/333@2x.jpg
+cover:		/assets/img/cover/333 img@2x.png
 apple:		
 overcast:	
 podkite:	
@@ -18,13 +18,20 @@ youtube:
 embed:		
 podfollow:	
 published:	false
-date: 		2026-10-04 06:00 +0200
-tags: [Zadnja priložnost, Captain Phillips, demokracija, družabna omrežja, Janez Janša, kolonializem, Kongove gore, kult osebnosti, Kurt Vonnegut, Leonardo DiCaprio, Mao Zedong, Marilyn Manson, mediji, pirati, politika, populizem, preverjanje, referendumi, struktura zgodb, Tom Hanks, Triglav, Volk z Wall Streeta, zeleni prehod]
+date: 		2026-10-11 06:00 +0200
+tags: [Zadnja priložnost, Baiji, Charles Darwin, Don’t Look Up, izumrtje, Jezus, kapitalizem, Karantanija, Kitajska, komunizem, konec sveta, Kulturna revolucija, Leapmotor, Mao Zedong, Noriško kraljestvo, referendumi, socializem, umetna inteligenca, Veliki skok naprej, visoke pete]
+cover_hint:	kitajska, kluturni
+songoftheweek:
+  - artist: "Frane Milčinski - Ježek"
+    title: "Darwin nima prav"
+    youtube: "https://www.youtube.com/watch?v=5ffXCf3pH5w"
+    year: 1974
+    note: "Ježkov komad, ki govori o tem, da Darwin nima prav. Čeprav največkrat ima."
 ---
 
-Zdravo. Tokrat začnemo z ugotovitvijo, da imajo ljudje najraje zgodbe, kjer junak začne na dnu, se povzpne, pade in se spet pobere in na koncu zmaga v velikem triumfu. Zato bi morali zamenjati ime našega rodu v Homo Emoticus. Ker se veliko bolj "palimo" na emocije, kot na razum. 
+Zdravo. Za začete se prebijemo mimo dvojnih zapornic v Mercatorju in ugotovimo, da desnih komikov preprosto ni, ker se ne znajo delati norca iz sebe in svojih. Spomnimo, da so visoke pete prvotno nosili moški in da se gležnji očitno ne smejo videti, razen doma. Vmes zmagamo vse referendume, furryji bi potrebovali svoj kamp (v Belgiji, ker pri nas poleti crkneš v kostumu), povemo pa da napis na dekaracijah "ne vsebuje delfinov" še ne pomeni, da je delfin preživel. 
 
-Ugotovimo, da je za večino gorja na svetu kriv beli človek, ne samo v Evropi in da je treba to nedeljo na volišča, sploh glede na to, da napovedujemo vrnitev rumeno modrih rutk, pionirjev in parad. Zeleni prehod se je medtem naredil kar sam, ker se naftni derivati dražijo kot nori. Drug' teden gremo na Kitajsko. 🚩
+Končno gremo na Kitajsko. Douglas je tja leta 1988 potoval z letalom, mi pa primerjamo Kitajsko nekoč (Mao, veliki skok naprej) in danes, ter med preletom ugotovimo, da rečnega delfina od leta 2006 nihče več ni videl. Za konec pa še: nobelovec pravi, da imamo morda samo še 50 let. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -33,11 +40,14 @@ Ugotovimo, da je za večino gorja na svetu kriv beli človek, ne samo v Evropi i
 
 #### Zapiski
  
-- 📖 [Kurt Vonnegut o obliki zgodb](https://www.youtube.com/watch?v=oP3c1h8v2ZQ) - ameriški pisatelj je razlagal, zakaj linearnih zgodb nihče ne mara in zakaj je krivulja "gor-dol-gor" (hero's journey) tista, ki prodaja.
-- 🔫 [Reševanje kapitana Phillipsa — operacija Navy SEALs](https://en.wikipedia.org/wiki/Maersk_Alabama_hijacking) - trije snajperisti so simultano ustrelili tri somalijske pirate, ameriški davkoplačevalci so plačali operacijo za reševanje zasebne ladjarske družbe.
-- 🗺️ [Kongove gore (Mountains of Kong)](https://en.wikipedia.org/wiki/Mountains_of_Kong) - izmišljeno gorovje v zahodni Afriki, ki je bilo na zemljevidih skoraj 100 let, ker ga je nek kartograf prerisal od drugega, ki je prerisal od tipa z marelami in "top hatom".
-- 🏔️ [Prvi vzpon na Triglav](https://sl.wikipedia.org/wiki/Triglav#Zgodovina_vzponov) - leta 1778 so bili prvi plezalci po mnenju domačinov v gostilnah pod hribom pač čudaki, ki jim ni bilo treba gor riniti.
-- 💰 [Trumpova obljuba 5000 dolarjev Američanom](https://eu.usatoday.com/story/news/politics/2026/09/12/trump-5000-dividend-checks-midterms/91729708007/) - Trump obljublja vsakemu polnoletnemu Američanu 5 tisočakov, če republikanci zmagajo volitvah, kar seveda ni socializem, ampak "nagrada" za domoljubje 
-- ⛪ [Hélder Câmara o revnih in o komunizmu](https://en.wikipedia.org/wiki/H%C3%A9lder_C%C3%A2mara) - brazilski nadškof, ki je rekel: "Ko dam revnim hrano, me kličejo svetnik. Ko vprašam, zakaj so revni, me kličejo komunist."
-- 🚢 [The Real Maersk Alabama/Somali Pirate story (Never seen before footage)](https://www.youtube.com/watch?v=rMvGIqa-ZlM) - resnična zgodba o reševanju kapitana Phillipsa
-- 🚩 [Referendumi 2026](https://www.rtvslo.si/slovenija/referendumi-2026) - štirje referendumi v letu 2026, kaj vse nas čaka na voliščih, preverite na portalu RTV Slovenija (ker oni zagotovo bolj vedo, kot Nova 24 TV, kjer letošnjih referendumov "ne pokrivajo") 
+- 🚩 [Mao Zedong](https://en.wikipedia.org/wiki/Mao_Zedong) - kitajski voditelj, ki je po mnenju ekipe popeljal Kitajsko na "lepše" kljub vsem izgubam in kolateralni škodi
+- 📉 [Veliki skok naprej](https://en.wikipedia.org/wiki/Great_Leap_Forward) - Maojev program industrializacije iz konca 50. let, ki je povzročil katastrofalno lakoto
+- 🚩 [Kulturna revolucija](https://en.wikipedia.org/wiki/Cultural_Revolution) - Maojeva kampanja od 1966, ki je bila po besedah v epizodi "grozna"
+- 🌍 [Karantanija](https://sl.wikipedia.org/wiki/Karantanija) - zgodovinska slovanska kneževina, ki se v šali razteza "do Salzburga"
+- 🗺️ [Noriško kraljestvo](https://en.wikipedia.org/wiki/Noricum) - antično kraljestvo na območju današnje Avstrije in Slovenije, omenjeno v šali o slovenskih mejah
+- 🦊 [Furry fandom](https://en.wikipedia.org/wiki/Furry_fandom) - subkultura, kjer se ljudje oblačijo v živalske kostume, tudi ko je poleti 35 stopinj
+- 👠 [Visoke pete](https://en.wikipedia.org/wiki/High_heels) - prvi so jih nosili moški zaradi jahanja s stremeni, kasneje pa so jih prevzele ženske 
+- 🐬 [Baiji](https://en.wikipedia.org/wiki/Baiji) - kitajski rečni delfin iz reke Jangce, ki velja za funkcionalno izumrlo vrsto, glavna tema epizode  
+- 📖 [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) - angleški naravoslovec, ki po ekipinem mnenju "nima prav", a je vseeno preživel 
+- 🚗 [Leapmotor](https://en.wikipedia.org/wiki/Leapmotor) - kitajski proizvajalec električnih avtomobilov, ki ekipo vsakič spomni na Veliki skok naprej 
+- 🎬 [Don't Look Up](https://en.wikipedia.org/wiki/Don%27t_Look_Up) - film, ki ga morate pogledati, če ga še niste  
