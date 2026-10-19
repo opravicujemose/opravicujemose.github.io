@@ -1,37 +1,37 @@
 ---
-layout: 	post
-title:  	"Darwin, visoke pete in konec sveta 👠"
-number: 	"#333 aka S07E61"
-categories:	epizode
-permalink:	/333/
-tagline: 	"Zdravo. Tokrat med dvojnimi zapornicami v Mercatorju razglabljamo o ovcah in ovčarjih, kitajskem komunizmu, desnih komikih, Jezusu in visokih petah, nato pa še o furryjih, zmagovalcih referendumov, izumrlih rečnih delfinih in koncu sveta."
-image:		/assets/img/333@2x.jpg
-cover:		/assets/img/cover/333 img@2x.png
-apple:		
-overcast:	
-podkite:	
-pocket:		
-google:		
-anchor:		
-listen:		
-youtube:	
-embed:		
-podfollow:	
-published:	false
-date: 		2026-10-11 06:00 +0200
-tags: [Zadnja priložnost, Baiji, Charles Darwin, Don’t Look Up, izumrtje, Jezus, kapitalizem, Karantanija, Kitajska, komunizem, konec sveta, Kulturna revolucija, Leapmotor, Mao Zedong, Noriško kraljestvo, referendumi, socializem, umetna inteligenca, Veliki skok naprej, visoke pete]
-cover_hint:	kitajska, kluturni
+layout:   post
+title:    "Preživetje v naravi 🏕️"
+number:   "#334 aka S07E62"
+categories: epizode
+permalink:  /334/
+tagline:  "Zdravo. Tokrat sestavimo domoljubno himno, zmanjšamo poslanske plače, preverimo preživetje v naravi, rezerviste in AK-47, nato pa prek novih POP paketov odpotujemo na predindustrializirano Kitajsko, kjer iščemo delfine in peto poglavje Zadnje priložnosti."
+image:    /assets/img/334@2x.jpg
+cover:    /assets/img/cover/334 img@2x.png
+apple:    
+overcast: 
+podkite:  
+pocket:   
+google:   
+anchor:   
+listen:   
+youtube:  
+embed:    
+podfollow:  
+published:  false
+date:     2026-10-18 06:00 +0200
+tags: [Zadnja priložnost, AK-47, Baiji, Douglas Adams, Eksodus, festival domoljubnih pesmi, Festival slovenskega filma, Gustavo Dudamel, hidroelektrarna, hvalazavseribe.si, Jan Plestenjak, Kitajska, Kitajski zid, oglaševanje, podpora poslušalcev, preživetje v naravi, retrogradni Merkur, Richard Clayderman, služenje vojaškega roka, Three Gorges Dam]
+cover_hint: preživetje v naravi v nekaj sličicah, prižiganje ognja, priprava bivaka, lovljenje divjih zveri, nabiranje rastlin
 songoftheweek:
-  - artist: "Frane Milčinski - Ježek"
-    title: "Darwin nima prav"
-    youtube: "https://www.youtube.com/watch?v=5ffXCf3pH5w"
-    year: 1974
-    note: "Ježkov komad, ki govori o tem, da Darwin nima prav. Čeprav največkrat ima."
+  - artist: "\"Weird\" Al Yankovic"
+    title: "Amish Paradise"
+    youtube: "https://www.youtube.com/watch?v=lOfZLb33uCg"
+    year: 1996
+    note: "Weird Alova priredba legendega štiklca Gangsta's Paradise, ki namesto o gangsterjih in njih paradižu govori o Amiših."
 ---
 
-Zdravo. Za začete se prebijemo mimo dvojnih zapornic v Mercatorju in ugotovimo, da desnih komikov preprosto ni, ker se ne znajo delati norca iz sebe in svojih. Spomnimo, da so visoke pete prvotno nosili moški in da se gležnji očitno ne smejo videti, razen doma. Vmes zmagamo vse referendume, furryji bi potrebovali svoj kamp (v Belgiji, ker pri nas poleti crkneš v kostumu), povemo pa da napis na dekaracijah "ne vsebuje delfinov" še ne pomeni, da je delfin preživel. 
+Zdravo. Tokrat začnemo z domoljubnimi idejami, s katerimi bi "za Slovenijo" znižali št. poslancev na absolutno nujni minimum in tistim, ki bi ostali, bistveno znižali plače. Ker gre za Slovenijo! Točno iz tega razloga pridemo na idejo za komad "V službi domovine". Potem pa preskočimo na rezerviste, AK-47 in se pogovarjamo o veščinah prihodnost, kamor zagotovo spada tudi preživetje v naravi. 
 
-Končno gremo na Kitajsko. Douglas je tja leta 1988 potoval z letalom, mi pa primerjamo Kitajsko nekoč (Mao, veliki skok naprej) in danes, ter med preletom ugotovimo, da rečnega delfina od leta 2006 nihče več ni videl. Za konec pa še: nobelovec pravi, da imamo morda samo še 50 let. 
+Mimo retrogradnega Merkurja in novih paketov na hvalazavseribe.si se posvetimo tudi 5. poglavju knjige, v kateri se naši pustolovci znajdejo v predindustrializirani Kitajski, kjer obiščejo Peking in se odpravijo Šanghaj. Profesorja Zhuja še ne ve, da prihajajo delfini, ki so več kot očitno izumrli, pa tudi ne. Vse to v imenu neustavljivega napredka.
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -40,14 +40,14 @@ Končno gremo na Kitajsko. Douglas je tja leta 1988 potoval z letalom, mi pa pri
 
 #### Zapiski
  
-- 🚩 [Mao Zedong](https://en.wikipedia.org/wiki/Mao_Zedong) - kitajski voditelj, ki je po mnenju ekipe popeljal Kitajsko na "lepše" kljub vsem izgubam in kolateralni škodi
-- 📉 [Veliki skok naprej](https://en.wikipedia.org/wiki/Great_Leap_Forward) - Maojev program industrializacije iz konca 50. let, ki je povzročil katastrofalno lakoto
-- 🚩 [Kulturna revolucija](https://en.wikipedia.org/wiki/Cultural_Revolution) - Maojeva kampanja od 1966, ki je bila po besedah v epizodi "grozna"
-- 🌍 [Karantanija](https://sl.wikipedia.org/wiki/Karantanija) - zgodovinska slovanska kneževina, ki se v šali razteza "do Salzburga"
-- 🗺️ [Noriško kraljestvo](https://en.wikipedia.org/wiki/Noricum) - antično kraljestvo na območju današnje Avstrije in Slovenije, omenjeno v šali o slovenskih mejah
-- 🦊 [Furry fandom](https://en.wikipedia.org/wiki/Furry_fandom) - subkultura, kjer se ljudje oblačijo v živalske kostume, tudi ko je poleti 35 stopinj
-- 👠 [Visoke pete](https://en.wikipedia.org/wiki/High_heels) - prvi so jih nosili moški zaradi jahanja s stremeni, kasneje pa so jih prevzele ženske 
-- 🐬 [Baiji](https://en.wikipedia.org/wiki/Baiji) - kitajski rečni delfin iz reke Jangce, ki velja za funkcionalno izumrlo vrsto, glavna tema epizode  
-- 📖 [Charles Darwin](https://en.wikipedia.org/wiki/Charles_Darwin) - angleški naravoslovec, ki po ekipinem mnenju "nima prav", a je vseeno preživel 
-- 🚗 [Leapmotor](https://en.wikipedia.org/wiki/Leapmotor) - kitajski proizvajalec električnih avtomobilov, ki ekipo vsakič spomni na Veliki skok naprej 
-- 🎬 [Don't Look Up](https://en.wikipedia.org/wiki/Don%27t_Look_Up) - film, ki ga morate pogledati, če ga še niste  
+- 🎬 [Eksodus (Exodus)](https://www.rtvslo.si/kultura/film/eksodus/748393) - slovenski film režiserja Petra Bratuše, ki se ni uvrstil na tekmovalni del portoroškega festivala 
+- 🎭 [Festival slovenskega filma](https://www.fsf.si/) - festival v Portorožu, ki ga je kulturna ministrica Asta Vrečko bojkotirala, ker Eksodus ni bil uvrščen v tekmovalni program 
+- 🎵 [Festival slovenske domoljubne pesmi Mati Domovina](https://sl.wikipedia.org/wiki/Festival_slovenske_domoljubne_pesmi_Mati_Domovina) - festival, kamor predlagamo svoj novi hit "V službi domovine" z lončenim basom in harmoniko, saj zahteva zgolj dvočetrtinski ritem in domoljubno vznesenost 
+- 📺 [Pro Plus oglasna strategija](https://www.pop-tv.si/) - kabelski operaterji za 5 EUR na program, prepoved preskakovanja oglasov, in vse smo mirno požrli 
+- 🏕️ [Luka Novak - zmagovalec Alone](https://www.rtvslo.si/sport/druge-novice/kocevski-pustolovec-luka-novak-zmagovalec-sove-devete-sezone-alone/711743) - Kočevar, ki je zmagal na preživetveni oddaji v tundri, kot primer, kaj se da doseči, če res znaš preživeti v naravi 
+- 🥶 [Three Gorges Dam](https://en.wikipedia.org/wiki/Three_Gorges_Dam) - največja hidroelektrarna na svetu, ki je v obratovanje stopila leta 2003 in dokončno zapečatila usodo rečnega delfina baiji v Jangceju 
+- 🏛️ [Trg nebeškega miru (Tiananmen)](https://en.wikipedia.org/wiki/Tiananmen_Square) - največji trg na svetu v Pekingu, ki sta ga Adams in Carwardine obiskala le nekaj mesecev pred znamenitimi tanki 
+- 🧱 [Kitajski zid](https://sl.wikipedia.org/wiki/Kitajski_zid) - večkrat dozidan, doštukan in ponekod razgrajen za gradbeni material, danes pa služi predvsem za vožnjo turistov na eno in isto točko s stojnicami spominkov "made in China" 
+- 🎻 [Gustavo Dudamel](https://en.wikipedia.org/wiki/Gustavo_Dudamel) - venezuelski dirigent, ki je prevzel njujorško filharmonijo 
+- 🎼 [New York Philharmonic - Seven Nation Army](https://www.youtube.com/watch?v=0J2QdDbelmY) - njujorška filharmonija je na evropski turneji odigrala kultni komad The White Stripes 
+- 🎸 [Richard Clayderman](https://en.wikipedia.org/wiki/Richard_Clayderman) - francoski pianist, ki je bil ozvočenje Trga nebeškega miru v 80ih in ki ga je kupovala tudi Aljova mama, ker je bil pač takrat moderen 
