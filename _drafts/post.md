@@ -1,32 +1,32 @@
 ---
-layout:   post
-title:    "November bo, ne da se delat 🐯"
-number:   "#335"
-categories: epizode
-permalink:  /335/
-tagline:  "Zdravo. Tokrat ugotovimo, da so psihološki problemi luksuz srednjega (ali višjih) razredov, se lotimo minimalnih penzij in edinega komunista v evropskem parlamentu, nato pa razglasimo, da se novembra ne da delat, in zaključimo z delfini, kondomi ter kandidatom za Darwinovo nagrado."
-image:    /assets/img/335@2x.jpg
-cover:    /assets/img/cover/335 img@2x.png
-apple:    
-overcast: 
-podkite:  
-pocket:   
-google:   
-anchor:   
-listen:   
-youtube:  
-embed:    
-podfollow:  
-published:  false
-date:     2026-10-25 06:00 +0200
-tags: [Zadnja priložnost, Baiji, banke, Blade Runner, Darwinove nagrade, Fallout, finančni problemi, hvalazavseribe.si, izumrtje, kapitalizem, Kitajska, komunizem, Mark Carwardine, Milan Zver, minimalne pokojnine, podpora poslušalcev, politični konvertiti, potrošništvo, psihični problemi, reka Jangce, socializem]
+layout: 	post
+title:  	"Mladi, ne bojte se! Jezus vas ima rad. 🙏"
+number: 	"#336 aka S07E64"
+categories:	epizode
+permalink:	/336/
+tagline: 	"Zdravo. Tokrat sarkastično beremo plakat \"Mladi, ne bojte se, Jezus vas ima rad\", se dotaknemo konvertitov, moči in vpliva, nato pa skozi vesoljske tekmn ugotovimo, da smo prišli do konca poglavja."
+image:		/assets/img/336@2x.jpg
+cover:		/assets/img/cover/336 img@2x.png
+apple:		
+overcast:	
+podkite:	
+pocket:		
+google:		
+anchor:		
+listen:		
+youtube:	
+embed:		
+podfollow:	
+published:	false
+date: 		2026-11-01 06:00 +0200
+tags: [Zadnja priložnost, Amazon, Big Short, Capricorn One, finančna kriza, Jezus, kapitalizem, Katoliška cerkev, Kitajska, komunizem, konvertiti, ljubezen, monopol, obdavčitev bogatih, placebo, regulacija, strah, umetna inteligenca, vesoljska tekma, vpliv, zasebnost]
 ---
 
-Zdravo. Tokrat se najprej zataknemo pri odnosih, denarju in duševnem zdravju. Strah pred razhodom, prodaja stanovanja in spremembe po štiridesetem razkrijejo, da ljubezen včasih ni nič drugega kot pomanjkanje boljše alternative, težave pa se začnejo, če se par neha pogovarjati. Ob minimalnih pokojninah, dobičkih NLB in zaščiti socialnega sistema se vprašamo, kako se zaščititi pred lastno neumnostjo. 
+Zdravo. Tokrat začnemo pri plakatu "Mladi, ne bojte se! Jezus vas ima rad", ki ga beremo sarkastično, saj se kaj kmalu zazdi, da ponuja več vprašanj kot odgovorov. Ob tem se vrtimo okoli konvertitov, brezpogojne ljubezni, strahu in vere kot placeba, pa tudi okoli hinavščine tistih, ki najbolj glasno branijo družino in vero (omenimo Mikea Carusa na Floridi). 
 
-V 5. poglavju ekipa snema podvodno zvočno onesnaženje na reki Jangce s pomočjo kondomov, posnetek pa je kakofonija zvokov, ki je delfine zmedla kot slepce v diskoteki. Na koncu naši junaki vidijo le pliskavico brez plavuti od delfina pa ostane blagovna znamka Baiji pivo in Baiji cola. 
+Nadaljujemo z močjo in vplivom: kapitalizem, pohlep, regulacija, davki, bogati, ki si kupujejo vpliv, in politiki, ki ne znajo razložiti komunizma. Vesoljske tekme in program Apolloo, ki bi v današnjem denarju bil vreden več kot 500 milijard dolarjev. 
 
-Vmes tudi o novembru, edinem komunistu v evropskem parlamentu in kandidatu za Darwinovo nagrado.  
+Tudi: 5. poglavje zares končamo, 1000-letna jajca gor ali dol. 
 
 {% include player.html %}
 {% include poslusaj.html %}
@@ -35,9 +35,8 @@ Vmes tudi o novembru, edinem komunistu v evropskem parlamentu in kandidatu za Da
 
 #### Zapiski
  
-- 🐬 [Baiji - kitajski rečni delfin](https://en.wikipedia.org/wiki/Baiji) - sladkovodni delfin iz reke Jangce, ki ga je zvočno onesnaženje ladijskih vijakov dobesedno pahnilo v slepoto in nato v funkcionalno izumrtje. Natanko tisto, kar bi doživel slepec v diskoteki s stroboskopi 
-- 🎣 [Reka Jangce](https://sl.wikipedia.org/wiki/Jangce) - najdaljša reka v Aziji, kjer so Mark Carwardine in Douglas Adams s kondomi čez mikrofon posneli podvodno kakofonijo, ki je dokončno pokopala baijija 
-- 🇪🇺 [Milan Zver](https://sl.wikipedia.org/wiki/Milan_Zver) - "edini komunist v Evropskem parlamentu", saj so največji antikomunisti pogosto konvertiti iz prav tiste iste druščine 
-- 🏭 [Veliki pok vodnega parka v San Diegu](https://en.wikipedia.org/wiki/SeaWorld_San_Diego) - vodni park v Kaliforniji, kjer orke vsake toliko ugotovijo, da imajo poln kurac, in to pokažejo z zobmi na trenerjih
-- 🐅 [Mož skočil v tigrovo kletko](https://en.wikipedia.org/wiki/Darwin_Awards) - resen pretendent za Darwinovo nagrado 2026, ki je skočil v kletko s tigrom, mimogrede odrinil žensko z dvema otrokoma preden je neslavno končal v tigrovi kletki
-- 🏦 [Reševanje NLB in izplačila dobičkov](https://www.24ur.com/novice/gospodarstvo/racunanje-po-domace.html) - klasičen primer, kako se gremo kapitalizem, dokler je dobiček, in socializem, ko je treba pokrivati izgube, davkoplačevalci pa plačujemo za grehe nesposobnih kapitalistov  
+- 🪧 [Mladi, ne bojte se! Jezus vas ima rad.](https://www.facebook.com/photo?fbid=29253407080919868&set=pcb.29253407770919799) - plakat ACQ10, ki ga sarkastično analiziramo in se čudimo, zakaj je naslovljen samo na mlade, jih ima tudi kdo drug, poleg Jezusa rad? 
+- ⚖️ [Michael Caruso aretiran zaradi spolne zlorabe otrok](https://www.nbcmiami.com/news/local/palm-beach-clerk-of-court-michael-caruso-arrested-charges-child-sex-abuse/3847354/) - republikanski uradnik s Floride, aretiran zaradi spolne zlorabe lastnega vnuka, še en primer v nizu "družinskih vrednot", na katere se tako radi sklicujejo 
+- 💊 [Placebo učinek](https://en.wikipedia.org/wiki/Placebo) - fenomen, ki deluje, ker vanj verjameš, podobno kot pri skoku v Štoparskem vodniku, kjer ne smeš misliti, da boš padel in je predvsem pomembno zgrešiti tla 
+- 🎬 [Big Short](https://en.wikipedia.org/wiki/Big_Short)) - film o finančni krizi 2008, kjer na koncu eden od protagonistov sarkastično ugotovi, da se po polomu seveda ni spremenilo nič, krivdo pa so prevalili na migrante in podobne priročne tarče 
+- 🚀 [Capricorn One](https://en.wikipedia.org/wiki/Capricorn_One) - film iz leta 1977 o zrežirani odpravi na Mars; zaplet se zalomi, ko se izkaže, da je bila vse skupaj "le" holivudska kulisa  
